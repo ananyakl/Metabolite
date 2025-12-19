@@ -1,0 +1,6 @@
+metric,al_column,matt_column,total_rows,differing_rows,max_abs_diff,mean_abs_diff,consistency_diff_within_differing_rows,output_file
+pooled_r,Pooled r,r_pooled,480194,282,,,0,differing/pooled_r_differing.csv
+vecpac_r,VECPAC r,r_v,480194,707,,,0,differing/vecpac_r_differing.csv
+lps_r,LPS r,r_l,480194,3462,,,0,differing/lps_r_differing.csv
+dss_r,DSS r,r_d,480194,2760,,,0,differing/dss_r_differing.csv
+pooled_p,Pooled p,p_pooled,480194,282,,,0,differing/pooled_p_differing.csv
