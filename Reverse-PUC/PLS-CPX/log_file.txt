@@ -4027,3 +4027,95 @@ NODE- Phenylpropanolamine,
 LAYER-3,
 POS_VOTES- 1,
 NEG_VOTES- 0
+
+NODE- 2-Hydroxy-2-methylbutyric acid,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Arabinofuranose, 1,2,3,5-tetrakis-O-,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 4
+
+NODE- N-Isobutyrylglycine,
+LAYER-3,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Ribonic acid, 2,3,4,5-tetrakis-,
+LAYER-3,
+POS_VOTES- 2,
+NEG_VOTES- 0
+
+NODE- 2,2,8,8-Tetramethyl-3,7-dioxa-4-aza-2,8-disilanon-4-ene,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 5,6-Dihydro-5-methyluracil,
+LAYER-3,
+POS_VOTES- 1,
+NEG_VOTES- 1
+5,6-Dihydro-5-methyluracil node is removed
+
+NODE- D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- l-Histidine ethyl ester,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- 3-(2-Hydroxyethyl)imidazole-2-thione,
+LAYER-3,
+POS_VOTES- 1,
+NEG_VOTES- 1
+3-(2-Hydroxyethyl)imidazole-2-thione node is removed
+
+NODE- D-Ribose,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Hippuric acid,
+LAYER-3,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Hippuric acid node is removed
+
+NODE- 5-Cholesten-3beta, 7alpha-bis[(trimethylsilyl)oxy]- ,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- (pm)-Norketamine,
+LAYER-3,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Ammeline,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 2,5-Di-tert-butyl-4-((trimethylsilyl)oxy)phenol,
+LAYER-3,
+POS_VOTES- 1,
+NEG_VOTES- 1
+2,5-Di-tert-butyl-4-((trimethylsilyl)oxy)phenol node is removed
+SAME EDGE REMOVAL Albizziin-5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione edge is removed in layer3
+
+
+
+NODE- L-Leucine,
+LAYER-4,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Phthalazin-1-one,
+LAYER-5,
+POS_VOTES- 1,
+NEG_VOTES- 0

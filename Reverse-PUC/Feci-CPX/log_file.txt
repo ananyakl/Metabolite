@@ -3243,3 +3243,48 @@ NODE- 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine,
 LAYER-3,
 POS_VOTES- 0,
 NEG_VOTES- 1
+
+NODE- 2-Pentenedioic acid,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Pentanoic acid, 4-methyl-2-oxo-,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- 3-Hydroxypicolinic acid,
+LAYER-3,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 4-Aminobenzoic acid,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Acetoacetic acid,
+LAYER-4,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Acetohydroxamic acid,
+LAYER-4,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- L-Asparagine,
+LAYER-4,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 2-Aminoadipic acid,
+LAYER-4,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 4-Methoxyphenol,
+LAYER-4,
+POS_VOTES- 0,
+NEG_VOTES- 1
