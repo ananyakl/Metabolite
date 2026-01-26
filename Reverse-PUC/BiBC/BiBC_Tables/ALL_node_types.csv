@@ -1,2339 +1,2853 @@
-"(2,2-Dimethyl-5-[2-(2-ethoxymethoxy)propyl][1,3]dioxolan-4-yl)methanol",Feci
-"(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide",PLS
-"(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile",Feci
-"(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol",PLS
-"(9H-fluoren-9-yl)methanol, O-methoxycarbonyl-",PLS
-(CH3)2C=NC2H558,PLS
-"(R*,S*)-2,3-Dihydroxybutanoic acid",PLS
-"(S,S)-(-)-Hydrobenzoin",PLS
-(pm)-N-Propylamphetamine,PLS
-(pm)-Norketamine,PLS
-(pm)-Phenylpropanolamine,PLS
-(pm)-alpha-Tocopherol acetate,PLS
-0610040J01Rik,CPX
-"1(2H)-Naphthalenone, 3,4-dihydro-3,3,6,8-tetramethyl-",Feci
-"1,1'-Biphenyl, 3,4-diethyl-",PLS
-"1,2,2-Trimethyl-1-aza-spiro[2.3]hexane",PLS
-"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene",PLS
-"1,2,4,5-Cyclohexanetetrol",Feci
-"1,2-Benzenedicarboxylic acid",PLS
-"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-",PLS
-"1,2-Butanediol",PLS
-"1,2-Dimethoxy-4-(1-methoxyethenyl)benzene",PLS
-"1,3,5-Benzetriol",PLS
-"1,3,5-Trimethyl-1H-pyrazol-4-amine",PLS
-"1,3-Cyclohexanebis(methylamine)",PLS
-"1,3-Dioxane, 2,2-dimethyl-5-hydroxy-",Feci
-"1,3-Dioxane-4-methanol, 4,5-dimethyl-",PLS
-"1,3-bis[(Trimethylsilyl)ethynyl]benzene",PLS
-"1,4-Butanediol",Feci
-"1,4-Butanediol",PLS
-"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl",PLS
-"1,5-Anhydroglucitol",PLS
-"1,5-Anhydroglucitol",Feci
-"1,7-Dimethyl-4-(1-methylethyl)cyclodecane",Feci
-"1-(1-Hydroxybutyl)-2,5-dimethoxybenzene",PLS
-"1-(2,4-Dimethoxyphenyl)-propan-2-one",PLS
-1-(3-Methylphenyl)piperazine,PLS
-1-(4-Hydroxybenzylidene)acetone,PLS
-"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",PLS
-1-Aminocyclopropanecarboxylic acid,PLS
-"1-Butanamine, N,N-diethyl-",PLS
-"1-Cyclohexanone, 3-butyl-3-methyl-",PLS
-1-Cyclopentylethanol,PLS
-"1-Decene, 8-methyl-",PLS
-1-Deoxypentitol,PLS
-1-Dodecanol,Feci
-1-Hexacosene,Feci
-1-Hexadecanol,Feci
-1-Hexadecanol,PLS
-1-Hexanol,Feci
-1-Hexanol,PLS
-1-Hydroxy-3-methoxy-6-methylanthraquinone,PLS
-1-Methyl-4-hydroxy-1H-imidazol-2-amine,Feci
-"1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine",PLS
-1-Monoacetin,PLS
-1-Monopalmitin,Feci
-1-Octadecanol,PLS
-1-Octadecanol,Feci
-1-Octanol,PLS
-1-Octanol,Feci
-"1-Octanol, 2-butyl-",PLS
-"1-Octene, 2-methyl-",PLS
-"1-Pentene, 3,3-dimethyl-",PLS
-"1-Phenanthrenemethanol, 1,2,3,4,4a,9,10,10a-octahydro-1,4a-dimethyl-7-(1-methylethyl)-, [1R-(1alpha,4abeta,10aalpha)]-",Feci
-1-Phenethylamine,PLS
-"1-Phenyl-1,2-ethanediol",PLS
-1-Phenylethanol,PLS
-"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-",PLS
-"1-Propanamine, N,N-diethyl-",PLS
-"1-Propanamine, N,N-diethyl-",Feci
-1-Tetracosene,Feci
-1-Tetradecanol,PLS
-1-Tetradecanol,Feci
-10-Heptadecenoic acid,PLS
-10-Heptadecenoic acid,Feci
-11-Hydroxy-.DELTA.-9-tetrahydrocannabinol,Feci
-11-Methyldodecanol,Feci
+"(2,2-Dimethyl-5-[2-(2-ethoxymethoxy)propyl][1,3]dioxolan-4-yl)methanol-F",Feci
+"(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide-P",PLS
+"(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile-F",Feci
+"(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol-P",PLS
+"(9H-fluoren-9-yl)methanol, O-methoxycarbonyl--P",PLS
+(CH3)2C=NC2H558-P,PLS
+"(R*,S*)-2,3-Dihydroxybutanoic acid-P",PLS
+"(S,S)-(-)-Hydrobenzoin-P",PLS
+(pm)-N-Propylamphetamine-P,PLS
+(pm)-Norketamine-P,PLS
+(pm)-Phenylpropanolamine-P,PLS
+0610040J01Rik-C,CPX
+"1(2H)-Naphthalenone, 3,4-dihydro-3,3,6,8-tetramethyl--F",Feci
+"1,1'-Biphenyl, 3,4-diethyl--P",PLS
+"1,2,2-Trimethyl-1-aza-spiro[2.3]hexane-P",PLS
+"1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene-P",PLS
+"1,2,4,5-Cyclohexanetetrol-F",Feci
+"1,2-Benzenedicarboxylic acid-P",PLS
+"1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy--P",PLS
+"1,2-Butanediol-P",PLS
+"1,2-Dimethoxy-4-(1-methoxyethenyl)benzene-P",PLS
+"1,3,5-Benzetriol-P",PLS
+"1,3,5-Trimethyl-1H-pyrazol-4-amine-P",PLS
+"1,3-Cyclohexanebis(methylamine)-P",PLS
+"1,3-Dioxane, 2,2-dimethyl-5-hydroxy--F",Feci
+"1,3-Dioxane-4-methanol, 4,5-dimethyl--P",PLS
+"1,3-bis[(Trimethylsilyl)ethynyl]benzene-P",PLS
+"1,4-Butanediol-P",PLS
+"1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl-P",PLS
+"1,5-Anhydroglucitol-F",Feci
+"1,5-Anhydroglucitol-P",PLS
+"1,7-Dimethyl-4-(1-methylethyl)cyclodecane-F",Feci
+"1-(1-Hydroxybutyl)-2,5-dimethoxybenzene-P",PLS
+"1-(2,4-Dimethoxyphenyl)-propan-2-one-P",PLS
+1-(3-Methylphenyl)piperazine-P,PLS
+1-(4-Hydroxybenzylidene)acetone-P,PLS
+"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone-P",PLS
+1-Aminocyclopropanecarboxylic acid-P,PLS
+"1-Butanamine, N,N-diethyl--P",PLS
+"1-Cyclohexanone, 3-butyl-3-methyl--P",PLS
+1-Cyclopentylethanol-P,PLS
+"1-Decene, 8-methyl--P",PLS
+1-Deoxypentitol-P,PLS
+1-Dodecanol-F,Feci
+1-Hexacosene-F,Feci
+1-Hexadecanol-P,PLS
+1-Hexanol-F,Feci
+1-Hexanol-P,PLS
+1-Hydroxy-3-methoxy-6-methylanthraquinone-P,PLS
+1-Methyl-4-hydroxy-1H-imidazol-2-amine-F,Feci
+"1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine-P",PLS
+1-Monoacetin-P,PLS
+1-Monopalmitin-F,Feci
+1-Octadecanol-F,Feci
+1-Octadecanol-P,PLS
+"1-Octanol, 2-butyl--P",PLS
+1-Octanol-F,Feci
+1-Octanol-P,PLS
+"1-Octene, 2-methyl--P",PLS
+"1-Phenanthrenemethanol, 1,2,3,4,4a,9,10,10a-octahydro-1,4a-dimethyl-7-(1-methylethyl)-, [1R-(1alpha,4abeta,10aalpha)]--F",Feci
+1-Phenethylamine-P,PLS
+"1-Phenyl-1,2-ethanediol-P",PLS
+1-Phenylethanol-P,PLS
+"1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl--P",PLS
+"1-Propanamine, N,N-diethyl--P",PLS
+1-Tetracosene-F,Feci
+1-Tetradecanol-F,Feci
+1-Tetradecanol-P,PLS
+10-Heptadecenoic acid-F,Feci
+10-Heptadecenoic acid-P,PLS
+11-Hydroxy-.DELTA.-9-tetrahydrocannabinol-F,Feci
+11-Methyldodecanol-F,Feci
 1110004F10Rik,CPX
-12-Hydroxyoctadecanoic acid,PLS
-12-Oxooctadecanoate,Feci
-12-Oxooctadecanoate,PLS
-13-Docosenamide,PLS
-13-Docosenamide,Feci
-"15-Oxo-11Z,13E-eicosadienoic acid",PLS
-17-alpha-Hydroxypregnenolone,Feci
+1110004F10Rik-C,CPX
+12-Hydroxyoctadecanoic acid-P,PLS
+12-Oxooctadecanoate-F,Feci
+12-Oxooctadecanoate-P,PLS
+13-Docosenamide-F,Feci
+13-Docosenamide-P,PLS
+"15-Oxo-11Z,13E-eicosadienoic acid-P",PLS
+17-alpha-Hydroxypregnenolone-F,Feci
 1700018L02Rik,CPX
+1700018L02Rik-C,CPX
 1700047K16Rik,CTX
-1700125H03Rik,CPX
+1700125H03Rik-C,CPX
 1810021B22Rik,CTX
-"1H-Inden-1-one, 2,3-dihydro-7-hydroxy-3-methyl-",PLS
-"1H-Indole, 1-(trimethysilyl)-2,5-bis[(trimethylsilyl)oxy]-",PLS
-"1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)",Feci
-"1H-Pyrazole, 3,4-bis(trimethylsilyl)-",PLS
-"2',2,3,6'-Tetramethoxychalcone",Feci
-"2',2,3,6'-Tetramethoxychalcone",PLS
-2'-Deoxyribolactone,Feci
-2'-Desoxyuridine,Feci
-"2,2'-Biphenyldiol",PLS
-"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",Feci
-"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",PLS
-"2,2,8,8-Tetramethyl-3,7-dioxa-4-aza-2,8-disilanon-4-ene",PLS
-"2,2-Diallylpyrrolidine",PLS
-"2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone",Feci
-"2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone",PLS
-"2,3,4-Trihydroxybutyric acid",Feci
-"2,3,4-Trihydroxybutyric acid tetrakis",PLS
-"2,3-Butanediol",PLS
-"2,3-Butanediol",Feci
-"2,3-Dihydroxy-2-methylpropanoic acid",Feci
-"2,4-Decadienal",PLS
-"2,4-Di-tert-butylphenol",Feci
-"2,4-Diamino-6,7-dimethylpteridine",PLS
-"2,4-Imidazolidinedione, 5,5-dimethyl-",PLS
-"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)",Feci
-"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-",PLS
-"2,5-Di-tert-butyl-4-((trimethylsilyl)oxy)phenol",PLS
-"2,5-Di-tert-butyl-4-hydroxyphenol",Feci
-"2,5-Di-tert-butylhydroquinone",PLS
-"2,5-Dimethoxy-4-methylamphetamine",PLS
-"2,5-Dimethoxybenzhydrazide",Feci
-"2,5-Dimethoxybenzhydrazide",PLS
-"2,5-Dimethoxybenzonitrile",PLS
-"2,5-Dimethoxymandelic acid",PLS
-"2,5-Dimethoxymandelic acid",Feci
-"2,5-Dimethoxyphenol",PLS
-"2,5-Dimethoxyphenol",Feci
-"2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane",PLS
-"2,5-Piperazinedione, 3-benzyl-6-isopropyl-",PLS
-"2,5-Piperazinedione, 3-methyl-6-(phenylmethyl)-",PLS
-"2,5-di-tert-Butyl-1,4-benzoquinone",PLS
-"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine",PLS
-"2,6-Di-O-methyl-d-galactopyranose",Feci
-"2,6-Dimethoxybenzylamine",PLS
-"2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline",PLS
-"2-(2,5-Dimethoxy-phenyl)-propionaldehyde",PLS
-2-(Bis[2-(trimethylsilyl)oxyethyl]amino)acetic acid,PLS
-"2-(Decanoyloxy)propane-1,3-diyl dioctanoate",PLS
-"2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol",PLS
-2-Acetyl-5-chloro-3-methylbenzo(b)thiophene,PLS
-"2-Allyl-1,4-dimethoxybenzene",PLS
-"2-Allyl-1,4-dimethoxybenzene",Feci
-"2-Amino-4,6-dihydroxypyrimidine",PLS
-2-Amino-4-methylphenol,PLS
-2-Amino-4-tert-butylphenol,Feci
-2-Aminoadipic acid,Feci
-2-Aminoadipic acid,PLS
-2-Aminobutanoic acid,PLS
-2-Aminobutanoic acid,Feci
-2-Butenedioic acid,Feci
-2-Butenedioic acid,PLS
-"2-Butenoic acid, 2-hydroxy-",Feci
-"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester",Feci
-2-Ethyl-3-hydroxypropionic acid,PLS
-2-Ethylacetoacetate,Feci
-2-Ethylhexanoic acid,Feci
-"2-Furanacetaldehyde, tetrahydro-alpha",Feci
-2-Furoic acid,PLS
-"2-Heptanone, 4,6-dimethyl-",PLS
-2-Heptenoic acid,PLS
-2-Hexen-1-ol,PLS
-"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-",PLS
-2-Hydroxy-2-methylbutyric acid,PLS
-2-Hydroxy-2-methylbutyric acid,Feci
-2-Hydroxy-3-methylbutyric acid,Feci
-2-Hydroxy-3-methylbutyric acid,PLS
-2-Hydroxy-5-methoxybenzaldehyde,Feci
-2-Hydroxy-5-methoxybenzaldehyde,PLS
-2-Hydroxybutyric acid,PLS
-2-Isopropyl-5-methyl-1-heptanol,PLS
-2-Ketobutyric acid,Feci
-2-Ketoisocaproic acid,PLS
-"2-Methyl-4,6-dinitrophenol",Feci
-2-Methyl-4-pentenoic acid,PLS
-2-Methylglutaconic acid,PLS
-2-Naphthol,PLS
-2-Octanol,Feci
-2-Oxooctanoic acid,PLS
-2-Palmitoylglycerol,Feci
-2-Pentenedioic acid,Feci
-"2-Pentenedioic acid, 2-hydroxy-",Feci
-"2-Pentenedioic acid, 3-methyl-",PLS
-2-Pentenoic acid,PLS
-2-Piperidinone,Feci
-"2-Propanone, bis(1-methylethyl)hydrazone",PLS
-"2-Propenamide, 3-phenyl-N-2-propenyl-",PLS
-"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)",Feci
-2-Pyrrolidinone,Feci
-2-Pyrrolidinone,PLS
-2-tert-Butyl-4-ethylphenol,Feci
+"1H-Inden-1-one, 2,3-dihydro-7-hydroxy-3-methyl--P",PLS
+"1H-Indole, 1-(trimethysilyl)-2,5-bis[(trimethylsilyl)oxy]--P",PLS
+"1H-Indole-2-carboxylic acid, 5-ethyl-1-(trimethylsilyl)-F",Feci
+"1H-Pyrazole, 3,4-bis(trimethylsilyl)--P",PLS
+"2',2,3,6'-Tetramethoxychalcone-F",Feci
+"2',2,3,6'-Tetramethoxychalcone-P",PLS
+2'-Deoxyribolactone-F,Feci
+2'-Desoxyuridine-F,Feci
+"2,2'-Biphenyldiol-P",PLS
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate-F",Feci
+"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate-P",PLS
+"2,2,8,8-Tetramethyl-3,7-dioxa-4-aza-2,8-disilanon-4-ene-P",PLS
+"2,2-Diallylpyrrolidine-P",PLS
+"2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone-F",Feci
+"2,3,4-Trihydroxybutyric acid tetrakis-P",PLS
+"2,3,4-Trihydroxybutyric acid-F",Feci
+"2,3-Butanediol-F",Feci
+"2,3-Butanediol-P",PLS
+"2,3-Dihydroxy-2-methylpropanoic acid-F",Feci
+"2,4-Decadienal-P",PLS
+"2,4-Di-tert-butylphenol-F",Feci
+"2,4-Diamino-6,7-dimethylpteridine-P",PLS
+"2,4-Imidazolidinedione, 5,5-dimethyl--P",PLS
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)--P",PLS
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-F",Feci
+"2,5-Di-tert-butyl-4-((trimethylsilyl)oxy)phenol-P",PLS
+"2,5-Di-tert-butyl-4-hydroxyphenol-F",Feci
+"2,5-Dimethoxy-4-methylamphetamine-P",PLS
+"2,5-Dimethoxybenzhydrazide-F",Feci
+"2,5-Dimethoxybenzhydrazide-P",PLS
+"2,5-Dimethoxybenzonitrile-P",PLS
+"2,5-Dimethoxymandelic acid-F",Feci
+"2,5-Dimethoxymandelic acid-P",PLS
+"2,5-Dimethoxyphenol-F",Feci
+"2,5-Dimethoxyphenol-P",PLS
+"2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane-P",PLS
+"2,5-Piperazinedione, 3-benzyl-6-isopropyl--P",PLS
+"2,5-di-tert-Butyl-1,4-benzoquinone-P",PLS
+"2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine-P",PLS
+"2,6-Di-O-methyl-d-galactopyranose-F",Feci
+"2,6-Dimethoxybenzylamine-P",PLS
+"2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline-P",PLS
+"2-(2,5-Dimethoxy-phenyl)-propionaldehyde-P",PLS
+2-(Bis[2-(trimethylsilyl)oxyethyl]amino)acetic acid-P,PLS
+"2-(Decanoyloxy)propane-1,3-diyl dioctanoate-P",PLS
+"2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol-P",PLS
+2-Acetyl-5-chloro-3-methylbenzo(b)thiophene-P,PLS
+"2-Allyl-1,4-dimethoxybenzene-F",Feci
+"2-Allyl-1,4-dimethoxybenzene-P",PLS
+"2-Amino-4,6-dihydroxypyrimidine-P",PLS
+2-Amino-4-methylphenol-P,PLS
+2-Amino-4-tert-butylphenol-F,Feci
+2-Aminoadipic acid-F,Feci
+2-Aminoadipic acid-P,PLS
+2-Aminobutanoic acid-F,Feci
+2-Aminobutanoic acid-P,PLS
+2-Butenedioic acid-F,Feci
+2-Butenedioic acid-P,PLS
+"2-Butenoic acid, 2-hydroxy--F",Feci
+"2-Butenoic acid, 2-methyl-, 2-methyl-2-propenyl ester-F",Feci
+2-Ethyl-3-hydroxypropionic acid-P,PLS
+2-Ethylacetoacetate-F,Feci
+2-Ethylhexanoic acid-F,Feci
+"2-Furanacetaldehyde, tetrahydro-alpha-F",Feci
+2-Furoic acid-P,PLS
+"2-Heptanone, 4,6-dimethyl--P",PLS
+2-Heptenoic acid-P,PLS
+2-Hexen-1-ol-P,PLS
+"2-Hexenoic acid, 2-[(trimethylsilyl)oxy]--P",PLS
+2-Hydroxy-2-methylbutyric acid-F,Feci
+2-Hydroxy-2-methylbutyric acid-P,PLS
+2-Hydroxy-3-methylbutyric acid-F,Feci
+2-Hydroxy-3-methylbutyric acid-P,PLS
+2-Hydroxy-5-methoxybenzaldehyde-F,Feci
+2-Hydroxy-5-methoxybenzaldehyde-P,PLS
+2-Hydroxybutyric acid-P,PLS
+2-Isopropyl-5-methyl-1-heptanol-P,PLS
+2-Ketobutyric acid-F,Feci
+2-Ketoisocaproic acid-P,PLS
+"2-Methyl-4,6-dinitrophenol-F",Feci
+2-Methyl-4-pentenoic acid-P,PLS
+2-Methylglutaconic acid-P,PLS
+2-Naphthol-P,PLS
+2-Octanol-F,Feci
+2-Oxooctanoic acid-P,PLS
+2-Palmitoylglycerol-F,Feci
+"2-Pentenedioic acid, 2-hydroxy--F",Feci
+"2-Pentenedioic acid, 3-methyl--P",PLS
+2-Pentenedioic acid-F,Feci
+2-Pentenoic acid-P,PLS
+2-Piperidinone-F,Feci
+"2-Propanone, bis(1-methylethyl)hydrazone-P",PLS
+"2-Propenamide, 3-phenyl-N-2-propenyl--P",PLS
+"2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)-F",Feci
+2-Pyrrolidinone-F,Feci
+2-Pyrrolidinone-P,PLS
+2-tert-Butyl-4-ethylphenol-F,Feci
 2310014F06Rik,CPX
+2310014F06Rik-C,CPX
 2310034G01Rik,CTX
+2310057M21Rik,CTX
 2410124H12Rik,CPX
+2410124H12Rik-C,CPX
 2610020C07Rik,CPX
+2610020C07Rik-C,CPX
 2810021J22Rik,CTX
 2810021J22Rik,CPX
-3'-(Trimethylsilyl)oxy-beta-naphthoflavone,PLS
-3'-Hydroxyacetophenone,PLS
-"3,4,5-Trihydroxypentanoic acid",Feci
-"3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-",PLS
-"3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino",Feci
-"3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-",PLS
-"3,4-Dihydroxymandelic acid, ethyl ester",PLS
-"3,4-Dimethoxymandelic acid",Feci
-"3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine",PLS
-"3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine",Feci
-"3,5-Di-tert-butyl-2-trimethylsilyloxybenzaldehyde",PLS
-"3,5-Dimethyl-1,4-diallylpyrazole",PLS
-"3,5-Dimethylphenol",Feci
-"3,5-Dimethylpyrazole",PLS
-"3,5-di-tert-Butyl-4-hydroxyacetophenone",PLS
-3-(2-Hydroxyethyl)imidazole-2-thione,PLS
-"3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester",PLS
-3-(3-Hydroxyphenyl)propanoic acid,Feci
-3-Amino-2-piperidone,PLS
-3-Amino-2-piperidone,Feci
-3-Amino-5-morpholinomethyl-2-oxazolidinone,PLS
-3-Aminobenzoic acid,PLS
-3-Aminobutanoic acid,PLS
-3-Aminobutanoic acid,Feci
-3-Buten-2-one,Feci
-"3-Buten-2-one, 3-trimethylsilyloxy-",PLS
-"3-Buten-2-one, 4-(4-methoxyphenyl)-",PLS
-"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-",PLS
-3-Deoxyhexitol,Feci
-"3-Ethyl-3-methyl-pyrrolidine-2,5-dione",Feci
-3-Ethylphenol,PLS
-3-Hexenedinitrile,PLS
-3-Hexenedioic acid,Feci
-"3-Hydroxy-2,3-dihydromaltol",Feci
-"3-Hydroxy-2,3-dihydromaltol",PLS
-3-Hydroxybutyric acid,PLS
-3-Hydroxybutyric acid,Feci
-3-Hydroxyisovaleric acid,Feci
-3-Hydroxyisovaleric acid,PLS
-3-Hydroxypicolinic acid,Feci
-3-Indoleacetic acid,PLS
-3-Indolepropionic acid,PLS
-"3-Methoxyamphetamine, 4-Trimethylsilyloxy, N,N-bis(Trimethylsilyloxy)-",PLS
-3-Methoxysalicylic acid,PLS
-"3-Methyl-2-butenoic acid, tridec-2-ynyl ester",PLS
-3-Methyl-2-furoic acid,Feci
-3-Methyladenine,PLS
-"3-Methylpiperazine-2,5-dione, (R)-",PLS
-3-Methylvaleric acid,PLS
-3-Methylvaleric acid,Feci
-3-Nonen-1-ol,PLS
-3-O-methyl-beta-D-Glucopyranose,Feci
-3-Oxo-1-cyclohexene-1-carboxylic acid,Feci
-3-Pyridylcarbinol,Feci
-3-Undecene,Feci
-3-Ureidopropionic acid,PLS
-"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene",PLS
-"3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE",PLS
-"4,4,5,8-Tetramethyl-chroman-2-one",PLS
-4-(Methoxycarbonyl)phenol,PLS
-4-(Trimethylsilyoxy)-3-penten-2-one,PLS
-4-Aminobenzoic acid,Feci
-4-Coumaric acid,Feci
-4-Cumylphenol,PLS
-"4-Fluoroaniline, N-trimethylsilyl-",PLS
-4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,PLS
-4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,Feci
-4-Hydroxybenzaldehyde,Feci
-4-Hydroxybenzaldehyde,PLS
-4-Hydroxybenzeneacetic acid,Feci
-4-Hydroxybenzeneacetic acid,PLS
-4-Hydroxybenzoic acid,PLS
-4-Hydroxybenzoic acid,Feci
-4-Hydroxybutanoic acid,Feci
-4-Hydroxybutanoic acid,PLS
-4-Hydroxyphenyllactic acid,Feci
-4-Hydroxyphenyllactic acid,PLS
-4-Methoxyphenol,PLS
-4-Methoxyphenol,Feci
-4-Methyl-5-thiazoleethanol,Feci
-4-Methylvaleric acid,PLS
-4-Methylvaleric acid,Feci
-4-Pentenoic acid,Feci
-4-Pyridinol,Feci
-4-Pyridinol,PLS
-"4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol",PLS
-4-hydroxy-3-penten-2-one,Feci
-4-hydroxycyclohexylacetate,Feci
+2810021J22Rik-C,CPX
+3'-(Trimethylsilyl)oxy-beta-naphthoflavone-P,PLS
+3'-Hydroxyacetophenone-P,PLS
+"3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)--P",PLS
+"3,4,5-Trihydroxypentanoic acid-F",Feci
+"3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino--P",PLS
+"3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-F",Feci
+"3,4-Dihydroxymandelic acid, ethyl ester-P",PLS
+"3,4-Dimethoxymandelic acid-F",Feci
+"3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine-F",Feci
+"3,5-Di-tert-butyl-2-trimethylsilyloxybenzaldehyde-P",PLS
+"3,5-Dimethyl-1,4-diallylpyrazole-P",PLS
+"3,5-Dimethylphenol-F",Feci
+"3,5-Dimethylpyrazole-P",PLS
+"3,5-di-tert-Butyl-4-hydroxyacetophenone-P",PLS
+3-(2-Hydroxyethyl)imidazole-2-thione-P,PLS
+"3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester-P",PLS
+3-(3-Hydroxyphenyl)propanoic acid-F,Feci
+3-Amino-2-piperidone-F,Feci
+3-Amino-2-piperidone-P,PLS
+3-Amino-5-morpholinomethyl-2-oxazolidinone-P,PLS
+3-Aminobenzoic acid-P,PLS
+3-Aminobutanoic acid-F,Feci
+3-Aminobutanoic acid-P,PLS
+"3-Buten-2-one, 3-trimethylsilyloxy--P",PLS
+"3-Buten-2-one, 4-(4-methoxyphenyl)--P",PLS
+3-Buten-2-one-F,Feci
+"3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl--P",PLS
+3-Deoxyhexitol-F,Feci
+"3-Ethyl-3-methyl-pyrrolidine-2,5-dione-F",Feci
+3-Ethylphenol-P,PLS
+3-Hexenedinitrile-P,PLS
+3-Hexenedioic acid-F,Feci
+"3-Hydroxy-2,3-dihydromaltol-F",Feci
+"3-Hydroxy-2,3-dihydromaltol-P",PLS
+3-Hydroxybutyric acid-F,Feci
+3-Hydroxybutyric acid-P,PLS
+3-Hydroxyisovaleric acid-F,Feci
+3-Hydroxyisovaleric acid-P,PLS
+3-Hydroxypicolinic acid-F,Feci
+3-Indoleacetic acid-P,PLS
+3-Indolepropionic acid-P,PLS
+"3-Methoxyamphetamine, 4-Trimethylsilyloxy, N,N-bis(Trimethylsilyloxy)--P",PLS
+3-Methoxysalicylic acid-P,PLS
+"3-Methyl-2-butenoic acid, tridec-2-ynyl ester-P",PLS
+3-Methyl-2-furoic acid-F,Feci
+3-Methyladenine-P,PLS
+"3-Methylpiperazine-2,5-dione, (R)--P",PLS
+3-Methylvaleric acid-F,Feci
+3-Methylvaleric acid-P,PLS
+3-Nonen-1-ol-P,PLS
+3-O-methyl-beta-D-Glucopyranose-F,Feci
+3-Oxo-1-cyclohexene-1-carboxylic acid-F,Feci
+3-Pyridylcarbinol-F,Feci
+3-Undecene-F,Feci
+3-Ureidopropionic acid-P,PLS
+"3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene-P",PLS
+"3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE-P",PLS
+"4,4,5,8-Tetramethyl-chroman-2-one-P",PLS
+4-(Methoxycarbonyl)phenol-P,PLS
+4-Aminobenzoic acid-F,Feci
+4-Coumaric acid-F,Feci
+4-Cumylphenol-P,PLS
+"4-Fluoroaniline, N-trimethylsilyl--P",PLS
+4-Hydroxy-5-(hydroxymethyl)oxolan-2-one-F,Feci
+4-Hydroxy-5-(hydroxymethyl)oxolan-2-one-P,PLS
+4-Hydroxybenzaldehyde-F,Feci
+4-Hydroxybenzaldehyde-P,PLS
+4-Hydroxybenzeneacetic acid-F,Feci
+4-Hydroxybenzeneacetic acid-P,PLS
+4-Hydroxybenzoic acid-F,Feci
+4-Hydroxybenzoic acid-P,PLS
+4-Hydroxybutanoic acid-F,Feci
+4-Hydroxybutanoic acid-P,PLS
+4-Hydroxyphenyllactic acid-F,Feci
+4-Hydroxyphenyllactic acid-P,PLS
+4-Methoxyphenol-F,Feci
+4-Methoxyphenol-P,PLS
+4-Methyl-5-thiazoleethanol-F,Feci
+4-Methylvaleric acid-F,Feci
+4-Methylvaleric acid-P,PLS
+4-Pentenoic acid-F,Feci
+4-Pyridinol-F,Feci
+4-Pyridinol-P,PLS
+"4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol-P",PLS
+4-hydroxy-3-penten-2-one-F,Feci
+4-hydroxycyclohexylacetate-F,Feci
 4632415L05Rik,CPX
+4632415L05Rik-C,CPX
 4833417C18Rik,CTX
-4921504A21Rik,CPX
+4921504A21Rik-C,CPX
+4921524J17Rik,CTX
 4930412C18Rik,CPX
+4930412C18Rik-C,CPX
+4930513N10Rik,CTX
 4930556M19Rik,CPX
+4930556M19Rik-C,CPX
 4933439C10Rik,CTX
 4933439K11Rik,CPX
-"5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine",Feci
-"5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine",PLS
-"5,6-Dihydro-5-methyluracil",PLS
-"5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione",PLS
-"5,8,11-Eicosatrienoic acid",Feci
-5-(2-Aminopropyl)-2-methylphenol,PLS
-5-Aminovaleric acid,Feci
-5-Aminovaleric acid,PLS
-"5-Androsten-17alpha-methyl-3beta,17beta-diol",PLS
-"5-Androsten-17alpha-methyl-3beta,17beta-diol",Feci
-"5-Cholesten-3beta, 7alpha-bis[(trimethylsilyl)oxy]-",PLS
-5-Ethyluracil,PLS
-5-Henicosylresorcinol,PLS
-5-Hydroxy-2-methylpyridine,Feci
-5-Hydroxyhexanoic acid,PLS
-5-Hydroxymethyl-2-furoic acid,Feci
-5-Hydroxyquinoline,PLS
-5-Hydroxytryptophan,PLS
-5-Methyluridine,Feci
-5-Oxohexanoic Acid,Feci
+4933439K11Rik-C,CPX
+"5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine-F",Feci
+"5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine-P",PLS
+"5,6-Dihydro-5-methyluracil-P",PLS
+"5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione-P",PLS
+"5,8,11-Eicosatrienoic acid-F",Feci
+5-(2-Aminopropyl)-2-methylphenol-P,PLS
+5-Aminovaleric acid-F,Feci
+5-Aminovaleric acid-P,PLS
+"5-Androsten-17alpha-methyl-3beta,17beta-diol-F",Feci
+"5-Androsten-17alpha-methyl-3beta,17beta-diol-P",PLS
+"5-Cholesten-3beta, 7alpha-bis[(trimethylsilyl)oxy]--P",PLS
+5-Ethyluracil-P,PLS
+5-Henicosylresorcinol-P,PLS
+5-Hydroxy-2-methylpyridine-F,Feci
+5-Hydroxyhexanoic acid-P,PLS
+5-Hydroxymethyl-2-furoic acid-F,Feci
+5-Hydroxyquinoline-P,PLS
+5-Hydroxytryptophan-P,PLS
+5-Methyluridine-F,Feci
+5-Oxohexanoic Acid-F,Feci
+5330413P13Rik,CTX
 5730408A14Rik,CTX
-5730455P16Rik,CPX
-"5alpha-Pregnane-3,20-dione",PLS
-"6,7,4'-Trihydroxyisoflavone",PLS
-"6,8-Dioxapentadecane",PLS
-6-Hydroxyflavone-beta-D-glucoside,PLS
-6-Hydroxyhexanoic acid,Feci
-"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol",PLS
-"7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione",Feci
-"7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione",PLS
-7-(Trimethylsilyl)amino-4-methylcoumarin,PLS
-"7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin",PLS
-"7-Isoquinolinol, 1,2,3,4-tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-",PLS
-8-Hydroxy-5-(hydroxymethyl)quinoline,Feci
-"9(E),11(E)-Conjugated linoleic acid",PLS
-"9,12-Octadecadienoic acid",Feci
-"9,12-Octadecadienoic acid",PLS
-9-Hexadecenoic acid,PLS
-9-Octadecen-1-ol,Feci
-9-Octadecenamide,Feci
-9-Octadecenamide,PLS
-9-Octadecenoic acid,PLS
-9-Octadecenoic acid,Feci
-9530026P05Rik,CPX
-"9H-Fluorene, 9-methylene-",PLS
-9H-Purin-6-ol,Feci
-"9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]-",PLS
+5730409E04Rik,CTX
+5730455P16Rik-C,CPX
+"5alpha-Pregnane-3,20-dione-P",PLS
+"6,7,4'-Trihydroxyisoflavone-P",PLS
+"6,8-Dioxapentadecane-P",PLS
+6-Hydroxyflavone-beta-D-glucoside-P,PLS
+6-Hydroxyhexanoic acid-F,Feci
+6430511E19Rik,CTX
+"7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione-F",Feci
+"7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione-P",PLS
+7-(Trimethylsilyl)amino-4-methylcoumarin-P,PLS
+"7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin-P",PLS
+"7-Isoquinolinol, 1,2,3,4-tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy--P",PLS
+8-Hydroxy-5-(hydroxymethyl)quinoline-F,Feci
+"9(E),11(E)-Conjugated linoleic acid-P",PLS
+"9,12-Octadecadienoic acid-F",Feci
+"9,12-Octadecadienoic acid-P",PLS
+9-Hexadecenoic acid-P,PLS
+9-Octadecen-1-ol-F,Feci
+9-Octadecenamide-F,Feci
+9-Octadecenamide-P,PLS
+9-Octadecenoic acid-F,Feci
+9-Octadecenoic acid-P,PLS
+9330159F19Rik,CTX
+9530026P05Rik-C,CPX
+"9H-Fluorene, 9-methylene--P",PLS
+9H-Purin-6-ol-F,Feci
+"9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]--P",PLS
+A330040F15Rik,CTX
 A430018G15Rik,CTX
 A430108G06Rik,CPX
+A430108G06Rik-C,CPX
+A530041M06Rik,CTX
 A930024E05Rik,CPX
+Aard,CTX
 Aasdhppt,CPX
+Aasdhppt-C,CPX
 Aatf,CTX
 Abca4,CTX
 Abhd11,CTX
 Abitram,CPX
+Abitram-C,CPX
 Acacb,CPX
-Acad9,CPX
+Acacb-C,CPX
+Acad9-C,CPX
 Acbd4,CPX
-"Acetamide, 2,2,2-trifluoro-",PLS
-"Acetamide, N,N-diethyl-",PLS
-"Acetamide, N-(2-butyl)-N-methyl-",Feci
-"Acetic acid, bis[(trimethylsilyl)oxyl]-",PLS
-"Acetin, bis-1,3-trimethylsilyl ether",PLS
-Acetoacetic acid,Feci
-Acetoacetic acid,PLS
-"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-",PLS
-Acetohydroxamic acid,Feci
-Aceturic acid,PLS
-Aconitic acid,Feci
-Acox1,CPX
+Acbd4-C,CPX
+"Acetamide, 2,2,2-trifluoro--P",PLS
+"Acetamide, N,N-diethyl--P",PLS
+"Acetamide, N-(2-butyl)-N-methyl--F",Feci
+"Acetic acid, bis[(trimethylsilyl)oxyl]--P",PLS
+"Acetin, bis-1,3-trimethylsilyl ether-P",PLS
+Acetoacetic acid-F,Feci
+Acetoacetic acid-P,PLS
+"Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno--P",PLS
+Acetohydroxamic acid-F,Feci
+Aceturic acid-P,PLS
+Aconitic acid-F,Feci
+Acox1-C,CPX
 Acsbg3,CTX
 Actr3,CPX
+Actr3-C,CPX
 Ada,CPX
+Adam10,CTX
 Adam15,CPX
+Adam15-C,CPX
 Adamts15,CTX
 Adamtsl1,CPX
 Adck2,CPX
+Adck2-C,CPX
 Adcy9,CPX
-Adipoyl-L-carnitine,PLS
+Adcy9-C,CPX
+Adipoyl-L-carnitine-P,PLS
 Adprh,CPX
+Adprh-C,CPX
 Adsl,CTX
 Afg3l1,CPX
+Afg3l1-C,CPX
 Agbl3,CPX
+Agbl3-C,CPX
 Agk,CTX
 Agrn,CPX
+Agrn-C,CPX
 Ahcyl2,CPX
-Albizziin,PLS
-Aldh1l1,CPX
-Aldh9a1,CPX
+Ahcyl2-C,CPX
+Albizziin-P,PLS
+Aldh1l1-C,CPX
+Aldh9a1-C,CPX
+Alg5,CTX
 Alkbh1,CTX
 Alkbh6,CPX
-Alloxanic acid,PLS
-Allylescaline,PLS
+Alkbh6-C,CPX
+Alloxanic acid-P,PLS
+Allylescaline-P,PLS
 Amfr,CPX
-Ammeline,PLS
+Amfr-C,CPX
+Ammeline-P,PLS
+Ankib1,CTX
+Ankra2,CTX
 Ankrd12,CPX
+Ankrd12-C,CPX
 Ankrd16,CTX
 Ankrd9,CTX
-Ano8,CPX
-Anthranilic acid,Feci
-Aox3,CPX
+Ano8-C,CPX
+Anthranilic acid-F,Feci
+Aox3-C,CPX
 Ap2a1,CTX
-Ap2b1,CPX
+Ap2b1-C,CPX
 Ap3b1,CPX
+Ap3b1-C,CPX
 Ap3s2,CPX
-Apc2,CPX
-Aqp11,CPX
-Arabinaric acid,PLS
-Arabinitol,Feci
-"Arabino-Hexonic acid, 2-deoxy-, gamma-lactone",Feci
-"Arabinofuranose, 1,2,3,5-tetrakis",Feci
-"Arabinofuranose, 1,2,3,5-tetrakis-O-",PLS
-Arabinose,Feci
-Arachidic acid,Feci
-Arachidonic acid,PLS
+Ap3s2-C,CPX
+Apc,CTX
+Apc2-C,CPX
+Appbp2,CTX
+Appl1,CTX
+Aqp11-C,CPX
+Arabinaric acid-P,PLS
+Arabinitol-F,Feci
+"Arabino-Hexonic acid, 2-deoxy-, gamma-lactone-F",Feci
+"Arabinofuranose, 1,2,3,5-tetrakis-F",Feci
+"Arabinofuranose, 1,2,3,5-tetrakis-O--P",PLS
+Arabinose-F,Feci
+Arachidic acid-F,Feci
+Arachidonic acid-P,PLS
 Arb2a,CTX
 Arf2,CPX
-Argininosuccinic acid,Feci
+Arf2-C,CPX
+Argininosuccinic acid-F,Feci
 Arhgap15,CPX
 Arhgap19,CTX
 Arhgap5,CTX
 Arhgap5,CPX
+Arhgap5-C,CPX
 Arhgef1,CTX
 Arhgef12,CPX
+Arhgef12-C,CPX
 Arhgef26,CTX
 Arid2,CPX
+Arid2-C,CPX
 Arid4a,CPX
+Arid4a-C,CPX
 Arl1,CTX
 Arl2bp,CPX
+Arl2bp-C,CPX
 Armcx2,CPX
+Armcx2-C,CPX
+Arrdc2,CTX
 Arrdc4,CPX
-Arsenous acid,PLS
+Arrdc4-C,CPX
+Arsenous acid-P,PLS
 Art4,CPX
+Art4-C,CPX
 Asb8,CPX
+Asb8-C,CPX
 Ascc3,CTX
 Ascl4,CTX
-Ash1l,CPX
-Aspartic acid,PLS
+Ash1l-C,CPX
+Aspartic acid-P,PLS
 Asphd2,CTX
+Atad5,CTX
 Atf6b,CPX
+Atf6b-C,CPX
 Atg4d,CTX
+Atg9b,CTX
 Atn1,CPX
+Atn1-C,CPX
 Atosb,CTX
 Atp1b1,CTX
-Atp5me,CPX
+Atp5me-C,CPX
+Atp5mf,CTX
 Atp5mg,CPX
-Atp6v1f,CPX
-Atp7a,CPX
-Atrazine desethyl,PLS
-Azatadine,PLS
-Azelaic acid,Feci
-"Azetidine, 1-acetyl-2-methyl",Feci
-"Azetidine, 1-acetyl-2-methyl-",PLS
-"Aziridine, 1-(2-buten-2-yl)-",PLS
+Atp5mg-C,CPX
+Atp6v1f-C,CPX
+Atp7a-C,CPX
+Atp8a1,CTX
+Atrazine desethyl-P,PLS
+Azatadine-P,PLS
+Azelaic acid-F,Feci
+"Azetidine, 1-acetyl-2-methyl--P",PLS
+"Azetidine, 1-acetyl-2-methyl-F",Feci
+"Aziridine, 1-(2-buten-2-yl)--P",PLS
 B130034C11Rik,CPX
+B130034C11Rik-C,CPX
+B230217C12Rik,CTX
 B230219D22Rik,CPX
+B230219D22Rik-C,CPX
 B230398E01Rik,CTX
 B9d2,CTX
 Baiap2l1,CPX
-Baz1b,CPX
+Baiap2l1-C,CPX
+Baz1b-C,CPX
 Bcat1,CPX
+Bcat1-C,CPX
 Bcl2l12,CPX
-Bcl7a,CPX
+Bcl7a-C,CPX
 Bclaf1,CPX
+Bclaf1-C,CPX
 Bclaf3,CTX
 Bean1,CTX
-"Benzaldehyde, 2,5-dimethoxy",Feci
-"Benzaldehyde, 2,5-dimethyl-",PLS
-"Benzene, 1,1'-(1,2-cyclobutanediyl)bis-",PLS
-"Benzene, 1,3-bis(1,1-dimethylethyl)-",PLS
-"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-",PLS
-"Benzene, 3-cyclohexen-1-yl-",PLS
-"Benzene, 4-ethenyl-1,2-dimethoxy-",PLS
-Benzeneacetamide,PLS
-Benzeneacetic acid,PLS
-"Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]-",PLS
-"Benzenemethanamine, 2,3-dimethoxy-",PLS
-Benzenepropanoic acid,PLS
-"Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-",PLS
-"Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, methyl ester",Feci
-"Benzimidazole, 5-trifluoromethyl-2-methyl-",PLS
-"Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-",PLS
-Benzoic Acid,Feci
-Benzoic Acid,PLS
-"Benzoic acid, methyl ester",PLS
-"Benzoic acid, pentadecyl ester",PLS
-Benzoin,PLS
-Benzophenone,PLS
-Benzyl alcohol,PLS
+Bend3,CTX
+"Benzaldehyde, 2,5-dimethoxy-F",Feci
+"Benzaldehyde, 2,5-dimethyl--P",PLS
+"Benzene, 1,1'-(1,2-cyclobutanediyl)bis--P",PLS
+"Benzene, 1,3-bis(1,1-dimethylethyl)--P",PLS
+"Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)--P",PLS
+"Benzene, 3-cyclohexen-1-yl--P",PLS
+"Benzene, 4-ethenyl-1,2-dimethoxy--P",PLS
+Benzeneacetamide-P,PLS
+Benzeneacetic acid-P,PLS
+"Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]--P",PLS
+"Benzenemethanamine, 2,3-dimethoxy--P",PLS
+"Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, methyl ester-F",Feci
+"Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy--P",PLS
+Benzenepropanoic acid-P,PLS
+"Benzimidazole, 5-trifluoromethyl-2-methyl--P",PLS
+"Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza--P",PLS
+Benzoic Acid-F,Feci
+Benzoic Acid-P,PLS
+"Benzoic acid, methyl ester-P",PLS
+"Benzoic acid, pentadecyl ester-P",PLS
+Benzophenone-P,PLS
+Benzyl alcohol-P,PLS
 Bhlhe41,CPX
+Bhlhe41-C,CPX
 Bhmt2,CPX
-Birc2,CPX
-Bis(trimethylsilyl)acetylene,PLS
-Bis(trimethylsilyl)histidine,PLS
+Bhmt2-C,CPX
+Bicd1,CTX
+Birc2-C,CPX
+Bis(trimethylsilyl)acetylene-P,PLS
+Bis(trimethylsilyl)histidine-P,PLS
 Bloc1s1,CPX
-Boric acid,PLS
-Brd2,CPX
-Brd4,CPX
+Boric acid-P,PLS
+Brd2-C,CPX
+Brd4-C,CPX
 Brdt,CTX
 Brwd1,CTX
 Brwd3,CTX
 Btbd1,CTX
 Btbd2,CPX
+Btbd2-C,CPX
 Btg1,CPX
-"Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-",PLS
-Butanedioic acid,PLS
-Butanedioic acid,Feci
-"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-",PLS
-"Butanoic acid, 2-methyl-3-[(trimethylsilyl)oxy]-",PLS
-"Butanoic acid, 3,4-dihydroxy-",Feci
-Butyl Succinate,Feci
-Butyl caprylate,Feci
-Butylated Hydroxytoluene,PLS
-Butylmethylamine,PLS
-Butyrovanillone,PLS
+Btg1-C,CPX
+"Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]--P",PLS
+Butanedioic acid-F,Feci
+Butanedioic acid-P,PLS
+"Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]--P",PLS
+"Butanoic acid, 2-methyl-3-[(trimethylsilyl)oxy]--P",PLS
+"Butanoic acid, 3,4-dihydroxy--F",Feci
+Butyl Succinate-F,Feci
+Butyl caprylate-F,Feci
+Butylated Hydroxytoluene-P,PLS
+Butylmethylamine-P,PLS
 C030013C21Rik,CTX
-C130021I20Rik,CPX
+C030034I22Rik,CTX
+C130021I20Rik-C,CPX
 C130023A14Rik,CTX
 C130089K02Rik,CPX
+C130089K02Rik-C,CPX
 Cables1,CTX
 Cables2,CPX
-Cadaverine,PLS
-Caffeic acid,Feci
-Camk1d,CPX
-Campesterol,PLS
-Campesterol,Feci
-Camsap2,CPX
-Capn15,CPX
-Capn2,CPX
-"Carbonic acid, eicosyl vinyl ester",PLS
-Carfentrazone-ethyl,PLS
-Casp8,CPX
+Cables2-C,CPX
+Cadaverine-P,PLS
+Camk1d-C,CPX
+Campesterol-F,Feci
+Campesterol-P,PLS
+Camsap2-C,CPX
+Capn15-C,CPX
+Capn2-C,CPX
+"Carbonic acid, eicosyl vinyl ester-P",PLS
+Carf,CTX
+Carfentrazone-ethyl-P,PLS
+Carmil3,CTX
+Casp8-C,CPX
+Casq2,CTX
 Cast,CPX
-Cbarp,CPX
+Cast,CTX
+Cast-C,CPX
+Cbarp-C,CPX
 Cbx6,CTX
 Ccar1,CPX
-Ccdc148,CPX
+Ccar1-C,CPX
+Ccdc134,CTX
+Ccdc148-C,CPX
+Ccdc149,CTX
+Ccdc169,CTX
 Ccdc18,CPX
+Ccdc18-C,CPX
 Ccdc186,CPX
-Ccdc33,CPX
-Ccdc59,CPX
+Ccdc186-C,CPX
+Ccdc28b,CTX
+Ccdc33-C,CPX
+Ccdc59-C,CPX
 Ccdc88a,CPX
+Ccdc88a-C,CPX
 Ccdc97,CTX
 Ccnd1,CPX
+Ccnd1-C,CPX
 Ccnyl1,CTX
-Ccpg1,CPX
-Cct4,CPX
+Ccpg1-C,CPX
+Cct4-C,CPX
 Cd24a,CTX
-Cd47,CPX
-Cdc14a,CPX
+Cd47-C,CPX
+Cdc14a-C,CPX
 Cdc25c,CTX
 Cdc27,CTX
 Cdc42bpa,CTX
 Cdc73,CTX
-Cdh4,CPX
+Cdh4-C,CPX
 Cdk7,CTX
-Cdkl3,CPX
+Cdkl3-C,CPX
 Cdkn1c,CPX
-Cdr2l,CPX
-Cebpd,CPX
+Cdkn1c-C,CPX
+Cdr2l-C,CPX
 Cebpd,CTX
+Cebpd-C,CPX
 Cebpz,CPX
+Cebpz-C,CPX
+Celrr,CTX
 Cemip,CTX
-Cep290,CPX
+Cep15,CTX
+Cep290-C,CPX
+Cep350,CTX
 Cep41,CPX
+Cep41-C,CPX
 Cep57,CPX
+Cep57-C,CPX
 Cep95,CPX
-"Cephalotaxine, 3-deoxy-3,11-epoxy-, (3alpha,11alpha)-",PLS
-Cerkl,CPX
-Cerox1,CPX
-"Cetaben, N,O-bis(trimethylsilyl)-",PLS
+Cep95-C,CPX
+Cep97,CTX
+"Cephalotaxine, 3-deoxy-3,11-epoxy-, (3alpha,11alpha)--P",PLS
+Cerkl-C,CPX
+Cerox1-C,CPX
+"Cetaben, N,O-bis(trimethylsilyl)--P",PLS
 Cfap418,CTX
 Cfap46,CPX
+Cfap46-C,CPX
+Cfap69,CTX
+Cfdp1,CTX
+Cfh,CTX
+Cfp,CTX
 Chchd7,CPX
 Chi3l1,CPX
+Chic1,CTX
 Chmp4c,CPX
+Chmp4c-C,CPX
 Chmp6,CTX
-"Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate",PLS
-"Cholest-7-en-3-ol, (3beta,5alpha)-",PLS
-"Cholesta-3,5-dien-7-one",PLS
-"Cholesta-3,5-diene",PLS
-Cholesterol,PLS
-Cholesterol,Feci
-Cinnamic acid,PLS
-Cinnamic acid,Feci
-Citric acid,Feci
-Citric acid,PLS
-Clcn2,CPX
-Cldn22,CPX
+"Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate-P",PLS
+"Cholest-7-en-3-ol, (3beta,5alpha)--P",PLS
+"Cholesta-3,5-dien-7-one-P",PLS
+"Cholesta-3,5-diene-P",PLS
+Cholesterol-F,Feci
+Cholesterol-P,PLS
+Chst14,CTX
+Cinnamic acid-F,Feci
+Cinnamic acid-P,PLS
+Citric acid-F,Feci
+Citric acid-P,PLS
+Clcn2-C,CPX
+Cldn22-C,CPX
 Clec14a,CPX
+Clec14a-C,CPX
+Clip4,CTX
 Clpp,CPX
+Clpp-C,CPX
 Cltb,CPX
+Cltb-C,CPX
 Cmtm7,CTX
 Cmtm8,CPX
+Cmtm8-C,CPX
+Cmya5,CTX
 Cnih2,CPX
-Cnnm4,CPX
+Cnih2-C,CPX
+Cnnm4-C,CPX
+Cnot1,CTX
 Cntd1,CTX
-Cntn1,CPX
+Cntn1-C,CPX
+Cntnap5b,CTX
 Cog8,CPX
+Cog8-C,CPX
+Col13a1,CTX
+Col14a1,CTX
 Col25a1,CTX
-Col5a3,CPX
+Col5a3-C,CPX
 Col8a1,CPX
+Col8a1,CTX
+Col8a1-C,CPX
 Comt,CTX
-Cope,CPX
+Cope-C,CPX
 Copg1,CPX
+Copg1-C,CPX
 Cops8,CTX
+Cpxm1,CTX
 Cracr2b,CPX
+Cracr2b-C,CPX
 Cry2,CTX
-Crygn,CPX
 Crygn,CTX
+Crygn,CPX
+Crygn-C,CPX
 Csnk1a1,CPX
+Csnk1a1-C,CPX
 Csnk2b,CTX
-Cspg5,CPX
+Cspg5-C,CPX
 Csrp1,CTX
 Cstf2,CPX
+Cstf2-C,CPX
 Ctdspl2,CPX
+Ctdspl2-C,CPX
 Ctr9,CPX
+Ctr9-C,CPX
 Ctsc,CPX
+Ctsc-C,CPX
 Ctso,CTX
 Ctu1,CTX
 Cul4b,CTX
 Cul7,CPX
+Cul7-C,CPX
 Cxcl14,CTX
-Cxxc4,CPX
-Cyclo(L-prolyl-L-valine),PLS
-Cyclo(L-prolyl-L-valine),Feci
-Cyclo-(l-leucyl-l-phenylalanyl),PLS
-Cyclobutanol,PLS
-Cyclohexanecarboxylic acid,Feci
-Cyclohexanemethanol,Feci
-Cyclohexanol,PLS
-Cyclohexanol,Feci
-"Cyclohexanone, 3,3,5-trimethyl-",PLS
-"Cyclohexene, 3,3-dimethyl-1-(trimethylsilyloxy)-",PLS
-"Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy-",PLS
-"Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl",Feci
-"Cyclopentaneacetic acid, 3-oxo-2-pentyl-",PLS
-"Cyclopentanone, 2,2,4-trimethyl-",PLS
-Cytosine,Feci
+Cxxc4-C,CPX
+Cyb5d2,CTX
+Cyclo(L-prolyl-L-valine)-F,Feci
+Cyclo(L-prolyl-L-valine)-P,PLS
+Cyclo-(l-leucyl-l-phenylalanyl)-P,PLS
+Cyclobutanol-P,PLS
+Cyclohexanecarboxylic acid-F,Feci
+Cyclohexanemethanol-F,Feci
+Cyclohexanol-F,Feci
+Cyclohexanol-P,PLS
+"Cyclohexanone, 3,3,5-trimethyl--P",PLS
+"Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy--P",PLS
+"Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl-F",Feci
+"Cyclopentaneacetic acid, 3-oxo-2-pentyl--P",PLS
+"Cyclopentanone, 2,2,4-trimethyl--P",PLS
+Cyria,CTX
+Cytosine-F,Feci
 Cyyr1,CPX
-D-(+)-Galactopyranose,Feci
-D-(+)-Glucosamine,Feci
-"D-(+)-Ribono-1,4-lactone",Feci
-"D-(+)-Ribono-1,4-lactone (R,S,R)-",PLS
-D-(+)-Talofuranose,Feci
-"D-(+)-Talofuranose, pentakis",PLS
-D-(-)-Citramalic acid,PLS
-D-(-)-Fructofuranose,Feci
-"D-(-)-Fructofuranose, pentakis",PLS
-D-(-)-Fructopyranose,Feci
-"D-(-)-Lyxose, tetrakis",PLS
-D-(-)-Ribofuranose,Feci
-"D-(-)-Ribofuranose, tetrakis",PLS
-D-Allofuranose,Feci
-D-Arabinose,PLS
-D-Arabinose,Feci
-"D-Erythro-Pentitol, 2-deoxy-",Feci
-"D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-",PLS
-"D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-posphate",Feci
-D-Fructose,PLS
-D-Fructose,Feci
-D-Fucitol,Feci
-D-Fucitol,PLS
-D-Glucose,Feci
-"D-Isoleucine, N-acetyl-",PLS
-D-Leucylglycylglycine,PLS
-D-Mannopyranose,Feci
-D-Mannose,Feci
-D-Mannose,PLS
-D-Ornithine,PLS
-D-Proline,PLS
-D-Psicofuranose,Feci
-"D-Psicofuranose, pentakis",PLS
-D-Ribofuranose,Feci
-D-Ribose,Feci
-D-Ribose,PLS
-D-Threitol,PLS
-"D-Xylofuranose, 1,2,3,5-tetrakis-O-",PLS
-D-Xylose,Feci
+Cyyr1-C,CPX
+D-(+)-Galactopyranose-F,Feci
+D-(+)-Glucosamine-F,Feci
+"D-(+)-Ribono-1,4-lactone (R,S,R)--P",PLS
+"D-(+)-Ribono-1,4-lactone-F",Feci
+"D-(+)-Talofuranose, pentakis-P",PLS
+D-(+)-Talofuranose-F,Feci
+D-(-)-Citramalic acid-P,PLS
+"D-(-)-Fructofuranose, pentakis-P",PLS
+D-(-)-Fructofuranose-F,Feci
+D-(-)-Fructopyranose-F,Feci
+"D-(-)-Lyxose, tetrakis-P",PLS
+"D-(-)-Ribofuranose, tetrakis-P",PLS
+D-(-)-Ribofuranose-F,Feci
+D-Allofuranose-F,Feci
+D-Arabinose-F,Feci
+D-Arabinose-P,PLS
+"D-Erythro-Pentitol, 2-deoxy--F",Feci
+"D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O--P",PLS
+"D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-posphate-F",Feci
+D-Fructose-F,Feci
+D-Fructose-P,PLS
+D-Fucitol-F,Feci
+D-Glucose-F,Feci
+"D-Isoleucine, N-acetyl--P",PLS
+D-Leucylglycylglycine-P,PLS
+D-Mannopyranose-F,Feci
+D-Mannose-P,PLS
+D-Proline-P,PLS
+"D-Psicofuranose, pentakis-P",PLS
+D-Psicofuranose-F,Feci
+D-Ribose-F,Feci
+D-Ribose-P,PLS
+D-Threitol-P,PLS
+"D-Xylofuranose, 1,2,3,5-tetrakis-O--P",PLS
+D-Xylose-F,Feci
 D030028A08Rik,CTX
 D630023F18Rik,CTX
 D630036H23Rik,CPX
-DL-Glyceraldehyde,PLS
-DL-Ornithine,PLS
-DL-Phenylalanine,Feci
-DL-Phenylalanine,PLS
-"DL-Proline, 5-oxo-",PLS
+D630036H23Rik-C,CPX
+DL-Glyceraldehyde-P,PLS
+DL-Ornithine-P,PLS
+DL-Phenylalanine-F,Feci
+DL-Phenylalanine-P,PLS
+"DL-Proline, 5-oxo--P",PLS
 Dalrd3,CTX
 Dap3,CPX
 Dap3,CTX
+Dap3-C,CPX
 Dbndd1,CPX
-Dbpht2,CPX
-Dcaf12l1,CPX
+Dbndd1-C,CPX
+Dbpht2-C,CPX
+Dcaf12l1-C,CPX
 Dcp2,CTX
 Dctn2,CPX
+Dctn2-C,CPX
 Dctpp1,CTX
 Dcxr,CPX
+Dcxr-C,CPX
 Ddb1,CPX
-Ddit4,CPX
+Ddb1-C,CPX
+Ddhd1,CTX
+Ddit4-C,CPX
 Ddt,CTX
 Ddx6,CTX
-Decanoic acid,Feci
-Decanoic acid,PLS
-Decyl oleate,Feci
-Dehydroabietic acid,Feci
-Dehydronorketamine,PLS
+Decanoic acid-F,Feci
+Decanoic acid-P,PLS
+Decyl oleate-F,Feci
+Dehydroabietic acid-F,Feci
+Dehydronorketamine-P,PLS
 Dek,CPX
-Delorazepam,PLS
-Dennd2c,CPX
-Deoxycholic Acid,PLS
-Deoxycholic Acid,Feci
-Deoxyglucose,Feci
-Deoxyribopyranose,Feci
-Desmethylverapamil,Feci
-Desmosterol,PLS
+Dek-C,CPX
+Delorazepam-P,PLS
+Dennd2c-C,CPX
+Deoxycholic Acid-F,Feci
+Deoxycholic Acid-P,PLS
+Deoxyglucose-F,Feci
+Deoxyribopyranose-F,Feci
+Desmethylverapamil-F,Feci
+Desmosterol-P,PLS
+Dgkeos,CTX
+Dgkh,CTX
 Dhtkd1,CTX
 Dhx29,CPX
+Dhx29-C,CPX
 Dhx36,CPX
+Dhx36-C,CPX
 Dhx9,CPX
-Dicyclohexylamine,PLS
-Dihydrouracil,Feci
-Dihydrouracil,PLS
-Dihydroxyacetone,Feci
-Dimethyl fumarate,PLS
-"Dimethyl hexopyranosiduronate, alpha-D",Feci
-"Dimethyl hexopyranosiduronate, alpha-D-",PLS
-Dinoseb,PLS
-Diphenyl ether,PLS
+Dhx9-C,CPX
+Dicyclohexylamine-P,PLS
+Dihydrouracil-F,Feci
+Dihydrouracil-P,PLS
+Dihydroxyacetone-F,Feci
+Dimethyl fumarate-P,PLS
+"Dimethyl hexopyranosiduronate, alpha-D--P",PLS
+"Dimethyl hexopyranosiduronate, alpha-D-F",Feci
+Dinoseb-P,PLS
+Diphenyl ether-P,PLS
 Dipk1a,CPX
+Dipk1a-C,CPX
 Dipk1b,CTX
 Dlg3,CTX
 Dlg4,CPX
-Dlgap4,CPX
+Dlg4-C,CPX
+Dlgap4-C,CPX
+Dmtf1,CTX
+Dmxl1,CTX
 Dnajb6,CTX
 Dnajc13,CPX
+Dnajc13-C,CPX
 Dnajc21,CPX
-Dnajc7,CPX
+Dnajc21-C,CPX
+Dnajc7-C,CPX
+Dnajc8,CTX
 Dnase1l1,CPX
+Dnase1l1-C,CPX
 Dnmt3a,CTX
-Dobutamine,PLS
+Dobutamine-P,PLS
 Dock10,CPX
-Doconexent,PLS
-Docosyl octyl ether,PLS
-Dodecanamide,Feci
-"Dodecanamide, N-(2-hydroxyethyl)-",PLS
-"Dodecane, 4,6-dimethyl-",PLS
-Dodecanoic acid,PLS
-Dodecanoic acid,Feci
-"Dodecanoic acid, 1-methylethyl ester",PLS
-Dodecylcyclohexane,PLS
+Dock10,CTX
+Dock10-C,CPX
+Dock6,CTX
+Doconexent-P,PLS
+Docosyl octyl ether-P,PLS
+"Dodecanamide, N-(2-hydroxyethyl)--P",PLS
+Dodecanamide-F,Feci
+"Dodecane, 4,6-dimethyl--P",PLS
+"Dodecanoic acid, 1-methylethyl ester-P",PLS
+Dodecanoic acid-F,Feci
+Dodecylcyclohexane-P,PLS
 Dok1,CPX
-Dopamine,PLS
+Dok1-C,CPX
+Dopamine-P,PLS
 Dpysl4,CPX
+Dpysl4-C,CPX
 Dqx1,CTX
 Dr1,CPX
+Dr1-C,CPX
+Drap1,CTX
 Drc3,CPX
+Drc3-C,CPX
 Dstn,CPX
-Dusp1,CPX
+Dstn-C,CPX
+Dus4l,CTX
+Dusp1-C,CPX
+Dusp11,CTX
 Dync1h1,CPX
+Dync1h1-C,CPX
 Dync2li1,CPX
-Dynll1,CPX
+Dync2li1-C,CPX
+Dynll1-C,CPX
+Dynlt1a,CTX
 Dynlt2b,CPX
+Dynlt2b-C,CPX
+Dzip1l,CTX
 E230020A03Rik,CTX
-E2f2,CPX
+E2f2-C,CPX
 E2f3,CTX
-ENSMUSG00000001054,CPX
-ENSMUSG00000001687,CPX
-ENSMUSG00000001964,CPX
-ENSMUSG00000002324,CPX
-ENSMUSG00000002660,CPX
-ENSMUSG00000003190,CPX
-ENSMUSG00000003949,CPX
-ENSMUSG00000004040,CPX
-ENSMUSG00000004098,CPX
-ENSMUSG00000004263,CPX
-ENSMUSG00000004285,CPX
-ENSMUSG00000004895,CPX
-ENSMUSG00000005510,CPX
-ENSMUSG00000005514,CPX
-ENSMUSG00000005580,CPX
-ENSMUSG00000005699,CPX
-ENSMUSG00000006005,CPX
-ENSMUSG00000006476,CPX
-ENSMUSG00000006777,CPX
-ENSMUSG00000007892,CPX
-ENSMUSG00000008140,CPX
-ENSMUSG00000008348,CPX
-ENSMUSG00000008690,CPX
-ENSMUSG00000010607,CPX
-ENSMUSG00000011831,CPX
-ENSMUSG00000012422,CPX
-ENSMUSG00000013858,CPX
-ENSMUSG00000014075,CPX
-ENSMUSG00000014195,CPX
-ENSMUSG00000014603,CPX
-ENSMUSG00000014846,CPX
-ENSMUSG00000015461,CPX
-ENSMUSG00000015748,CPX
-ENSMUSG00000015839,CPX
-ENSMUSG00000015932,CPX
-ENSMUSG00000015970,CPX
-ENSMUSG00000016018,CPX
-ENSMUSG00000016487,CPX
-ENSMUSG00000016495,CPX
-ENSMUSG00000017221,CPX
-ENSMUSG00000017286,CPX
-ENSMUSG00000017314,CPX
-ENSMUSG00000017405,CPX
-ENSMUSG00000017670,CPX
-ENSMUSG00000017697,CPX
-ENSMUSG00000018293,CPX
-ENSMUSG00000018707,CPX
-ENSMUSG00000019088,CPX
-ENSMUSG00000019173,CPX
-ENSMUSG00000019647,CPX
-ENSMUSG00000019907,CPX
-ENSMUSG00000020135,CPX
-ENSMUSG00000020235,CPX
-ENSMUSG00000020297,CPX
-ENSMUSG00000020308,CPX
-ENSMUSG00000020491,CPX
-ENSMUSG00000020546,CPX
-ENSMUSG00000020553,CPX
-ENSMUSG00000020752,CPX
-ENSMUSG00000020886,CPX
-ENSMUSG00000021000,CPX
-ENSMUSG00000021215,CPX
-ENSMUSG00000021243,CPX
-ENSMUSG00000021254,CPX
-ENSMUSG00000021585,CPX
-ENSMUSG00000021676,CPX
-ENSMUSG00000021686,CPX
-ENSMUSG00000021709,CPX
-ENSMUSG00000021929,CPX
-ENSMUSG00000021957,CPX
-ENSMUSG00000021990,CPX
-ENSMUSG00000022023,CPX
-ENSMUSG00000022177,CPX
-ENSMUSG00000022199,CPX
-ENSMUSG00000022246,CPX
-ENSMUSG00000022312,CPX
-ENSMUSG00000022426,CPX
-ENSMUSG00000022427,CPX
-ENSMUSG00000022568,CPX
-ENSMUSG00000022711,CPX
-ENSMUSG00000022781,CPX
-ENSMUSG00000022843,CPX
-ENSMUSG00000023046,CPX
-ENSMUSG00000023236,CPX
-ENSMUSG00000023967,CPX
-ENSMUSG00000024098,CPX
-ENSMUSG00000024150,CPX
-ENSMUSG00000024151,CPX
-ENSMUSG00000024168,CPX
-ENSMUSG00000024170,CPX
-ENSMUSG00000024191,CPX
-ENSMUSG00000024335,CPX
-ENSMUSG00000024472,CPX
-ENSMUSG00000024576,CPX
-ENSMUSG00000024687,CPX
-ENSMUSG00000024740,CPX
-ENSMUSG00000024772,CPX
-ENSMUSG00000024800,CPX
-ENSMUSG00000024941,CPX
-ENSMUSG00000024947,CPX
-ENSMUSG00000024975,CPX
-ENSMUSG00000024976,CPX
-ENSMUSG00000025016,CPX
-ENSMUSG00000025060,CPX
-ENSMUSG00000025231,CPX
-ENSMUSG00000025410,CPX
-ENSMUSG00000025437,CPX
-ENSMUSG00000025474,CPX
-ENSMUSG00000025505,CPX
-ENSMUSG00000026096,CPX
-ENSMUSG00000026273,CPX
-ENSMUSG00000026341,CPX
-ENSMUSG00000026483,CPX
-ENSMUSG00000026509,CPX
-ENSMUSG00000026520,CPX
-ENSMUSG00000026527,CPX
-ENSMUSG00000026563,CPX
-ENSMUSG00000026623,CPX
-ENSMUSG00000026784,CPX
-ENSMUSG00000026803,CPX
-ENSMUSG00000026820,CPX
-ENSMUSG00000027349,CPX
-ENSMUSG00000027374,CPX
-ENSMUSG00000027523,CPX
-ENSMUSG00000027598,CPX
-ENSMUSG00000027646,CPX
-ENSMUSG00000027782,CPX
-ENSMUSG00000027860,CPX
-ENSMUSG00000028030,CPX
-ENSMUSG00000028041,CPX
-ENSMUSG00000028051,CPX
-ENSMUSG00000028133,CPX
-ENSMUSG00000028273,CPX
-ENSMUSG00000028383,CPX
-ENSMUSG00000028655,CPX
-ENSMUSG00000028700,CPX
-ENSMUSG00000028811,CPX
-ENSMUSG00000029198,CPX
-ENSMUSG00000029265,CPX
-ENSMUSG00000029438,CPX
-ENSMUSG00000029550,CPX
-ENSMUSG00000029551,CPX
-ENSMUSG00000029623,CPX
-ENSMUSG00000029772,CPX
-ENSMUSG00000029790,CPX
-ENSMUSG00000029840,CPX
-ENSMUSG00000029878,CPX
-ENSMUSG00000030016,CPX
-ENSMUSG00000030058,CPX
-ENSMUSG00000030060,CPX
-ENSMUSG00000030216,CPX
-ENSMUSG00000030256,CPX
-ENSMUSG00000030265,CPX
-ENSMUSG00000030268,CPX
-ENSMUSG00000030286,CPX
-ENSMUSG00000030304,CPX
-ENSMUSG00000030352,CPX
-ENSMUSG00000030403,CPX
-ENSMUSG00000030557,CPX
-ENSMUSG00000030560,CPX
-ENSMUSG00000030591,CPX
-ENSMUSG00000030605,CPX
-ENSMUSG00000030616,CPX
-ENSMUSG00000030663,CPX
-ENSMUSG00000030697,CPX
-ENSMUSG00000030703,CPX
-ENSMUSG00000030782,CPX
-ENSMUSG00000030862,CPX
-ENSMUSG00000030879,CPX
-ENSMUSG00000031027,CPX
-ENSMUSG00000031079,CPX
-ENSMUSG00000031246,CPX
-ENSMUSG00000031451,CPX
-ENSMUSG00000031479,CPX
-ENSMUSG00000031489,CPX
-ENSMUSG00000031511,CPX
-ENSMUSG00000031513,CPX
-ENSMUSG00000031583,CPX
-ENSMUSG00000031590,CPX
-ENSMUSG00000031617,CPX
-ENSMUSG00000031657,CPX
-ENSMUSG00000031715,CPX
-ENSMUSG00000031751,CPX
-ENSMUSG00000031864,CPX
-ENSMUSG00000031918,CPX
-ENSMUSG00000031922,CPX
-ENSMUSG00000031967,CPX
-ENSMUSG00000032018,CPX
-ENSMUSG00000032172,CPX
-ENSMUSG00000032216,CPX
-ENSMUSG00000032238,CPX
-ENSMUSG00000032261,CPX
-ENSMUSG00000032288,CPX
-ENSMUSG00000032306,CPX
-ENSMUSG00000032372,CPX
-ENSMUSG00000032560,CPX
-ENSMUSG00000032615,CPX
-ENSMUSG00000032633,CPX
-ENSMUSG00000032641,CPX
-ENSMUSG00000032763,CPX
-ENSMUSG00000033021,CPX
-ENSMUSG00000033047,CPX
-ENSMUSG00000033453,CPX
-ENSMUSG00000033487,CPX
-ENSMUSG00000033792,CPX
-ENSMUSG00000033948,CPX
-ENSMUSG00000034349,CPX
-ENSMUSG00000034377,CPX
-ENSMUSG00000034584,CPX
-ENSMUSG00000034647,CPX
-ENSMUSG00000034768,CPX
-ENSMUSG00000034786,CPX
-ENSMUSG00000034863,CPX
-ENSMUSG00000034930,CPX
-ENSMUSG00000034957,CPX
-ENSMUSG00000035133,CPX
-ENSMUSG00000035293,CPX
-ENSMUSG00000035505,CPX
-ENSMUSG00000035934,CPX
-ENSMUSG00000035941,CPX
-ENSMUSG00000036501,CPX
-ENSMUSG00000036613,CPX
-ENSMUSG00000036718,CPX
-ENSMUSG00000036815,CPX
-ENSMUSG00000037012,CPX
-ENSMUSG00000037408,CPX
-ENSMUSG00000037646,CPX
-ENSMUSG00000037716,CPX
-ENSMUSG00000038064,CPX
-ENSMUSG00000038084,CPX
-ENSMUSG00000038135,CPX
-ENSMUSG00000038324,CPX
-ENSMUSG00000038390,CPX
-ENSMUSG00000038545,CPX
-ENSMUSG00000038555,CPX
-ENSMUSG00000038717,CPX
-ENSMUSG00000038827,CPX
-ENSMUSG00000038884,CPX
-ENSMUSG00000038990,CPX
-ENSMUSG00000039000,CPX
-ENSMUSG00000039145,CPX
-ENSMUSG00000039157,CPX
-ENSMUSG00000039194,CPX
-ENSMUSG00000039253,CPX
-ENSMUSG00000039323,CPX
-ENSMUSG00000039450,CPX
-ENSMUSG00000039813,CPX
-ENSMUSG00000039883,CPX
-ENSMUSG00000039959,CPX
-ENSMUSG00000040158,CPX
-ENSMUSG00000040167,CPX
-ENSMUSG00000040612,CPX
-ENSMUSG00000040661,CPX
-ENSMUSG00000041012,CPX
-ENSMUSG00000041134,CPX
-ENSMUSG00000041408,CPX
-ENSMUSG00000041491,CPX
-ENSMUSG00000041642,CPX
-ENSMUSG00000041649,CPX
-ENSMUSG00000041685,CPX
-ENSMUSG00000041720,CPX
-ENSMUSG00000041841,CPX
-ENSMUSG00000042010,CPX
-ENSMUSG00000042129,CPX
-ENSMUSG00000042426,CPX
-ENSMUSG00000042506,CPX
-ENSMUSG00000042594,CPX
-ENSMUSG00000042626,CPX
-ENSMUSG00000042659,CPX
-ENSMUSG00000042686,CPX
-ENSMUSG00000042699,CPX
-ENSMUSG00000042745,CPX
-ENSMUSG00000042797,CPX
-ENSMUSG00000043263,CPX
-ENSMUSG00000043411,CPX
-ENSMUSG00000043614,CPX
-ENSMUSG00000044224,CPX
-ENSMUSG00000044296,CPX
-ENSMUSG00000045284,CPX
-ENSMUSG00000045817,CPX
-ENSMUSG00000045930,CPX
-ENSMUSG00000046157,CPX
-ENSMUSG00000046351,CPX
-ENSMUSG00000046711,CPX
-ENSMUSG00000046714,CPX
-ENSMUSG00000046806,CPX
-ENSMUSG00000046807,CPX
-ENSMUSG00000046947,CPX
-ENSMUSG00000047141,CPX
-ENSMUSG00000048175,CPX
-ENSMUSG00000048330,CPX
-ENSMUSG00000048612,CPX
-ENSMUSG00000049097,CPX
-ENSMUSG00000049287,CPX
-ENSMUSG00000049295,CPX
-ENSMUSG00000049739,CPX
-ENSMUSG00000049744,CPX
-ENSMUSG00000050321,CPX
-ENSMUSG00000050822,CPX
-ENSMUSG00000051043,CPX
-ENSMUSG00000051074,CPX
-ENSMUSG00000051224,CPX
-ENSMUSG00000051285,CPX
-ENSMUSG00000051297,CPX
-ENSMUSG00000051510,CPX
-ENSMUSG00000052534,CPX
-ENSMUSG00000052584,CPX
-ENSMUSG00000052751,CPX
-ENSMUSG00000052951,CPX
-ENSMUSG00000053746,CPX
-ENSMUSG00000053749,CPX
-ENSMUSG00000054484,CPX
-ENSMUSG00000055044,CPX
-ENSMUSG00000055447,CPX
-ENSMUSG00000055681,CPX
-ENSMUSG00000056054,CPX
-ENSMUSG00000056735,CPX
-ENSMUSG00000056952,CPX
-ENSMUSG00000057181,CPX
-ENSMUSG00000057738,CPX
-ENSMUSG00000058351,CPX
-ENSMUSG00000058420,CPX
-ENSMUSG00000058756,CPX
-ENSMUSG00000059495,CPX
-ENSMUSG00000060512,CPX
-ENSMUSG00000061533,CPX
-ENSMUSG00000061689,CPX
-ENSMUSG00000061718,CPX
-ENSMUSG00000061838,CPX
-ENSMUSG00000062040,CPX
-ENSMUSG00000062044,CPX
-ENSMUSG00000063894,CPX
-ENSMUSG00000064246,CPX
-ENSMUSG00000064294,CPX
-ENSMUSG00000064338,CPX
-ENSMUSG00000064340,CPX
-ENSMUSG00000064345,CPX
-ENSMUSG00000065799,CPX
-ENSMUSG00000066057,CPX
-ENSMUSG00000066113,CPX
-ENSMUSG00000066595,CPX
-ENSMUSG00000067148,CPX
-ENSMUSG00000067928,CPX
-ENSMUSG00000068196,CPX
-ENSMUSG00000068284,CPX
-ENSMUSG00000068762,CPX
-ENSMUSG00000069631,CPX
-ENSMUSG00000070348,CPX
-ENSMUSG00000070527,CPX
-ENSMUSG00000070643,CPX
-ENSMUSG00000070858,CPX
-ENSMUSG00000071072,CPX
-ENSMUSG00000071637,CPX
-ENSMUSG00000072662,CPX
-ENSMUSG00000072763,CPX
-ENSMUSG00000077767,CPX
-ENSMUSG00000078201,CPX
-ENSMUSG00000078485,CPX
-ENSMUSG00000083899,CPX
-ENSMUSG00000085890,CPX
-ENSMUSG00000085945,CPX
-ENSMUSG00000086825,CPX
-ENSMUSG00000087083,CPX
-ENSMUSG00000087368,CPX
-ENSMUSG00000090877,CPX
-ENSMUSG00000091183,CPX
-ENSMUSG00000091475,CPX
-ENSMUSG00000094002,CPX
-ENSMUSG00000096971,CPX
-ENSMUSG00000097462,CPX
-ENSMUSG00000098098,CPX
-ENSMUSG00000098113,CPX
-ENSMUSG00000099689,CPX
-ENSMUSG00000101059,CPX
-ENSMUSG00000102142,CPX
-ENSMUSG00000102664,CPX
-ENSMUSG00000103731,CPX
-ENSMUSG00000104682,CPX
-ENSMUSG00000105302,CPX
-ENSMUSG00000105382,CPX
-ENSMUSG00000105607,CPX
-ENSMUSG00000105729,CPX
-ENSMUSG00000106365,CPX
-Ecgonine,PLS
+ENSMUSG00000001054-C,CPX
+ENSMUSG00000001687-C,CPX
+ENSMUSG00000001964-C,CPX
+ENSMUSG00000002324-C,CPX
+ENSMUSG00000002660-C,CPX
+ENSMUSG00000003949-C,CPX
+ENSMUSG00000004040-C,CPX
+ENSMUSG00000004098-C,CPX
+ENSMUSG00000004285-C,CPX
+ENSMUSG00000005510-C,CPX
+ENSMUSG00000005514-C,CPX
+ENSMUSG00000005580-C,CPX
+ENSMUSG00000005699-C,CPX
+ENSMUSG00000006005-C,CPX
+ENSMUSG00000006476-C,CPX
+ENSMUSG00000007892-C,CPX
+ENSMUSG00000008140-C,CPX
+ENSMUSG00000008348-C,CPX
+ENSMUSG00000008690-C,CPX
+ENSMUSG00000010607-C,CPX
+ENSMUSG00000011831-C,CPX
+ENSMUSG00000012422-C,CPX
+ENSMUSG00000013858-C,CPX
+ENSMUSG00000014075-C,CPX
+ENSMUSG00000014195-C,CPX
+ENSMUSG00000014846-C,CPX
+ENSMUSG00000015461-C,CPX
+ENSMUSG00000015748-C,CPX
+ENSMUSG00000015839-C,CPX
+ENSMUSG00000015932-C,CPX
+ENSMUSG00000015970-C,CPX
+ENSMUSG00000016018-C,CPX
+ENSMUSG00000016487-C,CPX
+ENSMUSG00000017221-C,CPX
+ENSMUSG00000017286-C,CPX
+ENSMUSG00000017405-C,CPX
+ENSMUSG00000017697-C,CPX
+ENSMUSG00000018293-C,CPX
+ENSMUSG00000018707-C,CPX
+ENSMUSG00000019173-C,CPX
+ENSMUSG00000019907-C,CPX
+ENSMUSG00000020135-C,CPX
+ENSMUSG00000020235-C,CPX
+ENSMUSG00000020491-C,CPX
+ENSMUSG00000020546-C,CPX
+ENSMUSG00000020886-C,CPX
+ENSMUSG00000021000-C,CPX
+ENSMUSG00000021215-C,CPX
+ENSMUSG00000021243-C,CPX
+ENSMUSG00000021585-C,CPX
+ENSMUSG00000021676-C,CPX
+ENSMUSG00000021686-C,CPX
+ENSMUSG00000021709-C,CPX
+ENSMUSG00000021957-C,CPX
+ENSMUSG00000021990-C,CPX
+ENSMUSG00000022023-C,CPX
+ENSMUSG00000022177-C,CPX
+ENSMUSG00000022246-C,CPX
+ENSMUSG00000022312-C,CPX
+ENSMUSG00000022426-C,CPX
+ENSMUSG00000022568-C,CPX
+ENSMUSG00000022711-C,CPX
+ENSMUSG00000022781-C,CPX
+ENSMUSG00000022843-C,CPX
+ENSMUSG00000023046-C,CPX
+ENSMUSG00000023967-C,CPX
+ENSMUSG00000024098-C,CPX
+ENSMUSG00000024150-C,CPX
+ENSMUSG00000024151-C,CPX
+ENSMUSG00000024168-C,CPX
+ENSMUSG00000024170-C,CPX
+ENSMUSG00000024191-C,CPX
+ENSMUSG00000024335-C,CPX
+ENSMUSG00000024472-C,CPX
+ENSMUSG00000024576-C,CPX
+ENSMUSG00000024687-C,CPX
+ENSMUSG00000024740-C,CPX
+ENSMUSG00000024772-C,CPX
+ENSMUSG00000024800-C,CPX
+ENSMUSG00000024941-C,CPX
+ENSMUSG00000024947-C,CPX
+ENSMUSG00000024975-C,CPX
+ENSMUSG00000024976-C,CPX
+ENSMUSG00000025016-C,CPX
+ENSMUSG00000025060-C,CPX
+ENSMUSG00000025231-C,CPX
+ENSMUSG00000025410-C,CPX
+ENSMUSG00000025474-C,CPX
+ENSMUSG00000025505-C,CPX
+ENSMUSG00000026096-C,CPX
+ENSMUSG00000026483-C,CPX
+ENSMUSG00000026520-C,CPX
+ENSMUSG00000026527-C,CPX
+ENSMUSG00000026563-C,CPX
+ENSMUSG00000026623-C,CPX
+ENSMUSG00000026784-C,CPX
+ENSMUSG00000026803-C,CPX
+ENSMUSG00000027374-C,CPX
+ENSMUSG00000027523-C,CPX
+ENSMUSG00000027598-C,CPX
+ENSMUSG00000027646-C,CPX
+ENSMUSG00000027782-C,CPX
+ENSMUSG00000027860-C,CPX
+ENSMUSG00000028041-C,CPX
+ENSMUSG00000028051-C,CPX
+ENSMUSG00000028273-C,CPX
+ENSMUSG00000028383-C,CPX
+ENSMUSG00000028655-C,CPX
+ENSMUSG00000028700-C,CPX
+ENSMUSG00000029198-C,CPX
+ENSMUSG00000029265-C,CPX
+ENSMUSG00000029438-C,CPX
+ENSMUSG00000029550-C,CPX
+ENSMUSG00000029551-C,CPX
+ENSMUSG00000029623-C,CPX
+ENSMUSG00000029772-C,CPX
+ENSMUSG00000029790-C,CPX
+ENSMUSG00000030016-C,CPX
+ENSMUSG00000030060-C,CPX
+ENSMUSG00000030216-C,CPX
+ENSMUSG00000030256-C,CPX
+ENSMUSG00000030268-C,CPX
+ENSMUSG00000030286-C,CPX
+ENSMUSG00000030304-C,CPX
+ENSMUSG00000030352-C,CPX
+ENSMUSG00000030557-C,CPX
+ENSMUSG00000030591-C,CPX
+ENSMUSG00000030605-C,CPX
+ENSMUSG00000030616-C,CPX
+ENSMUSG00000030663-C,CPX
+ENSMUSG00000030697-C,CPX
+ENSMUSG00000030782-C,CPX
+ENSMUSG00000030879-C,CPX
+ENSMUSG00000031027-C,CPX
+ENSMUSG00000031079-C,CPX
+ENSMUSG00000031246-C,CPX
+ENSMUSG00000031451-C,CPX
+ENSMUSG00000031479-C,CPX
+ENSMUSG00000031513-C,CPX
+ENSMUSG00000031583-C,CPX
+ENSMUSG00000031590-C,CPX
+ENSMUSG00000031617-C,CPX
+ENSMUSG00000031657-C,CPX
+ENSMUSG00000031715-C,CPX
+ENSMUSG00000031751-C,CPX
+ENSMUSG00000031918-C,CPX
+ENSMUSG00000031922-C,CPX
+ENSMUSG00000032216-C,CPX
+ENSMUSG00000032238-C,CPX
+ENSMUSG00000032261-C,CPX
+ENSMUSG00000032288-C,CPX
+ENSMUSG00000032306-C,CPX
+ENSMUSG00000032372-C,CPX
+ENSMUSG00000032560-C,CPX
+ENSMUSG00000032615-C,CPX
+ENSMUSG00000032633-C,CPX
+ENSMUSG00000033021-C,CPX
+ENSMUSG00000033047-C,CPX
+ENSMUSG00000033453-C,CPX
+ENSMUSG00000033487-C,CPX
+ENSMUSG00000033792-C,CPX
+ENSMUSG00000034349-C,CPX
+ENSMUSG00000034377-C,CPX
+ENSMUSG00000034584-C,CPX
+ENSMUSG00000034647-C,CPX
+ENSMUSG00000034768-C,CPX
+ENSMUSG00000034786-C,CPX
+ENSMUSG00000034863-C,CPX
+ENSMUSG00000034930-C,CPX
+ENSMUSG00000034957-C,CPX
+ENSMUSG00000035133-C,CPX
+ENSMUSG00000035293-C,CPX
+ENSMUSG00000035505-C,CPX
+ENSMUSG00000035941-C,CPX
+ENSMUSG00000036613-C,CPX
+ENSMUSG00000036718-C,CPX
+ENSMUSG00000037012-C,CPX
+ENSMUSG00000037408-C,CPX
+ENSMUSG00000037646-C,CPX
+ENSMUSG00000037716-C,CPX
+ENSMUSG00000038064-C,CPX
+ENSMUSG00000038084-C,CPX
+ENSMUSG00000038135-C,CPX
+ENSMUSG00000038324-C,CPX
+ENSMUSG00000038390-C,CPX
+ENSMUSG00000038555-C,CPX
+ENSMUSG00000038717-C,CPX
+ENSMUSG00000039000-C,CPX
+ENSMUSG00000039145-C,CPX
+ENSMUSG00000039157-C,CPX
+ENSMUSG00000039194-C,CPX
+ENSMUSG00000039253-C,CPX
+ENSMUSG00000039323-C,CPX
+ENSMUSG00000039450-C,CPX
+ENSMUSG00000039813-C,CPX
+ENSMUSG00000039883-C,CPX
+ENSMUSG00000039959-C,CPX
+ENSMUSG00000040612-C,CPX
+ENSMUSG00000040661-C,CPX
+ENSMUSG00000041012-C,CPX
+ENSMUSG00000041134-C,CPX
+ENSMUSG00000041408-C,CPX
+ENSMUSG00000041491-C,CPX
+ENSMUSG00000041642-C,CPX
+ENSMUSG00000041685-C,CPX
+ENSMUSG00000041720-C,CPX
+ENSMUSG00000041841-C,CPX
+ENSMUSG00000042426-C,CPX
+ENSMUSG00000042506-C,CPX
+ENSMUSG00000042594-C,CPX
+ENSMUSG00000042626-C,CPX
+ENSMUSG00000042659-C,CPX
+ENSMUSG00000042686-C,CPX
+ENSMUSG00000042699-C,CPX
+ENSMUSG00000042797-C,CPX
+ENSMUSG00000043263-C,CPX
+ENSMUSG00000043614-C,CPX
+ENSMUSG00000044224-C,CPX
+ENSMUSG00000044296-C,CPX
+ENSMUSG00000045284-C,CPX
+ENSMUSG00000045817-C,CPX
+ENSMUSG00000045930-C,CPX
+ENSMUSG00000046157-C,CPX
+ENSMUSG00000046351-C,CPX
+ENSMUSG00000046711-C,CPX
+ENSMUSG00000046714-C,CPX
+ENSMUSG00000046806-C,CPX
+ENSMUSG00000046807-C,CPX
+ENSMUSG00000046947-C,CPX
+ENSMUSG00000047141-C,CPX
+ENSMUSG00000048175-C,CPX
+ENSMUSG00000048330-C,CPX
+ENSMUSG00000049287-C,CPX
+ENSMUSG00000049295-C,CPX
+ENSMUSG00000049744-C,CPX
+ENSMUSG00000050822-C,CPX
+ENSMUSG00000051043-C,CPX
+ENSMUSG00000051224-C,CPX
+ENSMUSG00000051285-C,CPX
+ENSMUSG00000051297-C,CPX
+ENSMUSG00000051510-C,CPX
+ENSMUSG00000052534-C,CPX
+ENSMUSG00000054484-C,CPX
+ENSMUSG00000055044-C,CPX
+ENSMUSG00000055447-C,CPX
+ENSMUSG00000055681-C,CPX
+ENSMUSG00000056054-C,CPX
+ENSMUSG00000056952-C,CPX
+ENSMUSG00000057738-C,CPX
+ENSMUSG00000058351-C,CPX
+ENSMUSG00000058420-C,CPX
+ENSMUSG00000058756-C,CPX
+ENSMUSG00000059495-C,CPX
+ENSMUSG00000060512-C,CPX
+ENSMUSG00000061689-C,CPX
+ENSMUSG00000061718-C,CPX
+ENSMUSG00000062040-C,CPX
+ENSMUSG00000062044-C,CPX
+ENSMUSG00000063894-C,CPX
+ENSMUSG00000064246-C,CPX
+ENSMUSG00000064294-C,CPX
+ENSMUSG00000064338-C,CPX
+ENSMUSG00000064340-C,CPX
+ENSMUSG00000064345-C,CPX
+ENSMUSG00000066057-C,CPX
+ENSMUSG00000066113-C,CPX
+ENSMUSG00000066595-C,CPX
+ENSMUSG00000067928-C,CPX
+ENSMUSG00000068196-C,CPX
+ENSMUSG00000068284-C,CPX
+ENSMUSG00000068762-C,CPX
+ENSMUSG00000069631-C,CPX
+ENSMUSG00000070348-C,CPX
+ENSMUSG00000070643-C,CPX
+ENSMUSG00000070858-C,CPX
+ENSMUSG00000071072-C,CPX
+ENSMUSG00000071637-C,CPX
+ENSMUSG00000072662-C,CPX
+ENSMUSG00000072763-C,CPX
+ENSMUSG00000077767-C,CPX
+ENSMUSG00000078201-C,CPX
+ENSMUSG00000078485-C,CPX
+ENSMUSG00000085890-C,CPX
+ENSMUSG00000086825-C,CPX
+ENSMUSG00000087083-C,CPX
+ENSMUSG00000087368-C,CPX
+ENSMUSG00000091183-C,CPX
+ENSMUSG00000091475-C,CPX
+ENSMUSG00000094002-C,CPX
+ENSMUSG00000096971-C,CPX
+ENSMUSG00000097462-C,CPX
+ENSMUSG00000099689-C,CPX
+ENSMUSG00000102142-C,CPX
+ENSMUSG00000102664-C,CPX
+ENSMUSG00000103731-C,CPX
+ENSMUSG00000104682-C,CPX
+ENSMUSG00000105382-C,CPX
+ENSMUSG00000105607-C,CPX
+Ece2,CTX
+Ecgonine-P,PLS
 Eea1,CPX
+Eea1-C,CPX
 Eef1a1,CPX
-Eeig1,CPX
+Eef1a1-C,CPX
+Eeig1-C,CPX
 Efhb,CPX
+Efhb-C,CPX
+Ehbp1,CTX
 Ehd1,CPX
-Eicosapentaenoic acid,PLS
+Ehd1-C,CPX
+Eicosapentaenoic acid-P,PLS
 Eid2,CTX
-Eid2b,CPX
-Eif3g,CPX
+Eid2b-C,CPX
+Eif2s2,CTX
+Eif3g-C,CPX
 Eif3h,CPX
-Emc10,CPX
+Eif3h-C,CPX
+Eif4ebp1,CTX
+Elf4,CTX
+Emc10-C,CPX
 Emc3,CPX
+Emc3-C,CPX
 Emc6,CTX
 Emd,CPX
+Emd-C,CPX
+Emg1,CTX
 Enpp5,CPX
-Entpd6,CPX
+Enpp5-C,CPX
+Entpd6-C,CPX
+Ep300,CTX
 Epcip,CTX
 Eps8l2,CTX
-Erbin,CTX
 Erbin,CPX
+Erbin,CTX
+Erbin-C,CPX
 Ercc1,CTX
 Ergic2,CPX
+Ergic2-C,CPX
 Erh,CTX
-Errfi1,CPX
-Erythritol,PLS
-Erythritol,Feci
-"Erythrono-1,4-lactone",Feci
-"Erythrono-1,4-lactone, (Z)-",PLS
+Ermard,CTX
+Errfi1,CTX
+Errfi1-C,CPX
+Erythritol-F,Feci
+Erythritol-P,PLS
+"Erythrono-1,4-lactone, (Z)--P",PLS
+"Erythrono-1,4-lactone-F",Feci
 Ess2,CPX
 Ess2,CTX
-Ethanamine,Feci
-"Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-",PLS
-"Ethanol, 2-(9-octadecenyloxy)-",PLS
-Ethanolamine,Feci
-Ethanolamine,PLS
-"Ethanone, 1-(2,5-dimethoxyphenyl)-",PLS
-"Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)-",PLS
-Ethyl alpha-D-glucopyranoside,Feci
-Ethyl alpha-D-glucopyranoside,PLS
-Ethyl cis-2-trimethylsilyl-cyclopropane-1-carboxylate,PLS
-Ethyl glycolate,Feci
+Etaa1,CTX
+"Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]--P",PLS
+Ethanamine-F,Feci
+"Ethanol, 2-(9-octadecenyloxy)--P",PLS
+Ethanolamine-F,Feci
+Ethanolamine-P,PLS
+"Ethanone, 1-(2,5-dimethoxyphenyl)--P",PLS
+"Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)--P",PLS
+Ethyl alpha-D-glucopyranoside-F,Feci
+Ethyl alpha-D-glucopyranoside-P,PLS
+Ethyl cis-2-trimethylsilyl-cyclopropane-1-carboxylate-P,PLS
+Ethyl glycolate-F,Feci
 Etv1,CTX
-Evi5,CPX
+Etv3,CTX
+Evi5-C,CPX
 Exoc5,CTX
-Exph5,CPX
+Exph5-C,CPX
 Extl1,CTX
 F9,CTX
 Faap24,CPX
+Faap24-C,CPX
 Fadd,CTX
+Fads2,CTX
 Fads3,CTX
+Fam120b,CTX
 Fam13b,CPX
+Fam13b-C,CPX
 Fam167b,CPX
 Fam168a,CTX
 Fam193b,CTX
 Fam199x,CTX
 Fam91a1,CTX
 Fam98b,CPX
+Fam98b-C,CPX
 Fance,CPX
+Fance-C,CPX
 Fbxl22,CTX
-Fcf1,CPX
+Fcf1-C,CPX
 Fcho2,CPX
 Fcho2,CTX
-Fchsd2,CPX
+Fcho2-C,CPX
+Fchsd2-C,CPX
 Fdft1,CTX
-Fenitrothion,PLS
+Fenitrothion-P,PLS
 Fer,CPX
-Ferulic acid,Feci
+Fer-C,CPX
+Ferulic acid-F,Feci
 Fgf12,CTX
 Fgfr1op2,CPX
-Fgl2,CPX
+Fgfr1op2-C,CPX
+Fgl2-C,CPX
 Fhad1,CPX
+Fhad1-C,CPX
 Fhl1,CPX
+Fhl1-C,CPX
 Fhod3,CPX
-Flcn,CPX
+Fhod3-C,CPX
+Flcn-C,CPX
 Flna,CTX
 Flnb,CTX
+Flnc,CTX
 Flvcr1,CPX
+Flvcr1-C,CPX
 Fn3krp,CPX
+Fn3krp-C,CPX
 Fndc3a,CPX
+Fndc3a-C,CPX
 Folh1,CTX
-Foxk2,CPX
+Foxk2-C,CPX
 Fpgt,CTX
+Fra10ac1,CTX
 Frg1,CPX
+Frg1-C,CPX
 Fry,CTX
-Fsbp,CPX
 Fsbp,CTX
+Fsbp-C,CPX
 Ftx,CTX
-"Furan, 2-pentyl-",PLS
+"Furan, 2-pentyl--P",PLS
 Furin,CTX
 Fxr1,CPX
-Fzr1,CPX
-G2e3,CPX
+Fxr1-C,CPX
+Fzd5,CTX
+Fzr1-C,CPX
+G2e3-C,CPX
 Gaa,CTX
 Gab2,CTX
-Galactopyranose,PLS
+Galactopyranose-P,PLS
 Ganab,CPX
+Ganab-C,CPX
 Gas1,CTX
 Gas6,CPX
+Gas6-C,CPX
 Gdap1,CTX
 Gde1,CTX
 Gdf10,CTX
 Gdf11,CTX
 Gdf9,CTX
-Gdpd3,CPX
+Gdpd3-C,CPX
 Gh,CTX
 Gigyf1,CTX
-Gin1,CPX
+Gimap4,CTX
+Gimap9,CTX
+Gin1-C,CPX
 Glmn,CTX
-Gln-Ala,PLS
-"Gluconolactone (3R,4S,5R,6R)",Feci
-Glucopyranose,PLS
-Glucopyranose,Feci
-Glucose,PLS
-Glyceric acid,Feci
-Glyceric acid,PLS
-Glycerol,Feci
-Glycerol tricaprylate,Feci
-Glycine,PLS
-"Glycine, N-(1-oxobutyl)-",PLS
-"Glycine, N-(N-DL-leucylglycyl)-",PLS
-"Glycine, N-[4-[(trimethylsilyl)oxy]benzoyl]-",PLS
-Glycolic acid,PLS
-Glycolic acid,Feci
-Glyoxime,PLS
+Gln-Ala-P,PLS
+Gls,CTX
+"Gluconolactone (3R,4S,5R,6R)-F",Feci
+Glucopyranose-F,Feci
+Glucopyranose-P,PLS
+Glucose-P,PLS
+Glyceric acid-F,Feci
+Glyceric acid-P,PLS
+Glycerol tricaprylate-F,Feci
+Glycerol-F,Feci
+"Glycine, N-(1-oxobutyl)--P",PLS
+"Glycine, N-(N-DL-leucylglycyl)--P",PLS
+"Glycine, N-[4-[(trimethylsilyl)oxy]benzoyl]--P",PLS
+Glycine-P,PLS
+Glycolic acid-F,Feci
+Glycolic acid-P,PLS
+Glyoxime-P,PLS
 Gm10221,CTX
 Gm10516,CTX
 Gm10654,CTX
+Gm12144,CTX
 Gm12346,CPX
+Gm12346-C,CPX
 Gm12999,CTX
 Gm13340,CTX
+Gm14634,CTX
 Gm14798,CPX
-Gm15083,CPX
+Gm15083-C,CPX
 Gm15124,CTX
 Gm15408,CPX
+Gm15408-C,CPX
 Gm15513,CTX
 Gm15542,CTX
-Gm15587,CPX
-Gm15675,CPX
+Gm15587-C,CPX
+Gm15675-C,CPX
 Gm15764,CTX
+Gm16168,CTX
 Gm17259,CTX
+Gm18284,CTX
+Gm19439,CTX
 Gm1976,CPX
+Gm1976,CTX
+Gm1976-C,CPX
 Gm19817,CPX
+Gm19817-C,CPX
 Gm20052,CPX
+Gm20052-C,CPX
+Gm23751,CTX
 Gm2445,CPX
+Gm2445-C,CPX
 Gm25517,CPX
+Gm25517-C,CPX
+Gm26225,CTX
 Gm26592,CTX
 Gm26652,CTX
+Gm26691,CTX
+Gm27151,CTX
 Gm28523,CTX
 Gm29488,CTX
+Gm3364,CTX
 Gm3687,CTX
+Gm37033,CTX
+Gm37061,CTX
+Gm37124,CTX
 Gm37204,CPX
-Gm37219,CPX
+Gm37204-C,CPX
+Gm37219-C,CPX
+Gm37258,CTX
 Gm37266,CTX
+Gm37397,CTX
 Gm37420,CTX
 Gm37452,CTX
 Gm37529,CTX
 Gm3764,CTX
+Gm37678,CTX
 Gm37777,CTX
 Gm37834,CTX
 Gm37941,CTX
+Gm37968,CTX
 Gm38077,CTX
 Gm38104,CTX
 Gm38217,CTX
 Gm38299,CTX
 Gm38357,CTX
-Gm38380,CPX
-Gm4017,CPX
+Gm38380-C,CPX
+Gm4017-C,CPX
 Gm42442,CTX
+Gm42482,CTX
 Gm42636,CPX
+Gm42636-C,CPX
 Gm42679,CTX
 Gm42727,CTX
+Gm42771,CTX
 Gm42837,CTX
 Gm42853,CTX
+Gm42897,CTX
 Gm42941,CTX
+Gm43009,CTX
 Gm43066,CTX
 Gm43133,CTX
 Gm43176,CTX
 Gm43187,CTX
 Gm43311,CTX
 Gm43339,CPX
-Gm43360,CPX
+Gm43339-C,CPX
+Gm43360-C,CPX
 Gm43417,CTX
 Gm43420,CTX
-Gm43568,CPX
+Gm43568-C,CPX
 Gm43677,CTX
+Gm43751,CTX
 Gm43765,CTX
-Gm5141,CPX
+Gm43795,CTX
+Gm4804,CTX
+Gm5141-C,CPX
+Gm5475,CTX
 Gm5845,CTX
-Gm6548,CPX
+Gm6548-C,CPX
+Gm8186,CTX
 Gm9920,CPX
+Gm9920-C,CPX
 Gmppa,CPX
+Gmppa-C,CPX
 Gnas,CPX
+Gnas-C,CPX
 Gne,CTX
 Golm2,CPX
+Golm2-C,CPX
 Gopc,CTX
 Gpaa1,CPX
+Gpaa1-C,CPX
 Gpbp1l1,CTX
+Gphn,CTX
 Gpr162,CPX
+Gpr162-C,CPX
 Gpr19,CPX
+Gpr19-C,CPX
 Gpr4,CPX
-Gprc5c,CPX
+Gpr4-C,CPX
+Gprc5c-C,CPX
 Gprin2,CTX
 Gria4,CTX
+Grin2c,CTX
 Grk3,CTX
-Grpel1,CPX
+Grpel1-C,CPX
 Gsk3b,CPX
+Gsk3b-C,CPX
 Gsta3,CPX
+Gsta3-C,CPX
 Gsta4,CPX
-Gstm6,CPX
+Gsta4-C,CPX
+Gstm6-C,CPX
 Gtpbp4,CPX
-Guanabenz,PLS
-"Guanidine, N,N-dimethyl",Feci
-"Guanidine, N,N-dimethyl-",PLS
+Gtpbp4-C,CPX
+Guanabenz-P,PLS
+"Guanidine, N,N-dimethyl--P",PLS
+"Guanidine, N,N-dimethyl-F",Feci
 Guk1,CPX
-"Gulonic acid, gamma-lactone",Feci
+Guk1-C,CPX
+"Gulonic acid, gamma-lactone-F",Feci
 Gxylt1,CPX
+Gxylt1-C,CPX
 Gypc,CTX
-H1f10,CPX
 H1f10,CTX
+H1f10-C,CPX
 H2az2,CPX
 H2bc27,CTX
 H3f3a,CTX
 Habp4,CTX
-Haus4,CPX
-Hcn3,CPX
+Haus4-C,CPX
+Hcn3-C,CPX
 Hdac9,CPX
-Heatr3,CPX
+Heatr3-C,CPX
+Heatr6,CTX
+Hectd1,CTX
 Heg1,CTX
-Heptadecanoic acid,Feci
-Heptadecanoic acid,PLS
-Heptanoic acid,PLS
-Hexacosanoic acid,Feci
-"Hexadecanoic acid, 4-hydroxybutyl ester",Feci
-"Hexadecanoic acid, ethyl ester",Feci
-"Hexadecanoic acid, methyl ester",Feci
-"Hexadecanoic acid, tetradecyl ester",Feci
-Hexanedioic acid,Feci
-Hexanedioic acid,PLS
-Hexanoic acid,Feci
-Hexanoic acid,PLS
-Hexanoylglycine,PLS
-"Hexonic acid, 3-deoxy-, gamma-lactone",Feci
+Heph,CTX
+Heptadecanoic acid-F,Feci
+Heptadecanoic acid-P,PLS
+Heptanoic acid-P,PLS
+Hexacosanoic acid-F,Feci
+"Hexadecanoic acid, 4-hydroxybutyl ester-F",Feci
+"Hexadecanoic acid, ethyl ester-F",Feci
+"Hexadecanoic acid, methyl ester-F",Feci
+"Hexadecanoic acid, tetradecyl ester-F",Feci
+Hexanedioic acid-F,Feci
+Hexanedioic acid-P,PLS
+Hexanoic acid-F,Feci
+Hexanoic acid-P,PLS
+Hexanoylglycine-P,PLS
+Hexim2,CTX
+"Hexonic acid, 3-deoxy-, gamma-lactone-F",Feci
 Hip1,CPX
-Hippuric acid,PLS
+Hip1-C,CPX
+Hippuric acid-P,PLS
 Hk1,CPX
+Hk1-C,CPX
 Hlf,CPX
+Hlf-C,CPX
 Hlx,CTX
 Hmces,CPX
+Hmces-C,CPX
 Hmga1,CPX
 Hmgb2,CTX
+Hmgcs1,CTX
 Hmmr,CPX
 Hmox2,CTX
 Hook2,CPX
+Hopx,CTX
 Hs3st3b1,CTX
 Hsdl2,CPX
+Hsdl2-C,CPX
 Hspa1b,CPX
 Hspb8,CTX
+Htr6,CTX
 Hycc1,CTX
-Hydantoic acid,PLS
-"Hydantoin, 5-hydroxy",Feci
-Hydracrylic acid,PLS
-Hydracrylic acid,Feci
-Hydroquinidine,PLS
-Hydroquinone,Feci
-Hydroquinone,PLS
-Hymexazole,Feci
-Iba57,CPX
+Hydantoic acid-P,PLS
+"Hydantoin, 5-hydroxy-F",Feci
+Hydracrylic acid-F,Feci
+Hydracrylic acid-P,PLS
+Hydroquinidine-P,PLS
+Hydroquinone-F,Feci
+Hydroquinone-P,PLS
+Hymexazole-F,Feci
+Iba57-C,CPX
 Ibtk,CPX
-Icam4,CPX
-Id1,CPX
+Ibtk-C,CPX
+Icam4-C,CPX
+Id1-C,CPX
 Ide,CPX
+Ide-C,CPX
 Idi1,CTX
-Idoxuridine,Feci
-Ifi30,CPX
+Idoxuridine-F,Feci
+Ifi30-C,CPX
 Ifih1,CPX
+Ifih1-C,CPX
+Ift122,CTX
 Igfbp2,CPX
-Igfbp6,CPX
+Igfbp2-C,CPX
+Igfbp6-C,CPX
 Ikzf5,CPX
+Ikzf5-C,CPX
 Il10ra,CTX
-Ildr2,CPX
+Ildr2-C,CPX
 Ilkap,CPX
+Ilkap-C,CPX
 Ilvbl,CPX
+Ilvbl-C,CPX
+Immp1l,CTX
 Imp3,CPX
-Indole-3-carboxaldehyde,PLS
-Indole-3-lactic acid,PLS
-Indole-5-carboxylic acid,PLS
+Imp3-C,CPX
+Impact,CTX
+Indole-3-carboxaldehyde-P,PLS
+Indole-3-lactic acid-P,PLS
+Indole-5-carboxylic acid-P,PLS
 Ino80c,CPX
-"Inosose-2, 1,3,4,5,6-pentakis-",PLS
-"Inosose-2, myo",Feci
+Ino80c-C,CPX
+"Inosose-2, 1,3,4,5,6-pentakis--P",PLS
+"Inosose-2, myo-F",Feci
 Inpp4a,CPX
-Inpp5a,CPX
+Inpp4a-C,CPX
+Inpp5a-C,CPX
 Ints10,CPX
-Ints11,CPX
+Ints10-C,CPX
+Ints11-C,CPX
 Ip6k2,CTX
 Ipo4,CPX
 Iqank1,CTX
-Iqcc,CPX
-Iqgap2,CPX
+Iqcc-C,CPX
+Iqgap2-C,CPX
 Iqgap3,CTX
 Irak1bp1,CPX
+Irak1bp1-C,CPX
 Irak3,CPX
-Irf3,CPX
+Irak3-C,CPX
+Irf3-C,CPX
 Isg15,CPX
-Isocitric acid lactone,Feci
-Isofucosterol,PLS
-Isonicotinic Acid,PLS
-Isonicotinic Acid,Feci
-Isopropyl myristate,Feci
-Isopropyl palmitate,PLS
-Isopropyl palmitate,Feci
-"Isoquinoline, 3,4-dihydro-6,7-dimethoxy-1-[4-hydroxybenzyl]-",PLS
-Isoxaben,PLS
-Itaconic acid,PLS
-Itaconic acid,Feci
+Isg15-C,CPX
+Isocitric acid lactone-F,Feci
+Isofucosterol-P,PLS
+Isonicotinic Acid-P,PLS
+Isopropyl myristate-F,Feci
+Isopropyl palmitate-F,Feci
+Isopropyl palmitate-P,PLS
+"Isoquinoline, 3,4-dihydro-6,7-dimethoxy-1-[4-hydroxybenzyl]--P",PLS
+Isoxaben-P,PLS
+Itaconic acid-F,Feci
+Itaconic acid-P,PLS
 Itch,CPX
+Itch-C,CPX
 Itgb1bp1,CTX
+Iws1,CTX
 Jam2,CTX
 Jmjd4,CPX
-Josd1,CPX
-Jph1,CPX
+Jmjd4-C,CPX
+Josd1-C,CPX
+Jph1-C,CPX
 Junb,CPX
+Junb-C,CPX
 Kank3,CTX
-Kcmf1,CPX
+Kcmf1-C,CPX
+Kcnh2,CTX
+Kcnh7,CTX
 Kcnj4,CTX
 Kcnk5,CPX
+Kcnk5-C,CPX
 Kcnma1,CTX
+Kctd12b,CTX
 Kdelr1,CTX
 Kdm3b,CTX
-Ketamine,Feci
-Ketamine,PLS
-Kif21a,CPX
-Kif22,CPX
+Ketamine-F,Feci
+Ketamine-P,PLS
+Kif21a-C,CPX
+Kif22-C,CPX
+Kif26a,CTX
 Kif2a,CPX
+Kif2a-C,CPX
 Kin,CPX
+Kin-C,CPX
 Klc1,CPX
+Klc1-C,CPX
 Klf3,CPX
+Klf3-C,CPX
+Klf8,CTX
 Klhl18,CPX
+Klhl18-C,CPX
 Klhl22,CTX
 Klhl26,CTX
 Kmt2b,CTX
 Kmt2c,CTX
+Kmt2d,CTX
 Kmt5b,CPX
 Knstrn,CTX
-Kojic acid,Feci
+Kojic acid-F,Feci
 Kpna3,CPX
-Kpna4,CPX
+Kpna3-C,CPX
+Kpna4-C,CPX
 Kras,CPX
-Krcc1,CPX
-Krt23,CPX
-L-(+)-Lactic acid,Feci
-L-(+)-Rhamnopyranose,Feci
-L-(-)-Sorbofuranose,Feci
-L-5-Oxoproline,Feci
-L-5-Oxoproline,PLS
-L-Alanine,PLS
-L-Asparagine,Feci
-L-Asparagine,PLS
-L-Aspartic acid,PLS
-L-Aspartic acid,Feci
-L-Cysteine,PLS
-L-Fucose,Feci
-L-Glutamic acid,PLS
-L-Glutamic acid,Feci
-L-Glutamine,PLS
-L-Glutamine,Feci
-L-Hydroxyproline,PLS
-L-Hydroxyproline,Feci
-L-Isoleucine,Feci
-L-Isoleucine,PLS
-L-Leucine,Feci
-L-Leucine,PLS
-L-Lysine,Feci
-L-Lysine,PLS
-"L-Lysine, ethyl ester",PLS
-L-Methionine,PLS
-L-Norleucine,PLS
-L-Norvaline,Feci
-L-Ornithine,PLS
-L-Proline,PLS
-L-Proline,Feci
-L-Rhamnose,Feci
-L-Serine,Feci
-L-Threitol,PLS
-L-Threonine,Feci
-L-Threonine,PLS
-L-Tryptophan,PLS
-"L-Tryptophan, N-acetyl-1",PLS
-L-Tyrosine,PLS
-"L-Valinamide, N(2),N(2)-dimethyl",Feci
-L-Valine,Feci
-L-Valine,PLS
-L-Valyl-L-leucine,Feci
-Lactic Acid,PLS
-Lactic Acid,Feci
+Kras-C,CPX
+Krcc1-C,CPX
+Krt23-C,CPX
+Krt73,CTX
+Krtcap2,CTX
+L-(+)-Lactic acid-F,Feci
+L-(+)-Rhamnopyranose-F,Feci
+L-(-)-Sorbofuranose-F,Feci
+L-5-Oxoproline-F,Feci
+L-5-Oxoproline-P,PLS
+L-Alanine-P,PLS
+L-Asparagine-F,Feci
+L-Asparagine-P,PLS
+L-Aspartic acid-F,Feci
+L-Aspartic acid-P,PLS
+L-Cysteine-P,PLS
+L-Fucose-F,Feci
+L-Glutamic acid-F,Feci
+L-Glutamic acid-P,PLS
+L-Glutamine-F,Feci
+L-Glutamine-P,PLS
+L-Hydroxyproline-F,Feci
+L-Hydroxyproline-P,PLS
+L-Isoleucine-F,Feci
+L-Isoleucine-P,PLS
+L-Leucine-F,Feci
+L-Leucine-P,PLS
+"L-Lysine, ethyl ester-P",PLS
+L-Methionine-P,PLS
+L-Norleucine-P,PLS
+L-Norvaline-F,Feci
+L-Ornithine-P,PLS
+L-Proline-F,Feci
+L-Proline-P,PLS
+L-Rhamnose-F,Feci
+L-Serine-F,Feci
+L-Threitol-P,PLS
+L-Threonine-F,Feci
+L-Threonine-P,PLS
+"L-Tryptophan, N-acetyl-1-P",PLS
+L-Tryptophan-P,PLS
+L-Tyrosine-P,PLS
+"L-Valinamide, N(2),N(2)-dimethyl-F",Feci
+L-Valine-F,Feci
+L-Valine-P,PLS
+L-Valyl-L-leucine-F,Feci
+L3hypdh,CTX
+L3mbtl1,CTX
+Lactic Acid-F,Feci
+Lactic Acid-P,PLS
 Lama1,CPX
 Larp4,CTX
-Latanoprost lactone diol,PLS
-Lepr,CPX
-Leprotl1,CPX
-Levoglucosan,Feci
-Levulinic acid,Feci
-Levulinic acid,PLS
-Lgr4,CPX
-Lignoceric acid,Feci
+Latanoprost lactone diol-P,PLS
+Lepr-C,CPX
+Leprotl1-C,CPX
+Levoglucosan-F,Feci
+Levulinic acid-F,Feci
+Levulinic acid-P,PLS
+Lgr4-C,CPX
+Lignoceric acid-F,Feci
 Limch1,CPX
+Limch1-C,CPX
+Lmbrd2,CTX
 Lmtk3,CPX
-Lpgat1,CPX
+Lmtk3-C,CPX
+Lpgat1-C,CPX
+Lpl,CTX
 Lrba,CTX
+Lrch3,CTX
 Lrfn5,CTX
-Lrp2bp,CPX
+Lrp2bp-C,CPX
 Lrp4,CTX
-Lrp6,CPX
-Lrrc17,CPX
+Lrp6-C,CPX
+Lrrc17-C,CPX
+Lrrc40,CTX
 Lrrc8a,CPX
-Lrrc8c,CPX
+Lrrc8a-C,CPX
+Lrrc8c-C,CPX
+Ltbp4,CTX
 Lurap1,CPX
-Luteolin,PLS
+Lurap1-C,CPX
+Luteolin-P,PLS
 Luzp1,CPX
+Luzp1-C,CPX
+Lypd6b,CTX
+Lyzl4,CTX
+Macf1,CTX
 Maco1,CPX
+Maco1-C,CPX
+Maf,CTX
 Mafg,CPX
+Mafg-C,CPX
 Magix,CPX
-Malic acid,Feci
-Malic acid,PLS
+Magix-C,CPX
+Malic acid-F,Feci
+Malic acid-P,PLS
 Manea,CTX
-"Mannonic acid, gamma-lactone",Feci
-Mansc4,CPX
+Mansc4-C,CPX
+Map3k13,CTX
 Map3k2,CTX
 Map3k20,CTX
 Map3k5,CPX
+Map3k5-C,CPX
 Map9,CPX
-Mcfd2,CPX
+Map9-C,CPX
+Mast1,CTX
+Mcfd2-C,CPX
 Mchr1,CTX
-Meaf6,CPX
+Mdh1,CTX
+Me1,CTX
+Meaf6-C,CPX
+Mecp2,CTX
 Med12l,CTX
+Med13l,CTX
 Med18,CTX
 Mef2a,CPX
-Menthol,Feci
-Metanephrine,PLS
-"Methanone, [1-(4-chloropentyl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)-",PLS
-"Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate",Feci
-"Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate",PLS
-Methyl 2-acetamido-2-deoxy-3-O-methyl-alpha-D-galactopyranoside,Feci
-Methyl alpha-Arabinofuranoside,Feci
-Methyl alpha-Lyxofuranoside,PLS
-Methyl aminoacetate,PLS
-Methyl beta-Arabinofuranoside,Feci
-"Methyl galactoside (1S,2S,3S,4R,5R)",Feci
-Methyl isovanillate,PLS
-Methyl stearate,Feci
-Methyl-3-methoxy-5-methyl benzoate,PLS
-Methylmaleic acid,Feci
-Methylmalonic monoamide,PLS
-Methylsuccinic acid,Feci
-Mex3a,CPX
+Mef2a-C,CPX
+Menthol-F,Feci
+Metanephrine-P,PLS
+"Methanone, [1-(4-chloropentyl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)--P",PLS
+"Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate-F",Feci
+"Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate-P",PLS
+Methyl 2-acetamido-2-deoxy-3-O-methyl-alpha-D-galactopyranoside-F,Feci
+Methyl alpha-Arabinofuranoside-F,Feci
+Methyl alpha-Lyxofuranoside-P,PLS
+Methyl aminoacetate-P,PLS
+Methyl beta-Arabinofuranoside-F,Feci
+"Methyl galactoside (1S,2S,3S,4R,5R)-F",Feci
+Methyl isovanillate-P,PLS
+Methyl stearate-F,Feci
+Methyl-3-methoxy-5-methyl benzoate-P,PLS
+Methylmaleic acid-F,Feci
+Methylmalonic monoamide-P,PLS
+Methylsuccinic acid-F,Feci
+Mettl5,CTX
+Mex3a-C,CPX
 Mfge8,CPX
+Mfge8-C,CPX
 Mfn2,CTX
 Mfsd2a,CPX
+Mfsd2a-C,CPX
 Mfsd3,CPX
-Mia2,CPX
+Mfsd3-C,CPX
+Mgat5b,CTX
+Mia2,CTX
+Mia2-C,CPX
 Mib1,CTX
 Mier3,CTX
 Minar1,CTX
 Mipol1,CTX
 Mir9-2hg,CTX
-Mirin,PLS
+Mirin-P,PLS
 Mitd1,CTX
 Mllt6,CTX
 Mmp24,CTX
 Mob4,CPX
-Monocaprylin,Feci
-Monolaurin,Feci
-Monomethyl succinate,Feci
-Morn4,CPX
-"Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]-",PLS
+Monocaprylin-F,Feci
+Monolaurin-F,Feci
+Monomethyl succinate-F,Feci
+Morn4-C,CPX
+"Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]--P",PLS
 Mospd3,CPX
+Mospd3-C,CPX
 Mpp7,CPX
+Mpp7,CTX
+Mpp7-C,CPX
 Mpst,CTX
+Mrfap1,CTX
 Mrgbp,CTX
-Mrpl17,CPX
-Mrpl28,CPX
+Mrpl17-C,CPX
+Mrpl28-C,CPX
+Mrpl3,CTX
 Mrpl34,CTX
+Mrpl41,CTX
 Mrps18a,CPX
+Mrps18a-C,CPX
 Mrps18c,CTX
-Mrps24,CPX
+Mrps24-C,CPX
 Mrps5,CPX
+Mrps5-C,CPX
 Msh2,CPX
+Msh2-C,CPX
 Msi2,CTX
+Msmo1,CTX
 Mtap,CPX
+Mtap-C,CPX
 Mterf3,CTX
 Mterf4,CPX
+Mterf4-C,CPX
 Mtf1,CPX
+Mtf1-C,CPX
+Mtif3,CTX
 Mtm1,CTX
 Mtmr10,CTX
 Mto1,CTX
-Mtor,CPX
+Mtor-C,CPX
 Mtpap,CTX
-Mtpn,CPX
+Mtpn-C,CPX
 Mtrex,CPX
+Mtrex-C,CPX
 Muc3a,CTX
-Mx2,CPX
+Mx2-C,CPX
+Mxra7,CTX
 Myct1,CTX
+Mydgf,CTX
 Myo9a,CTX
-Myof,CPX
-Myristic acid,Feci
-Myristic acid,PLS
-"N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine",PLS
-"N,N-Diethyl-2-aminoethanol",PLS
-"N,N-Diethyl-2-aminoethanol",Feci
-"N,N-Diethyl-carbamate",Feci
-"N,N-Dimethyl-2-cyclohexyloxyethylamine",PLS
-"N,O-Bis(trimethylsilyl)carbamate",PLS
-N-(2-hydroxyethyl)-succinimide,Feci
-"N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine",PLS
-N-(Trimethylsilyl)hexanamide,PLS
-N-Acetyl glucosamine methoxime,Feci
-"N-Acetyl-D-galactosamine, (R,R,R,R)",Feci
-N-Acetyl-L-glutamic acid,Feci
-N-Acetyl-L-glutamic acid,PLS
-N-Acetyl-L-phenylalanine,Feci
-N-Acetylglucosamine,Feci
-N-Acetyltyrosine,PLS
-N-Ethyldiethanolamine,Feci
-N-Isobutyl-sec-butylamine,PLS
-N-Isobutyrylglycine,PLS
-N-Isovaleroylglycine,PLS
-N-Methyl-L-proline,Feci
-N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,PLS
-N-Methyl-alpha-aminoisobutyric acid,Feci
-N-Valerylglycine,PLS
-N-alpha-Acetyl-L-Lysine,PLS
-"N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide",PLS
+Myof-C,CPX
+Myristic acid-F,Feci
+Myristic acid-P,PLS
+"N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine-P",PLS
+"N,N-Diethyl-2-aminoethanol-F",Feci
+"N,N-Diethyl-2-aminoethanol-P",PLS
+"N,N-Diethyl-carbamate-F",Feci
+"N,N-Dimethyl-2-cyclohexyloxyethylamine-P",PLS
+"N,O-Bis(trimethylsilyl)carbamate-P",PLS
+N-(2-hydroxyethyl)-succinimide-F,Feci
+"N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine-P",PLS
+N-(Trimethylsilyl)hexanamide-P,PLS
+N-Acetyl glucosamine methoxime-F,Feci
+"N-Acetyl-D-galactosamine, (R,R,R,R)-F",Feci
+N-Acetyl-L-glutamic acid-F,Feci
+N-Acetyl-L-glutamic acid-P,PLS
+N-Acetyl-L-phenylalanine-F,Feci
+N-Acetylglucosamine-F,Feci
+N-Acetyltyrosine-P,PLS
+N-Ethyldiethanolamine-F,Feci
+N-Isobutyl-sec-butylamine-P,PLS
+N-Isobutyrylglycine-P,PLS
+N-Isovaleroylglycine-P,PLS
+N-Methyl-L-proline-F,Feci
+N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine-P,PLS
+N-Methyl-alpha-aminoisobutyric acid-F,Feci
+N-Valerylglycine-P,PLS
+"N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide-P",PLS
 Naa40,CTX
+Naip6,CTX
 Nans,CTX
-Naphthofluorescein,PLS
+Nap1l1,CTX
+Naphthofluorescein-P,PLS
+Nbeal1,CTX
 Ncaph,CTX
-Ncaph2,CPX
+Ncaph2-C,CPX
 Ncbp2,CPX
 Ncl,CTX
-Ndfip1,CPX
+Ndfip1-C,CPX
+Ndn,CTX
 Ndn,CPX
+Ndn-C,CPX
 Ndst2,CTX
+Ndufa5,CTX
 Ndufa8,CPX
-Ndufaf1,CPX
+Ndufa8-C,CPX
+Ndufaf1-C,CPX
+Ndufaf4,CTX
 Ndufb9,CTX
-Ndufs3,CPX
+Ndufs3-C,CPX
 Ndufv3,CTX
 Nedd4,CPX
+Nedd4-C,CPX
 Nek1,CTX
 Nek8,CPX
-Neostigmine,PLS
+Nek8-C,CPX
+Neostigmine-P,PLS
 Net1,CPX
+Net1-C,CPX
 Neu1,CTX
+Neu2,CTX
 Nfe2l2,CPX
+Nfe2l2-C,CPX
 Nfyb,CPX
-Niacin,PLS
-Niacin,Feci
-Niacinamide,PLS
-Niacinamide,Feci
+Nfyb-C,CPX
+Nhsl1,CTX
+Niacin-F,Feci
+Niacin-P,PLS
+Niacinamide-F,Feci
+Niacinamide-P,PLS
 Niban1,CPX
-Niclosamide,PLS
+Niban1-C,CPX
+Niclosamide-P,PLS
 Nicn1,CTX
 Nicol1,CPX
+Nicol1-C,CPX
 Nipbl,CPX
+Nipbl-C,CPX
 Nit2,CPX
-Nitrosothymol,PLS
+Nit2-C,CPX
+Nitrosothymol-P,PLS
+Nkain1,CTX
 Nkain2,CTX
 Nkapd1,CPX
+Nkapd1-C,CPX
 Nlgn2,CTX
 Nol3,CTX
 Nol8,CPX
-Nonadecanoic acid,PLS
-Nonadecanoic acid,Feci
-Nonanal,PLS
-Nonanoic acid,PLS
-Nonanoic acid,Feci
-Norketamine,Feci
-Norketamine,PLS
+Nol8-C,CPX
+Nonadecanoic acid-F,Feci
+Nonadecanoic acid-P,PLS
+Nonanal-P,PLS
+Nonanoic acid-F,Feci
+Nonanoic acid-P,PLS
+Norketamine-F,Feci
+Norketamine-P,PLS
 Nosip,CTX
 Notch3,CTX
-Npas3,CTX
 Npas3,CPX
+Npas3,CTX
+Npas3-C,CPX
 Npat,CPX
+Npat-C,CPX
 Npepps,CPX
+Npepps-C,CPX
 Nphp3,CTX
-Nprl2,CPX
+Nprl2-C,CPX
 Nptn,CTX
 Nr3c2,CTX
+Nrm,CTX
 Nsg2,CPX
-Nsmf,CPX
-Nt5m,CPX
+Nsg2-C,CPX
+Nsmf-C,CPX
+Nt5m-C,CPX
 Nudt16l1,CTX
 Nudt2,CTX
 Nudt22,CTX
 Nudt6,CTX
 Nufip2,CTX
-Nup214,CPX
-"O-Methyl-N,N'-diisopropylisourea",PLS
+Nup214-C,CPX
+Nxph3,CTX
+"O-Methyl-N,N'-diisopropylisourea-P",PLS
 Oaz2,CTX
-Octadecyl octyl ether,Feci
-Octan-2-yl palmitate,PLS
-"Octane, 1-propoxy-",PLS
-Octanoic acid,PLS
-Octanoic acid,Feci
-Octocrylene,PLS
-Octopamine,PLS
+Octadecyl octyl ether-F,Feci
+Octan-2-yl palmitate-P,PLS
+"Octane, 1-propoxy--P",PLS
+Octanoic acid-F,Feci
+Octanoic acid-P,PLS
+Octocrylene-P,PLS
+Octopamine-P,PLS
 Ofd1,CPX
+Ofd1-C,CPX
+Ogdhl,CTX
 Ola1,CPX
+Ola1-C,CPX
 Olfm2,CPX
-Opa1,CPX
-Ornithine,PLS
-Osbp,CPX
-Osgepl1,CPX
-Oxalic acid,PLS
-Oxalic acid,Feci
-"Oxalic acid, allyl octyl ester",PLS
+Olfm2-C,CPX
+Opa1-C,CPX
+Or52b2,CTX
+Ornithine-P,PLS
+Osbp-C,CPX
+Osgepl1-C,CPX
+Osgin2,CTX
+"Oxalic acid, allyl octyl ester-P",PLS
+Oxalic acid-F,Feci
+Oxalic acid-P,PLS
 Pabpc1,CPX
+Pabpc1-C,CPX
 Pak2,CPX
-Palmitelaidic acid,Feci
-Palmitelaidic acid,PLS
-Palmitic Acid,PLS
-Palmitic Acid,Feci
-Pantolactone,PLS
-Pantolactone,Feci
-Pantothenic acid,Feci
+Pak2-C,CPX
+Palmitelaidic acid-F,Feci
+Palmitelaidic acid-P,PLS
+Palmitic Acid-F,Feci
+Palmitic Acid-P,PLS
+Pantolactone-F,Feci
+Pantolactone-P,PLS
 Papss1,CPX
+Papss1-C,CPX
 Pard6a,CPX
 Pard6a,CTX
-Parvg,CPX
+Pard6a-C,CPX
+Parvg-C,CPX
 Patl1,CTX
+Patz1,CTX
 Pawr,CPX
+Pawr-C,CPX
 Paxbp1,CTX
-Pbx1,CPX
+Pbx1-C,CPX
 Pcdha8,CTX
 Pcdhb19,CTX
 Pcgf5,CPX
+Pcgf5-C,CPX
 Pcmtd1,CPX
+Pcmtd1,CTX
+Pcmtd1-C,CPX
+Pcx,CTX
 Pdap1,CPX
-Pdcd4,CPX
-Pdlim5,CPX
-Pdss1,CPX
+Pdap1-C,CPX
+Pdcd4-C,CPX
+Pdlim5-C,CPX
+Pdss1-C,CPX
 Pebp4,CPX
-Pentadecanoic acid,Feci
-Pentadecanoic acid,PLS
-Pentanedioic acid,Feci
-"Pentanedioic acid, 2,4-bis[(trimethylsilyl)oxy]",PLS
-"Pentanedioic acid, 2-[(trimethylsilyl)oxy]-",PLS
-"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-",PLS
-Pentanoic acid,Feci
-Pentanoic acid,PLS
-"Pentanoic acid, 4-methyl-2-oxo-",Feci
-"Pentenoic acid, 4-[(trimethylsilyl)oxy]-",PLS
-"Pentitol, 3-desoxy",Feci
-Pentylone,PLS
-Perm1,CPX
-Petroselinic acid,PLS
-Pfas,CPX
+Pebp4-C,CPX
+Peg13,CTX
+Pentadecanoic acid-F,Feci
+Pentadecanoic acid-P,PLS
+"Pentanedioic acid, 2,4-bis[(trimethylsilyl)oxy]-P",PLS
+"Pentanedioic acid, 2-[(trimethylsilyl)oxy]--P",PLS
+"Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]--P",PLS
+Pentanedioic acid-F,Feci
+"Pentanoic acid, 4-methyl-2-oxo--F",Feci
+Pentanoic acid-F,Feci
+Pentanoic acid-P,PLS
+"Pentenoic acid, 4-[(trimethylsilyl)oxy]--P",PLS
+"Pentitol, 3-desoxy-F",Feci
+Pentylone-P,PLS
+Pepd,CTX
+Perm1-C,CPX
+Petroselinic acid-P,PLS
+Pex3,CTX
+Pfas-C,CPX
 Pfn1,CPX
+Pfn1-C,CPX
 Phactr2,CPX
-Phenanthridin-6-ol,PLS
-Phenol,Feci
-Phenol,PLS
-"Phenol, 3,5-bis(1,1-dimethylethyl)-",PLS
-Phenoxyacetic acid,PLS
-Phenylalanine,PLS
-Phenylalanine,Feci
-Phenylpropanolamine,PLS
-Phenylpropanolamine,Feci
-Phf1,CPX
+Phactr2-C,CPX
+Phenanthridin-6-ol-P,PLS
+"Phenol, 3,5-bis(1,1-dimethylethyl)--P",PLS
+Phenol-F,Feci
+Phenol-P,PLS
+Phenoxyacetic acid-P,PLS
+Phenylalanine-F,Feci
+Phenylalanine-P,PLS
+Phenylpropanolamine-F,Feci
+Phenylpropanolamine-P,PLS
+Phf1-C,CPX
 Phf3,CPX
+Phf3-C,CPX
 Phf8,CTX
 Phip,CTX
 Phka1,CTX
 Phldb1,CTX
-Phloretic acid,Feci
-Phlorizin,PLS
-Phloroglucinol,Feci
-Phloroglucinol,PLS
-Phosalone,PLS
-Phthalazin-1-one,Feci
-Phthalazin-1-one,PLS
-Phthalimide,Feci
-Pi4ka,CPX
-Picolinic acid,Feci
-Picolinic acid,PLS
+Phloretic acid-F,Feci
+Phlorizin-P,PLS
+Phloroglucinol-F,Feci
+Phloroglucinol-P,PLS
+Phosalone-P,PLS
+Phpt1,CTX
+Phthalazin-1-one-F,Feci
+Phthalazin-1-one-P,PLS
+Phthalimide-F,Feci
+Pi4ka-C,CPX
+Picolinic acid-F,Feci
+Picolinic acid-P,PLS
+Pign,CTX
 Pigv,CTX
-Pimelic acid,PLS
-Pimelic acid,Feci
-Pipecolic acid,PLS
-Pipecolic acid,Feci
-"Piperidine, 1-(1-methylpentyl)-",PLS
+Pimelic acid-F,Feci
+Pimelic acid-P,PLS
+Pipecolic acid-F,Feci
+Pipecolic acid-P,PLS
 Pja2,CPX
+Pja2,CTX
+Pja2-C,CPX
 Pkd2,CTX
 Pkn2,CPX
-Pknox2,CPX
+Pkn2-C,CPX
+Pknox2-C,CPX
 Pla2g3,CPX
+Pla2g3-C,CPX
 Plag1,CTX
 Plcb4,CPX
+Plcb4-C,CPX
 Plcg1,CTX
+Plekha3,CTX
 Plekhg5,CTX
 Plekhn1,CPX
+Plekhn1-C,CPX
 Plgrkt,CPX
+Plgrkt-C,CPX
+Plin2,CTX
 Plpp3,CTX
-Pmm2,CPX
+Pmm2-C,CPX
 Pnkp,CTX
-Pold1,CPX
+Pold1-C,CPX
 Pole,CTX
 Polr1c,CPX
+Polr1c-C,CPX
 Pomgnt1,CPX
+Pomgnt1-C,CPX
 Popdc3,CTX
-Por,CPX
-Ppfibp1,CPX
+Por-C,CPX
+Ppfibp1-C,CPX
 Ppil6,CTX
 Ppm1j,CTX
 Ppme1,CTX
 Ppp1r12a,CPX
+Ppp1r12a-C,CPX
 Ppp1r1b,CPX
+Ppp1r1b-C,CPX
 Ppp1r26,CTX
+Ppp1r3g,CTX
 Ppp4c,CPX
 Ppp5c,CPX
+Ppp5c-C,CPX
 Pqbp1,CPX
-"Pregn-16-en-20-one, 3,18-bis(acetyloxy)-14,15-epoxy-, (3beta,5alpha,14beta,15beta)-",PLS
-"Pregn-4-ene-3,20-dione, 16,17-epoxy-, (16alpha)",Feci
+Pqbp1-C,CPX
+Pramel1,CTX
+Prdm1,CTX
+Prdm10,CTX
+"Pregn-16-en-20-one, 3,18-bis(acetyloxy)-14,15-epoxy-, (3beta,5alpha,14beta,15beta)--P",PLS
+Prima1,CTX
 Prkaca,CPX
-"Propane, 2-methyl",Feci
-Propanedioic acid,Feci
-"Propanetriol, 2-methyl-",PLS
-"Propanoic acid, 2-hydroxy-3-phosphate-",Feci
-"Propanoic acid, 2-methyl-",PLS
-"Propanoic acid, 2-methyl-, hexyl ester",Feci
-"Propanoic acid, 2-oxo",Feci
-"Propanoic acid, 2-oxo-",PLS
-"Propiophenone, 3',4'-dimethoxy-",PLS
-Propylamine,Feci
-Propylamine,PLS
-Protocatechoic acid,Feci
-Prpf6,CPX
+Prkaca-C,CPX
+"Propane, 2-methyl-F",Feci
+Propanedioic acid-F,Feci
+"Propanetriol, 2-methyl--P",PLS
+"Propanoic acid, 2-hydroxy-3-phosphate--F",Feci
+"Propanoic acid, 2-methyl-, hexyl ester-F",Feci
+"Propanoic acid, 2-methyl--P",PLS
+"Propanoic acid, 2-oxo--P",PLS
+"Propanoic acid, 2-oxo-F",Feci
+"Propiophenone, 3',4'-dimethoxy--P",PLS
+Propylamine-F,Feci
+Propylamine-P,PLS
+Protocatechoic acid-F,Feci
+Prpf6-C,CPX
 Prxl2c,CPX
+Prxl2c-C,CPX
 Psd3,CTX
 Psip1,CPX
+Psip1-C,CPX
 Psma4,CPX
+Psma4-C,CPX
 Psmd10,CTX
 Psmd2,CTX
-Psmd3,CPX
+Psmd3-C,CPX
 Psmd8,CPX
+Psmd8-C,CPX
 Psme1,CTX
 Psmg3,CPX
+Psmg3-C,CPX
 Pstpip2,CTX
 Ptch2,CTX
 Pten,CPX
-Ptger1,CPX
+Pten-C,CPX
+Ptger1-C,CPX
 Ptges2,CPX
+Ptges2-C,CPX
 Pthlh,CPX
-Ptk2b,CPX
+Pthlh-C,CPX
 Ptk2b,CTX
+Ptk2b,CPX
+Ptk2b-C,CPX
 Ptpn4,CTX
-Pura,CPX
-Putrescine,Feci
+Pum1,CTX
+Pura-C,CPX
+Putrescine-F,Feci
 Pwp2,CTX
 Pycr2,CPX
-"Pyrazine, 3,6-dihydro-3,6-dimethyl-",PLS
-"Pyrazine, 3,6-dimethyl-2,5-bis(trimethylsilyloxy)-",PLS
-Pyridoxic acid,Feci
-Pyridoxine,Feci
-"Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-",PLS
-Pyrogallol,Feci
-Pyroglutamic acid,PLS
-Pyrrole-2-carboxylic acid,Feci
-Pyrrole-2-carboxylic acid,PLS
+Pycr2-C,CPX
+"Pyrazine, 3,6-dihydro-3,6-dimethyl--P",PLS
+"Pyrazine, 3,6-dimethyl-2,5-bis(trimethylsilyloxy)--P",PLS
+Pyridoxic acid-F,Feci
+Pyridoxine-F,Feci
+"Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]--P",PLS
+Pyrogallol-F,Feci
+Pyroglutamic acid-P,PLS
+Pyrrole-2-carboxylic acid-F,Feci
+Pyrrole-2-carboxylic acid-P,PLS
+Qng1,CTX
 Qser1,CPX
-Quazodine,PLS
-"Quinolin-4-one, 1-[2-(3,4-dimethoxyphenyl)ethyl]-octahydro-",PLS
-Rab11fip5,CPX
+Qser1-C,CPX
+Quazodine-P,PLS
+"Quinolin-4-one, 1-[2-(3,4-dimethoxyphenyl)ethyl]-octahydro--P",PLS
+R3hdm1,CTX
+Rab11fip5-C,CPX
 Rab24,CTX
 Rab36,CTX
 Rab40c,CTX
-Rab5a,CPX
+Rab5a-C,CPX
 Rab5c,CPX
+Rab5c-C,CPX
 Rad50,CPX
-Rad54l2,CPX
+Rad50-C,CPX
+Rad54l2,CTX
+Rad54l2-C,CPX
 Ralgapa2,CPX
-Ramac,CPX
+Ralgapa2-C,CPX
+Ramac-C,CPX
+Rarb,CTX
 Rasa2,CTX
-Rassf4,CPX
-Rbm20,CPX
-Rbm27,CPX
+Rassf4-C,CPX
+Rbm20-C,CPX
+Rbm27-C,CPX
 Rbm7,CTX
-Rdx,CPX
-Recql5,CPX
+Rdh11,CTX
+Rdx-C,CPX
+Recql5-C,CPX
 Repin1,CPX
+Repin1-C,CPX
 Rfx1,CTX
 Rfxank,CTX
+Rgs17,CTX
 Rgs5,CTX
-Rgs7,CPX
+Rgs7-C,CPX
 Rhebl1,CTX
-Rhob,CPX
-Ribitol,Feci
-Ribitol,PLS
-Ribonic acid,Feci
-"Ribonic acid, 2,3,4,5-tetrakis-",PLS
+Rhob-C,CPX
+Ribitol-F,Feci
+Ribitol-P,PLS
+"Ribonic acid, 2,3,4,5-tetrakis--P",PLS
+Ribonic acid-F,Feci
 Ric3,CPX
-Rif1,CPX
+Ric3-C,CPX
+Rif1-C,CPX
 Rlbp1,CPX
 Rmnd5b,CPX
+Rmnd5b-C,CPX
 Rnasel,CPX
+Rnasel-C,CPX
 Rnaset2b,CTX
 Rnf13,CTX
-Rnf187,CPX
+Rnf187-C,CPX
 Ro60,CPX
+Ro60-C,CPX
 Rock1,CPX
+Rock1-C,CPX
 Rom1,CTX
 Rora,CPX
+Rora-C,CPX
+Rpap2,CTX
 Rpgr,CTX
-Rpl18a,CPX
+Rpl18a-C,CPX
 Rpl28-ps1,CTX
 Rpl31,CTX
-Rpl37,CPX
+Rpl37,CTX
+Rpl37-C,CPX
 Rpl8,CTX
-Rplp1,CPX
+Rplp1-C,CPX
 Rpn2,CPX
+Rpn2,CTX
+Rpn2-C,CPX
 Rpp30,CPX
+Rpp30-C,CPX
+Rps13-ps5,CTX
 Rps26,CTX
 Rps9,CTX
+Rsad1,CTX
 Rtkn,CPX
+Rtkn-C,CPX
 Rtl8b,CTX
-Ruvbl1,CPX
-Rwdd3,CPX
-S-Methyl-L-cysteine,PLS
-S100a8,CPX
-Salsoline,PLS
-Salsoline,Feci
+Ruvbl1-C,CPX
+Rwdd3-C,CPX
+Rxrb,CTX
+S-Methyl-L-cysteine-P,PLS
+S100a8-C,CPX
+Sall1,CTX
+Salsoline-F,Feci
+Salsoline-P,PLS
 Samd14,CPX
+Samd14-C,CPX
 Samd5,CTX
+Scaf4,CTX
 Scarf1,CTX
 Scg5,CPX
+Scg5-C,CPX
 Scp2-ps2,CPX
+Scp2-ps2-C,CPX
 Scrib,CPX
+Scrib-C,CPX
 Scrt2,CTX
 Scyl1,CPX
+Scyl1-C,CPX
+Sdc1,CTX
 Sdhb,CTX
 Sdr39u1,CTX
-Sebacic acid,Feci
+Sebacic acid-F,Feci
 Sec24a,CTX
-Sec62,CPX
+Sec62-C,CPX
 Secisbp2l,CPX
-Sedoheptulose anhydride,Feci
-Sema3g,CPX
-Sema6a,CPX
+Secisbp2l-C,CPX
+Sedoheptulose anhydride-F,Feci
+Sema3g-C,CPX
+Sema6a-C,CPX
 Sema6c,CTX
-Ser-Leu,Feci
-Ser-Leu,PLS
+Senp7,CTX
+Ser-Leu-F,Feci
+Ser-Leu-P,PLS
 Serbp1,CPX
-Serine,Feci
-Serine,PLS
-Serp2,CPX
+Serbp1-C,CPX
+Serine-F,Feci
+Serine-P,PLS
+Serp2-C,CPX
 Serpina3n,CTX
 Serpinb1b,CTX
 Serpinb8,CPX
-Sertraline carbamoyl glucuronide,PLS
-Sesn3,CPX
+Serpinb8-C,CPX
+Sertraline carbamoyl glucuronide-P,PLS
+Sesn3-C,CPX
 Setbp1,CPX
+Setbp1-C,CPX
 Setd2,CTX
 Setx,CPX
-Sfi1,CPX
+Setx-C,CPX
+Sfi1-C,CPX
 Sgf29,CTX
+Sh2b1,CTX
 Sh2b3,CPX
 Sh3bgrl,CPX
+Sh3bgrl-C,CPX
 Sh3bgrl2,CPX
-Shb,CPX
+Sh3bgrl2-C,CPX
+Shb-C,CPX
 Shc1,CPX
+Shc1-C,CPX
 Shfl,CPX
+Shfl-C,CPX
 Shh,CTX
+Shisa9,CTX
 Shoc2,CPX
+Shoc2-C,CPX
 Sigirr,CTX
-Silc1,CPX
-Sin3a,CPX
-Sinapinic acid,Feci
-Sinomenin,PLS
-Slain2,CPX
+Silc1-C,CPX
+Sin3a-C,CPX
+Skic3,CTX
+Slain2-C,CPX
 Slc13a5,CTX
-Slc16a7,CPX
-Slc17a5,CPX
+Slc16a7-C,CPX
+Slc17a5-C,CPX
+Slc18a1,CTX
+Slc1a2,CTX
+Slc22a17,CTX
 Slc22a17,CPX
+Slc22a17-C,CPX
 Slc25a12,CTX
 Slc25a13,CPX
-Slc25a16,CPX
-Slc25a20,CPX
+Slc25a13-C,CPX
+Slc25a16-C,CPX
+Slc25a20-C,CPX
 Slc25a26,CPX
+Slc25a26-C,CPX
 Slc29a4,CPX
+Slc29a4-C,CPX
 Slc2a2,CPX
+Slc2a2-C,CPX
 Slc2a4rg-ps,CTX
 Slc35a3,CPX
+Slc35a3-C,CPX
 Slc38a9,CTX
-Slc44a1,CPX
+Slc44a1-C,CPX
 Slc7a11,CTX
 Slc7a14,CTX
 Slf2,CTX
 Slk,CPX
+Slk-C,CPX
 Smarca2,CPX
+Smarca2-C,CPX
 Smarca5,CPX
-Smc4,CPX
+Smarca5-C,CPX
+Smc4-C,CPX
 Smc6,CPX
+Smc6-C,CPX
 Smco3,CTX
 Smim10l1,CPX
+Smim10l1-C,CPX
 Smim15,CPX
-Smpdl3b,CPX
-Smurf1,CPX
+Smim15-C,CPX
+Smim24,CTX
+Smpdl3b-C,CPX
+Smurf1-C,CPX
 Smyd2,CPX
+Smyd2-C,CPX
 Smyd5,CTX
-Sncg,CPX
 Sncg,CTX
+Sncg-C,CPX
+Snip1,CTX
 Snora35,CPX
+Snora35-C,CPX
 Snrnp48,CPX
-Sntb2,CPX
+Snrnp48-C,CPX
+Sntb2-C,CPX
+Sntg1,CTX
 Snx22,CTX
+Soat1,CTX
 Socs5,CTX
 Sox13,CPX
+Sox13-C,CPX
 Sox30,CTX
 Sp3,CTX
-Sp4,CPX
 Sp4,CTX
-Spata13,CPX
+Sp4,CPX
+Sp4-C,CPX
+Spata13-C,CPX
+Spata24,CTX
 Spata7,CTX
-"Spiro[cyclopenta[d]-1,3,2-dioxaborin-4(5H),1'-cyclopentane], 2-ethyl-6,7-dihydro-",PLS
+"Spiro[cyclopenta[d]-1,3,2-dioxaborin-4(5H),1'-cyclopentane], 2-ethyl-6,7-dihydro--P",PLS
+Spns1,CTX
+Spopl,CTX
+Spp2,CTX
 Sppl3,CPX
+Sppl3-C,CPX
+Spsb2,CTX
 Sptan1,CPX
+Sptan1-C,CPX
 Sqstm1,CTX
-Src,CPX
+Src-C,CPX
+Srcap,CTX
 Srebf2,CPX
+Srebf2-C,CPX
 Srprb,CTX
 Ss18,CTX
 St14,CTX
 St6galnac4,CPX
+St6galnac4-C,CPX
 St8sia2,CPX
 St8sia6,CTX
 Stag2,CPX
-Stat3,CPX
+Stag2-C,CPX
+Stard4,CTX
+Stat3-C,CPX
 Steap3,CTX
-Stearic acid,PLS
-Stearic acid,Feci
-"Stigmast-5-ene, 3beta",Feci
-"Stigmast-5-ene, 3beta-",PLS
+Stearic acid-F,Feci
+Stearic acid-P,PLS
+"Stigmast-5-ene, 3beta--P",PLS
+"Stigmast-5-ene, 3beta-F",Feci
+Sting1,CTX
 Stk26,CPX
-Strada,CPX
+Stk26-C,CPX
+Stk32c,CTX
+Strada-C,CPX
 Stxbp4,CPX
-Suberic acid,Feci
-Suberic acid,PLS
-Succinic anhydride,PLS
+Stxbp4-C,CPX
+Suberic acid-F,Feci
+Suberic acid-P,PLS
+Succinic anhydride-P,PLS
 Suclg2,CPX
-Sufu,CPX
-Sulf2,CPX
-Supraene,Feci
-Supraene,PLS
+Suclg2-C,CPX
+Sufu-C,CPX
+Sulf2-C,CPX
+Supraene-F,Feci
+Supraene-P,PLS
 Suz12,CPX
+Suz12-C,CPX
 Svil,CTX
-Sympk,CPX
-Synm,CPX
+Sympk-C,CPX
+Synm-C,CPX
+Synpo2,CTX
 Sypl2,CTX
-Syringaldehyde,Feci
-Syringaldehyde,PLS
-Syringic acid,Feci
+Syringaldehyde-F,Feci
+Syringaldehyde-P,PLS
+Syringic acid-F,Feci
 Syt17,CPX
+Syt17-C,CPX
 Sytl2,CPX
-"Tacrine, N-trimethylsilyl-",PLS
-Tada1,CPX
+Sytl2-C,CPX
+Taco1os,CTX
+"Tacrine, N-trimethylsilyl--P",PLS
+Tada1-C,CPX
 Taf1b,CTX
 Tagln2,CPX
-"Talonic acid, gamma-lactone",PLS
+Tagln2-C,CPX
+"Talonic acid, gamma-lactone-P",PLS
 Tarbp1,CTX
-Tartronic acid,PLS
+Tartronic acid-P,PLS
 Tatdn2,CPX
+Tatdn2-C,CPX
 Tax1bp3,CPX
-Tbc1d2,CPX
+Tax1bp3-C,CPX
+Tbc1d2-C,CPX
 Tbc1d30,CTX
-Tbck,CPX
+Tbcb,CTX
+Tbck-C,CPX
+Tbx3os1,CTX
 Tcea1-ps1,CTX
 Tceal3,CTX
 Tceanc,CPX
-Telo2,CPX
+Tceanc-C,CPX
+Tcf23,CTX
+Tcf4,CTX
+Telo2-C,CPX
+Tet1,CTX
 Tet1,CPX
-Tetradecanenitrile,PLS
-Tetrahydrogeranyl formate,Feci
-Tetrahydrolinalool,Feci
+Tet1-C,CPX
+Tetradecanenitrile-P,PLS
+Tetrahydrogeranyl formate-F,Feci
+Tetrahydrolinalool-F,Feci
 Tfip11,CTX
 Thap11,CTX
-"Thiazolo[4,5-f]quinoline, 2,9-dimethyl-",PLS
-Thr-Leu,Feci
+"Thiazolo[4,5-f]quinoline, 2,9-dimethyl--P",PLS
+Thoc3,CTX
+Thr-Leu-F,Feci
 Thra,CPX
-Thymidine,Feci
-Thymidine,PLS
-"Thymidine, 5'-phosphate",Feci
-"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-",PLS
-"Thymine, 1,3-dimethyl-6-hydroxymethyl",Feci
-Thyn1,CPX
-Tkt,CPX
+Thra-C,CPX
+Thumpd1,CTX
+"Thymidine, 5'-phosphate-F",Feci
+Thymidine-F,Feci
+Thymidine-P,PLS
+"Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)--P",PLS
+"Thymine, 1,3-dimethyl-6-hydroxymethyl-F",Feci
+Thyn1-C,CPX
+Tkt-C,CPX
 Tle5,CTX
 Tm9sf3,CPX
+Tm9sf3-C,CPX
+Tmem100,CTX
 Tmem104,CTX
+Tmem132c,CTX
+Tmem138,CTX
 Tmem161b,CPX
-Tmem167,CPX
+Tmem161b-C,CPX
+Tmem167-C,CPX
 Tmem184c,CPX
+Tmem184c-C,CPX
 Tmem203,CPX
+Tmem203-C,CPX
 Tmem204,CPX
+Tmem204-C,CPX
 Tmem229b,CPX
 Tmem229b,CTX
+Tmem229b-C,CPX
+Tmem232,CTX
+Tmem242,CTX
 Tmem250,CTX
 Tmem259,CPX
+Tmem259-C,CPX
 Tmem62,CPX
+Tmem62-C,CPX
 Tmem80,CPX
-Tmem87a,CPX
+Tmem80-C,CPX
+Tmem82,CTX
+Tmem87a-C,CPX
+Tmem8b,CTX
 Tmtc4,CTX
 Tnfrsf19,CTX
 Tnfrsf1b,CPX
+Tnfrsf1b-C,CPX
 Tnfsf13os,CPX
-Tomm22,CPX
+Tnfsf13os-C,CPX
+Tnrc18,CTX
+Tomm22-C,CPX
 Tomm34,CPX
+Tomm34-C,CPX
 Top1,CPX
+Top1-C,CPX
 Topbp1,CPX
+Topbp1-C,CPX
 Tor1aip1,CTX
-Tppp3,CPX
-Tpr,CPX
-Trabd,CPX
+Tppp3-C,CPX
+Tpr-C,CPX
+Trabd-C,CPX
 Trappc14,CPX
+Trappc14-C,CPX
 Trdmt1,CTX
 Trib1,CTX
-Tributyl acetylcitrate,PLS
-Tricine,PLS
-Tricine,Feci
-Triethanolamine,Feci
-Triethanolamine,PLS
-"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",Feci
-"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate",PLS
-Trimethylsilyl 3-((trimethylsilyl)thio)propanoate,PLS
-Trimethylsilyl oct-2-enoate,PLS
-Trimidox,PLS
-Tripropylene glycol monomethyl ether,Feci
-Tris(trimethylsilyl)carbamate,PLS
-Trisaminol,Feci
-Trisaminol,PLS
-Trpc4ap,CPX
+Tributyl acetylcitrate-P,PLS
+Tricine-F,Feci
+Triethanolamine-F,Feci
+Triethanolamine-P,PLS
+"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate-F",Feci
+"Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate-P",PLS
+Trimethylsilyl 3-((trimethylsilyl)thio)propanoate-P,PLS
+Trimethylsilyl oct-2-enoate-P,PLS
+Trimidox-P,PLS
+Trip11,CTX
+Tripropylene glycol monomethyl ether-F,Feci
+Tris(trimethylsilyl)carbamate-P,PLS
+Trisaminol-F,Feci
+Trisaminol-P,PLS
+Trp53bp2,CTX
+Trpc4ap-C,CPX
 Trpv4,CTX
 Tsc22d1,CPX
+Tsc22d1-C,CPX
 Tsen34,CTX
-Tspan9,CPX
+Tspan9-C,CPX
 Ttc8,CTX
 Ttf1,CPX
+Ttf1-C,CPX
+Tubb2a,CTX
 Tubg2,CTX
 Tulp3,CTX
 Tulp4,CPX
+Tulp4-C,CPX
 Twsg1,CPX
-Txnrd2,CPX
-Tyrosine,Feci
-UNKNOWN,CPX
+Txnrd2-C,CPX
+Tyrosine-F,Feci
 UNKNOWN,CTX
+UNKNOWN-C,CPX
+Ubb,CTX
 Ubc,CPX
+Ubc-C,CPX
 Ube2m,CPX
+Ube2m-C,CPX
 Ube2q2,CPX
-Ube3c,CPX
+Ube2q2-C,CPX
+Ube3c-C,CPX
 Ubl3,CPX
+Ubl3-C,CPX
 Ubr5,CTX
-Undecanoic acid,Feci
-Upf2,CPX
-Uqcc5,CPX
-Uracil,Feci
-Uracil,PLS
-Urea,PLS
-Urea,Feci
-Uridine,Feci
-Uridine,PLS
+Undecanoic acid-F,Feci
+Unk,CTX
+Upf2-C,CPX
+Uqcc5-C,CPX
+Uracil-F,Feci
+Uracil-P,PLS
+Urea-F,Feci
+Urea-P,PLS
+Uridine-F,Feci
+Uridine-P,PLS
 Urm1,CTX
 Uros,CPX
+Uros-C,CPX
 Usf3,CPX
+Usf3-C,CPX
 Usp9x,CPX
+Usp9x-C,CPX
 Utp20,CTX
 Uty,CTX
-Valylglycine,PLS
-Valylglycine,Feci
-Valylvaline,Feci
-Vangl1,CPX
-Vanillin,Feci
-Vanillylmandelic acid,PLS
-Vmp1,CPX
+Valylglycine-P,PLS
+Valylvaline-F,Feci
+Vangl1-C,CPX
+Vanillin-F,Feci
+Vanillylmandelic acid-P,PLS
+Vash2,CTX
+Vcpip1,CTX
+Vmac,CTX
+Vmp1-C,CPX
 Vps13a,CTX
-Vps13b,CPX
+Vps13b-C,CPX
 Vps13c,CTX
 Vps13d,CTX
 Vps36,CPX
+Vps36-C,CPX
 Vps37d,CPX
+Vps37d-C,CPX
 Vps39,CTX
+Vps4a,CTX
 Wapl,CPX
+Wapl-C,CPX
 Wasl,CPX
+Wasl-C,CPX
 Wbp1,CTX
 Wbp11,CPX
+Wbp11-C,CPX
 Wbp4,CPX
+Wbp4-C,CPX
 Wdr27,CTX
 Wdr47,CTX
 Wdr6,CPX
-Wrn,CPX
+Wrn-C,CPX
 Wwc2,CTX
+Wwp1,CTX
 Xaf1,CPX
-Xanthine,Feci
-Xpc,CPX
+Xaf1-C,CPX
+Xanthine-F,Feci
+Xpc-C,CPX
 Xpnpep1,CTX
 Xpr1,CTX
-Xylazine,Feci
-Xylazine,PLS
-Xylitol,PLS
-"Xylonic acid, delta-lactone",Feci
-Xylose,Feci
-Xylose,PLS
+Xylazine-F,Feci
+Xylazine-P,PLS
+Xylitol-P,PLS
+"Xylonic acid, delta-lactone-F",Feci
+Xylose-F,Feci
+Xylose-P,PLS
 Yars1,CTX
 Yars1,CPX
+Ybx1,CTX
 Ylpm1,CPX
+Ylpm1-C,CPX
 Ywhah,CTX
 Zbtb11os1,CPX
+Zbtb11os1-C,CPX
+Zbtb37,CTX
 Zbtb37,CPX
+Zbtb37-C,CPX
 Zbtb44,CTX
 Zbtb45,CTX
 Zbtb7a,CPX
+Zbtb7a-C,CPX
 Zc3h11a,CTX
 Zc3h12c,CTX
 Zc3hc1,CTX
 Zcchc12,CTX
 Zcwpw2,CTX
+Zdhhc9,CTX
 Zfp1007,CPX
+Zfp1007-C,CPX
 Zfp217,CPX
-Zfp219,CPX
+Zfp217-C,CPX
+Zfp219-C,CPX
 Zfp27,CPX
-Zfp300,CPX
-Zfp322a,CPX
-Zfp358,CPX
-Zfp36l2,CPX
+Zfp27-C,CPX
+Zfp300-C,CPX
+Zfp322a-C,CPX
+Zfp358-C,CPX
+Zfp36l2-C,CPX
 Zfp382,CTX
-Zfp383,CPX
+Zfp383-C,CPX
 Zfp469,CTX
 Zfp523,CTX
-Zfp638,CPX
 Zfp638,CTX
-Zfp654,CPX
+Zfp638,CPX
+Zfp638-C,CPX
+Zfp654-C,CPX
+Zfp664,CTX
 Zfp677,CTX
 Zfp689,CTX
 Zfp704,CTX
 Zfp738,CTX
 Zfp74,CTX
 Zfp768,CPX
-Zfp78,CPX
+Zfp768-C,CPX
+Zfp78-C,CPX
 Zfp799,CTX
 Zfp869,CTX
 Zfp874a,CTX
-Zfp879,CPX
+Zfp879-C,CPX
 Zfp975,CPX
+Zfp975-C,CPX
 Zgrf1,CTX
 Zhx1,CPX
-Zic2,CPX
+Zhx1-C,CPX
+Zic2-C,CPX
 Zkscan8,CPX
-Zmat5,CPX
+Zkscan8-C,CPX
+Zmat5-C,CPX
 Zmym6,CTX
 Zpr1,CTX
 Zranb2,CTX
 Zscan29,CTX
-alpha-D-(+)-Talopyranose,Feci
-alpha-D-Xylopyranose,Feci
-alpha-Ketoisovaleric acid,Feci
-alpha-L-(-)-Fucopyranose,Feci
-"alpha-L-Galactopyranoside, methyl 6-deoxy-, (R,R,R,S,S)-",PLS
-alpha-Linolenic acid,Feci
-alpha-Linolenic acid,PLS
-alpha-Tocopherol,PLS
-alpha-Tocopheryl acetate,Feci
-beta-Alanine,Feci
-beta-Arabinopyranose,Feci
-beta-D-(-)-Ribopyranose,Feci
-"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-",PLS
-"beta-D-Galactopyranoside, methyl-, acetate",Feci
-beta-D-Glucopyranose,PLS
-beta-Hydroxypyruvic acid,PLS
-beta-Lyxopyranose,PLS
-beta-Methylphenethylamine,PLS
-"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-",PLS
-"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy",Feci
-"cis,cis,cis-1-Isobutyl-2,5-dimethylcyclohexane",Feci
-"cis-4,5-Dihydroxy-o-dithiane",Feci
-"cis-4,5-Dihydroxy-o-dithiane, 2O-",PLS
-cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,PLS
-cyclobutanecarboxylic acid,PLS
-d-Erythrotetrofuranose,Feci
-l-Histidine ethyl ester,PLS
-l-Leucyl-l-valine,Feci
-meso-Erythritol,PLS
-mt-Cytb,CPX
-mt-Nd2,CPX
+alpha-D-(+)-Talopyranose-F,Feci
+alpha-D-Xylopyranose-F,Feci
+alpha-Ketoisovaleric acid-F,Feci
+alpha-L-(-)-Fucopyranose-F,Feci
+"alpha-L-Galactopyranoside, methyl 6-deoxy-, (R,R,R,S,S)--P",PLS
+alpha-Linolenic acid-F,Feci
+alpha-Linolenic acid-P,PLS
+alpha-Tocopherol-P,PLS
+alpha-Tocopheryl acetate-F,Feci
+beta-Alanine-F,Feci
+beta-Arabinopyranose-F,Feci
+beta-D-(-)-Ribopyranose-F,Feci
+"beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)--P",PLS
+"beta-D-Galactopyranoside, methyl-, acetate-F",Feci
+beta-D-Glucopyranose-P,PLS
+beta-Hydroxypyruvic acid-P,PLS
+beta-Lyxopyranose-P,PLS
+beta-Methylphenethylamine-P,PLS
+"beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)--P",PLS
+"beta-d-Glucopyranose, 2-(acetylamino)-3,6-anhydro-2-deoxy-F",Feci
+"cis,cis,cis-1-Isobutyl-2,5-dimethylcyclohexane-F",Feci
+"cis-4,5-Dihydroxy-o-dithiane, 2O--P",PLS
+"cis-4,5-Dihydroxy-o-dithiane-F",Feci
+cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate-P,PLS
+cyclobutanecarboxylic acid-P,PLS
+d-Erythrotetrofuranose-F,Feci
+l-Histidine ethyl ester-P,PLS
+l-Leucyl-l-valine-F,Feci
+mt-Cytb-C,CPX
+mt-Nd2-C,CPX
 mt-Tv,CPX
-n-Butylamine,PLS
-n-Nonylcyclohexane,Feci
-n-Pentadecanol,PLS
-p-Hydroxydiisopropylbenzene,PLS
-p-Toluic acid,PLS
-phenoxyethanol,Feci
-phenoxyethanol,PLS
-pyrazole,Feci
-trans-Coniferryl alchool,Feci
+n-Butylamine-P,PLS
+n-Nonylcyclohexane-F,Feci
+n-Pentadecanol-P,PLS
+p-Hydroxydiisopropylbenzene-P,PLS
+p-Toluic acid-P,PLS
+phenoxyethanol-F,Feci
+phenoxyethanol-P,PLS
+pyrazole-F,Feci
+trans-Coniferryl alchool-F,Feci
