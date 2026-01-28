@@ -19,6 +19,7 @@ L-Serine-F,Cytosine-F
 L-Serine-F,L-(+)-Rhamnopyranose-F
 L-Serine-F,L-Valine-F
 N-Acetylglucosamine-F,"(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile-F"
+N-Acetylglucosamine-F,"D-(+)-Ribono-1,4-lactone-F"
 Niacinamide-F,"2,6-Di-O-methyl-d-galactopyranose-F"
 Niacinamide-F,"2-Pentenedioic acid, 2-hydroxy--F"
 Niacinamide-F,Methylsuccinic acid-F
@@ -39,11 +40,14 @@ Xanthine-F,Pyrogallol-F
 "(2,2-Dimethyl-5-[2-(2-ethoxymethoxy)propyl][1,3]dioxolan-4-yl)methanol-F",D-Mannopyranose-F
 "(2,2-Dimethyl-5-[2-(2-ethoxymethoxy)propyl][1,3]dioxolan-4-yl)methanol-F",L-(+)-Rhamnopyranose-F
 "(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile-F",alpha-D-(+)-Talopyranose-F
+"(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile-F","D-(+)-Ribono-1,4-lactone-F"
 "(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile-F","Gulonic acid, gamma-lactone-F"
+"(4,4-Dimethyl-5-methylene-4,5-dihydro-3H-pyrrol-2-yl)-(4,4-dimethyl-5-methylene-pyrrolidin-2-ylidene)-acetonitrile-F",Idoxuridine-F
 "1,3-Dioxane, 2,2-dimethyl-5-hydroxy--F","2,3-Dihydroxy-2-methylpropanoic acid-F"
 "1,5-Anhydroglucitol-F",17-alpha-Hydroxypregnenolone-F
 "1,5-Anhydroglucitol-F",5-Hydroxymethyl-2-furoic acid-F
 "1,5-Anhydroglucitol-F",D-(+)-Glucosamine-F
+"1,5-Anhydroglucitol-F",Pantothenic acid-F
 "1,7-Dimethyl-4-(1-methylethyl)cyclodecane-F","Methyl galactoside (1S,2S,3S,4R,5R)-F"
 "1,7-Dimethyl-4-(1-methylethyl)cyclodecane-F",Octadecyl octyl ether-F
 11-Hydroxy-.DELTA.-9-tetrahydrocannabinol-F,2'-Deoxyribolactone-F
@@ -104,6 +108,7 @@ Xanthine-F,Pyrogallol-F
 "2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-F",Pimelic acid-F
 "2,5-Dimethoxymandelic acid-F",alpha-D-Xylopyranose-F
 "2,5-Dimethoxymandelic acid-F",l-Leucyl-l-valine-F
+"2,5-Dimethoxyphenol-F","2-Allyl-1,4-dimethoxybenzene-F"
 "2,5-Dimethoxyphenol-F",2-Hydroxy-3-methylbutyric acid-F
 "2,5-Dimethoxyphenol-F","3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-F"
 "2,5-Dimethoxyphenol-F",Syringaldehyde-F
@@ -111,7 +116,11 @@ Xanthine-F,Pyrogallol-F
 "2,6-Di-O-methyl-d-galactopyranose-F","2-Pentenedioic acid, 2-hydroxy--F"
 "2,6-Di-O-methyl-d-galactopyranose-F",L-Glutamic acid-F
 "2,6-Di-O-methyl-d-galactopyranose-F",Methylsuccinic acid-F
+"2,6-Di-O-methyl-d-galactopyranose-F",Pantothenic acid-F
 "2,6-Di-O-methyl-d-galactopyranose-F",Syringic acid-F
+"2-Allyl-1,4-dimethoxybenzene-F",3-Hexenedioic acid-F
+"2-Allyl-1,4-dimethoxybenzene-F",4-Pyridinol-F
+"2-Allyl-1,4-dimethoxybenzene-F",Syringaldehyde-F
 2-Aminoadipic acid-F,"Pentanoic acid, 4-methyl-2-oxo--F"
 2-Aminobutanoic acid-F,4-Coumaric acid-F
 "2-Butenoic acid, 2-hydroxy--F",3-Deoxyhexitol-F
@@ -140,8 +149,10 @@ Xanthine-F,Pyrogallol-F
 2-Ethylhexanoic acid-F,D-Mannopyranose-F
 2-Ethylhexanoic acid-F,Phenol-F
 "2-Furanacetaldehyde, tetrahydro-alpha-F",Dehydroabietic acid-F
+"2-Furanacetaldehyde, tetrahydro-alpha-F",Idoxuridine-F
 "2-Furanacetaldehyde, tetrahydro-alpha-F",Oxalic acid-F
 "2-Furanacetaldehyde, tetrahydro-alpha-F",Serine-F
+2-Hydroxy-3-methylbutyric acid-F,2-tert-Butyl-4-ethylphenol-F
 2-Hydroxy-3-methylbutyric acid-F,6-Hydroxyhexanoic acid-F
 2-Hydroxy-3-methylbutyric acid-F,Decanoic acid-F
 2-Hydroxy-3-methylbutyric acid-F,Glycerol tricaprylate-F
@@ -150,12 +161,19 @@ Xanthine-F,Pyrogallol-F
 2-Palmitoylglycerol-F,3-Deoxyhexitol-F
 2-Palmitoylglycerol-F,9-Octadecen-1-ol-F
 "2-Pentenedioic acid, 2-hydroxy--F",L-Glutamic acid-F
+"2-Pentenedioic acid, 2-hydroxy--F",Pantothenic acid-F
 2-Pentenedioic acid-F,4-Methoxyphenol-F
 2-Pentenedioic acid-F,phenoxyethanol-F
 2-Piperidinone-F,5-Aminovaleric acid-F
 2-Piperidinone-F,Butanedioic acid-F
 2-Piperidinone-F,"Thymine, 1,3-dimethyl-6-hydroxymethyl-F"
 "2-Propenoic acid, 2-hydroxy-3-(4-hydroxyphenyl)-F",4-Hydroxybenzaldehyde-F
+2-tert-Butyl-4-ethylphenol-F,4-hydroxy-3-penten-2-one-F
+2-tert-Butyl-4-ethylphenol-F,Arabinitol-F
+2-tert-Butyl-4-ethylphenol-F,Lignoceric acid-F
+2-tert-Butyl-4-ethylphenol-F,Phenol-F
+2-tert-Butyl-4-ethylphenol-F,phenoxyethanol-F
+2-tert-Butyl-4-ethylphenol-F,Sebacic acid-F
 3-(3-Hydroxyphenyl)propanoic acid-F,Cyclohexanemethanol-F
 3-(3-Hydroxyphenyl)propanoic acid-F,Dodecanamide-F
 3-(3-Hydroxyphenyl)propanoic acid-F,L-Valyl-L-leucine-F
@@ -235,6 +253,7 @@ Benzoic Acid-F,Pyridoxic acid-F
 Benzoic Acid-F,Stearic acid-F
 beta-Alanine-F,L-Glutamic acid-F
 beta-Alanine-F,N-Acetyl-L-glutamic acid-F
+beta-Alanine-F,Pantothenic acid-F
 beta-Alanine-F,Thymidine-F
 beta-D-(-)-Ribopyranose-F,"Erythrono-1,4-lactone-F"
 beta-D-(-)-Ribopyranose-F,Syringaldehyde-F
@@ -260,7 +279,9 @@ D-(-)-Ribofuranose-F,Lignoceric acid-F
 D-(+)-Glucosamine-F,L-Valine-F
 D-(+)-Glucosamine-F,Methylsuccinic acid-F
 D-(+)-Glucosamine-F,N-Ethyldiethanolamine-F
+D-(+)-Glucosamine-F,Pantothenic acid-F
 D-(+)-Glucosamine-F,trans-Coniferryl alchool-F
+"D-(+)-Ribono-1,4-lactone-F",Syringaldehyde-F
 D-(+)-Talofuranose-F,Decanoic acid-F
 D-Allofuranose-F,Octadecyl octyl ether-F
 D-Arabinose-F,"Hexadecanoic acid, 4-hydroxybutyl ester-F"
@@ -280,6 +301,7 @@ Dihydrouracil-F,"Propanoic acid, 2-oxo-F"
 DL-Phenylalanine-F,L-Isoleucine-F
 DL-Phenylalanine-F,Phenylalanine-F
 DL-Phenylalanine-F,Uracil-F
+"Erythrono-1,4-lactone-F",Idoxuridine-F
 "Erythrono-1,4-lactone-F",Syringaldehyde-F
 Ethyl glycolate-F,L-(+)-Lactic acid-F
 Ethyl glycolate-F,Trisaminol-F
@@ -307,6 +329,8 @@ Heptadecanoic acid-F,Sebacic acid-F
 "Hexadecanoic acid, tetradecyl ester-F",Methyl beta-Arabinofuranoside-F
 Hydracrylic acid-F,L-(-)-Sorbofuranose-F
 Hydracrylic acid-F,Methylsuccinic acid-F
+Idoxuridine-F,"Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate-F"
+Idoxuridine-F,Tricine-F
 "Inosose-2, myo-F",trans-Coniferryl alchool-F
 Isocitric acid lactone-F,L-Aspartic acid-F
 Isocitric acid lactone-F,Norketamine-F
@@ -316,6 +340,7 @@ L-(-)-Sorbofuranose-F,L-Glutamic acid-F
 L-(-)-Sorbofuranose-F,Methylsuccinic acid-F
 L-(-)-Sorbofuranose-F,"N,N-Diethyl-2-aminoethanol-F"
 L-(-)-Sorbofuranose-F,Niacin-F
+L-(-)-Sorbofuranose-F,Pantothenic acid-F
 L-(+)-Lactic acid-F,Lactic Acid-F
 L-(+)-Lactic acid-F,"Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate-F"
 L-(+)-Lactic acid-F,Pimelic acid-F
@@ -323,9 +348,11 @@ L-(+)-Lactic acid-F,"Propanoic acid, 2-oxo-F"
 L-(+)-Rhamnopyranose-F,Palmitelaidic acid-F
 L-(+)-Rhamnopyranose-F,"Pentanoic acid, 4-methyl-2-oxo--F"
 L-5-Oxoproline-F,L-Glutamic acid-F
+L-5-Oxoproline-F,Pantothenic acid-F
 L-5-Oxoproline-F,Syringic acid-F
 L-Glutamic acid-F,Methylsuccinic acid-F
 L-Glutamic acid-F,N-Acetyl-L-glutamic acid-F
+L-Glutamic acid-F,Pantothenic acid-F
 L-Glutamic acid-F,Syringic acid-F
 L-Isoleucine-F,Phenylalanine-F
 L-Isoleucine-F,Serine-F
@@ -340,6 +367,7 @@ Methyl 2-acetamido-2-deoxy-3-O-methyl-alpha-D-galactopyranoside-F,Monolaurin-F
 Methyl stearate-F,Pentadecanoic acid-F
 Methyl stearate-F,Tetrahydrogeranyl formate-F
 Methylsuccinic acid-F,N-Ethyldiethanolamine-F
+Methylsuccinic acid-F,Pantothenic acid-F
 Methylsuccinic acid-F,Syringic acid-F
 Monolaurin-F,"Xylonic acid, delta-lactone-F"
 Monolaurin-F,Xylose-F
@@ -350,6 +378,8 @@ N-Acetyl-L-glutamic acid-F,Niacin-F
 Nonadecanoic acid-F,Sebacic acid-F
 Nonanoic acid-F,Undecanoic acid-F
 Palmitelaidic acid-F,Vanillin-F
+Pantothenic acid-F,Sebacic acid-F
+Pantothenic acid-F,Syringic acid-F
 Pentanoic acid-F,Tetrahydrogeranyl formate-F
 Phenylalanine-F,Serine-F
 Phenylalanine-F,Tyrosine-F

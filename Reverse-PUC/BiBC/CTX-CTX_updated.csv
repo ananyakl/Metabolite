@@ -33,6 +33,7 @@ Tulp3,UNKNOWN
 Tulp3,Cbx6
 Tulp3,Muc3a
 Tulp3,Gm43066
+Ddt,Utp20
 Ddt,Ywhah
 Ddt,Ndufb9
 Ddt,Brwd1
@@ -42,6 +43,7 @@ Ddt,Ctso
 Ddt,Nans
 Ddt,Mfn2
 Ddt,Psd3
+Ddt,Gde1
 Ddt,Tsen34
 Ddt,Slf2
 Ddt,Dipk1b
@@ -81,6 +83,7 @@ Kdelr1,Ddhd1
 Kdelr1,Oaz2
 Kdelr1,C130023A14Rik
 Kdelr1,Gm37529
+Kdelr1,Gm38299
 Atg4d,Mrps18c
 Atg4d,Dcp2
 Atg4d,Btbd1
@@ -244,6 +247,7 @@ Utp20,Ftx
 Utp20,C130023A14Rik
 Utp20,Peg13
 9330159F19Rik,Cfdp1
+9330159F19Rik,Mast1
 9330159F19Rik,Dnajc8
 9330159F19Rik,Gimap4
 Gab2,Ncaph
@@ -698,6 +702,7 @@ Habp4,Macf1
 Habp4,Mfn2
 Habp4,Gigyf1
 Habp4,Dusp11
+Habp4,Mrpl3
 Habp4,Gde1
 Habp4,Vps13c
 Habp4,Tsen34
@@ -1013,6 +1018,7 @@ Zfp523,Mpst
 Mtpap,Mgat5b
 Mtpap,Tbc1d30
 Svil,2310057M21Rik
+Mib1,Csnk2b
 Mib1,Rps26
 Mib1,Gdap1
 Mib1,Gls
@@ -1929,6 +1935,7 @@ Tsen34,Peg13
 Lrfn5,Atosb
 Lrfn5,Phpt1
 Lrfn5,Cfap69
+Lrfn5,Oaz2
 Lrfn5,Dmtf1
 Lrfn5,Kcnj4
 Lrfn5,Tubg2
@@ -2035,6 +2042,7 @@ Ddhd1,Kcnj4
 Ddhd1,Fry
 Ddhd1,Taf1b
 Ddhd1,Tnfrsf19
+Ddhd1,Urm1
 Ddhd1,Nkain2
 Ddhd1,Gm37529
 Ddhd1,Gm38299
@@ -2069,6 +2077,7 @@ Atp5mf,Grk3
 Atp5mf,Dmtf1
 Atp5mf,Emc6
 Atp5mf,Kmt2d
+Atp5mf,Mir9-2hg
 Atp5mf,Senp7
 Atp5mf,Tle5
 Atp5mf,Med12l

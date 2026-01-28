@@ -462,6 +462,7 @@ Pkn2-C,Gxylt1-C
 Pkn2-C,Mansc4-C
 Pkn2-C,Cep290-C
 Pkn2-C,Setbp1-C
+Pkn2-C,Mpp7-C
 Pkn2-C,Kpna3-C
 Pkn2-C,Fer-C
 Pkn2-C,Kif21a-C
@@ -473,6 +474,7 @@ Pkn2-C,Ccdc186-C
 Pkn2-C,Shoc2-C
 Pkn2-C,Slain2-C
 4930412C18Rik-C,Mrpl28-C
+4930412C18Rik-C,Hdgfl3-C
 Pak2-C,Usp9x-C
 Pak2-C,Sptan1-C
 Pak2-C,Ro60-C
@@ -491,6 +493,7 @@ Pak2-C,Snora35-C
 Pak2-C,Frg1-C
 Pak2-C,Sh3bgrl-C
 Pak2-C,Fgfr1op2-C
+Pak2-C,Fhad1-C
 Pak2-C,Pcmtd1-C
 Pak2-C,B230219D22Rik-C
 Pak2-C,Fxr1-C
@@ -1848,6 +1851,7 @@ Dek-C,Cep57-C
 Dek-C,Enpp5-C
 Dek-C,Efhb-C
 Dek-C,Baz1b-C
+Dek-C,Fgl2-C
 Dek-C,Mansc4-C
 Dek-C,Cep290-C
 Dek-C,Atn1-C
@@ -1875,6 +1879,7 @@ Ddb1-C,Mfge8-C
 Ddb1-C,Tkt-C
 Ddb1-C,Guk1-C
 Ddb1-C,Atp6v1f-C
+Ddb1-C,Rad54l2-C
 Ddb1-C,Dync1h1-C
 Ddb1-C,Fcho2-C
 Ddb1-C,Cnnm4-C
@@ -2381,6 +2386,7 @@ Ylpm1-C,Frg1-C
 Ylpm1-C,Clpp-C
 Ylpm1-C,Nipbl-C
 Ylpm1-C,Phf3-C
+Ylpm1-C,Fgfr1op2-C
 Ylpm1-C,Fhad1-C
 Ylpm1-C,Zic2-C
 Ylpm1-C,Baz1b-C
@@ -2393,6 +2399,7 @@ Ylpm1-C,Fxr1-C
 Ylpm1-C,Pten-C
 Ylpm1-C,Rif1-C
 Ylpm1-C,Mansc4-C
+Ylpm1-C,Cep290-C
 Ylpm1-C,Pja2-C
 Ylpm1-C,Kpna3-C
 Ylpm1-C,Fer-C
@@ -2407,6 +2414,7 @@ Srebf2-C,Ilvbl-C
 Pdss1-C,Pla2g3-C
 Ccdc148-C,4921504A21Rik-C
 Ccdc148-C,Plcb4-C
+Ccdc148-C,Stk26-C
 Ccdc148-C,Psip1-C
 Ccdc148-C,Dstn-C
 Ccdc148-C,Ildr2-C
@@ -2418,6 +2426,7 @@ Ccdc148-C,Myof-C
 Ccdc148-C,Phf3-C
 Ccdc148-C,Lrp6-C
 Ccdc148-C,Cep290-C
+Ccdc148-C,Cntn1-C
 Slc2a2-C,Rhob-C
 Slc2a2-C,Sh3bgrl-C
 Slc2a2-C,B230219D22Rik-C
@@ -2490,6 +2499,7 @@ Rbm27-C,Psip1-C
 Rbm27-C,Iqgap2-C
 Rbm27-C,Sntb2-C
 Rbm27-C,Ccdc88a-C
+Rbm27-C,Arid4a-C
 Rbm27-C,Top1-C
 Rbm27-C,Ildr2-C
 Rbm27-C,Rdx-C
@@ -2549,6 +2559,7 @@ Krcc1-C,Wasl-C
 Krcc1-C,Ergic2-C
 Krcc1-C,Psip1-C
 Krcc1-C,Sntb2-C
+Krcc1-C,Arid4a-C
 Krcc1-C,Top1-C
 Krcc1-C,Dstn-C
 Krcc1-C,Rdx-C
@@ -2725,6 +2736,7 @@ Npepps-C,Ube2q2-C
 Npepps-C,Phactr2-C
 Npepps-C,Ccdc186-C
 Npepps-C,Shoc2-C
+Npepps-C,Slain2-C
 Eef1a1-C,Mfge8-C
 Eef1a1-C,Hk1-C
 Eef1a1-C,Psmd3-C
@@ -2838,6 +2850,7 @@ Nol8-C,9530026P05Rik-C
 Nol8-C,Ralgapa2-C
 Nol8-C,Dhx36-C
 Nol8-C,Fxr1-C
+Nol8-C,Gxylt1-C
 Nol8-C,Mansc4-C
 Nol8-C,Mpp7-C
 Nol8-C,Ccdc186-C
@@ -2861,6 +2874,7 @@ Adprh-C,Mafg-C
 Adprh-C,Cnih2-C
 Dipk1a-C,Sema6a-C
 Wasl-C,Ergic2-C
+Wasl-C,Psip1-C
 Wasl-C,Ccdc88a-C
 Wasl-C,Arid4a-C
 Wasl-C,Top1-C
@@ -2873,6 +2887,7 @@ Wasl-C,Nkapd1-C
 Wasl-C,Evi5-C
 Wasl-C,Frg1-C
 Wasl-C,Clpp-C
+Wasl-C,Nipbl-C
 Wasl-C,Phf3-C
 Wasl-C,Slc22a17-C
 Wasl-C,Enpp5-C
@@ -2887,6 +2902,7 @@ Wasl-C,Qser1-C
 Wasl-C,B230219D22Rik-C
 Wasl-C,Rad50-C
 Wasl-C,Fxr1-C
+Wasl-C,Rif1-C
 Wasl-C,Mansc4-C
 Wasl-C,Cep290-C
 Wasl-C,Setbp1-C
@@ -2903,6 +2919,7 @@ Wasl-C,Vps36-C
 Gsk3b-C,Tmem161b-C
 Gsk3b-C,Tulp4-C
 Gsk3b-C,Wbp4-C
+Gsk3b-C,Phf3-C
 Gsk3b-C,Hip1-C
 Gsk3b-C,Luzp1-C
 Gsk3b-C,Pcmtd1-C
@@ -2956,6 +2973,7 @@ Ergic2-C,Qser1-C
 Ergic2-C,B230219D22Rik-C
 Ergic2-C,Rad50-C
 Ergic2-C,Camk1d-C
+Ergic2-C,Fxr1-C
 Ergic2-C,Rif1-C
 Ergic2-C,Mansc4-C
 Ergic2-C,Cep290-C
@@ -2982,6 +3000,7 @@ Tkt-C,Atp6v1f-C
 Tkt-C,Ilvbl-C
 Tkt-C,Mtrex-C
 Tkt-C,Ganab-C
+Tkt-C,Rad54l2-C
 Bhlhe41-C,4933439K11Rik-C
 Zhx1-C,Dstn-C
 Zhx1-C,Vps13b-C
@@ -3451,6 +3470,7 @@ Tpr-C,Baz1b-C
 Tpr-C,Ash1l-C
 Tpr-C,Mafg-C
 Tpr-C,Lrp6-C
+Tpr-C,Qser1-C
 Tpr-C,B230219D22Rik-C
 Tpr-C,Rad50-C
 Tpr-C,Camk1d-C
@@ -3472,6 +3492,7 @@ Wbp4-C,Phf3-C
 Wbp4-C,Luzp1-C
 Wbp4-C,Pcmtd1-C
 Wbp4-C,B230219D22Rik-C
+Wbp4-C,Rad50-C
 Wbp4-C,Dcaf12l1-C
 Wbp4-C,Dlg4-C
 Wbp4-C,Ubc-C
@@ -3504,6 +3525,8 @@ Snora35-C,Pcmtd1-C
 Snora35-C,B230219D22Rik-C
 Snora35-C,Ccar1-C
 Kcmf1-C,Fhad1-C
+Secisbp2l-C,Nkapd1-C
+Secisbp2l-C,Frg1-C
 Secisbp2l-C,Phf3-C
 Secisbp2l-C,Ash1l-C
 Secisbp2l-C,Lrp6-C
@@ -3524,6 +3547,7 @@ Setx-C,Gtpbp4-C
 Setx-C,Mef2a-C
 Setx-C,Vps36-C
 Rab5a-C,Slc22a17-C
+Rab5a-C,Fgfr1op2-C
 Dpysl4-C,Acad9-C
 Ahcyl2-C,Mtrex-C
 Ahcyl2-C,Dcaf12l1-C
@@ -3542,7 +3566,9 @@ Nkapd1-C,Fhad1-C
 Nkapd1-C,Luzp1-C
 Nkapd1-C,Ash1l-C
 Nkapd1-C,Dhx36-C
+Nkapd1-C,Qser1-C
 Nkapd1-C,B230219D22Rik-C
+Nkapd1-C,Rad50-C
 Nkapd1-C,Fxr1-C
 Nkapd1-C,Gxylt1-C
 Nkapd1-C,Mansc4-C
@@ -3627,6 +3653,7 @@ Imp3-C,Tmem184c-C
 Bcl7a-C,Dhx36-C
 Bcl7a-C,Ehd1-C
 Ndufa8-C,Sytl2-C
+Nipbl-C,Brd4-C
 Nipbl-C,Phf3-C
 Nipbl-C,Enpp5-C
 Nipbl-C,Fgfr1op2-C
@@ -3850,6 +3877,7 @@ Dhx36-C,Gxylt1-C
 Dhx36-C,Mansc4-C
 Dhx36-C,Ccdc186-C
 Ilvbl-C,Ubc-C
+Ilvbl-C,Ganab-C
 Ilvbl-C,Zfp1007-C
 Lrp6-C,Rif1-C
 Lrp6-C,Cep290-C
