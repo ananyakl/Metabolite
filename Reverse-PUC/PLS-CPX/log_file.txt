@@ -1,248 +1,168 @@
 
-NODE- 3-Nonen-1-ol,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 3
-(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol node is removed
-
-NODE- Pentadecanoic acid,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 1
-Pentadecanoic acid node is removed
-
-NODE- Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Cyclohexanol,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Cyclohexanol node is removed
-
-NODE- Latanoprost lactone diol,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- Carbonic acid, eicosyl vinyl ester ,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 2
-Carbonic acid, eicosyl vinyl ester  node is removed
-
-NODE- 1,2,2-Trimethyl-1-aza-spiro[2.3]hexane,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-1,2,2-Trimethyl-1-aza-spiro[2.3]hexane node is removed
-
-NODE- D-Fructose,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 4
-
-NODE- Levulinic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 8
-
-NODE- 3,5-Dimethyl-1,4-diallylpyrazole,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-3,5-Dimethyl-1,4-diallylpyrazole node is removed
-
-NODE- Uracil,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- 2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 5
-
-NODE- Glycine, N-(1-oxobutyl)-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-NODE- Erythritol,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Benzimidazole, 5-trifluoromethyl-2-methyl-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 8
-
-NODE- 3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 3
-3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)- node is removed
-
-NODE- Nonanoic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Nonanoic acid node is removed
-
-NODE- Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 3
-Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy- node is removed
-
-NODE- Glycine,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Methylmalonic monoamide,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 6
-
-NODE- Azatadine,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- 1,3,5-Benzetriol,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 4
-ENSMUSG00000051074 1,3,5-Benzetriol edge is removed MINORITY CASE
-
-NODE- 4-Pyridinol,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 3
-4-Pyridinol node is removed
-
-NODE- Atrazine desethyl,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- 2,5-di-tert-Butyl-1,4-benzoquinone,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- Hexanoylglycine,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 3
-Hexanoylglycine node is removed
-
-NODE- Heptanoic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 3
-Heptanoic acid node is removed
-
-NODE- Stearic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Pimelic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 7
-ENSMUSG00000101059 Pimelic acid edge is removed MINORITY CASE
-
 NODE- 1-(1-Hydroxybutyl)-2,5-dimethoxybenzene ,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 1
 1-(1-Hydroxybutyl)-2,5-dimethoxybenzene  node is removed
 
-NODE- Inosose-2, 1,3,4,5,6-pentakis-,
+NODE- Supraene,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 2
+Supraene node is removed
+
+NODE- Neostigmine ,
 LAYER-1,
 POS_VOTES- 0,
-NEG_VOTES- 3
+NEG_VOTES- 1
 
-NODE- 4-Hydroxyphenyllactic acid,
+NODE- L-Asparagine,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 2
 
-NODE- Phosalone,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- Indole-5-carboxylic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 4
-ENSMUSG00000105729 Indole-5-carboxylic acid edge is removed MINORITY CASE
-
-NODE- 3-Buten-2-one, 4-(4-methoxyphenyl)-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene,
+NODE- 1-Hexadecanol,
 LAYER-1,
 POS_VOTES- 2,
-NEG_VOTES- 7
-2-Acetyl-5-chloro-3-methylbenzo(b)thiophene node is removed
+NEG_VOTES- 0
 
-NODE- Dodecanoic acid, 1-methylethyl ester,
+NODE- 3-Amino-2-piperidone,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- 1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 5-Hydroxyquinoline,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 4
+
+NODE- Galactopyranose,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Alloxanic acid,
+LAYER-1,
+POS_VOTES- 3,
+NEG_VOTES- 5
+Alloxanic acid node is removed
+
+NODE- 6,8-Dioxapentadecane,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 2
+6,8-Dioxapentadecane node is removed
+
+NODE- (9H-fluoren-9-yl)methanol, O-methoxycarbonyl-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Quinolin-4-one, 1-[2-(3,4-dimethoxyphenyl)ethyl]-octahydro-,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 1
-Dodecanoic acid, 1-methylethyl ester node is removed
+Quinolin-4-one, 1-[2-(3,4-dimethoxyphenyl)ethyl]-octahydro- node is removed
+
+NODE- Furan, 2-pentyl-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Allylescaline ,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 2,2-Diallylpyrrolidine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Acetic acid, bis[(trimethylsilyl)oxyl]-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Urea,
+LAYER-1,
+POS_VOTES- 3,
+NEG_VOTES- 1
+Urea node is removed
+
+NODE- Pyroglutamic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 2
+Pyroglutamic acid node is removed
+
+NODE- Glyoxime,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 3'-(Trimethylsilyl)oxy-beta-naphthoflavone,
+LAYER-1,
+POS_VOTES- 4,
+NEG_VOTES- 1
+ENSMUSG00000020297 3'-(Trimethylsilyl)oxy-beta-naphthoflavone edge is removed MINORITY CASE
+
+NODE- 2-Propenamide, 3-phenyl-N-2-propenyl-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
 
 NODE- 1-Octanol, 2-butyl-,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 0
 
-NODE- Arachidonic acid,
+NODE- Erythritol,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- L-Alanine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Propanetriol, 2-methyl-,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 3
 
-NODE- L-Proline,
+NODE- Propanoic acid, 2-methyl-,
 LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 3
-L-Proline node is removed
+POS_VOTES- 1,
+NEG_VOTES- 0
 
-NODE- 2-Oxooctanoic acid,
-LAYER-1,
-POS_VOTES- 3,
-NEG_VOTES- 1
-2-Oxooctanoic acid node is removed
-
-NODE- Hexanoic acid,
+NODE- 2,6-Dimethyl-N-[3-(trimethylsilyl)-1,3-thiazinan-2-ylidene]aniline,
 LAYER-1,
 POS_VOTES- 0,
-NEG_VOTES- 1
+NEG_VOTES- 5
 
-NODE- Glycine, N-(N-DL-leucylglycyl)-,
+NODE- Arabinofuranose, 1,2,3,5-tetrakis-O-,
 LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- 2-Aminoadipic acid,
-LAYER-1,
-POS_VOTES- 0,
+POS_VOTES- 1,
 NEG_VOTES- 2
+Arabinofuranose, 1,2,3,5-tetrakis-O- node is removed
+
+NODE- 1,2,2-Trimethyl-1-aza-spiro[2.3]hexane,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+1,2,2-Trimethyl-1-aza-spiro[2.3]hexane node is removed
 
 NODE- Hydroquinidine,
 LAYER-1,
@@ -254,111 +174,22 @@ LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 2
 
-NODE- Docosyl octyl ether,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 2
-Docosyl octyl ether node is removed
-
-NODE- 2-Ethyl-3-hydroxypropionic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 2
-2-Ethyl-3-hydroxypropionic acid node is removed
-
-NODE- Propanetriol, 2-methyl-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-NODE- Allylescaline ,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- 2-Amino-4-methylphenol,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 5
-
-NODE- Xylitol,
+NODE- Hydroquinone,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 0
 
-NODE- Furan, 2-pentyl-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Nonanal,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 3
-Nonanal node is removed
-
-NODE- Aziridine, 1-(2-buten-2-yl)-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- 2,2,4-Trimethyl-1,3-pentanediol diisobutyrate,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- 1-Methyl-N,N-bis(trimethylsilyl)-4-[(trimethylsilyl)oxy]-1H-imidazol-2-amine,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- L-5-Oxoproline,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 4
-ENSMUSG00000055681 L-5-Oxoproline edge is removed MINORITY CASE
-
-NODE- 2,3,4-Trihydroxybutyric acid tetrakis,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-NODE- 2,2-Diallylpyrrolidine,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- Neostigmine ,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Octan-2-yl palmitate,
+NODE- Hexanoylglycine,
 LAYER-1,
 POS_VOTES- 2,
-NEG_VOTES- 0
+NEG_VOTES- 3
+Hexanoylglycine node is removed
 
-NODE- 3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE,
+NODE- N-Acetyltyrosine,
 LAYER-1,
-POS_VOTES- 1,
+POS_VOTES- 2,
 NEG_VOTES- 1
-3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE node is removed
-
-NODE- Octanoic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- N,N-Dimethyl-2-cyclohexyloxyethylamine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 6
-ENSMUSG00000038827 N,N-Dimethyl-2-cyclohexyloxyethylamine edge is removed MINORITY CASE
-
-NODE- Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
+N-Acetyltyrosine node is removed
 
 NODE- L-Valine,
 LAYER-1,
@@ -366,7 +197,330 @@ POS_VOTES- 1,
 NEG_VOTES- 1
 L-Valine node is removed
 
-NODE- 3-Amino-2-piperidone,
+NODE- Uridine,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 1
+Uridine node is removed
+
+NODE- Cyclopentaneacetic acid, 3-oxo-2-pentyl-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 1,3,5-Benzetriol,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 4
+ENSMUSG00000051074 1,3,5-Benzetriol edge is removed MINORITY CASE
+
+NODE- Octane, 1-propoxy-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Cyclopentanone, 2,2,4-trimethyl-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 4
+
+NODE- Deoxycholic Acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+NODE- beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- 2,5-Dimethoxy-4-methylamphetamine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+2,5-Dimethoxy-4-methylamphetamine node is removed
+
+NODE- Ethanolamine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+NODE- 1-(2,4-Dimethoxyphenyl)-propan-2-one,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 2
+1-(2,4-Dimethoxyphenyl)-propan-2-one node is removed
+
+NODE- Guanabenz,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 4
+
+NODE- 2,2,4-Trimethyl-1,3-pentanediol diisobutyrate,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Decanoic acid,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 0
+
+NODE- Thiazolo[4,5-f]quinoline, 2,9-dimethyl-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- phenoxyethanol,
+LAYER-1,
+POS_VOTES- 3,
+NEG_VOTES- 1
+phenoxyethanol node is removed
+
+NODE- Cholest-7-en-3-ol, (3beta,5alpha)-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Doconexent,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 2,5-Dimethoxymandelic acid,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 0
+
+NODE- Butylmethylamine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 2
+Butylmethylamine node is removed
+
+NODE- Phenylalanine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Cholesta-3,5-dien-7-one,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 2
+Cholesta-3,5-dien-7-one node is removed
+
+NODE- 1,2-Benzenedicarboxylic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Erythrono-1,4-lactone, (Z)-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 4
+ENSMUSG00000022427 Erythrono-1,4-lactone, (Z)- edge is removed MINORITY CASE
+
+NODE- Ethyl cis-2-trimethylsilyl-cyclopropane-1-carboxylate,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Ethyl cis-2-trimethylsilyl-cyclopropane-1-carboxylate node is removed
+
+NODE- N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 9
+
+NODE- N-Isobutyl-sec-butylamine,
+LAYER-1,
+POS_VOTES- 3,
+NEG_VOTES- 1
+N-Isobutyl-sec-butylamine node is removed
+
+NODE- Arachidonic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+NODE- Pimelic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 7
+ENSMUSG00000101059 Pimelic acid edge is removed MINORITY CASE
+
+NODE- 2-(2,5-Dimethoxy-phenyl)-propionaldehyde,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- cis-4,5-Dihydroxy-o-dithiane, 2O-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+cis-4,5-Dihydroxy-o-dithiane, 2O- node is removed
+
+NODE- Trisaminol,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 2-Isopropyl-5-methyl-1-heptanol ,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+NODE- 3,5-Dimethylpyrazole,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+NODE- 3-Hexenedinitrile,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- L-Aspartic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 4
+ENSMUSG00000022427 L-Aspartic acid edge is removed MINORITY CASE
+
+NODE- 2-Heptenoic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Triethanolamine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 8
+ENSMUSG00000105302 Triethanolamine edge is removed MINORITY CASE
+
+NODE- D-Mannose,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 4
+ENSMUSG00000020308 D-Mannose edge is removed MINORITY CASE
+
+NODE- 2,6-Dimethoxybenzylamine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 2
+2,6-Dimethoxybenzylamine node is removed
+
+NODE- Ribitol,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 3-Buten-2-one, 3-trimethylsilyloxy-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 3-Methylpiperazine-2,5-dione, (R)-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 3
+3-Methylpiperazine-2,5-dione, (R)- node is removed
+
+NODE- Nonadecanoic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- 1-Octadecanol,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+1-Octadecanol node is removed
+
+NODE- (7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 3
+(7a-Isopropenyl-4,5-dimethyloctahydroinden-4-yl)methanol node is removed
+
+NODE- Octan-2-yl palmitate,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 0
+
+NODE- Inosose-2, 1,3,4,5,6-pentakis-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+NODE- Heptadecanoic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Uracil,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Suberic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Nonanoic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Nonanoic acid node is removed
+
+NODE- Bis(trimethylsilyl)histidine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 3
+Bis(trimethylsilyl)histidine node is removed
+
+NODE- 2-Acetyl-5-chloro-3-methylbenzo(b)thiophene,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 7
+2-Acetyl-5-chloro-3-methylbenzo(b)thiophene node is removed
+
+NODE- beta-Lyxopyranose,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 10
+ENSMUSG00000022427 beta-Lyxopyranose edge is removed MINORITY CASE
+
+NODE- 2,3-Butanediol,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Benzoic acid, pentadecyl ester,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 15
+
+NODE- Tributyl acetylcitrate,
+LAYER-1,
+POS_VOTES- 3,
+NEG_VOTES- 0
+
+NODE- Phenoxyacetic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- L-Hydroxyproline,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 2
@@ -376,100 +530,58 @@ LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 3
 
-NODE- 3-Aminobutanoic acid,
+NODE- Ethanone, 1-(2,5-dimethoxyphenyl)-,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 1
 
-NODE- D-Mannose,
+NODE- Valylglycine,
 LAYER-1,
 POS_VOTES- 1,
-NEG_VOTES- 4
-ENSMUSG00000020308 D-Mannose edge is removed MINORITY CASE
-
-NODE- Butanoic acid, 2-methyl-3-[(trimethylsilyl)oxy]-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- N-Acetyltyrosine,
-LAYER-1,
-POS_VOTES- 2,
 NEG_VOTES- 1
-N-Acetyltyrosine node is removed
-
-NODE- Serine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 2
-Serine node is removed
-
-NODE- Decanoic acid,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 0
+Valylglycine node is removed
 
 NODE- N-Valerylglycine,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 1
 
-NODE- 3-Methyladenine,
+NODE- Acetamide, 2,2,2-trifluoro-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Acetamide, 2,2,2-trifluoro- node is removed
+
+NODE- 3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+3beta-TRIMETHYLSILOXY-5alpha,6alpha-EPOXYCHOLESTANE node is removed
+
+NODE- Desmosterol,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Indole-3-lactic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Dehydronorketamine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Aspartic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- D-(+)-Talofuranose, pentakis,
 LAYER-1,
 POS_VOTES- 2,
-NEG_VOTES- 1
-3-Methyladenine node is removed
-
-NODE- Heptadecanoic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- L-Cysteine,
-LAYER-1,
-POS_VOTES- 1,
 NEG_VOTES- 0
-
-NODE- (CH3)2C=NC2H558,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- 5-Henicosylresorcinol,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Cyclopentaneacetic acid, 3-oxo-2-pentyl-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Glycine, N-[4-[(trimethylsilyl)oxy]benzoyl]-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- L-Glutamine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 2
-L-Glutamine node is removed
-
-NODE- 4-Hydroxybutanoic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- 1,5-Anhydroglucitol,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- Ethanolamine,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
 
 NODE- Isonicotinic Acid,
 LAYER-1,
@@ -477,15 +589,43 @@ POS_VOTES- 2,
 NEG_VOTES- 2
 Isonicotinic Acid node is removed
 
-NODE- 2-(Decanoyloxy)propane-1,3-diyl dioctanoate,
+NODE- 2-Allyl-1,4-dimethoxybenzene,
 LAYER-1,
 POS_VOTES- 0,
-NEG_VOTES- 6
+NEG_VOTES- 3
 
-NODE- 4-(Methoxycarbonyl)phenol,
+NODE- 1H-Pyrazole, 3,4-bis(trimethylsilyl)-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 2
+1H-Pyrazole, 3,4-bis(trimethylsilyl)- node is removed
+
+NODE- Nitrosothymol,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 11
+ENSMUSG00000027374 Nitrosothymol edge is removed MINORITY CASE
+
+NODE- Benzoic acid, methyl ester,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 0
+
+NODE- 6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 1
+6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol  node is removed
+
+NODE- D-(-)-Citramalic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 4
+
+NODE- 2-Amino-4-methylphenol,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 5
 
 NODE- 2,5-Di-tert-butylhydroquinone,
 LAYER-1,
@@ -493,35 +633,213 @@ POS_VOTES- 3,
 NEG_VOTES- 1
 2,5-Di-tert-butylhydroquinone node is removed
 
-NODE- 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ,
+NODE- 1-Octene, 2-methyl-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+1-Octene, 2-methyl- node is removed
+
+NODE- beta-D-Glucopyranose,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+beta-D-Glucopyranose node is removed
+
+NODE- D-Fructose,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 4
+
+NODE- Glyceric acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+NODE- alpha-Linolenic acid,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 0
 
-NODE- Benzoic acid, methyl ester,
+NODE- Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- 4-Pyridinol,
 LAYER-1,
 POS_VOTES- 1,
-NEG_VOTES- 0
+NEG_VOTES- 3
+4-Pyridinol node is removed
 
-NODE- Thiazolo[4,5-f]quinoline, 2,9-dimethyl-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- Cyclobutanol,
+NODE- Benzo[b]fluorene, 5-amino-7-methyl-1,2,3,4,6,7,8,9-octahydro-11-thia-10-aza-,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 1
 
-NODE- Cholest-7-en-3-ol, (3beta,5alpha)-,
+NODE- Levulinic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 8
+
+NODE- Octocrylene,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- L-Cysteine,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 0
 
-NODE- Cyclo-(l-leucyl-l-phenylalanyl) ,
+NODE- Ser-Leu,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 4-Hydroxybutanoic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Stearic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone node is removed
+
+NODE- Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 6
+ENSMUSG00000105302 Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]- edge is removed MINORITY CASE
+
+NODE- cyclobutanecarboxylic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Glycine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 3,5-di-tert-Butyl-4-hydroxyacetophenone,
 LAYER-1,
 POS_VOTES- 2,
+NEG_VOTES- 1
+3,5-di-tert-Butyl-4-hydroxyacetophenone node is removed
+
+NODE- N,N-Dimethyl-2-cyclohexyloxyethylamine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 6
+ENSMUSG00000038827 N,N-Dimethyl-2-cyclohexyloxyethylamine edge is removed MINORITY CASE
+
+NODE- Dodecanoic acid, 1-methylethyl ester,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Dodecanoic acid, 1-methylethyl ester node is removed
+
+NODE- Dopamine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Dopamine node is removed
+
+NODE- Benzaldehyde, 2,5-dimethyl-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 10
+
+NODE- Acetoacetic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Methyl aminoacetate,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 16
+
+NODE- Phosalone,
+LAYER-1,
+POS_VOTES- 1,
 NEG_VOTES- 0
+
+NODE- Hydracrylic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 5
+ENSMUSG00000056735 Hydracrylic acid edge is removed MINORITY CASE
+
+NODE- Xylitol,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- D-(+)-Ribono-1,4-lactone (R,S,R)-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 4
+
+NODE- Dodecanamide, N-(2-hydroxyethyl)-,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 1
+Dodecanamide, N-(2-hydroxyethyl)- node is removed
+
+NODE- 2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- N,O-Bis(trimethylsilyl)carbamate,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 6
+
+NODE- Carfentrazone-ethyl,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- D-Isoleucine, N-acetyl-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 1-Phenethylamine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- 9-Octadecenamide,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 1-Butanamine, N,N-diethyl-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 6
+ENSMUSG00000030703 1-Butanamine, N,N-diethyl- edge is removed MINORITY CASE
+
+NODE- Glycine, N-(N-DL-leucylglycyl)-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 3-Methoxysalicylic acid,
+LAYER-1,
+POS_VOTES- 5,
+NEG_VOTES- 1
+ENSMUSG00000024191 3-Methoxysalicylic acid edge is removed MINORITY CASE
 
 NODE- L-Lysine,
 LAYER-1,
@@ -529,23 +847,379 @@ POS_VOTES- 3,
 NEG_VOTES- 1
 L-Lysine node is removed
 
+NODE- Pipecolic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- 3-Hydroxy-2,3-dihydromaltol,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+NODE- 9-Hexadecenoic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Docosyl octyl ether,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 2
+Docosyl octyl ether node is removed
+
+NODE- 1,1'-Biphenyl, 3,4-diethyl-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 6,7,4'-Trihydroxyisoflavone,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 8
+
+NODE- 9H-Fluorene, 9-methylene-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+9H-Fluorene, 9-methylene- node is removed
+
+NODE- Nonanal,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 3
+Nonanal node is removed
+
+NODE- 3-Aminobenzoic acid,
+LAYER-1,
+POS_VOTES- 3,
+NEG_VOTES- 6
+3-Aminobenzoic acid node is removed
+
+NODE- 3-Methyladenine,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 1
+3-Methyladenine node is removed
+
+NODE- 3-Aminobutanoic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
 NODE- 4-Hydroxybenzoic acid,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 2
 
-NODE- Benzenepropanoic acid,
+NODE- Dihydrouracil,
 LAYER-1,
 POS_VOTES- 1,
-NEG_VOTES- 1
-Benzenepropanoic acid node is removed
+NEG_VOTES- 5
+ENSMUSG00000038545 Dihydrouracil edge is removed MINORITY CASE
 
-NODE- Niclosamide,
+NODE- Glycine, N-[4-[(trimethylsilyl)oxy]benzoyl]-,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 1
 
+NODE- alpha-L-Galactopyranoside, methyl 6-deoxy-, (R,R,R,S,S)-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl ,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Stigmast-5-ene, 3beta-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- 1,5-Anhydroglucitol,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 0
+
 NODE- N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Tacrine, N-trimethylsilyl-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Carbonic acid, eicosyl vinyl ester ,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 2
+Carbonic acid, eicosyl vinyl ester  node is removed
+
+NODE- Isofucosterol,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 11
+ENSMUSG00000032633 Isofucosterol edge is removed MINORITY CASE
+
+NODE- Glucopyranose,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Aziridine, 1-(2-buten-2-yl)-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Benzene, 4-ethenyl-1,2-dimethoxy-,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 1
+Benzene, 4-ethenyl-1,2-dimethoxy- node is removed
+
+NODE- 3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 3
+3,4,5-Trihydroxypentanoic acid, tetrakis(trimethylsilyl)- node is removed
+
+NODE- 2-Aminobutanoic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 2,5-di-tert-Butyl-1,4-benzoquinone,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Dinoseb ,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 10
+
+NODE- N,N-Diethyl-2-aminoethanol,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 5
+ENSMUSG00000041012 N,N-Diethyl-2-aminoethanol edge is removed MINORITY CASE
+
+NODE- 3-Buten-2-one, 4-(4-methoxyphenyl)-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Isopropyl palmitate,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 17
+
+NODE- Tartronic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- 4-(Trimethylsilyoxy)-3-penten-2-one,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+4-(Trimethylsilyoxy)-3-penten-2-one node is removed
+
+NODE- 2,5-Dimethoxybenzhydrazide,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 2
+2,5-Dimethoxybenzhydrazide node is removed
+
+NODE- Adipoyl-L-carnitine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+NODE- Cyclohexanol,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Cyclohexanol node is removed
+
+NODE- beta-Methylphenethylamine,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 2
+beta-Methylphenethylamine node is removed
+
+NODE- 4-Methylvaleric acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+4-Methylvaleric acid node is removed
+
+NODE- 1-Propanamine, N,N-diethyl- ,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 3
+1-Propanamine, N,N-diethyl-  node is removed
+
+NODE- (CH3)2C=NC2H558,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- L-Isoleucine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 2-Aminoadipic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Glycine, N-(1-oxobutyl)-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+NODE- 2-Hydroxybutyric acid,
+LAYER-1,
+POS_VOTES- 6,
+NEG_VOTES- 1
+ENSMUSG00000025231 2-Hydroxybutyric acid edge is removed MINORITY CASE
+
+NODE- 2-Ethyl-3-hydroxypropionic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 2
+2-Ethyl-3-hydroxypropionic acid node is removed
+
+NODE- Glycolic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- 2-Ketoisocaproic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 9-Octadecenoic acid,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 2
+9-Octadecenoic acid node is removed
+
+NODE- 2-Oxooctanoic acid,
+LAYER-1,
+POS_VOTES- 3,
+NEG_VOTES- 1
+2-Oxooctanoic acid node is removed
+
+NODE- Dodecylcyclohexane,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 7
+
+NODE- Hydantoic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Pentadecanoic acid,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 1
+Pentadecanoic acid node is removed
+
+NODE- 3-Nonen-1-ol,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Pentenoic acid, 4-[(trimethylsilyl)oxy]-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 2,4-Imidazolidinedione, 5,5-dimethyl-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 6
+ENSMUSG00000038990 2,4-Imidazolidinedione, 5,5-dimethyl- edge is removed MINORITY CASE
+
+NODE- 2,3,4-Trihydroxybutyric acid tetrakis,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+NODE- 3-Ureidopropionic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 2
+3-Ureidopropionic acid node is removed
+
+NODE- Sertraline carbamoyl glucuronide,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 5
+
+NODE- 2-Methyl-4-pentenoic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+NODE- Methylmalonic monoamide,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 6
+
+NODE- Hexanoic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 1-(3-Methylphenyl)piperazine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 4
+
+NODE- 2-Pentenoic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+2-Pentenoic acid node is removed
+
+NODE- Butanoic acid, 2-methyl-3-[(trimethylsilyl)oxy]-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- L-5-Oxoproline,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 4
+ENSMUSG00000055681 L-5-Oxoproline edge is removed MINORITY CASE
+
+NODE- Myristic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 1,3,5-Trimethyl-1H-pyrazol-4-amine,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 1
+1,3,5-Trimethyl-1H-pyrazol-4-amine node is removed
+
+NODE- 1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 1
@@ -557,68 +1231,30 @@ NEG_VOTES- 9
 ENSMUSG00000027374 1-Deoxypentitol edge is removed MINORITY CASE
 ENSMUSG00000024191 1-Deoxypentitol edge is removed MINORITY CASE
 
-NODE- 3-Hydroxy-2,3-dihydromaltol,
+NODE- 12-Oxooctadecanoate,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 8
+
+NODE- N-(Trimethylsilyl)hexanamide,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Cadaverine,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 3
 
-NODE- 2-Methylglutaconic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Acetoacetic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Octane, 1-propoxy-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- Tributyl acetylcitrate,
+NODE- Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-,
 LAYER-1,
 POS_VOTES- 3,
 NEG_VOTES- 0
 
-NODE- Pyroglutamic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 2
-Pyroglutamic acid node is removed
-
-NODE- 5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 1
-5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione node is removed
-
-NODE- 2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 0
-
-NODE- Phenoxyacetic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- Ser-Leu,
+NODE- Benzenemethanamine, 2,3-dimethoxy-,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 0
-
-NODE- Triethanolamine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 8
-ENSMUSG00000105302 Triethanolamine edge is removed MINORITY CASE
-
-NODE- 6,7,4'-Trihydroxyisoflavone,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 8
 
 NODE- 1-Hydroxy-3-methoxy-6-methylanthraquinone,
 LAYER-1,
@@ -627,660 +1263,37 @@ NEG_VOTES- 2
 ENSMUSG00000032633 1-Hydroxy-3-methoxy-6-methylanthraquinone edge is removed MINORITY CASE
 ENSMUSG00000007892 1-Hydroxy-3-methoxy-6-methylanthraquinone edge is removed MINORITY CASE
 
-NODE- 9-Octadecenamide,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- 1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone node is removed
-
-NODE- 3,5-di-tert-Butyl-4-hydroxyacetophenone,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 1
-3,5-di-tert-Butyl-4-hydroxyacetophenone node is removed
-
-NODE- Phenylalanine,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- phenoxyethanol,
+NODE- Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]-,
 LAYER-1,
 POS_VOTES- 3,
-NEG_VOTES- 1
-phenoxyethanol node is removed
-
-NODE- Uridine,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 1
-Uridine node is removed
-
-NODE- 1-Octene, 2-methyl-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-1-Octene, 2-methyl- node is removed
-
-NODE- 1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- beta-Methylphenethylamine,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 2
-beta-Methylphenethylamine node is removed
-
-NODE- Dinoseb ,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 10
-
-NODE- Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 6
-ENSMUSG00000105302 Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]- edge is removed MINORITY CASE
-
-NODE- Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-NODE- Propiophenone, 3',4'-dimethoxy-,
-LAYER-1,
-POS_VOTES- 1,
 NEG_VOTES- 0
-
-NODE- 2-Ketoisocaproic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- n-Butylamine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-n-Butylamine node is removed
-
-NODE- Propylamine,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 5
-
-NODE- Ethanone, 1-(2,5-dimethoxyphenyl)-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- L-Asparagine,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- Benzoic acid, pentadecyl ester,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 15
-
-NODE- L-Tryptophan, N-acetyl-1,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- Hydracrylic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 5
-ENSMUSG00000056735 Hydracrylic acid edge is removed MINORITY CASE
-
-NODE- 2-(2,5-Dimethoxy-phenyl)-propionaldehyde,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- 2-Pentenoic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-2-Pentenoic acid node is removed
-
-NODE- 2-Heptenoic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- Tartronic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- Myristic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- 3-Methylpiperazine-2,5-dione, (R)-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 3
-3-Methylpiperazine-2,5-dione, (R)- node is removed
-
-NODE- D-Isoleucine, N-acetyl-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- D-(-)-Citramalic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 4
-
-NODE- p-Toluic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 10
-ENSMUSG00000022427 p-Toluic acid edge is removed MINORITY CASE
-
-NODE- Dodecanamide, N-(2-hydroxyethyl)-,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 1
-Dodecanamide, N-(2-hydroxyethyl)- node is removed
-
-NODE- Bis(trimethylsilyl)histidine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 3
-Bis(trimethylsilyl)histidine node is removed
-
-NODE- N,N-Diethyl-2-aminoethanol,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 5
-ENSMUSG00000041012 N,N-Diethyl-2-aminoethanol edge is removed MINORITY CASE
-
-NODE- Quinolin-4-one, 1-[2-(3,4-dimethoxyphenyl)ethyl]-octahydro-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Quinolin-4-one, 1-[2-(3,4-dimethoxyphenyl)ethyl]-octahydro- node is removed
-
-NODE- alpha-Linolenic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- 3-Hydroxyisovaleric acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- 2,4-Imidazolidinedione, 5,5-dimethyl-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 6
-ENSMUSG00000038990 2,4-Imidazolidinedione, 5,5-dimethyl- edge is removed MINORITY CASE
-
-NODE- N-(Trimethylsilyl)hexanamide,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- 3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 7
-
-NODE- 9H-Fluorene, 9-methylene-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-9H-Fluorene, 9-methylene- node is removed
-
-NODE- N-Methyl-N-(tetrahydro-2-furanylmethyl)-4-piperidinamine,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 9
-
-NODE- 6,8-Dioxapentadecane,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 2
-6,8-Dioxapentadecane node is removed
-
-NODE- 1-Butanamine, N,N-diethyl-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 6
-ENSMUSG00000030703 1-Butanamine, N,N-diethyl- edge is removed MINORITY CASE
-
-NODE- Butanedioic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 3
-Butanedioic acid node is removed
-
-NODE- D-Arabinose,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-D-Arabinose node is removed
-
-NODE- 1-Hexadecanol,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 0
-
-NODE- 3-Aminobenzoic acid,
-LAYER-1,
-POS_VOTES- 3,
-NEG_VOTES- 6
-3-Aminobenzoic acid node is removed
-
-NODE- Stigmast-5-ene, 3beta-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- N-Isobutyl-sec-butylamine,
-LAYER-1,
-POS_VOTES- 3,
-NEG_VOTES- 1
-N-Isobutyl-sec-butylamine node is removed
-
-NODE- Dehydronorketamine,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- N-Isovaleroylglycine,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- Arsenous acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- Aceturic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-NODE- 4-Methylvaleric acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-4-Methylvaleric acid node is removed
-
-NODE- Tacrine, N-trimethylsilyl-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Cholesta-3,5-dien-7-one,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 2
-Cholesta-3,5-dien-7-one node is removed
-
-NODE- 5-Hydroxyquinoline,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 4
-
-NODE- cyclobutanecarboxylic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Dodecane, 4,6-dimethyl-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 7
-
-NODE- 2-Allyl-1,4-dimethoxybenzene,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
 
 NODE- Xylazine,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 1
 
-NODE- 1H-Pyrazole, 3,4-bis(trimethylsilyl)-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 2
-1H-Pyrazole, 3,4-bis(trimethylsilyl)- node is removed
-
-NODE- Trimidox,
-LAYER-1,
-POS_VOTES- 4,
-NEG_VOTES- 0
-
-NODE- Octocrylene,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- 1-Decene, 8-methyl-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- 2,3-Butanediol,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- 2-Methyl-4-pentenoic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-NODE- Dopamine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Dopamine node is removed
-
-NODE- 1-Octadecanol,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-1-Octadecanol node is removed
-
-NODE- Carfentrazone-ethyl,
+NODE- Propiophenone, 3',4'-dimethoxy-,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 0
 
-NODE- 15-Oxo-11Z,13E-eicosadienoic acid,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 1
-15-Oxo-11Z,13E-eicosadienoic acid node is removed
-
-NODE- L-Tryptophan,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- 1-(3-Methylphenyl)piperazine,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 4
-
-NODE- 3-Methoxysalicylic acid,
-LAYER-1,
-POS_VOTES- 5,
-NEG_VOTES- 1
-ENSMUSG00000024191 3-Methoxysalicylic acid edge is removed MINORITY CASE
-
-NODE- Ribitol,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- 1-Aminocyclopropanecarboxylic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Acetic acid, bis[(trimethylsilyl)oxyl]-,
+NODE- 2-Hydroxy-5-methoxybenzaldehyde,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 0
 
-NODE- Erythrono-1,4-lactone, (Z)-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 4
-ENSMUSG00000022427 Erythrono-1,4-lactone, (Z)- edge is removed MINORITY CASE
-
-NODE- 2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine,
+NODE- L-Tryptophan, N-acetyl-1,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 2
 
-NODE- 2,5-Dimethoxybenzhydrazide,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 2
-2,5-Dimethoxybenzhydrazide node is removed
-
-NODE- 1-(2,4-Dimethoxyphenyl)-propan-2-one,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 2
-1-(2,4-Dimethoxyphenyl)-propan-2-one node is removed
-
-NODE- N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 2
-N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine node is removed
-
-NODE- Isofucosterol,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 11
-ENSMUSG00000032633 Isofucosterol edge is removed MINORITY CASE
-
-NODE- Benzophenone,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 5
-
-NODE- L-Threonine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 3
-L-Threonine node is removed
-
-NODE- Benzyl alcohol,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- Azetidine, 1-acetyl-2-methyl-,
+NODE- 3-Hydroxyisovaleric acid,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 2
 
-NODE- 9-Hexadecenoic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]-,
-LAYER-1,
-POS_VOTES- 3,
-NEG_VOTES- 0
-
-NODE- 1,3,5-Trimethyl-1H-pyrazol-4-amine,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 1
-1,3,5-Trimethyl-1H-pyrazol-4-amine node is removed
-
-NODE- 4-Hydroxybenzeneacetic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 5
-
-NODE- Hydroquinone,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- 1,2-Benzenedicarboxylic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- Indole-3-lactic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- 2,5-Piperazinedione, 3-benzyl-6-isopropyl-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 11
-
-NODE- Doconexent,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- D-(+)-Ribono-1,4-lactone (R,S,R)-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 4
-
-NODE- 2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 1
-2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane node is removed
-
-NODE- Ethyl cis-2-trimethylsilyl-cyclopropane-1-carboxylate,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Ethyl cis-2-trimethylsilyl-cyclopropane-1-carboxylate node is removed
-
-NODE- L-Hydroxyproline,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- Butylmethylamine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 2
-Butylmethylamine node is removed
-
-NODE- Isopropyl palmitate,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 17
-
-NODE- Desmosterol,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Valylglycine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Valylglycine node is removed
-
-NODE- Glyoxime,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- 3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- 3,5-Dimethylpyrazole,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-NODE- Urea,
-LAYER-1,
-POS_VOTES- 3,
-NEG_VOTES- 1
-Urea node is removed
-
-NODE- 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- 2,5-Dimethoxy-4-methylamphetamine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-2,5-Dimethoxy-4-methylamphetamine node is removed
-
-NODE- beta-D-Glucopyranose,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-beta-D-Glucopyranose node is removed
-
-NODE- L-Aspartic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 4
-ENSMUSG00000022427 L-Aspartic acid edge is removed MINORITY CASE
-
-NODE- cis-4,5-Dihydroxy-o-dithiane, 2O-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-cis-4,5-Dihydroxy-o-dithiane, 2O- node is removed
-
-NODE- N,O-Bis(trimethylsilyl)carbamate,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 6
-
-NODE- L-Alanine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- beta-D-Galactofuranose, 1,2,3,5,6-pentakis-O-(trimethylsilyl)-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- Aspartic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- 3-Ureidopropionic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 2
-3-Ureidopropionic acid node is removed
-
-NODE- (9H-fluoren-9-yl)methanol, O-methoxycarbonyl-,
+NODE- Aceturic acid,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 2
@@ -1290,284 +1303,225 @@ LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 0
 
-NODE- 3-Indoleacetic acid,
+NODE- L-Threonine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 3
+L-Threonine node is removed
+
+NODE- p-Toluic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 10
+ENSMUSG00000022427 p-Toluic acid edge is removed MINORITY CASE
+
+NODE- N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 2
+N-(Trifluoroacetyl)-N,O,O'-tris(trimethylsilyl)normetanephrine node is removed
+
+NODE- Propanoic acid, 2-oxo-,
+LAYER-1,
+POS_VOTES- 3,
+NEG_VOTES- 2
+Propanoic acid, 2-oxo- node is removed
+
+NODE- L-Glutamine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 2
+L-Glutamine node is removed
+
+NODE- 2-(Decanoyloxy)propane-1,3-diyl dioctanoate,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 6
 
-NODE- 3-Hexenedinitrile,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- 13-Docosenamide,
+NODE- 3,5-Dimethyl-1,4-diallylpyrazole,
 LAYER-1,
 POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- 9-Octadecenoic acid,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 2
-9-Octadecenoic acid node is removed
-
-NODE- Glyceric acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-NODE- 9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 2
-9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]- node is removed
-
-NODE- 2-Hydroxybutyric acid,
-LAYER-1,
-POS_VOTES- 6,
 NEG_VOTES- 1
-ENSMUSG00000025231 2-Hydroxybutyric acid edge is removed MINORITY CASE
+3,5-Dimethyl-1,4-diallylpyrazole node is removed
 
-NODE- Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)-,
+NODE- Benzenepropanoic acid,
 LAYER-1,
-POS_VOTES- 3,
-NEG_VOTES- 0
+POS_VOTES- 1,
+NEG_VOTES- 1
+Benzenepropanoic acid node is removed
 
-NODE- Adipoyl-L-carnitine,
+NODE- D-Arabinose,
 LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
+POS_VOTES- 1,
+NEG_VOTES- 1
+D-Arabinose node is removed
 
-NODE- 10-Heptadecenoic acid,
+NODE- Benzimidazole, 5-trifluoromethyl-2-methyl-,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 8
-
-NODE- Methyl-3-methoxy-5-methyl benzoate,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-NODE- Alloxanic acid,
-LAYER-1,
-POS_VOTES- 3,
-NEG_VOTES- 5
-Alloxanic acid node is removed
-
-NODE- 2-Hydroxy-3-methylbutyric acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 5
-
-NODE- Acetamide, 2,2,2-trifluoro-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Acetamide, 2,2,2-trifluoro- node is removed
-
-NODE- Galactopyranose,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
 
 NODE- Oxalic acid,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 0
 
-NODE- Benzenemethanamine, 2,3-dimethoxy-,
+NODE- 3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene,
 LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
+POS_VOTES- 0,
+NEG_VOTES- 7
 
-NODE- Malic acid,
+NODE- Dodecane, 4,6-dimethyl-,
 LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
+POS_VOTES- 0,
+NEG_VOTES- 7
 
-NODE- D-(+)-Talofuranose, pentakis,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 0
-
-NODE- Trisaminol,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- 2-Propenamide, 3-phenyl-N-2-propenyl-,
+NODE- 3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 2
 
-NODE- Guanidine, N,N-dimethyl-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Guanidine, N,N-dimethyl- node is removed
-
-NODE- 6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ,
+NODE- 2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane,
 LAYER-1,
 POS_VOTES- 2,
 NEG_VOTES- 1
-6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol  node is removed
+2,5-Dimethyl-1-aza-bicyclo[2.2.1]heptane node is removed
 
-NODE- Hydantoic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- DL-Glyceraldehyde,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 9
-
-NODE- 2,6-Dimethoxybenzylamine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 2
-2,6-Dimethoxybenzylamine node is removed
-
-NODE- 2-Aminobutanoic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- Sertraline carbamoyl glucuronide,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 5
-
-NODE- 12-Oxooctadecanoate,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 8
-
-NODE- 2,5-Dimethoxymandelic acid,
+NODE- 5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione,
 LAYER-1,
 POS_VOTES- 2,
+NEG_VOTES- 1
+5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione node is removed
+
+NODE- 13-Docosenamide,
+LAYER-1,
+POS_VOTES- 1,
 NEG_VOTES- 0
 
-NODE- Supraene,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 2
-Supraene node is removed
-
-NODE- Campesterol,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Campesterol node is removed
-
-NODE- Suberic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- 2-Isopropyl-5-methyl-1-heptanol ,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-NODE- Methyl aminoacetate,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 16
-
-NODE- L-Lysine, ethyl ester ,
+NODE- Atrazine desethyl,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 1
-
-NODE- beta-Lyxopyranose,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 10
-ENSMUSG00000022427 beta-Lyxopyranose edge is removed MINORITY CASE
 
 NODE- 1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 1
 
-NODE- Glucopyranose,
+NODE- Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]-,
 LAYER-1,
 POS_VOTES- 0,
-NEG_VOTES- 1
+NEG_VOTES- 3
 
-NODE- Dihydrouracil,
+NODE- Malic acid,
 LAYER-1,
 POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Octanoic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Indole-5-carboxylic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 4
+ENSMUSG00000105729 Indole-5-carboxylic acid edge is removed MINORITY CASE
+
+NODE- DL-Glyceraldehyde,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 9
+
+NODE- 1-Aminocyclopropanecarboxylic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- n-Butylamine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+n-Butylamine node is removed
+
+NODE- 15-Oxo-11Z,13E-eicosadienoic acid,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 1
+15-Oxo-11Z,13E-eicosadienoic acid node is removed
+
+NODE- 5-Henicosylresorcinol,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Benzophenone,
+LAYER-1,
+POS_VOTES- 0,
 NEG_VOTES- 5
-ENSMUSG00000038545 Dihydrouracil edge is removed MINORITY CASE
 
-NODE- Pentenoic acid, 4-[(trimethylsilyl)oxy]-,
+NODE- Propylamine,
 LAYER-1,
 POS_VOTES- 0,
-NEG_VOTES- 1
+NEG_VOTES- 5
 
-NODE- alpha-L-Galactopyranoside, methyl 6-deoxy-, (R,R,R,S,S)-,
+NODE- 10-Heptadecenoic acid,
 LAYER-1,
 POS_VOTES- 0,
-NEG_VOTES- 1
+NEG_VOTES- 8
 
-NODE- Pipecolic acid,
+NODE- Butanedioic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 3
+Butanedioic acid node is removed
+
+NODE- L-Tryptophan,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 2
 
-NODE- L-Isoleucine,
+NODE- Methyl-3-methoxy-5-methyl benzoate,
 LAYER-1,
 POS_VOTES- 0,
-NEG_VOTES- 1
+NEG_VOTES- 3
 
-NODE- Nitrosothymol,
+NODE- 4-(Methoxycarbonyl)phenol,
 LAYER-1,
 POS_VOTES- 1,
-NEG_VOTES- 11
-ENSMUSG00000027374 Nitrosothymol edge is removed MINORITY CASE
+NEG_VOTES- 0
 
-NODE- 2-Heptanone, 4,6-dimethyl-,
+NODE- L-Proline,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 3
+L-Proline node is removed
+
+NODE- Azatadine,
 LAYER-1,
 POS_VOTES- 0,
-NEG_VOTES- 5
+NEG_VOTES- 2
 
-NODE- 1-Propanamine, N,N-diethyl- ,
+NODE- Azetidine, 1-acetyl-2-methyl-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Heptanoic acid,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 3
-1-Propanamine, N,N-diethyl-  node is removed
+Heptanoic acid node is removed
 
-NODE- 4-(Trimethylsilyoxy)-3-penten-2-one,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-4-(Trimethylsilyoxy)-3-penten-2-one node is removed
-
-NODE- Propanoic acid, 2-methyl-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- 3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl-,
+NODE- 1-Decene, 8-methyl-,
 LAYER-1,
 POS_VOTES- 0,
-NEG_VOTES- 1
+NEG_VOTES- 2
 
-NODE- Guanabenz,
+NODE- Cyclo-(l-leucyl-l-phenylalanyl) ,
 LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 4
-
-NODE- D-(-)-Fructofuranose, pentakis,
-LAYER-1,
-POS_VOTES- 5,
-NEG_VOTES- 0
-
-NODE- Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]-,
-LAYER-1,
-POS_VOTES- 1,
+POS_VOTES- 2,
 NEG_VOTES- 0
 
 NODE- 3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino-,
@@ -1576,263 +1530,144 @@ POS_VOTES- 1,
 NEG_VOTES- 3
 3,4-Dihydrocoumarin, 4,4-dimethyl-6-dimethylamino- node is removed
 
-NODE- Propanoic acid, 2-oxo-,
-LAYER-1,
-POS_VOTES- 3,
-NEG_VOTES- 2
-Propanoic acid, 2-oxo- node is removed
-
-NODE- 3'-(Trimethylsilyl)oxy-beta-naphthoflavone,
-LAYER-1,
-POS_VOTES- 4,
-NEG_VOTES- 1
-ENSMUSG00000020297 3'-(Trimethylsilyl)oxy-beta-naphthoflavone edge is removed MINORITY CASE
-
-NODE- Butylated Hydroxytoluene,
+NODE- 4-Hydroxybenzeneacetic acid,
 LAYER-1,
 POS_VOTES- 0,
-NEG_VOTES- 4
+NEG_VOTES- 5
+
+NODE- Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 3
+Cyclohexene, 3-butyl-3-methyl-1-trimethylsilyloxy- node is removed
+
+NODE- 9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 2
+9H-Purine, 9-(trimethylsilyl)-2,6,8-tris[(trimethylsilyl)oxy]- node is removed
+
+NODE- Trimidox,
+LAYER-1,
+POS_VOTES- 4,
+NEG_VOTES- 0
+
+NODE- Serine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 2
+Serine node is removed
+
+NODE- Cyclobutanol,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Guanidine, N,N-dimethyl-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Guanidine, N,N-dimethyl- node is removed
+
+NODE- D-(-)-Fructofuranose, pentakis,
+LAYER-1,
+POS_VOTES- 5,
+NEG_VOTES- 0
+
+NODE- Arsenous acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 2-Heptanone, 4,6-dimethyl-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 5
 
 NODE- n-Pentadecanol,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 0
 
-NODE- Cyclopentanone, 2,2,4-trimethyl-,
+NODE- Campesterol,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Campesterol node is removed
+
+NODE- Niclosamide,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 2-Methylglutaconic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- L-Lysine, ethyl ester ,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 2,5-Piperazinedione, 3-benzyl-6-isopropyl-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 11
+
+NODE- Butylated Hydroxytoluene,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 4
 
-NODE- 1-Phenethylamine,
+NODE- 4-Hydroxyphenyllactic acid,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 2
 
-NODE- 1,1'-Biphenyl, 3,4-diethyl-,
+NODE- 2-Hydroxy-3-methylbutyric acid,
 LAYER-1,
 POS_VOTES- 0,
-NEG_VOTES- 1
+NEG_VOTES- 5
 
-NODE- Deoxycholic Acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- Nonadecanoic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- 2-Hydroxy-5-methoxybenzaldehyde,
+NODE- 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl-,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 0
 
-NODE- Benzene, 4-ethenyl-1,2-dimethoxy-,
+NODE- N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine,
 LAYER-1,
-POS_VOTES- 2,
+POS_VOTES- 0,
 NEG_VOTES- 1
-Benzene, 4-ethenyl-1,2-dimethoxy- node is removed
 
-NODE- Glycolic acid,
+NODE- N-Isovaleroylglycine,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 2
 
-NODE- Arabinofuranose, 1,2,3,5-tetrakis-O-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 2
-Arabinofuranose, 1,2,3,5-tetrakis-O- node is removed
-
-NODE- Cadaverine,
+NODE- 3-Indoleacetic acid,
 LAYER-1,
 POS_VOTES- 0,
-NEG_VOTES- 3
+NEG_VOTES- 6
 
-NODE- Dodecylcyclohexane,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 7
-
-NODE- Benzaldehyde, 2,5-dimethyl-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 10
-
-NODE- 3-Buten-2-one, 3-trimethylsilyloxy-,
+NODE- Benzyl alcohol,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 0
-SAME EDGE REMOVAL Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)--Dehydronorketamine edge is removed in layer1
 
+NODE- Latanoprost lactone diol,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+SAME EDGE REMOVAL 2-Hydroxy-5-methoxybenzaldehyde-Neostigmine  edge is removed in layer1
 
-SAME EDGE REMOVAL 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl--Arsenous acid edge is removed in layer1
 
-
-SAME EDGE REMOVAL 1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene-Arsenous acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL Pentenoic acid, 4-[(trimethylsilyl)oxy]--Arsenous acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL Furan, 2-pentyl--3-Nonen-1-ol edge is removed in layer1
-
-
-SAME EDGE REMOVAL Carfentrazone-ethyl-cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2,5-di-tert-Butyl-1,4-benzoquinone-Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)- edge is removed in layer1
-
-
-SAME EDGE REMOVAL Cadaverine-Latanoprost lactone diol edge is removed in layer1
-
-
-SAME EDGE REMOVAL N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide-Latanoprost lactone diol edge is removed in layer1
-
-
-SAME EDGE REMOVAL 1,5-Anhydroglucitol-D-Fructose edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2-Hydroxy-5-methoxybenzaldehyde-Levulinic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL Malic acid-Glycine, N-(1-oxobutyl)- edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2,5-di-tert-Butyl-1,4-benzoquinone-Dodecane, 4,6-dimethyl- edge is removed in layer1
-
-
-SAME EDGE REMOVAL 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl--Glycine edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2-Aminobutanoic acid-Glycine edge is removed in layer1
-
-
-SAME EDGE REMOVAL Doconexent-Glycine edge is removed in layer1
-
-
-SAME EDGE REMOVAL Octane, 1-propoxy--1,3,5-Benzetriol edge is removed in layer1
-
-
-SAME EDGE REMOVAL 5-Henicosylresorcinol-Atrazine desethyl edge is removed in layer1
-
-
-SAME EDGE REMOVAL 1-Cyclopentylethanol-2,5-di-tert-Butyl-1,4-benzoquinone edge is removed in layer1
-
-
-SAME EDGE REMOVAL Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]--2,5-di-tert-Butyl-1,4-benzoquinone edge is removed in layer1
-
-
-SAME EDGE REMOVAL Cadaverine-2,5-di-tert-Butyl-1,4-benzoquinone edge is removed in layer1
-
-
-SAME EDGE REMOVAL DL-Glyceraldehyde-2,5-di-tert-Butyl-1,4-benzoquinone edge is removed in layer1
-
-
-SAME EDGE REMOVAL Ethanolamine-2,5-di-tert-Butyl-1,4-benzoquinone edge is removed in layer1
-
-
-SAME EDGE REMOVAL Isofucosterol-2,5-di-tert-Butyl-1,4-benzoquinone edge is removed in layer1
-
-
-SAME EDGE REMOVAL Methyl aminoacetate-2,5-di-tert-Butyl-1,4-benzoquinone edge is removed in layer1
-
-
-SAME EDGE REMOVAL Tartronic acid-2,5-di-tert-Butyl-1,4-benzoquinone edge is removed in layer1
-
-
-SAME EDGE REMOVAL Trisaminol-Inosose-2, 1,3,4,5,6-pentakis- edge is removed in layer1
-
-
-SAME EDGE REMOVAL Propiophenone, 3',4'-dimethoxy--Phosalone edge is removed in layer1
-
-
-SAME EDGE REMOVAL Hydroquinone-Indole-5-carboxylic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL 1-Deoxypentitol-Carfentrazone-ethyl edge is removed in layer1
-
-
-SAME EDGE REMOVAL 1,1'-Biphenyl, 3,4-diethyl--Carfentrazone-ethyl edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine-Carfentrazone-ethyl edge is removed in layer1
-
-
-SAME EDGE REMOVAL 3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene-Carfentrazone-ethyl edge is removed in layer1
-
-
-SAME EDGE REMOVAL Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]--Carfentrazone-ethyl edge is removed in layer1
-
-
-SAME EDGE REMOVAL Cyclobutanol-Carfentrazone-ethyl edge is removed in layer1
-
-
-SAME EDGE REMOVAL Deoxycholic Acid-Carfentrazone-ethyl edge is removed in layer1
-
-
-SAME EDGE REMOVAL Glyceric acid-Carfentrazone-ethyl edge is removed in layer1
-
-
-SAME EDGE REMOVAL Methyl-3-methoxy-5-methyl benzoate-Carfentrazone-ethyl edge is removed in layer1
-
-
-SAME EDGE REMOVAL Propylamine-Carfentrazone-ethyl edge is removed in layer1
-
-
-SAME EDGE REMOVAL Tartronic acid-Carfentrazone-ethyl edge is removed in layer1
-
-
-SAME EDGE REMOVAL Triethanolamine-Carfentrazone-ethyl edge is removed in layer1
-
-
-SAME EDGE REMOVAL Acetic acid, bis[(trimethylsilyl)oxyl]--Hexanoic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL Cyclo-(l-leucyl-l-phenylalanyl) -Ribitol edge is removed in layer1
-
-
-SAME EDGE REMOVAL 1-Butanamine, N,N-diethyl--Acetic acid, bis[(trimethylsilyl)oxyl]- edge is removed in layer1
-
-
-SAME EDGE REMOVAL 3-Hydroxyisovaleric acid-Acetic acid, bis[(trimethylsilyl)oxyl]- edge is removed in layer1
-
-
-SAME EDGE REMOVAL Myristic acid-Acetic acid, bis[(trimethylsilyl)oxyl]- edge is removed in layer1
-
-
-SAME EDGE REMOVAL Benzenemethanamine, 2,3-dimethoxy--Glycine, N-(N-DL-leucylglycyl)- edge is removed in layer1
-
-
-SAME EDGE REMOVAL Octane, 1-propoxy--Glycine, N-(N-DL-leucylglycyl)- edge is removed in layer1
-
-
-SAME EDGE REMOVAL Benzoic acid, methyl ester-Erythrono-1,4-lactone, (Z)- edge is removed in layer1
-
-
-SAME EDGE REMOVAL Octan-2-yl palmitate-2-Aminoadipic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL Decanoic acid-1-Phenyl-1,2-ethanediol edge is removed in layer1
-
-
-SAME EDGE REMOVAL Cholest-7-en-3-ol, (3beta,5alpha)--Benzophenone edge is removed in layer1
-
-
-SAME EDGE REMOVAL Propanoic acid, 2-methyl--Benzophenone edge is removed in layer1
-
-
-SAME EDGE REMOVAL 1-Butanamine, N,N-diethyl--Benzyl alcohol edge is removed in layer1
-
-
-SAME EDGE REMOVAL N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide-Xylitol edge is removed in layer1
-
-
-SAME EDGE REMOVAL Benzenemethanamine, 2,3-dimethoxy--Furan, 2-pentyl- edge is removed in layer1
-
-
-SAME EDGE REMOVAL D-(-)-Citramalic acid-Aziridine, 1-(2-buten-2-yl)- edge is removed in layer1
+SAME EDGE REMOVAL Propanoic acid, 2-methyl--Neostigmine  edge is removed in layer1
 
 
 SAME EDGE REMOVAL Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)--9-Hexadecenoic acid edge is removed in layer1
@@ -1841,46 +1676,16 @@ SAME EDGE REMOVAL Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)--9-Hexadecenoi
 SAME EDGE REMOVAL Desmosterol-9-Hexadecenoic acid edge is removed in layer1
 
 
-SAME EDGE REMOVAL D-(+)-Talofuranose, pentakis-2,2-Diallylpyrrolidine edge is removed in layer1
+SAME EDGE REMOVAL Carfentrazone-ethyl-1,1'-Biphenyl, 3,4-diethyl- edge is removed in layer1
 
 
-SAME EDGE REMOVAL 2-Hydroxy-5-methoxybenzaldehyde-Neostigmine  edge is removed in layer1
+SAME EDGE REMOVAL 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl--3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl- edge is removed in layer1
 
 
-SAME EDGE REMOVAL Propanoic acid, 2-methyl--Neostigmine  edge is removed in layer1
+SAME EDGE REMOVAL Doconexent-3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl- edge is removed in layer1
 
 
-SAME EDGE REMOVAL 1-Butanamine, N,N-diethyl--1,2-Benzenedicarboxylic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL Myristic acid-1,2-Benzenedicarboxylic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL 3-Hydroxyisovaleric acid-Octanoic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL Myristic acid-Octanoic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL Octane, 1-propoxy--2,5-Piperazinedione, 3-benzyl-6-isopropyl- edge is removed in layer1
-
-
-SAME EDGE REMOVAL 10-Heptadecenoic acid-Doconexent edge is removed in layer1
-
-
-SAME EDGE REMOVAL 3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl--Doconexent edge is removed in layer1
-
-
-SAME EDGE REMOVAL Benzaldehyde, 2,5-dimethyl--Doconexent edge is removed in layer1
-
-
-SAME EDGE REMOVAL Heptadecanoic acid-Doconexent edge is removed in layer1
-
-
-SAME EDGE REMOVAL L-Tryptophan, N-acetyl-1-Doconexent edge is removed in layer1
-
-
-SAME EDGE REMOVAL Niclosamide-Doconexent edge is removed in layer1
+SAME EDGE REMOVAL Propanoic acid, 2-methyl--3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl- edge is removed in layer1
 
 
 SAME EDGE REMOVAL 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl--3-Aminobutanoic acid edge is removed in layer1
@@ -1889,7 +1694,70 @@ SAME EDGE REMOVAL 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl--3-Ami
 SAME EDGE REMOVAL Benzenemethanamine, 2,3-dimethoxy--3-Aminobutanoic acid edge is removed in layer1
 
 
-SAME EDGE REMOVAL 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl--Butanoic acid, 2-methyl-3-[(trimethylsilyl)oxy]- edge is removed in layer1
+SAME EDGE REMOVAL 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl -4-Hydroxybenzoic acid edge is removed in layer1
+
+
+SAME EDGE REMOVAL D-(-)-Citramalic acid-4-Hydroxybenzoic acid edge is removed in layer1
+
+
+SAME EDGE REMOVAL 3-Nonen-1-ol-Furan, 2-pentyl- edge is removed in layer1
+
+
+SAME EDGE REMOVAL Benzenemethanamine, 2,3-dimethoxy--Furan, 2-pentyl- edge is removed in layer1
+
+
+SAME EDGE REMOVAL 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl -Dihydrouracil edge is removed in layer1
+
+
+SAME EDGE REMOVAL Malic acid-Dihydrouracil edge is removed in layer1
+
+
+SAME EDGE REMOVAL D-(+)-Talofuranose, pentakis-2,2-Diallylpyrrolidine edge is removed in layer1
+
+
+SAME EDGE REMOVAL 1-Butanamine, N,N-diethyl--Acetic acid, bis[(trimethylsilyl)oxyl]- edge is removed in layer1
+
+
+SAME EDGE REMOVAL 3-Hydroxyisovaleric acid-Acetic acid, bis[(trimethylsilyl)oxyl]- edge is removed in layer1
+
+
+SAME EDGE REMOVAL Hexanoic acid-Acetic acid, bis[(trimethylsilyl)oxyl]- edge is removed in layer1
+
+
+SAME EDGE REMOVAL Myristic acid-Acetic acid, bis[(trimethylsilyl)oxyl]- edge is removed in layer1
+
+
+SAME EDGE REMOVAL 1-Deoxypentitol-1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl  edge is removed in layer1
+
+
+SAME EDGE REMOVAL 2-Isopropyl-5-methyl-1-heptanol -1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl  edge is removed in layer1
+
+
+SAME EDGE REMOVAL Glycolic acid-1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl  edge is removed in layer1
+
+
+SAME EDGE REMOVAL Tartronic acid-1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl  edge is removed in layer1
+
+
+SAME EDGE REMOVAL Cholest-7-en-3-ol, (3beta,5alpha)--Stigmast-5-ene, 3beta- edge is removed in layer1
+
+
+SAME EDGE REMOVAL D-Fructose-1,5-Anhydroglucitol edge is removed in layer1
+
+
+SAME EDGE REMOVAL Glycolic acid-1,5-Anhydroglucitol edge is removed in layer1
+
+
+SAME EDGE REMOVAL Triethanolamine-1,5-Anhydroglucitol edge is removed in layer1
+
+
+SAME EDGE REMOVAL Latanoprost lactone diol-N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide edge is removed in layer1
+
+
+SAME EDGE REMOVAL Xylitol-N-isobutyl-2-(trimethylsilyloxy]-4,5-dihydro-1H-imidazole-1-carboxamide edge is removed in layer1
+
+
+SAME EDGE REMOVAL 2,5-di-tert-Butyl-1,4-benzoquinone-Isofucosterol edge is removed in layer1
 
 
 SAME EDGE REMOVAL 2-Hydroxy-5-methoxybenzaldehyde-Glyoxime edge is removed in layer1
@@ -1904,25 +1772,70 @@ SAME EDGE REMOVAL Propanoic acid, 2-methyl--Glyoxime edge is removed in layer1
 SAME EDGE REMOVAL Ser-Leu-Glyoxime edge is removed in layer1
 
 
-SAME EDGE REMOVAL Dodecylcyclohexane-Decanoic acid edge is removed in layer1
+SAME EDGE REMOVAL D-(-)-Citramalic acid-Aziridine, 1-(2-buten-2-yl)- edge is removed in layer1
 
 
-SAME EDGE REMOVAL Myristic acid-Decanoic acid edge is removed in layer1
+SAME EDGE REMOVAL 2-(Decanoyloxy)propane-1,3-diyl dioctanoate-2-Aminobutanoic acid edge is removed in layer1
 
 
-SAME EDGE REMOVAL 2-(Decanoyloxy)propane-1,3-diyl dioctanoate-1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl- edge is removed in layer1
+SAME EDGE REMOVAL Glycine-2-Aminobutanoic acid edge is removed in layer1
 
 
-SAME EDGE REMOVAL 2,4-Imidazolidinedione, 5,5-dimethyl--1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl- edge is removed in layer1
+SAME EDGE REMOVAL 1-Cyclopentylethanol-2,5-di-tert-Butyl-1,4-benzoquinone edge is removed in layer1
 
 
-SAME EDGE REMOVAL 3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl--1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl- edge is removed in layer1
+SAME EDGE REMOVAL Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]--2,5-di-tert-Butyl-1,4-benzoquinone edge is removed in layer1
 
 
-SAME EDGE REMOVAL 3-Indoleacetic acid-1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl- edge is removed in layer1
+SAME EDGE REMOVAL Cadaverine-2,5-di-tert-Butyl-1,4-benzoquinone edge is removed in layer1
 
 
-SAME EDGE REMOVAL N-(Trimethylsilyl)hexanamide-1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl- edge is removed in layer1
+SAME EDGE REMOVAL DL-Glyceraldehyde-2,5-di-tert-Butyl-1,4-benzoquinone edge is removed in layer1
+
+
+SAME EDGE REMOVAL Dodecane, 4,6-dimethyl--2,5-di-tert-Butyl-1,4-benzoquinone edge is removed in layer1
+
+
+SAME EDGE REMOVAL Ethanolamine-2,5-di-tert-Butyl-1,4-benzoquinone edge is removed in layer1
+
+
+SAME EDGE REMOVAL Ethanone, 1-(5-methoxy-2-methyl-3(1H)-indolyl)--2,5-di-tert-Butyl-1,4-benzoquinone edge is removed in layer1
+
+
+SAME EDGE REMOVAL Methyl aminoacetate-2,5-di-tert-Butyl-1,4-benzoquinone edge is removed in layer1
+
+
+SAME EDGE REMOVAL Tartronic acid-2,5-di-tert-Butyl-1,4-benzoquinone edge is removed in layer1
+
+
+SAME EDGE REMOVAL Octane, 1-propoxy--Dinoseb  edge is removed in layer1
+
+
+SAME EDGE REMOVAL Benzenemethanamine, 2,3-dimethoxy--N,N-Diethyl-2-aminoethanol edge is removed in layer1
+
+
+SAME EDGE REMOVAL Octane, 1-propoxy--N,N-Diethyl-2-aminoethanol edge is removed in layer1
+
+
+SAME EDGE REMOVAL 10-Heptadecenoic acid-Propanoic acid, 2-methyl- edge is removed in layer1
+
+
+SAME EDGE REMOVAL Benzaldehyde, 2,5-dimethyl--Propanoic acid, 2-methyl- edge is removed in layer1
+
+
+SAME EDGE REMOVAL Benzophenone-Propanoic acid, 2-methyl- edge is removed in layer1
+
+
+SAME EDGE REMOVAL Niclosamide-Propanoic acid, 2-methyl- edge is removed in layer1
+
+
+SAME EDGE REMOVAL Carfentrazone-ethyl-Tartronic acid edge is removed in layer1
+
+
+SAME EDGE REMOVAL Decanoic acid-1-Phenyl-1,2-ethanediol edge is removed in layer1
+
+
+SAME EDGE REMOVAL Indole-5-carboxylic acid-Hydroquinone edge is removed in layer1
 
 
 SAME EDGE REMOVAL 1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy--(CH3)2C=NC2H558 edge is removed in layer1
@@ -1937,19 +1850,28 @@ SAME EDGE REMOVAL Benzoic acid, pentadecyl ester-(CH3)2C=NC2H558 edge is removed
 SAME EDGE REMOVAL Butylated Hydroxytoluene-(CH3)2C=NC2H558 edge is removed in layer1
 
 
-SAME EDGE REMOVAL 2-Hydroxy-5-methoxybenzaldehyde-5-Henicosylresorcinol edge is removed in layer1
+SAME EDGE REMOVAL Octan-2-yl palmitate-2-Aminoadipic acid edge is removed in layer1
 
 
-SAME EDGE REMOVAL Benzenemethanamine, 2,3-dimethoxy--5-Henicosylresorcinol edge is removed in layer1
+SAME EDGE REMOVAL Octane, 1-propoxy--1,3,5-Benzetriol edge is removed in layer1
 
 
-SAME EDGE REMOVAL 2-Hydroxy-5-methoxybenzaldehyde-3-Hexenedinitrile edge is removed in layer1
+SAME EDGE REMOVAL 2,5-Piperazinedione, 3-benzyl-6-isopropyl--Octane, 1-propoxy- edge is removed in layer1
 
 
-SAME EDGE REMOVAL Glycolic acid-1,5-Anhydroglucitol edge is removed in layer1
+SAME EDGE REMOVAL Benzaldehyde, 2,5-dimethyl--Octane, 1-propoxy- edge is removed in layer1
 
 
-SAME EDGE REMOVAL Triethanolamine-1,5-Anhydroglucitol edge is removed in layer1
+SAME EDGE REMOVAL Cyclobutanol-Octane, 1-propoxy- edge is removed in layer1
+
+
+SAME EDGE REMOVAL Glycine, N-(N-DL-leucylglycyl)--Octane, 1-propoxy- edge is removed in layer1
+
+
+SAME EDGE REMOVAL Malic acid-Glycine, N-(1-oxobutyl)- edge is removed in layer1
+
+
+SAME EDGE REMOVAL Carfentrazone-ethyl-Deoxycholic Acid edge is removed in layer1
 
 
 SAME EDGE REMOVAL 1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene-2-Hydroxybutyric acid edge is removed in layer1
@@ -1958,46 +1880,28 @@ SAME EDGE REMOVAL 1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,
 SAME EDGE REMOVAL Benzaldehyde, 2,5-dimethyl--2-Hydroxybutyric acid edge is removed in layer1
 
 
-SAME EDGE REMOVAL 2-Aminobutanoic acid-2-(Decanoyloxy)propane-1,3-diyl dioctanoate edge is removed in layer1
+SAME EDGE REMOVAL Carfentrazone-ethyl-cis-4-Trimethylsilyloxy-cyclohexyl(trimethylsilyl)carboxylate edge is removed in layer1
 
 
-SAME EDGE REMOVAL alpha-Linolenic acid-Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)- edge is removed in layer1
+SAME EDGE REMOVAL Malic acid-Glycolic acid edge is removed in layer1
 
 
-SAME EDGE REMOVAL Malic acid-Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)- edge is removed in layer1
+SAME EDGE REMOVAL Decanoic acid-Dodecylcyclohexane edge is removed in layer1
 
 
-SAME EDGE REMOVAL 1-Deoxypentitol-1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl  edge is removed in layer1
+SAME EDGE REMOVAL 2-Hydroxy-5-methoxybenzaldehyde-Hydantoic acid edge is removed in layer1
 
 
-SAME EDGE REMOVAL 2-Isopropyl-5-methyl-1-heptanol -1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl  edge is removed in layer1
+SAME EDGE REMOVAL Myristic acid-Decanoic acid edge is removed in layer1
 
 
-SAME EDGE REMOVAL 4-Hydroxybenzoic acid-1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl  edge is removed in layer1
+SAME EDGE REMOVAL Arsenous acid-Pentenoic acid, 4-[(trimethylsilyl)oxy]- edge is removed in layer1
 
 
-SAME EDGE REMOVAL Dihydrouracil-1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl  edge is removed in layer1
+SAME EDGE REMOVAL 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl--2,4-Imidazolidinedione, 5,5-dimethyl- edge is removed in layer1
 
 
-SAME EDGE REMOVAL Glycolic acid-1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl  edge is removed in layer1
-
-
-SAME EDGE REMOVAL Tartronic acid-1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl  edge is removed in layer1
-
-
-SAME EDGE REMOVAL Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]--Benzoic acid, methyl ester edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2-(2,5-Dimethoxy-phenyl)-propionaldehyde-10-Heptadecenoic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2-Hydroxy-5-methoxybenzaldehyde-10-Heptadecenoic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL Propanoic acid, 2-methyl--10-Heptadecenoic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL Octane, 1-propoxy--Cyclobutanol edge is removed in layer1
+SAME EDGE REMOVAL Benzophenone-Cholest-7-en-3-ol, (3beta,5alpha)- edge is removed in layer1
 
 
 SAME EDGE REMOVAL Cadaverine-Cholest-7-en-3-ol, (3beta,5alpha)- edge is removed in layer1
@@ -2012,67 +1916,40 @@ SAME EDGE REMOVAL Nonadecanoic acid-Cholest-7-en-3-ol, (3beta,5alpha)- edge is r
 SAME EDGE REMOVAL Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]--Cholest-7-en-3-ol, (3beta,5alpha)- edge is removed in layer1
 
 
-SAME EDGE REMOVAL Stigmast-5-ene, 3beta--Cholest-7-en-3-ol, (3beta,5alpha)- edge is removed in layer1
+SAME EDGE REMOVAL 10-Heptadecenoic acid-Doconexent edge is removed in layer1
 
 
-SAME EDGE REMOVAL 1-Butanamine, N,N-diethyl--Benzenemethanamine, 2,3-dimethoxy- edge is removed in layer1
+SAME EDGE REMOVAL Benzaldehyde, 2,5-dimethyl--Doconexent edge is removed in layer1
 
 
-SAME EDGE REMOVAL 1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy--Benzenemethanamine, 2,3-dimethoxy- edge is removed in layer1
+SAME EDGE REMOVAL Glycine-Doconexent edge is removed in layer1
 
 
-SAME EDGE REMOVAL N,N-Diethyl-2-aminoethanol-Benzenemethanamine, 2,3-dimethoxy- edge is removed in layer1
+SAME EDGE REMOVAL Heptadecanoic acid-Doconexent edge is removed in layer1
 
 
-SAME EDGE REMOVAL Phenoxyacetic acid-Benzenemethanamine, 2,3-dimethoxy- edge is removed in layer1
+SAME EDGE REMOVAL L-Tryptophan, N-acetyl-1-Doconexent edge is removed in layer1
 
 
-SAME EDGE REMOVAL DL-Glyceraldehyde-Cyclo-(l-leucyl-l-phenylalanyl)  edge is removed in layer1
+SAME EDGE REMOVAL Niclosamide-Doconexent edge is removed in layer1
 
 
-SAME EDGE REMOVAL Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]--Cyclo-(l-leucyl-l-phenylalanyl)  edge is removed in layer1
+SAME EDGE REMOVAL Malic acid-Phenylalanine edge is removed in layer1
 
 
-SAME EDGE REMOVAL Dihydrouracil-Malic acid edge is removed in layer1
+SAME EDGE REMOVAL 1-Butanamine, N,N-diethyl--1,2-Benzenedicarboxylic acid edge is removed in layer1
 
 
-SAME EDGE REMOVAL Glycolic acid-Malic acid edge is removed in layer1
+SAME EDGE REMOVAL Myristic acid-1,2-Benzenedicarboxylic acid edge is removed in layer1
 
 
-SAME EDGE REMOVAL Phenylalanine-Malic acid edge is removed in layer1
+SAME EDGE REMOVAL Benzoic acid, methyl ester-Erythrono-1,4-lactone, (Z)- edge is removed in layer1
 
 
-SAME EDGE REMOVAL D-(-)-Citramalic acid-4-Hydroxybenzoic acid edge is removed in layer1
+SAME EDGE REMOVAL 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl--Butanoic acid, 2-methyl-3-[(trimethylsilyl)oxy]- edge is removed in layer1
 
 
-SAME EDGE REMOVAL Propanoic acid, 2-methyl--Niclosamide edge is removed in layer1
-
-
-SAME EDGE REMOVAL Benzaldehyde, 2,5-dimethyl--Octane, 1-propoxy- edge is removed in layer1
-
-
-SAME EDGE REMOVAL Dinoseb -Octane, 1-propoxy- edge is removed in layer1
-
-
-SAME EDGE REMOVAL N,N-Diethyl-2-aminoethanol-Octane, 1-propoxy- edge is removed in layer1
-
-
-SAME EDGE REMOVAL Benzaldehyde, 2,5-dimethyl--Ser-Leu edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2-Hydroxy-5-methoxybenzaldehyde-Hydantoic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL 1-Phenethylamine-Propiophenone, 3',4'-dimethoxy- edge is removed in layer1
-
-
-SAME EDGE REMOVAL alpha-Linolenic acid-Hydracrylic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL 3-Cyclohexyl-L-alanine amide, N,N,N'N'-tetramethyl--Propanoic acid, 2-methyl- edge is removed in layer1
-
-
-SAME EDGE REMOVAL Benzaldehyde, 2,5-dimethyl--Propanoic acid, 2-methyl- edge is removed in layer1
+SAME EDGE REMOVAL 10-Heptadecenoic acid-2-(2,5-Dimethoxy-phenyl)-propionaldehyde edge is removed in layer1
 
 
 SAME EDGE REMOVAL Benzaldehyde, 2,5-dimethyl--2-(2,5-Dimethoxy-phenyl)-propionaldehyde edge is removed in layer1
@@ -2081,713 +1958,140 @@ SAME EDGE REMOVAL Benzaldehyde, 2,5-dimethyl--2-(2,5-Dimethoxy-phenyl)-propional
 SAME EDGE REMOVAL Butylated Hydroxytoluene-2-(2,5-Dimethoxy-phenyl)-propionaldehyde edge is removed in layer1
 
 
-SAME EDGE REMOVAL N-(Trimethylsilyl)hexanamide-Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]- edge is removed in layer1
+SAME EDGE REMOVAL Octanoic acid-Myristic acid edge is removed in layer1
+
+
+SAME EDGE REMOVAL Benzenemethanamine, 2,3-dimethoxy--1,2-Butadiene, 1,1,4-triphenyl-3-trimethylsilyl-4-trimethylsilyloxy- edge is removed in layer1
+
+
+SAME EDGE REMOVAL Carfentrazone-ethyl-1-Deoxypentitol edge is removed in layer1
+
+
+SAME EDGE REMOVAL Inosose-2, 1,3,4,5,6-pentakis--Trisaminol edge is removed in layer1
+
+
+SAME EDGE REMOVAL 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl--N-(Trimethylsilyl)hexanamide edge is removed in layer1
+
+
+SAME EDGE REMOVAL Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]--N-(Trimethylsilyl)hexanamide edge is removed in layer1
+
+
+SAME EDGE REMOVAL Latanoprost lactone diol-Cadaverine edge is removed in layer1
+
+
+SAME EDGE REMOVAL 2-Hydroxy-5-methoxybenzaldehyde-3-Hexenedinitrile edge is removed in layer1
+
+
+SAME EDGE REMOVAL alpha-Linolenic acid-Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)- edge is removed in layer1
+
+
+SAME EDGE REMOVAL Dehydronorketamine-Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)- edge is removed in layer1
+
+
+SAME EDGE REMOVAL Malic acid-Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)- edge is removed in layer1
+
+
+SAME EDGE REMOVAL 1-Butanamine, N,N-diethyl--Benzenemethanamine, 2,3-dimethoxy- edge is removed in layer1
+
+
+SAME EDGE REMOVAL 5-Henicosylresorcinol-Benzenemethanamine, 2,3-dimethoxy- edge is removed in layer1
+
+
+SAME EDGE REMOVAL Glycine, N-(N-DL-leucylglycyl)--Benzenemethanamine, 2,3-dimethoxy- edge is removed in layer1
+
+
+SAME EDGE REMOVAL Phenoxyacetic acid-Benzenemethanamine, 2,3-dimethoxy- edge is removed in layer1
+
+
+SAME EDGE REMOVAL Carfentrazone-ethyl-Triethanolamine edge is removed in layer1
+
+
+SAME EDGE REMOVAL Cyclo-(l-leucyl-l-phenylalanyl) -Ribitol edge is removed in layer1
+
+
+SAME EDGE REMOVAL 1-Phenethylamine-Propiophenone, 3',4'-dimethoxy- edge is removed in layer1
+
+
+SAME EDGE REMOVAL Phosalone-Propiophenone, 3',4'-dimethoxy- edge is removed in layer1
+
+
+SAME EDGE REMOVAL 10-Heptadecenoic acid-2-Hydroxy-5-methoxybenzaldehyde edge is removed in layer1
+
+
+SAME EDGE REMOVAL 5-Henicosylresorcinol-2-Hydroxy-5-methoxybenzaldehyde edge is removed in layer1
 
 
 SAME EDGE REMOVAL Benzaldehyde, 2,5-dimethyl--2-Hydroxy-5-methoxybenzaldehyde edge is removed in layer1
 
 
+SAME EDGE REMOVAL Levulinic acid-2-Hydroxy-5-methoxybenzaldehyde edge is removed in layer1
 
-NODE- 1-(4-Hydroxybenzylidene)acetone,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 29
-1,5-Anhydroglucitol 1-(4-Hydroxybenzylidene)acetone edge is removed MINORITY CASE
-Acetic acid, bis[(trimethylsilyl)oxyl]- 1-(4-Hydroxybenzylidene)acetone edge is removed MINORITY CASE
 
-NODE- DL-Proline, 5-oxo-,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 2
+SAME EDGE REMOVAL Octanoic acid-3-Hydroxyisovaleric acid edge is removed in layer1
 
-NODE- Benzeneacetamide,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
 
-NODE- Acetamide, N,N-diethyl-,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 4
-Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]- Acetamide, N,N-diethyl- edge is removed MINORITY CASE
+SAME EDGE REMOVAL 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl--2-(Decanoyloxy)propane-1,3-diyl dioctanoate edge is removed in layer1
 
-NODE- Benzene, 3-cyclohexen-1-yl-,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 0
 
-NODE- 3,5-Di-tert-butyl-2-trimethylsilyloxybenzaldehyde,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 4
-3,5-Di-tert-butyl-2-trimethylsilyloxybenzaldehyde node is removed
+SAME EDGE REMOVAL Carfentrazone-ethyl-3beta,4beta-Bis(trimethylsiloxy)cholest-5-ene edge is removed in layer1
 
-NODE- Cholesta-3,5-diene ,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 2
 
-NODE- Trimethylsilyl 3-((trimethylsilyl)thio)propanoate,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
+SAME EDGE REMOVAL 5-Henicosylresorcinol-Atrazine desethyl edge is removed in layer1
 
-NODE- 1,3-Cyclohexanebis(methylamine),
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
 
-NODE- S-Methyl-L-cysteine,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 14
-Benzenemethanamine, 2,3-dimethoxy- S-Methyl-L-cysteine edge is removed MINORITY CASE
+SAME EDGE REMOVAL Arsenous acid-1,2,3,10,11,11a-Hexahydro-6,7,8-trimethoxy-3-oxo-5H-dibenzo(a,d)cycloheptene edge is removed in layer1
 
-NODE- Pyrrole-2-carboxylic acid,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
 
-NODE- Pregn-16-en-20-one, 3,18-bis(acetyloxy)-14,15-epoxy-, (3beta,5alpha,14beta,15beta)-,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
+SAME EDGE REMOVAL Benzoic acid, methyl ester-Pyrimidine, 5-methyl-2,4-bis[(trimethylsilyl)oxy]- edge is removed in layer1
 
-NODE- 3-Hydroxybutyric acid,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
 
-NODE- 2-Butenedioic acid,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 2
-2-Butenedioic acid node is removed
+SAME EDGE REMOVAL Cyclo-(l-leucyl-l-phenylalanyl) -DL-Glyceraldehyde edge is removed in layer1
 
-NODE- 3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 0
 
-NODE- 5-Hydroxytryptophan,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 13
+SAME EDGE REMOVAL Carfentrazone-ethyl-Glyceric acid edge is removed in layer1
 
-NODE- Dodecanoic acid,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 4
-(CH3)2C=NC2H558 Dodecanoic acid edge is removed MINORITY CASE
 
-NODE- Acetin, bis-1,3-trimethylsilyl ether,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 6
-Octane, 1-propoxy- Acetin, bis-1,3-trimethylsilyl ether edge is removed MINORITY CASE
+SAME EDGE REMOVAL Hydracrylic acid-alpha-Linolenic acid edge is removed in layer1
 
-NODE- 1,2-Butanediol,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 1
-1,2-Butanediol node is removed
 
-NODE- 2,5-Dimethoxyphenol,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
+SAME EDGE REMOVAL Carfentrazone-ethyl-Butanoic acid, 2,4-bis[(trimethylsilyl)oxy]- edge is removed in layer1
 
-NODE- 2,5-Piperazinedione, 3-methyl-6-(phenylmethyl)-,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 1
-2,5-Piperazinedione, 3-methyl-6-(phenylmethyl)- node is removed
 
-NODE- p-Hydroxydiisopropylbenzene,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 7
+SAME EDGE REMOVAL Carfentrazone-ethyl-Propylamine edge is removed in layer1
 
-NODE- 4-Cumylphenol,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 14
-Cholest-7-en-3-ol, (3beta,5alpha)- 4-Cumylphenol edge is removed MINORITY CASE
-Phosalone 4-Cumylphenol edge is removed MINORITY CASE
-Ser-Leu 4-Cumylphenol edge is removed MINORITY CASE
 
-NODE- Itaconic acid,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 16
-Doconexent Itaconic acid edge is removed MINORITY CASE
+SAME EDGE REMOVAL Carfentrazone-ethyl-Methyl-3-methoxy-5-methyl benzoate edge is removed in layer1
 
-NODE- 2',2,3,6'-Tetramethoxychalcone,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
 
-NODE- 4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 1
-4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol node is removed
+SAME EDGE REMOVAL Benzaldehyde, 2,5-dimethyl--Ser-Leu edge is removed in layer1
 
-NODE- Pantolactone,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 7
-Pantolactone node is removed
 
-NODE- L-Tyrosine,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 15
+SAME EDGE REMOVAL Pentanedioic acid, 3-methyl-3-[(trimethylsilyl)oxy]--Cyclo-(l-leucyl-l-phenylalanyl)  edge is removed in layer1
 
-NODE- D-(-)-Ribofuranose, tetrakis,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
 
-NODE- D-Fucitol,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 2
-D-Fucitol node is removed
+SAME EDGE REMOVAL 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl--Glycine edge is removed in layer1
 
-NODE- Pentanedioic acid, 2-[(trimethylsilyl)oxy]-,
-LAYER-2,
-POS_VOTES- 5,
-NEG_VOTES- 1
-Ribitol Pentanedioic acid, 2-[(trimethylsilyl)oxy]- edge is removed MINORITY CASE
 
-NODE- 5alpha-Pregnane-3,20-dione,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 4
+SAME EDGE REMOVAL Carfentrazone-ethyl-Cyclobutanol edge is removed in layer1
 
-NODE- Ethanol, 2-(9-octadecenyloxy)-,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 3
-Ethanol, 2-(9-octadecenyloxy)- node is removed
 
-NODE- Citric acid,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 0
+SAME EDGE REMOVAL 1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl--Arsenous acid edge is removed in layer1
 
-NODE- (S,S)-(-)-Hydrobenzoin,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 2
 
-NODE- 3'-Hydroxyacetophenone,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 8
+SAME EDGE REMOVAL Carfentrazone-ethyl-2,6-Bis[2-[2-S-thiosulfuroethylamino]ethoxy]pyrazine edge is removed in layer1
 
-NODE- Methanone, [1-(4-chloropentyl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)-,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Methanone, [1-(4-chloropentyl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)- node is removed
 
-NODE- Isoquinoline, 3,4-dihydro-6,7-dimethoxy-1-[4-hydroxybenzyl]-,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 1
-Isoquinoline, 3,4-dihydro-6,7-dimethoxy-1-[4-hydroxybenzyl]- node is removed
+SAME EDGE REMOVAL Benzyl alcohol-1-Butanamine, N,N-diethyl- edge is removed in layer1
 
-NODE- 4-Fluoroaniline, N-trimethylsilyl-,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 4
-4-Fluoroaniline, N-trimethylsilyl- node is removed
 
-NODE- 2-Propanone, bis(1-methylethyl)hydrazone,
-LAYER-2,
-POS_VOTES- 4,
-NEG_VOTES- 17
-(CH3)2C=NC2H558 2-Propanone, bis(1-methylethyl)hydrazone edge is removed MINORITY CASE
-2-Hydroxy-5-methoxybenzaldehyde 2-Propanone, bis(1-methylethyl)hydrazone edge is removed MINORITY CASE
-3-Buten-2-one, 3-trimethylsilyloxy- 2-Propanone, bis(1-methylethyl)hydrazone edge is removed MINORITY CASE
-Benzoic acid, methyl ester 2-Propanone, bis(1-methylethyl)hydrazone edge is removed MINORITY CASE
+SAME EDGE REMOVAL 3-Indoleacetic acid-1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl- edge is removed in layer1
 
-NODE- O-Methyl-N,N'-diisopropylisourea ,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
 
-NODE- 7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 1
-7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione node is removed
-
-NODE- 2-Furoic acid,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- Cholesterol,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- 1-Tetradecanol,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 6
-Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]- 1-Tetradecanol edge is removed MINORITY CASE
-
-NODE- DL-Phenylalanine,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-NODE- 1-Hexanol,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- Mirin,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-NODE- Ketamine ,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 0
-
-NODE- Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 4
-
-NODE- Picolinic acid,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 5
-Picolinic acid node is removed
-
-NODE- Xylose,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- meso-Erythritol,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 1
-meso-Erythritol node is removed
 
 NODE- Benzene, 1,1'-(1,2-cyclobutanediyl)bis-,
 LAYER-2,
 POS_VOTES- 2,
 NEG_VOTES- 0
-
-NODE- alpha-Tocopherol,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 22
-
-NODE- 5-Aminovaleric acid,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 0
-
-NODE- Methyl isovanillate,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-NODE- Bis(trimethylsilyl)acetylene,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Cetaben, N,O-bis(trimethylsilyl)-,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 4
-
-NODE- D-Ornithine,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 3
-D-Ornithine node is removed
-
-NODE- Cyclo(L-prolyl-L-valine) ,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- 4-Methoxyphenol,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 4
-4-Methoxyphenol node is removed
-
-NODE- Palmitic Acid,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- Lactic Acid,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 0
-
-NODE- Pentylone,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- 2-Pentenedioic acid, 3-methyl-,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 4
-2-Pentenedioic acid, 3-methyl- node is removed
-
-NODE- Diphenyl ether,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 26
-Cholest-7-en-3-ol, (3beta,5alpha)- Diphenyl ether edge is removed MINORITY CASE
-
-NODE- D-Leucylglycylglycine,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- 2,4-Decadienal,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 5
-2,4-Decadienal node is removed
-
-NODE- Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 9
-Erythrono-1,4-lactone, (Z)- Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]- edge is removed MINORITY CASE
-N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]- edge is removed MINORITY CASE
-
-NODE- 4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 0
-
-NODE- Benzoin,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 1
-Benzoin node is removed
-
-NODE- (pm)-alpha-Tocopherol acetate,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 32
-alpha-Linolenic acid (pm)-alpha-Tocopherol acetate edge is removed MINORITY CASE
-
-NODE- Sinomenin,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 3
-Sinomenin node is removed
-
-NODE- 4,4,5,8-Tetramethyl-chroman-2-one,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 1
-4,4,5,8-Tetramethyl-chroman-2-one node is removed
-
-NODE- Trimethylsilyl oct-2-enoate ,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Dimethyl hexopyranosiduronate, alpha-D-,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- Octopamine,
-LAYER-2,
-POS_VOTES- 4,
-NEG_VOTES- 0
-
-NODE- 2,2'-Biphenyldiol,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 1
-2,2'-Biphenyldiol node is removed
-
-NODE- Pentanedioic acid, 2,4-bis[(trimethylsilyl)oxy],
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Pentanedioic acid, 2,4-bis[(trimethylsilyl)oxy] node is removed
-
-NODE- Ethyl alpha-D-glucopyranoside,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 2
-Ethyl alpha-D-glucopyranoside node is removed
-
-NODE- (pm)-Phenylpropanolamine,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- 7-(Trimethylsilyl)amino-4-methylcoumarin,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 13
-
-NODE- 4-Hydroxybenzaldehyde,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- N-Acetyl-L-glutamic acid,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- Benzoic Acid,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 2
-Benzoic Acid node is removed
-
-NODE- 2,5-Dimethoxybenzonitrile,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- 1-Octanol,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 12
-Acetic acid, bis[(trimethylsilyl)oxyl]- 1-Octanol edge is removed MINORITY CASE
-Benzenemethanamine, 2,3-dimethoxy- 1-Octanol edge is removed MINORITY CASE
-
-NODE- 5-Androsten-17alpha-methyl-3beta,17beta-diol,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 9
-1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl  5-Androsten-17alpha-methyl-3beta,17beta-diol edge is removed MINORITY CASE
-Carfentrazone-ethyl 5-Androsten-17alpha-methyl-3beta,17beta-diol edge is removed MINORITY CASE
-
-NODE- N-alpha-Acetyl-L-Lysine,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 3
-N-alpha-Acetyl-L-Lysine node is removed
-
-NODE- L-Methionine,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 1
-L-Methionine node is removed
-
-NODE- Cyclohexanone, 3,3,5-trimethyl-,
-LAYER-2,
-POS_VOTES- 6,
-NEG_VOTES- 6
-Cyclohexanone, 3,3,5-trimethyl- node is removed
-
-NODE- 1-Cyclohexanone, 3-butyl-3-methyl-,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 2
-1-Cyclohexanone, 3-butyl-3-methyl- node is removed
-
-NODE- Boric acid,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- Niacinamide,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 0
-
-NODE- 2-(Bis[2-(trimethylsilyl)oxyethyl]amino)acetic acid,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 4
-2-(Bis[2-(trimethylsilyl)oxyethyl]amino)acetic acid node is removed
-
-NODE- 2-Pyrrolidinone,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- 7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin ,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE-  5-Hydroxyhexanoic acid,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 11
-Carfentrazone-ethyl  5-Hydroxyhexanoic acid edge is removed MINORITY CASE
-
-NODE- Palmitelaidic acid,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Delorazepam,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 10
-Trimidox beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)- edge is removed MINORITY CASE
-
-NODE- Metanephrine,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 14
-
-NODE- Dimethyl fumarate,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- Fenitrothion,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Fenitrothion node is removed
-
-NODE- Gln-Ala,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-NODE- Isoxaben,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 6
-
-NODE- 1,3-Dioxane-4-methanol, 4,5-dimethyl-,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 4
-Tributyl acetylcitrate 1,3-Dioxane-4-methanol, 4,5-dimethyl- edge is removed MINORITY CASE
-
-NODE- Vanillylmandelic acid,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 10
-1,5-Anhydroglucitol Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate edge is removed MINORITY CASE
-
-NODE- 1-Phenylethanol,
-LAYER-2,
-POS_VOTES- 14,
-NEG_VOTES- 0
-
-NODE- 5-Ethyluracil,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- 3-Indolepropionic acid,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 4
-1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl- 3-Indolepropionic acid edge is removed MINORITY CASE
-
-NODE- Cephalotaxine, 3-deoxy-3,11-epoxy-, (3alpha,11alpha)-,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 0
-
-NODE- Glucose,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Petroselinic acid,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Petroselinic acid node is removed
-
-NODE- Ornithine,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 4
-
-NODE- Benzene, 1,3-bis(1,1-dimethylethyl)-,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 0
-
-NODE- Thymidine,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 5
-Thymidine node is removed
-
-NODE- Tetradecanenitrile,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- Salsoline,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 19
-
-NODE- Luteolin ,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Luteolin  node is removed
-
-NODE- Niacin,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- 1,2-Dimethoxy-4-(1-methoxyethenyl)benzene,
-LAYER-2,
-POS_VOTES- 4,
-NEG_VOTES- 6
-1,2-Dimethoxy-4-(1-methoxyethenyl)benzene node is removed
-
-NODE- Cyclohexene, 3,3-dimethyl-1-(trimethylsilyloxy)-,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 1
-Cyclohexene, 3,3-dimethyl-1-(trimethylsilyloxy)- node is removed
-
-NODE- 2,4-Diamino-6,7-dimethylpteridine,
-LAYER-2,
-POS_VOTES- 4,
-NEG_VOTES- 7
-2,4-Diamino-6,7-dimethylpteridine node is removed
-
-NODE- L-Threitol,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 9
 
 NODE- Dicyclohexylamine,
 LAYER-2,
@@ -2795,45 +2099,44 @@ POS_VOTES- 1,
 NEG_VOTES- 1
 Dicyclohexylamine node is removed
 
-NODE- Pentanoic acid,
+NODE- Citric acid,
 LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 2
-Pentanoic acid node is removed
+POS_VOTES- 2,
+NEG_VOTES- 0
 
-NODE- 3,4-Dihydroxymandelic acid, ethyl ester,
+NODE- 3-Hydroxybutyric acid,
 LAYER-2,
 POS_VOTES- 0,
 NEG_VOTES- 1
 
-NODE- Tricine,
+NODE- Phloroglucinol,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 15
+
+NODE- Dodecanoic acid,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 4
+(CH3)2C=NC2H558 Dodecanoic acid edge is removed MINORITY CASE
+
+NODE- Picolinic acid,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 5
+Picolinic acid node is removed
+
+NODE- Pentanedioic acid, 2-[(trimethylsilyl)oxy]-,
 LAYER-2,
 POS_VOTES- 5,
-NEG_VOTES- 5
-Tricine node is removed
+NEG_VOTES- 1
+Ribitol Pentanedioic acid, 2-[(trimethylsilyl)oxy]- edge is removed MINORITY CASE
 
 NODE- Benzeneacetic acid,
 LAYER-2,
 POS_VOTES- 1,
 NEG_VOTES- 10
 1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl  Benzeneacetic acid edge is removed MINORITY CASE
-
-NODE- Ecgonine,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 1
-Ecgonine node is removed
-
-NODE- 5-(2-Aminopropyl)-2-methylphenol,
-LAYER-2,
-POS_VOTES- 14,
-NEG_VOTES- 1
-Latanoprost lactone diol 5-(2-Aminopropyl)-2-methylphenol edge is removed MINORITY CASE
-
-NODE- Indole-3-carboxaldehyde,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 2
 
 NODE- Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)-,
 LAYER-2,
@@ -2843,162 +2146,27 @@ NEG_VOTES- 16
 Cholest-7-en-3-ol, (3beta,5alpha)- Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)- edge is removed MINORITY CASE
 Cyclo-(l-leucyl-l-phenylalanyl)  Thymine, 1,3-dimethyl-6-(trimethylsilyloxymethyl)- edge is removed MINORITY CASE
 
-NODE- Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate,
+NODE- Cetaben, N,O-bis(trimethylsilyl)-,
 LAYER-2,
 POS_VOTES- 0,
 NEG_VOTES- 4
 
-NODE- Phenol, 3,5-bis(1,1-dimethylethyl)-,
+NODE- 3-Methyl-2-butenoic acid, tridec-2-ynyl ester,
 LAYER-2,
 POS_VOTES- 1,
-NEG_VOTES- 0
+NEG_VOTES- 1
+3-Methyl-2-butenoic acid, tridec-2-ynyl ester node is removed
 
-NODE- 2-Naphthol,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 9
-(CH3)2C=NC2H558 2-Naphthol edge is removed MINORITY CASE
-2-(2,5-Dimethoxy-phenyl)-propionaldehyde 2-Naphthol edge is removed MINORITY CASE
-
-NODE- 9,12-Octadecadienoic acid,
+NODE- DL-Proline, 5-oxo-,
 LAYER-2,
 POS_VOTES- 0,
 NEG_VOTES- 2
-
-NODE- Butyrovanillone,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Butyrovanillone node is removed
-
-NODE- 1,3-bis[(Trimethylsilyl)ethynyl]benzene,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- L-Glutamic acid,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-NODE- 2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 18
-
-NODE- Phenol,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 2
-Phenol node is removed
-
-NODE- 2-Amino-4,6-dihydroxypyrimidine,
-LAYER-2,
-POS_VOTES- 5,
-NEG_VOTES- 1
-Propanoic acid, 2-methyl- 2-Amino-4,6-dihydroxypyrimidine edge is removed MINORITY CASE
-
-NODE- L-Ornithine,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 3
-L-Ornithine node is removed
-
-NODE- Spiro[cyclopenta[d]-1,3,2-dioxaborin-4(5H),1'-cyclopentane], 2-ethyl-6,7-dihydro-,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 2
-Spiro[cyclopenta[d]-1,3,2-dioxaborin-4(5H),1'-cyclopentane], 2-ethyl-6,7-dihydro- node is removed
-
-NODE- 6-Hydroxyflavone-beta-D-glucoside,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- (R*,S*)-2,3-Dihydroxybutanoic acid,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 11
-3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester (R*,S*)-2,3-Dihydroxybutanoic acid edge is removed MINORITY CASE
-
-NODE- Succinic anhydride,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 10
-2,5-Dimethoxymandelic acid Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno- edge is removed MINORITY CASE
-Aziridine, 1-(2-buten-2-yl)- Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno- edge is removed MINORITY CASE
-
-NODE- Phloroglucinol,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 15
-
-NODE- D-Proline,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- (2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide ,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 4
-2,5-di-tert-Butyl-1,4-benzoquinone (2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide  edge is removed MINORITY CASE
-
-NODE- Eicosapentaenoic acid,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 4
-(CH3)2C=NC2H558 Eicosapentaenoic acid edge is removed MINORITY CASE
-
-NODE- Piperidine, 1-(1-methylpentyl)-,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 3
-Piperidine, 1-(1-methylpentyl)- node is removed
-
-NODE- 9(E),11(E)-Conjugated linoleic acid,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 4
-9(E),11(E)-Conjugated linoleic acid node is removed
-
-NODE- 1,4-Butanediol,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 4
-1,4-Butanediol node is removed
-
-NODE- Quazodine,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-NODE- 1-Monoacetin,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 19
-Propanoic acid, 2-methyl- 1-Monoacetin edge is removed MINORITY CASE
-
-NODE- D-Threitol,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
 
 NODE- 2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone,
 LAYER-2,
 POS_VOTES- 6,
 NEG_VOTES- 2
 2,3,4,5-Tetrahydroxypentanoic acid-1,4-lactone node is removed
-
-NODE- 2-Hexen-1-ol,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
 
 NODE- Phlorizin,
 LAYER-2,
@@ -3009,13 +2177,180 @@ NEG_VOTES- 17
 Arsenous acid Phlorizin edge is removed MINORITY CASE
 Benzenemethanamine, 2,3-dimethoxy- Phlorizin edge is removed MINORITY CASE
 
-NODE- 3-Methyl-2-butenoic acid, tridec-2-ynyl ester,
+NODE- Trimethylsilyl oct-2-enoate ,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Methanone, [1-(4-chloropentyl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)-,
 LAYER-2,
 POS_VOTES- 1,
 NEG_VOTES- 1
-3-Methyl-2-butenoic acid, tridec-2-ynyl ester node is removed
+Methanone, [1-(4-chloropentyl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)- node is removed
 
-NODE- Naphthofluorescein,
+NODE- Vanillylmandelic acid,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 12-Hydroxyoctadecanoic acid,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Ethanol, 2-(9-octadecenyloxy)-,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 3
+Ethanol, 2-(9-octadecenyloxy)- node is removed
+
+NODE- Gln-Ala,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- 5-Hydroxytryptophan,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 13
+
+NODE- Pentanedioic acid, 2,4-bis[(trimethylsilyl)oxy],
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Pentanedioic acid, 2,4-bis[(trimethylsilyl)oxy] node is removed
+
+NODE- S-Methyl-L-cysteine,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 14
+Benzenemethanamine, 2,3-dimethoxy- S-Methyl-L-cysteine edge is removed MINORITY CASE
+
+NODE- Niacin,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Pregn-16-en-20-one, 3,18-bis(acetyloxy)-14,15-epoxy-, (3beta,5alpha,14beta,15beta)-,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 1-Monoacetin,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 19
+Propanoic acid, 2-methyl- 1-Monoacetin edge is removed MINORITY CASE
+
+NODE- Benzene, 3-cyclohexen-1-yl-,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 0
+
+NODE- Pentanoic acid,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 2
+Pentanoic acid node is removed
+
+NODE- 2-Amino-4,6-dihydroxypyrimidine,
+LAYER-2,
+POS_VOTES- 5,
+NEG_VOTES- 1
+Propanoic acid, 2-methyl- 2-Amino-4,6-dihydroxypyrimidine edge is removed MINORITY CASE
+
+NODE- Trimethylsilyl 3-((trimethylsilyl)thio)propanoate,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 2,4-Decadienal,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 5
+2,4-Decadienal node is removed
+
+NODE- O-Methyl-N,N'-diisopropylisourea ,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- L-Ornithine,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 3
+L-Ornithine node is removed
+
+NODE- Benzoic Acid,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 2
+Benzoic Acid node is removed
+
+NODE- 1,2-Dimethoxy-4-(1-methoxyethenyl)benzene,
+LAYER-2,
+POS_VOTES- 4,
+NEG_VOTES- 6
+1,2-Dimethoxy-4-(1-methoxyethenyl)benzene node is removed
+
+NODE-  5-Hydroxyhexanoic acid,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 11
+Carfentrazone-ethyl  5-Hydroxyhexanoic acid edge is removed MINORITY CASE
+
+NODE- L-Methionine,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 1
+L-Methionine node is removed
+
+NODE- Boric acid,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 3-Ethylphenol,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 2
+3-Ethylphenol node is removed
+
+NODE- 9,12-Octadecadienoic acid,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Niacinamide,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 0
+
+NODE- Pantolactone,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 7
+Pantolactone node is removed
+
+NODE- Quazodine,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 1-(4-Hydroxybenzylidene)acetone,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 29
+1,5-Anhydroglucitol 1-(4-Hydroxybenzylidene)acetone edge is removed MINORITY CASE
+Acetic acid, bis[(trimethylsilyl)oxyl]- 1-(4-Hydroxybenzylidene)acetone edge is removed MINORITY CASE
+
+NODE- meso-Erythritol,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 1
+meso-Erythritol node is removed
+
+NODE- Indole-3-carboxaldehyde,
 LAYER-2,
 POS_VOTES- 0,
 NEG_VOTES- 2
@@ -3027,31 +2362,192 @@ NEG_VOTES- 14
 Atrazine desethyl Arabinaric acid edge is removed MINORITY CASE
 Doconexent Arabinaric acid edge is removed MINORITY CASE
 
+NODE- (pm)-alpha-Tocopherol acetate,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 32
+alpha-Linolenic acid (pm)-alpha-Tocopherol acetate edge is removed MINORITY CASE
+
+NODE- 4,4,5,8-Tetramethyl-chroman-2-one,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 1
+4,4,5,8-Tetramethyl-chroman-2-one node is removed
+
+NODE- 2-Butenedioic acid,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 2
+2-Butenedioic acid node is removed
+
+NODE- Butyrovanillone,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Butyrovanillone node is removed
+
+NODE- 7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 1
+7,9-Di-tert-butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione node is removed
+
+NODE- Thymidine,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 5
+Thymidine node is removed
+
+NODE- D-Ornithine,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 3
+D-Ornithine node is removed
+
+NODE- 2-(Bis[2-(trimethylsilyl)oxyethyl]amino)acetic acid,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 4
+2-(Bis[2-(trimethylsilyl)oxyethyl]amino)acetic acid node is removed
+
+NODE- Tetradecanenitrile,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 4-Fluoroaniline, N-trimethylsilyl-,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 4
+4-Fluoroaniline, N-trimethylsilyl- node is removed
+
+NODE- Acetin, bis-1,3-trimethylsilyl ether,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 6
+Octane, 1-propoxy- Acetin, bis-1,3-trimethylsilyl ether edge is removed MINORITY CASE
+
+NODE- 1-Tetradecanol,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 6
+Benzeneethanamine, N-[(pentafluorophenyl)methylene]-4-[(trimethylsilyl)oxy]- 1-Tetradecanol edge is removed MINORITY CASE
+
+NODE- Mirin,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+NODE- 1,3-Cyclohexanebis(methylamine),
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- N-Acetyl-L-glutamic acid,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- L-Tyrosine,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 15
+
+NODE- 3'-Hydroxyacetophenone,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 8
+
+NODE- 4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 1
+4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol node is removed
+
+NODE- Sinomenin,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 3
+Sinomenin node is removed
+
+NODE- Pyrrole-2-carboxylic acid,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Palmitic Acid,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Benzoin,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 1
+Benzoin node is removed
+
+NODE- Glucose,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Cyclo(L-prolyl-L-valine) ,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Xylose,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Bis(trimethylsilyl)acetylene,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- 2',2,3,6'-Tetramethoxychalcone,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
 NODE- 2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol,
 LAYER-2,
 POS_VOTES- 2,
 NEG_VOTES- 0
 
-NODE- 12-Hydroxyoctadecanoic acid,
+NODE- 1,4-Butanediol,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 4
+1,4-Butanediol node is removed
+
+NODE- Dimethyl fumarate,
 LAYER-2,
 POS_VOTES- 0,
 NEG_VOTES- 2
 
-NODE- Cinnamic acid,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 6
-
-NODE- 3-Amino-5-morpholinomethyl-2-oxazolidinone,
+NODE- 1,3-Dioxane-4-methanol, 4,5-dimethyl-,
 LAYER-2,
 POS_VOTES- 1,
-NEG_VOTES- 15
-Acetic acid, bis[(trimethylsilyl)oxyl]- 3-Amino-5-morpholinomethyl-2-oxazolidinone edge is removed MINORITY CASE
+NEG_VOTES- 4
+Tributyl acetylcitrate 1,3-Dioxane-4-methanol, 4,5-dimethyl- edge is removed MINORITY CASE
 
-NODE- Hexanedioic acid,
+NODE- 1-Pentene, 3,3-dimethyl-,
+LAYER-2,
+POS_VOTES- 4,
+NEG_VOTES- 2
+1-Pentene, 3,3-dimethyl- node is removed
+
+NODE- 4-Hydroxy-5-(hydroxymethyl)oxolan-2-one,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 0
+
+NODE- 2-Hexen-1-ol,
 LAYER-2,
 POS_VOTES- 0,
-NEG_VOTES- 2
+NEG_VOTES- 1
 
 NODE- 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine ,
 LAYER-2,
@@ -3059,42 +2555,528 @@ POS_VOTES- 5,
 NEG_VOTES- 15
 5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a:1',2'-d]pyrazine  node is removed
 
+NODE- 2-Naphthol,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 9
+(CH3)2C=NC2H558 2-Naphthol edge is removed MINORITY CASE
+2-(2,5-Dimethoxy-phenyl)-propionaldehyde 2-Naphthol edge is removed MINORITY CASE
+
+NODE- D-Threitol,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 2,5-Dimethoxybenzonitrile,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Piperidine, 1-(1-methylpentyl)-,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 3
+Piperidine, 1-(1-methylpentyl)- node is removed
+
+NODE- N-alpha-Acetyl-L-Lysine,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 3
+N-alpha-Acetyl-L-Lysine node is removed
+
+NODE- 3-Amino-5-morpholinomethyl-2-oxazolidinone,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 15
+Acetic acid, bis[(trimethylsilyl)oxyl]- 3-Amino-5-morpholinomethyl-2-oxazolidinone edge is removed MINORITY CASE
+
+NODE- 3,5-Di-tert-butyl-2-trimethylsilyloxybenzaldehyde,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 4
+3,5-Di-tert-butyl-2-trimethylsilyloxybenzaldehyde node is removed
+
+NODE- 4-Cumylphenol,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 14
+Cholest-7-en-3-ol, (3beta,5alpha)- 4-Cumylphenol edge is removed MINORITY CASE
+Phosalone 4-Cumylphenol edge is removed MINORITY CASE
+Ser-Leu 4-Cumylphenol edge is removed MINORITY CASE
+
+NODE- 7-(Trimethylsilyl)amino-4-methylcoumarin,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 13
+
+NODE- Methyl isovanillate,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+NODE- 2-Pentenedioic acid, 3-methyl-,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 4
+2-Pentenedioic acid, 3-methyl- node is removed
+
+NODE- D-Leucylglycylglycine,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Ethyl alpha-D-glucopyranoside,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 2
+Ethyl alpha-D-glucopyranoside node is removed
+
+NODE- Petroselinic acid,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Petroselinic acid node is removed
+
+NODE- Pentylone,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 5-(2-Aminopropyl)-2-methylphenol,
+LAYER-2,
+POS_VOTES- 14,
+NEG_VOTES- 1
+Latanoprost lactone diol 5-(2-Aminopropyl)-2-methylphenol edge is removed MINORITY CASE
+
+NODE- Itaconic acid,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 16
+Doconexent Itaconic acid edge is removed MINORITY CASE
+
+NODE- Phenol, 3,5-bis(1,1-dimethylethyl)-,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- (2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide ,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 4
+2,5-di-tert-Butyl-1,4-benzoquinone (2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide  edge is removed MINORITY CASE
+
+NODE- Palmitelaidic acid,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Cholest-22-ene-21-ol, 3,5-dehydro-6-methoxy-, pivalate,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 4
+
 NODE- Tris(trimethylsilyl)carbamate,
 LAYER-2,
 POS_VOTES- 4,
 NEG_VOTES- 3
 Tris(trimethylsilyl)carbamate node is removed
 
-NODE- 3-Ethylphenol,
+NODE- 5alpha-Pregnane-3,20-dione,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 4
+
+NODE- (pm)-Phenylpropanolamine,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 1,2-Butanediol,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 1
+1,2-Butanediol node is removed
+
+NODE- 2,2'-Biphenyldiol,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 1
+2,2'-Biphenyldiol node is removed
+
+NODE- Cephalotaxine, 3-deoxy-3,11-epoxy-, (3alpha,11alpha)-,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 0
+
+NODE- L-Glutamic acid,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+NODE- Octopamine,
+LAYER-2,
+POS_VOTES- 4,
+NEG_VOTES- 0
+
+NODE- DL-Phenylalanine,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+NODE- Cyclohexene, 3,3-dimethyl-1-(trimethylsilyloxy)-,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 1
+Cyclohexene, 3,3-dimethyl-1-(trimethylsilyloxy)- node is removed
+
+NODE- Isoxaben,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 6
+
+NODE- Succinic anhydride,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Fenitrothion,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Fenitrothion node is removed
+
+NODE- Ornithine,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 4
+
+NODE- Ecgonine,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 1
+Ecgonine node is removed
+
+NODE- D-Fucitol,
 LAYER-2,
 POS_VOTES- 2,
 NEG_VOTES- 2
-3-Ethylphenol node is removed
+D-Fucitol node is removed
 
-NODE- 1-Pentene, 3,3-dimethyl-,
+NODE- Cinnamic acid,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 6
+
+NODE- Cholesta-3,5-diene ,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Benzeneacetamide,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 1-Phenylethanol,
+LAYER-2,
+POS_VOTES- 14,
+NEG_VOTES- 0
+
+NODE- Dimethyl hexopyranosiduronate, alpha-D-,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Cholesterol,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Luteolin ,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Luteolin  node is removed
+
+NODE- L-Threitol,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 9
+
+NODE- (R*,S*)-2,3-Dihydroxybutanoic acid,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 11
+3-(3-Cyclohexylaminopropionylamino)-5-ethylthiophene-2-carboxylic acid, ethyl ester (R*,S*)-2,3-Dihydroxybutanoic acid edge is removed MINORITY CASE
+
+NODE- Tricine,
+LAYER-2,
+POS_VOTES- 5,
+NEG_VOTES- 5
+Tricine node is removed
+
+NODE- 3-Indolepropionic acid,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 4
+1-Piperazineethanol, 4-dibenzo[b,f][1,4]thiazepin-11-yl- 3-Indolepropionic acid edge is removed MINORITY CASE
+
+NODE- alpha-Tocopherol,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 22
+
+NODE- Isoquinoline, 3,4-dihydro-6,7-dimethoxy-1-[4-hydroxybenzyl]-,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 1
+Isoquinoline, 3,4-dihydro-6,7-dimethoxy-1-[4-hydroxybenzyl]- node is removed
+
+NODE- Hexanedioic acid,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- 4-Methoxyphenol,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 4
+4-Methoxyphenol node is removed
+
+NODE- Benzene, 1,3-bis(1,1-dimethylethyl)-,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 0
+
+NODE- Lactic Acid,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 0
+
+NODE- p-Hydroxydiisopropylbenzene,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 7
+
+NODE- Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]-,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 9
+Erythrono-1,4-lactone, (Z)- Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]- edge is removed MINORITY CASE
+N,9-bis(Trimethylsilyl)-6-[(trimethylsilyl)oxy]-9H-purin-2-amine Butanal, 2,3,4-tris[(trimethylsilyl)oxy]-, O-methyloxime, [R-(R*,R*)]- edge is removed MINORITY CASE
+
+NODE- 2-Hexenoic acid, 2-[(trimethylsilyl)oxy]-,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 18
+
+NODE- 5-Aminovaleric acid,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 0
+
+NODE- Cyclohexanone, 3,3,5-trimethyl-,
+LAYER-2,
+POS_VOTES- 6,
+NEG_VOTES- 6
+Cyclohexanone, 3,3,5-trimethyl- node is removed
+
+NODE- Ketamine ,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 0
+
+NODE- 7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin ,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 2-Furoic acid,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Phenol,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 2
+Phenol node is removed
+
+NODE- 9(E),11(E)-Conjugated linoleic acid,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 4
+9(E),11(E)-Conjugated linoleic acid node is removed
+
+NODE- Naphthofluorescein,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- 2,4-Diamino-6,7-dimethylpteridine,
 LAYER-2,
 POS_VOTES- 4,
+NEG_VOTES- 7
+2,4-Diamino-6,7-dimethylpteridine node is removed
+
+NODE- 1-Hexanol,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Ethanamine, N,N-diethyl-2,2-dimethyl-2-[(3,5-dimethoxy)phenyl]-,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 4
+
+NODE- Diphenyl ether,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 26
+Cholest-7-en-3-ol, (3beta,5alpha)- Diphenyl ether edge is removed MINORITY CASE
+
+NODE- beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)-,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 10
+Trimidox beta-d-Fructopyranose, 1-deoxy-1-(4-morpholinyl)-2,3,4,5-tetrakis-O-(trimethylsilyl)- edge is removed MINORITY CASE
+
+NODE- 2-Propanone, bis(1-methylethyl)hydrazone,
+LAYER-2,
+POS_VOTES- 4,
+NEG_VOTES- 17
+(CH3)2C=NC2H558 2-Propanone, bis(1-methylethyl)hydrazone edge is removed MINORITY CASE
+2-Hydroxy-5-methoxybenzaldehyde 2-Propanone, bis(1-methylethyl)hydrazone edge is removed MINORITY CASE
+3-Buten-2-one, 3-trimethylsilyloxy- 2-Propanone, bis(1-methylethyl)hydrazone edge is removed MINORITY CASE
+Benzoic acid, methyl ester 2-Propanone, bis(1-methylethyl)hydrazone edge is removed MINORITY CASE
+
+NODE- Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 10
+1,5-Anhydroglucitol Trimethylsilyl (5-benzyl-3,6-dioxopiperazin-2-yl)acetate edge is removed MINORITY CASE
+
+NODE- Delorazepam,
+LAYER-2,
+POS_VOTES- 0,
 NEG_VOTES- 2
-1-Pentene, 3,3-dimethyl- node is removed
-SAME EDGE REMOVAL D-Threitol-1-(4-Hydroxybenzylidene)acetone edge is removed in layer2
 
+NODE- 3,4-dimethyl-5-(3,4-methylenedioxy)phenyloxazolidine,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 0
 
-SAME EDGE REMOVAL Benzene, 1,3-bis(1,1-dimethylethyl)--Pyrrole-2-carboxylic acid edge is removed in layer2
+NODE- D-(-)-Ribofuranose, tetrakis,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
 
+NODE- Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno-,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 10
+2,5-Dimethoxymandelic acid Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno- edge is removed MINORITY CASE
+Aziridine, 1-(2-buten-2-yl)- Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno- edge is removed MINORITY CASE
 
-SAME EDGE REMOVAL Benzene, 1,3-bis(1,1-dimethylethyl)--Dodecanoic acid edge is removed in layer2
+NODE- 1,3-bis[(Trimethylsilyl)ethynyl]benzene,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
 
+NODE- Eicosapentaenoic acid,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 4
+(CH3)2C=NC2H558 Eicosapentaenoic acid edge is removed MINORITY CASE
 
-SAME EDGE REMOVAL Boric acid-Dodecanoic acid edge is removed in layer2
+NODE- 5-Androsten-17alpha-methyl-3beta,17beta-diol,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 9
+1,4-diazabicyclo[4.3.0]nonan-2,5-dione, 3-methyl  5-Androsten-17alpha-methyl-3beta,17beta-diol edge is removed MINORITY CASE
+Carfentrazone-ethyl 5-Androsten-17alpha-methyl-3beta,17beta-diol edge is removed MINORITY CASE
 
+NODE- 2,5-Piperazinedione, 3-methyl-6-(phenylmethyl)-,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 1
+2,5-Piperazinedione, 3-methyl-6-(phenylmethyl)- node is removed
 
-SAME EDGE REMOVAL 2-Hexen-1-ol-D-(-)-Ribofuranose, tetrakis edge is removed in layer2
+NODE- 4-Hydroxybenzaldehyde,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
 
+NODE- 2,5-Dimethoxyphenol,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
 
-SAME EDGE REMOVAL Benzene, 1,1'-(1,2-cyclobutanediyl)bis--Pentanedioic acid, 2-[(trimethylsilyl)oxy]- edge is removed in layer2
+NODE- Salsoline,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 19
 
+NODE- 1-Octanol,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 12
+Acetic acid, bis[(trimethylsilyl)oxyl]- 1-Octanol edge is removed MINORITY CASE
+Benzenemethanamine, 2,3-dimethoxy- 1-Octanol edge is removed MINORITY CASE
 
-SAME EDGE REMOVAL L-Glutamic acid-Pentanedioic acid, 2-[(trimethylsilyl)oxy]- edge is removed in layer2
+NODE- 3,4-Dihydroxymandelic acid, ethyl ester,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- D-Proline,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- (S,S)-(-)-Hydrobenzoin,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- 1-Cyclohexanone, 3-butyl-3-methyl-,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 2
+1-Cyclohexanone, 3-butyl-3-methyl- node is removed
+
+NODE- Metanephrine,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 14
+
+NODE- 6-Hydroxyflavone-beta-D-glucoside,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Spiro[cyclopenta[d]-1,3,2-dioxaborin-4(5H),1'-cyclopentane], 2-ethyl-6,7-dihydro-,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 2
+Spiro[cyclopenta[d]-1,3,2-dioxaborin-4(5H),1'-cyclopentane], 2-ethyl-6,7-dihydro- node is removed
+
+NODE- Acetamide, N,N-diethyl-,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 4
+Morpholine, 4-[2,3,4,6-tetrakis-O-(trimethylsilyl)-alpha-d-mannopyranosyl]- Acetamide, N,N-diethyl- edge is removed MINORITY CASE
+
+NODE- 2-Pyrrolidinone,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 5-Ethyluracil,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+SAME EDGE REMOVAL Pentanedioic acid, 2-[(trimethylsilyl)oxy]--Benzene, 1,1'-(1,2-cyclobutanediyl)bis- edge is removed in layer2
 
 
 SAME EDGE REMOVAL (pm)-alpha-Tocopherol acetate-Citric acid edge is removed in layer2
@@ -3103,51 +3085,85 @@ SAME EDGE REMOVAL (pm)-alpha-Tocopherol acetate-Citric acid edge is removed in l
 SAME EDGE REMOVAL 1-Tetradecanol-Citric acid edge is removed in layer2
 
 
-SAME EDGE REMOVAL Niacin-3'-Hydroxyacetophenone edge is removed in layer2
+SAME EDGE REMOVAL Benzene, 1,3-bis(1,1-dimethylethyl)--Dodecanoic acid edge is removed in layer2
 
 
-SAME EDGE REMOVAL Niacinamide-3'-Hydroxyacetophenone edge is removed in layer2
+SAME EDGE REMOVAL Boric acid-Dodecanoic acid edge is removed in layer2
 
 
-SAME EDGE REMOVAL 3-Indolepropionic acid-2-Propanone, bis(1-methylethyl)hydrazone edge is removed in layer2
+SAME EDGE REMOVAL L-Glutamic acid-Pentanedioic acid, 2-[(trimethylsilyl)oxy]- edge is removed in layer2
 
 
-SAME EDGE REMOVAL 9,12-Octadecadienoic acid-2-Propanone, bis(1-methylethyl)hydrazone edge is removed in layer2
-
-
-SAME EDGE REMOVAL Phenol, 3,5-bis(1,1-dimethylethyl)--2-Propanone, bis(1-methylethyl)hydrazone edge is removed in layer2
-
-
-SAME EDGE REMOVAL Lactic Acid-5-Aminovaleric acid edge is removed in layer2
-
-
-SAME EDGE REMOVAL 4-Hydroxybenzaldehyde-(pm)-alpha-Tocopherol acetate edge is removed in layer2
+SAME EDGE REMOVAL Benzene, 1,3-bis(1,1-dimethylethyl)--Phlorizin edge is removed in layer2
 
 
 SAME EDGE REMOVAL 2-Acetyl-3-(1-methyl-2-pyrrolyl)-1,4-benzenediol-Trimethylsilyl oct-2-enoate  edge is removed in layer2
 
 
-SAME EDGE REMOVAL Vanillylmandelic acid-(pm)-Phenylpropanolamine edge is removed in layer2
+SAME EDGE REMOVAL (pm)-Phenylpropanolamine-Vanillylmandelic acid edge is removed in layer2
 
 
-SAME EDGE REMOVAL Boric acid-1-Octanol edge is removed in layer2
+SAME EDGE REMOVAL D-Threitol-12-Hydroxyoctadecanoic acid edge is removed in layer2
 
 
-SAME EDGE REMOVAL 6-Hydroxyflavone-beta-D-glucoside-Delorazepam edge is removed in layer2
+SAME EDGE REMOVAL 3'-Hydroxyacetophenone-Niacin edge is removed in layer2
 
 
-SAME EDGE REMOVAL Phlorizin-Benzene, 1,3-bis(1,1-dimethylethyl)- edge is removed in layer2
+SAME EDGE REMOVAL 1-Octanol-Boric acid edge is removed in layer2
+
+
+SAME EDGE REMOVAL 2-Propanone, bis(1-methylethyl)hydrazone-9,12-Octadecadienoic acid edge is removed in layer2
 
 
 SAME EDGE REMOVAL Acetohydrazide, 2-(2-isopropyl-5-methylphenoxy)-N2-benzylideno--9,12-Octadecadienoic acid edge is removed in layer2
 
 
-SAME EDGE REMOVAL 3-Amino-5-morpholinomethyl-2-oxazolidinone-(2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide  edge is removed in layer2
+SAME EDGE REMOVAL 3'-Hydroxyacetophenone-Niacinamide edge is removed in layer2
 
 
-SAME EDGE REMOVAL 12-Hydroxyoctadecanoic acid-D-Threitol edge is removed in layer2
+SAME EDGE REMOVAL D-Threitol-1-(4-Hydroxybenzylidene)acetone edge is removed in layer2
 
 
+SAME EDGE REMOVAL 4-Hydroxybenzaldehyde-(pm)-alpha-Tocopherol acetate edge is removed in layer2
+
+
+SAME EDGE REMOVAL Benzene, 1,3-bis(1,1-dimethylethyl)--Pyrrole-2-carboxylic acid edge is removed in layer2
+
+
+SAME EDGE REMOVAL D-(-)-Ribofuranose, tetrakis-2-Hexen-1-ol edge is removed in layer2
+
+
+SAME EDGE REMOVAL (2S,3R)-3-[(4E,7E)-Nona-4,7-dienoyl]-N,N-bis(trimethylsilyl)oxirane-2-carboxamide -3-Amino-5-morpholinomethyl-2-oxazolidinone edge is removed in layer2
+
+
+SAME EDGE REMOVAL 2-Propanone, bis(1-methylethyl)hydrazone-Phenol, 3,5-bis(1,1-dimethylethyl)- edge is removed in layer2
+
+
+SAME EDGE REMOVAL 2-Propanone, bis(1-methylethyl)hydrazone-3-Indolepropionic acid edge is removed in layer2
+
+
+SAME EDGE REMOVAL 5-Aminovaleric acid-Lactic Acid edge is removed in layer2
+
+
+SAME EDGE REMOVAL 6-Hydroxyflavone-beta-D-glucoside-Delorazepam edge is removed in layer2
+
+
+
+NODE- 3-(2-Hydroxyethyl)imidazole-2-thione,
+LAYER-3,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 2,5-Di-tert-butyl-4-((trimethylsilyl)oxy)phenol,
+LAYER-3,
+POS_VOTES- 1,
+NEG_VOTES- 1
+2,5-Di-tert-butyl-4-((trimethylsilyl)oxy)phenol node is removed
+
+NODE- D-Xylofuranose, 1,2,3,5-tetrakis-O-,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
 
 NODE- 5,6-Dihydro-5-methyluracil,
 LAYER-3,
@@ -3161,53 +3177,35 @@ POS_VOTES- 1,
 NEG_VOTES- 1
 D-Psicofuranose, pentakis node is removed
 
-NODE- Syringaldehyde,
-LAYER-3,
-POS_VOTES- 2,
-NEG_VOTES- 1
-Syringaldehyde node is removed
-
-NODE- D-Ribose,
+NODE- 5-Cholesten-3beta, 7alpha-bis[(trimethylsilyl)oxy]- ,
 LAYER-3,
 POS_VOTES- 0,
-NEG_VOTES- 2
+NEG_VOTES- 1
 
-NODE- 3-(2-Hydroxyethyl)imidazole-2-thione,
+NODE- L-Norleucine,
 LAYER-3,
 POS_VOTES- 1,
 NEG_VOTES- 0
 
-NODE- 3-Methylvaleric acid,
-LAYER-3,
-POS_VOTES- 2,
-NEG_VOTES- 1
-3-Methylvaleric acid node is removed
-
-NODE- Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate,
-LAYER-3,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-NODE- Hippuric acid,
+NODE- N-Isobutyrylglycine,
 LAYER-3,
 POS_VOTES- 1,
-NEG_VOTES- 1
-Hippuric acid node is removed
+NEG_VOTES- 0
 
 NODE- Pyrazine, 3,6-dihydro-3,6-dimethyl-,
 LAYER-3,
 POS_VOTES- 1,
 NEG_VOTES- 0
 
-NODE- l-Histidine ethyl ester,
-LAYER-3,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- (pm)-Norketamine,
+NODE- Ribonic acid, 2,3,4,5-tetrakis-,
 LAYER-3,
 POS_VOTES- 1,
 NEG_VOTES- 0
+
+NODE- 2,2,8,8-Tetramethyl-3,7-dioxa-4-aza-2,8-disilanon-4-ene,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
 
 NODE- Methyl alpha-Lyxofuranoside,
 LAYER-3,
@@ -3224,37 +3222,33 @@ LAYER-3,
 POS_VOTES- 0,
 NEG_VOTES- 2
 
-NODE- D-Xylofuranose, 1,2,3,5-tetrakis-O-,
-LAYER-3,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- 5-Cholesten-3beta, 7alpha-bis[(trimethylsilyl)oxy]- ,
-LAYER-3,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-,
-LAYER-3,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- 2,2,8,8-Tetramethyl-3,7-dioxa-4-aza-2,8-disilanon-4-ene,
-LAYER-3,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-NODE- Dobutamine,
+NODE- (pm)-Norketamine,
 LAYER-3,
 POS_VOTES- 1,
 NEG_VOTES- 0
+
+NODE- Norketamine,
+LAYER-3,
+POS_VOTES- 2,
+NEG_VOTES- 0
+
+NODE- Syringaldehyde,
+LAYER-3,
+POS_VOTES- 2,
+NEG_VOTES- 1
+Syringaldehyde node is removed
+
+NODE- D-Ribose,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 2
 
 NODE- Phenylpropanolamine,
 LAYER-3,
 POS_VOTES- 1,
 NEG_VOTES- 0
 
-NODE- beta-Hydroxypyruvic acid,
+NODE- D-(-)-Lyxose, tetrakis,
 LAYER-3,
 POS_VOTES- 0,
 NEG_VOTES- 1
@@ -3264,18 +3258,161 @@ LAYER-3,
 POS_VOTES- 1,
 NEG_VOTES- 0
 
-NODE- N-Isobutyrylglycine,
+NODE- D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Hippuric acid,
+LAYER-3,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Hippuric acid node is removed
+
+NODE- l-Histidine ethyl ester,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Ammeline,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- beta-Hydroxypyruvic acid,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Dobutamine,
 LAYER-3,
 POS_VOTES- 1,
 NEG_VOTES- 0
 
-NODE- 2,5-Di-tert-butyl-4-((trimethylsilyl)oxy)phenol,
+NODE- 3-Methylvaleric acid,
+LAYER-3,
+POS_VOTES- 2,
+NEG_VOTES- 1
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+NODE- Benzene, 4-ethenyl-1,2-dimethoxy-,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+NODE- Alloxanic acid,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Norketamine,
+LAYER-3,
+POS_VOTES- 3,
+NEG_VOTES- 0
+
+NODE- Syringaldehyde,
+LAYER-3,
+POS_VOTES- 2,
+NEG_VOTES- 2
+Syringaldehyde node is removed
+
+NODE- D-Ribose,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Phenylpropanolamine,
 LAYER-3,
 POS_VOTES- 1,
-NEG_VOTES- 1
-2,5-Di-tert-butyl-4-((trimethylsilyl)oxy)phenol node is removed
+NEG_VOTES- 0
 
 NODE- D-(-)-Lyxose, tetrakis,
 LAYER-3,
 POS_VOTES- 0,
 NEG_VOTES- 1
+
+NODE- Talonic acid, gamma-lactone,
+LAYER-3,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Talonic acid, gamma-lactone node is removed
+
+NODE- D-Erythro-Pentofuranose, 2-deoxy-1,3-bis-O-,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Hippuric acid,
+LAYER-3,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Hippuric acid node is removed
+
+NODE- l-Histidine ethyl ester,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- Ammeline,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Arabinofuranose, 1,2,3,5-tetrakis-O-,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 4
+
+NODE- beta-Hydroxypyruvic acid,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Dobutamine,
+LAYER-3,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- Pyrazine, 3,6-dimethyl-2,5-bis(trimethylsilyloxy)-,
+LAYER-3,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+NODE- 3-Methylvaleric acid,
+LAYER-3,
+POS_VOTES- 2,
+NEG_VOTES- 1
+3-Methylvaleric acid node is removed
+
+NODE- 3,5-di-tert-Butyl-4-hydroxyacetophenone,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+NODE- 2-Hydroxy-2-methylbutyric acid,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- n-Butylamine,
+LAYER-3,
+POS_VOTES- 1,
+NEG_VOTES- 1
+n-Butylamine node is removed
+
+NODE- Methyl (3,4-dimethoxyphenyl)(hydroxy)acetate,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 3
+SAME EDGE REMOVAL 5,6-Dimethyl-4-phenyl-3-cyanopyridine-2(1H)-thione-Albizziin edge is removed in layer3
+
+
+
+NODE- L-Leucine,
+LAYER-4,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+NODE- Phthalazin-1-one,
+LAYER-5,
+POS_VOTES- 1,
+NEG_VOTES- 0
