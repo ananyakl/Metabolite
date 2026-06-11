@@ -1,0 +1,124 @@
+ENSMUSG00000041720 votes + 
+NODE- Nonanoic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+
+ENSMUSG00000034786 votes - 
+NODE- L-Tyrosine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000032288 votes - 
+NODE- Propylene glycol,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000045098 votes + 
+NODE- N-Acetyl-L-alanine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+
+ENSMUSG00000001964 votes + 
+ENSMUSG00000034349 votes + 
+NODE- 3-Heptanol,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 0
+
+
+ENSMUSG00000029438 votes + 
+NODE- Salsoline,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+
+ENSMUSG00000027706 votes + 
+ENSMUSG00000054720 votes + 
+NODE- Lignoceric acid,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 0
+
+
+ENSMUSG00000038644 votes - 
+ENSMUSG00000047371 votes - 
+NODE- 2,4-Di-tert-butylphenol,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+
+ENSMUSG00000047371 votes - 
+NODE- Phenol, 2,4-bis(1-methyl-1-phenylethyl)-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000006777 votes + 
+NODE- N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+
+ENSMUSG00000030605 votes - 
+ENSMUSG00000037012 votes - 
+ENSMUSG00000032763 votes - 
+NODE- Azelaic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+
+ENSMUSG00000036202 votes + 
+NODE- Oleamide,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+
+ENSMUSG00000066357 votes - 
+NODE- Glycine, tert.-butyldimethylsilyl ester,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000017286 votes - 
+NODE- 2-Cyclohexen-1-one, 3-methyl-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000038780 votes + 
+NODE- 4-Methoxyphenol,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+
+ENSMUSG00000031637 votes + 
+NODE- Hypoxanthine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+
+ENSMUSG00000066357 votes - 
+NODE- Glycine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
