@@ -10,9 +10,9 @@ ENSMUSG00000000384-B,1.0,RBN,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl e
 ENSMUSG00000000555-B,1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000000555-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000000555-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000000555-B,1.0,RBN,"6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)",1.0,CSF,0.8660254037844387,0.632455532033676,0.8660254037844387,0.9221228546165696,True,1.0,1.0,False,True,False,False
+ENSMUSG00000000555-B,1.0,RBN,"6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)",,CSF,0.8660254037844387,0.632455532033676,0.8660254037844387,0.9221228546165696,True,1.0,,False,False,False,True
 ENSMUSG00000000555-B,1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000000555-B,1.0,RBN,Yangonin,1.0,CSF,0.5,0.4558823529411764,0.5,0.8318597100170123,True,1.0,1.0,False,True,False,False
+ENSMUSG00000000555-B,1.0,RBN,Yangonin,,CSF,0.5,0.4558823529411764,0.5,0.8318597100170123,True,1.0,,False,False,False,True
 ENSMUSG00000000562-B,1.0,RBN,"1-(1-Hydroxybutyl)-2,5-dimethoxybenzene ",-1.0,CSF,,1.0,0.5,0.9,True,1.0,-1.0,False,False,False,True
 ENSMUSG00000000562-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000000562-B,1.0,RBN,"2,4-Dimethoxybenzaldoxime",,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -38,7 +38,7 @@ ENSMUSG00000001029-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,-1.0,True,-1.0,,True,
 ENSMUSG00000001029-B,-1.0,RBN,Isosorbide,,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000001029-B,-1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000001029-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000001418-B,-1.0,RBN,"(9H-fluoren-9-yl)methanol, O-methoxycarbonyl-",-1.0,CSF,-1.0,-0.9276336570439176,-0.5,-0.90526873051103,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000001418-B,-1.0,RBN,"(9H-fluoren-9-yl)methanol, O-methoxycarbonyl-",,CSF,-1.0,-0.9276336570439176,-0.5,-0.90526873051103,True,-1.0,,False,False,False,True
 ENSMUSG00000001418-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000001418-B,-1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000001418-B,-1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -79,7 +79,7 @@ ENSMUSG00000001946-B,-1.0,RBN,L-Val-L-Leu,,CSF,,1.0,,1.0,True,1.0,,True,False,Fa
 ENSMUSG00000002068-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000002068-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000002068-B,-1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000002068-B,-1.0,RBN,L-Threonine,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
+ENSMUSG00000002068-B,-1.0,RBN,L-Threonine,-1.0,CSF,,1.0,,1.0,True,1.0,1.0,True,True,True,True
 ENSMUSG00000002068-B,-1.0,RBN,m-Toluic acid,1.0,CSF,0.5,-0.8116794499134279,-0.5,-0.8183739719664755,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000002068-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000002068-B,-1.0,RBN,Octadecanoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -118,7 +118,7 @@ ENSMUSG00000002984-B,-1.0,RBN,"4,5-Dihydro-1H-pyrazole",,CSF,,,,1.0,True,1.0,,Tr
 ENSMUSG00000002984-B,-1.0,RBN,7-Hydroxy-4-(methoxymethyl)coumarin,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000002984-B,-1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000002984-B,-1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000002984-B,-1.0,RBN,"Oxymorphone, bis(trimethylsilyl) ether",1.0,CSF,0.0,0.6179143806533246,,0.8756597221654879,True,1.0,-1.0,False,False,False,True
+ENSMUSG00000002984-B,-1.0,RBN,"Oxymorphone, bis(trimethylsilyl) ether",,CSF,0.0,0.6179143806533246,,0.8756597221654879,True,1.0,,False,False,False,True
 ENSMUSG00000002984-B,-1.0,RBN,Tyr-Val,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000004031-B,-1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000004031-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -172,9 +172,9 @@ ENSMUSG00000006412-B,1.0,RBN,"2,4-Dimethoxybenzaldoxime",,CSF,,,,-1.0,True,-1.0,
 ENSMUSG00000006412-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000006412-B,1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000006412-B,1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000006412-B,1.0,RBN,Myristic acid,1.0,CSF,-1.0,-0.9710083124552245,-0.5,-0.8752318487115212,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000006412-B,1.0,RBN,Myristic acid,-1.0,CSF,-1.0,-0.9710083124552245,-0.5,-0.8752318487115212,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000006412-B,1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000006412-B,1.0,RBN,Pipecolic acid,1.0,CSF,-1.0,-0.7714285714285715,0.0,-0.8596544146325672,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000006412-B,1.0,RBN,Pipecolic acid,-1.0,CSF,-1.0,-0.7714285714285715,0.0,-0.8596544146325672,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000006456-B,1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000006456-B,1.0,RBN,Diclofenac,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000006456-B,1.0,RBN,Isosorbide,,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
@@ -219,11 +219,11 @@ ENSMUSG00000008958-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,
 ENSMUSG00000008958-B,-1.0,RBN,1-Butanol,,CSF,,,,-0.9856107606091624,True,-1.0,,False,False,False,True
 ENSMUSG00000008958-B,-1.0,RBN,"1-Heptanol, 2-propyl-",,CSF,,0.9856107606091624,,0.9856107606091624,True,1.0,,False,False,False,True
 ENSMUSG00000008958-B,-1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000008958-B,-1.0,RBN,5-Oxohexanoic Acid,1.0,CSF,1.0,0.753702346348183,1.0,0.9071817764981586,True,1.0,-1.0,False,False,False,True
+ENSMUSG00000008958-B,-1.0,RBN,5-Oxohexanoic Acid,-1.0,CSF,1.0,0.753702346348183,1.0,0.9071817764981586,True,1.0,1.0,False,True,False,False
 ENSMUSG00000008958-B,-1.0,RBN,6-Nitroveratryl alcohol,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000008958-B,-1.0,RBN,Glabridin,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000008958-B,-1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000008958-B,-1.0,RBN,L-Lysine,1.0,CSF,,0.8285714285714287,0.5,0.8473826084954617,True,1.0,-1.0,False,False,False,True
+ENSMUSG00000008958-B,-1.0,RBN,L-Lysine,-1.0,CSF,,0.8285714285714287,0.5,0.8473826084954617,True,1.0,1.0,False,True,False,False
 ENSMUSG00000008958-B,-1.0,RBN,L-Val-L-Leu,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000008958-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000008958-B,-1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -289,7 +289,7 @@ ENSMUSG00000017837-B,-1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,Fal
 ENSMUSG00000017858-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000017858-B,1.0,RBN,3-(4-Methoxyphenyl)coumarin,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000017858-B,1.0,RBN,Diclofenac,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000017858-B,1.0,RBN,Guanosine,-1.0,CSF,,1.0,1.0,0.9461247469114746,True,1.0,-1.0,False,False,False,True
+ENSMUSG00000017858-B,1.0,RBN,Guanosine,,CSF,,1.0,1.0,0.9461247469114746,True,1.0,,False,False,False,True
 ENSMUSG00000017858-B,1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000018846-B,1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000018846-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -303,7 +303,7 @@ ENSMUSG00000018920-B,1.0,RBN,Isosorbide,,CSF,-1.0,,,-1.0,True,-1.0,,True,False,F
 ENSMUSG00000018920-B,1.0,RBN,Tyr-Val,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000019102-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000019102-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000019102-B,1.0,RBN,Guanosine,-1.0,CSF,,-0.7999999999999999,-1.0,-0.9221722216732094,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000019102-B,1.0,RBN,Guanosine,,CSF,,-0.7999999999999999,-1.0,-0.9221722216732094,True,-1.0,,False,False,False,True
 ENSMUSG00000019102-B,1.0,RBN,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000019791-B,1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000019791-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
@@ -328,8 +328,8 @@ ENSMUSG00000019891-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,Fa
 ENSMUSG00000019891-B,-1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000019891-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000019891-B,-1.0,RBN,"4,5-Dihydro-1H-pyrazole",,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000019891-B,-1.0,RBN,Glycine,-1.0,CSF,-0.5,-0.6667366910003157,-1.0,-0.8947423499236925,True,-1.0,1.0,False,False,False,True
-ENSMUSG00000019891-B,-1.0,RBN,"Glycine, tert.-butyldimethylsilyl ester",-1.0,CSF,-0.5,-0.8406680016960503,-1.0,-0.8611718993346292,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000019891-B,-1.0,RBN,Glycine,,CSF,-0.5,-0.6667366910003157,-1.0,-0.8947423499236925,True,-1.0,,False,False,False,True
+ENSMUSG00000019891-B,-1.0,RBN,"Glycine, tert.-butyldimethylsilyl ester",,CSF,-0.5,-0.8406680016960503,-1.0,-0.8611718993346292,True,-1.0,,False,False,False,True
 ENSMUSG00000019891-B,-1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000019891-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000019891-B,-1.0,RBN,tert-butyl(dimethyl)silyl-2-([tert-butyl(dimethyl)silyl]oxy)hex-2-enoate,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
@@ -403,7 +403,7 @@ ENSMUSG00000020642-B,1.0,RBN,"2,4-Dimethoxybenzaldoxime",,CSF,,,,1.0,True,1.0,,T
 ENSMUSG00000020642-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000020642-B,1.0,RBN,2-Ethyl-1-butanol,-1.0,CSF,,1.0,,1.0,True,1.0,-1.0,True,False,False,False
 ENSMUSG00000020642-B,1.0,RBN,"3,3-Dimethylacrylic acid",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000020642-B,1.0,RBN,3-Amino-5-methylisoxazole,1.0,CSF,,-0.7714285714285715,-0.5,-0.870161710874372,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000020642-B,1.0,RBN,3-Amino-5-methylisoxazole,-1.0,CSF,,-0.7714285714285715,-0.5,-0.870161710874372,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000020642-B,1.0,RBN,"4,5-Dihydro-1H-pyrazole",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000020642-B,1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000020642-B,1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
@@ -431,16 +431,16 @@ ENSMUSG00000020905-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,
 ENSMUSG00000020905-B,-1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000020905-B,-1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000020905-B,-1.0,RBN,Tyr-Val,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000020917-B,1.0,RBN,"(9H-fluoren-9-yl)methanol, O-methoxycarbonyl-",-1.0,CSF,-0.5,-0.8986451052612952,-1.0,-0.824566479341442,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000020917-B,1.0,RBN,"(9H-fluoren-9-yl)methanol, O-methoxycarbonyl-",,CSF,-0.5,-0.8986451052612952,-1.0,-0.824566479341442,True,-1.0,,False,False,False,True
 ENSMUSG00000020917-B,1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000020917-B,1.0,RBN,"2-Allyl-1,4-dimethoxybenzene",-1.0,CSF,-1.0,-0.7714285714285715,-0.8660254037844387,-0.8662186627009184,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000020917-B,1.0,RBN,"2-Allyl-1,4-dimethoxybenzene",,CSF,-1.0,-0.7714285714285715,-0.8660254037844387,-0.8662186627009184,True,-1.0,,False,False,False,True
 ENSMUSG00000020917-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000020917-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000020917-B,1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000020917-B,1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000020917-B,1.0,RBN,"Phenol, 2,4-bis(1-methyl-1-phenylethyl)-",-1.0,CSF,-1.0,-0.6,-1.0,-0.8826633501063164,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000020917-B,1.0,RBN,"Phenol, 2,4-bis(1-methyl-1-phenylethyl)-",,CSF,-1.0,-0.6,-1.0,-0.8826633501063164,True,-1.0,,False,False,False,True
 ENSMUSG00000020917-B,1.0,RBN,Tyr-Val,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000020963-B,1.0,RBN,"2-Allyl-1,4-dimethoxybenzene",-1.0,CSF,1.0,0.6982532518267538,0.8660254037844387,0.892524716760131,True,1.0,-1.0,False,False,False,True
+ENSMUSG00000020963-B,1.0,RBN,"2-Allyl-1,4-dimethoxybenzene",,CSF,1.0,0.6982532518267538,0.8660254037844387,0.892524716760131,True,1.0,,False,False,False,True
 ENSMUSG00000020963-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000020963-B,1.0,RBN,"Benzene, 1-ethyl-3,5-dimethyl",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000020963-B,1.0,RBN,Diclofenac,,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -450,7 +450,7 @@ ENSMUSG00000020963-B,1.0,RBN,Tyr-Val,,CSF,,,,-1.0,True,-1.0,,True,False,False,Fa
 ENSMUSG00000021044-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000021044-B,-1.0,RBN,"1,2-Cyclohexanediol, (Z)",1.0,CSF,,-0.8986451052612952,-1.0,-0.855855407918109,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000021044-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000021044-B,-1.0,RBN,"2-Methylcyclohexanol, (Z)",1.0,CSF,-0.5,-0.753702346348183,-0.8660254037844387,-0.8516379587519646,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000021044-B,-1.0,RBN,"2-Methylcyclohexanol, (Z)",,CSF,-0.5,-0.753702346348183,-0.8660254037844387,-0.8516379587519646,True,-1.0,,False,False,False,True
 ENSMUSG00000021044-B,-1.0,RBN,"3,3-Dimethylacrylic acid",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000021044-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000021044-B,-1.0,RBN,Chlorobenzilate ,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -465,17 +465,17 @@ ENSMUSG00000021483-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-
 ENSMUSG00000021483-B,1.0,RBN,Chlorobenzilate ,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000021483-B,1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000021483-B,1.0,RBN,Tyr-Val,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000021607-B,-1.0,RBN,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester",1.0,CSF,-0.5,-0.8696565534786727,-1.0,-0.8931712471313915,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000021607-B,-1.0,RBN,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester",-1.0,CSF,-0.5,-0.8696565534786727,-1.0,-0.8931712471313915,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000021607-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000021607-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000021607-B,-1.0,RBN,Chlorobenzilate ,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000021607-B,-1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000021607-B,-1.0,RBN,Octacosanol,-1.0,CSF,,-0.7999999999999999,,-0.9549937104572924,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000021607-B,-1.0,RBN,Octacosanol,,CSF,,-0.7999999999999999,,-0.9549937104572924,True,-1.0,,False,False,False,True
 ENSMUSG00000021607-B,-1.0,RBN,Octadecanoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000021607-B,-1.0,RBN,Sulindac,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000021661-B,1.0,RBN,"2,4-Dimethoxybenzaldoxime",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000021661-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000021661-B,1.0,RBN,2-Butoxyethanol,1.0,CSF,-0.5,-0.8285714285714287,-0.5,-0.8686528207395494,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000021661-B,1.0,RBN,2-Butoxyethanol,,CSF,-0.5,-0.8285714285714287,-0.5,-0.8686528207395494,True,-1.0,,False,False,False,True
 ENSMUSG00000021661-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000021661-B,1.0,RBN,7-Hydroxy-4-(methoxymethyl)coumarin,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000021661-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -506,7 +506,7 @@ ENSMUSG00000021948-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,Fa
 ENSMUSG00000021948-B,-1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000021948-B,-1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000021948-B,-1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000022132-B,-1.0,RBN,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester",1.0,CSF,0.5,-0.9856107606091624,-1.0,-0.8161133356141735,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000022132-B,-1.0,RBN,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester",-1.0,CSF,0.5,-0.9856107606091624,-1.0,-0.8161133356141735,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000022132-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000022132-B,-1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000022132-B,-1.0,RBN,"3,3-Dimethylacrylic acid",,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -532,7 +532,7 @@ ENSMUSG00000022468-B,-1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,
 ENSMUSG00000022468-B,-1.0,RBN,7-Hydroxy-4-(methoxymethyl)coumarin,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000022468-B,-1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000022505-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000022505-B,1.0,RBN,"2,4,4'-Trihydroxybenzophenone",1.0,CSF,-0.5,-0.7714285714285715,-1.0,-0.8421104469870047,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000022505-B,1.0,RBN,"2,4,4'-Trihydroxybenzophenone",,CSF,-0.5,-0.7714285714285715,-1.0,-0.8421104469870047,True,-1.0,,False,False,False,True
 ENSMUSG00000022505-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000022505-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000022505-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -544,7 +544,7 @@ ENSMUSG00000022674-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0
 ENSMUSG00000022674-B,-1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000022674-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000022674-B,-1.0,RBN,4-tert-Butyldimethylsiloxy-3-penten-2-one,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000022674-B,-1.0,RBN,Glycine,-1.0,CSF,-1.0,-0.7826908981308054,-0.5,-0.8596544146325672,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000022674-B,-1.0,RBN,Glycine,,CSF,-1.0,-0.7826908981308054,-0.5,-0.8596544146325672,True,-1.0,,False,False,False,True
 ENSMUSG00000022674-B,-1.0,RBN,Isosorbide,,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000022674-B,-1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000022674-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
@@ -572,7 +572,7 @@ ENSMUSG00000022790-B,-1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,
 ENSMUSG00000022790-B,-1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000022790-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000022790-B,-1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000022790-B,-1.0,RBN,Palmitic Acid,,CSF,1.0,1.0,,0.95,True,1.0,,False,False,False,True
+ENSMUSG00000022790-B,-1.0,RBN,Palmitic Acid,1.0,CSF,1.0,1.0,,0.95,True,1.0,-1.0,False,False,False,True
 ENSMUSG00000022855-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000022855-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000022855-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -603,12 +603,12 @@ ENSMUSG00000023186-B,1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,
 ENSMUSG00000023707-B,1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000023707-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000023707-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000023707-B,1.0,RBN,"2,4-Imidazolidinedione, 5,5-dimethyl",,CSF,1.0,0.8116794499134279,0.5,0.8736895887490173,True,1.0,,False,False,False,True
+ENSMUSG00000023707-B,1.0,RBN,"2,4-Imidazolidinedione, 5,5-dimethyl",-1.0,CSF,1.0,0.8116794499134279,0.5,0.8736895887490173,True,1.0,-1.0,False,False,False,True
 ENSMUSG00000023707-B,1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000023707-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000023707-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000023707-B,1.0,RBN,Diclofenac,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000023707-B,1.0,RBN,"Kojic acid, bis(tert-butyldimethylsilyl) ether",1.0,CSF,1.0,0.8285714285714287,0.5,0.8741258741258742,True,1.0,1.0,False,True,False,False
+ENSMUSG00000023707-B,1.0,RBN,"Kojic acid, bis(tert-butyldimethylsilyl) ether",-1.0,CSF,1.0,0.8285714285714287,0.5,0.8741258741258742,True,1.0,-1.0,False,False,False,True
 ENSMUSG00000023707-B,1.0,RBN,L-Serine,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000023707-B,1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000023707-B,1.0,RBN,Tyr-Val,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -620,7 +620,7 @@ ENSMUSG00000023960-B,-1.0,RBN,"4,5-Dihydro-1H-pyrazole",,CSF,,,,1.0,True,1.0,,Tr
 ENSMUSG00000023960-B,-1.0,RBN,7-Hydroxy-4-(methoxymethyl)coumarin,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000023960-B,-1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000023960-B,-1.0,RBN,Luciferin,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000023960-B,-1.0,RBN,Octacosanol,-1.0,CSF,,-0.7999999999999999,,-0.9549937104572924,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000023960-B,-1.0,RBN,Octacosanol,,CSF,,-0.7999999999999999,,-0.9549937104572924,True,-1.0,,False,False,False,True
 ENSMUSG00000023960-B,-1.0,RBN,Sulindac,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000023960-B,-1.0,RBN,Tyr-Val,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000024140-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -663,7 +663,7 @@ ENSMUSG00000024570-B,-1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,Fal
 ENSMUSG00000024570-B,-1.0,RBN,L-Val-L-Leu,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000024570-B,-1.0,RBN,Tyr-Val,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000024576-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000024576-B,1.0,RBN,"Benzoic acid, methyl ester",,CSF,-0.5,-0.8857142857142858,-1.0,-0.8181818181818183,True,-1.0,,False,False,False,True
+ENSMUSG00000024576-B,1.0,RBN,"Benzoic acid, methyl ester",-1.0,CSF,-0.5,-0.8857142857142858,-1.0,-0.8181818181818183,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000024576-B,1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000024620-B,-1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000024620-B,-1.0,RBN,2-Norbornanemethanol,,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -671,7 +671,7 @@ ENSMUSG00000024620-B,-1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,
 ENSMUSG00000024620-B,-1.0,RBN,8-Methylnonanoic acid,-1.0,CSF,-1.0,-0.8116794499134279,-1.0,-0.8421104469870047,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000024620-B,-1.0,RBN,Lupinine,,CSF,,-1.0,,-0.9642857142857144,True,-1.0,,False,False,False,True
 ENSMUSG00000024620-B,-1.0,RBN,Tyr-Val,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000025134-B,-1.0,RBN,"1-(2,4-Dimethoxyphenyl)-propan-2-one",-1.0,CSF,-1.0,-0.1118033988749894,-0.5,-0.862421616015649,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000025134-B,-1.0,RBN,"1-(2,4-Dimethoxyphenyl)-propan-2-one",1.0,CSF,-1.0,-0.1118033988749894,-0.5,-0.862421616015649,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000025134-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000025134-B,-1.0,RBN,"2,4-Dimethoxybenzaldoxime",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000025134-B,-1.0,RBN,Chlorobenzilate ,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -687,12 +687,12 @@ ENSMUSG00000025340-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,Fa
 ENSMUSG00000025340-B,1.0,RBN,Formamide,,CSF,-0.5,-0.9856107606091624,-1.0,-0.8476030024285035,True,-1.0,,False,False,False,True
 ENSMUSG00000025340-B,1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000025340-B,1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000025354-B,-1.0,RBN,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester",1.0,CSF,0.5,-0.9276336570439176,-1.0,-0.8616475560561659,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000025354-B,-1.0,RBN,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester",-1.0,CSF,0.5,-0.9276336570439176,-1.0,-0.8616475560561659,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000025354-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000025354-B,-1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000025354-B,-1.0,RBN,7-Hydroxy-4-(methoxymethyl)coumarin,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000025354-B,-1.0,RBN,Chlorobenzilate ,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000025354-B,-1.0,RBN,Iminodiacetic acid,1.0,CSF,-0.5,-0.8986451052612952,-0.5,-0.8315840663996671,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000025354-B,-1.0,RBN,Iminodiacetic acid,,CSF,-0.5,-0.8986451052612952,-0.5,-0.8315840663996671,True,-1.0,,False,False,False,True
 ENSMUSG00000025354-B,-1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000025354-B,-1.0,RBN,L-Ornithine,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000025354-B,-1.0,RBN,Octadecanoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -715,21 +715,21 @@ ENSMUSG00000025510-B,-1.0,RBN,2-Buten-1-ol,,CSF,,,,-1.0,True,-1.0,,True,False,Fa
 ENSMUSG00000025510-B,-1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000025510-B,-1.0,RBN,4-tert-Butyldimethylsiloxy-3-penten-2-one,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000025510-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000025510-B,-1.0,RBN,Octacosanol,-1.0,CSF,,-1.0,,-0.9910312089651148,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000025510-B,-1.0,RBN,Octacosanol,,CSF,,-1.0,,-0.9910312089651148,True,-1.0,,False,False,False,True
 ENSMUSG00000025732-B,1.0,RBN,3-(4-Methoxyphenyl)coumarin,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000025732-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000025732-B,1.0,RBN,"Benzene, 1-ethyl-3,5-dimethyl",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000025732-B,1.0,RBN,Chlorobenzilate ,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000025732-B,1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000025732-B,1.0,RBN,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000025825-B,-1.0,RBN,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester",1.0,CSF,-0.5,-0.9276336570439176,-0.5,-0.8231186002975568,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000025825-B,-1.0,RBN,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester",-1.0,CSF,-0.5,-0.9276336570439176,-0.5,-0.8231186002975568,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000025825-B,-1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000025825-B,-1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000025825-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000025825-B,-1.0,RBN,Diclofenac,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000025825-B,-1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000025825-B,-1.0,RBN,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000025825-B,-1.0,RBN,Synephrine,,CSF,-0.5,0.753702346348183,0.8660254037844387,0.8456192405161171,True,1.0,,False,False,False,True
+ENSMUSG00000025825-B,-1.0,RBN,Synephrine,-1.0,CSF,-0.5,0.753702346348183,0.8660254037844387,0.8456192405161171,True,1.0,1.0,False,True,False,False
 ENSMUSG00000025927-B,1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000025927-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000025927-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -779,7 +779,7 @@ ENSMUSG00000026197-B,1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylami
 ENSMUSG00000026260-B,-1.0,RBN,3-(4-Methoxyphenyl)coumarin,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000026260-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000026260-B,-1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000026260-B,-1.0,RBN,Guanosine,-1.0,CSF,,0.7999999999999999,1.0,0.9221722216732094,True,1.0,1.0,False,True,False,False
+ENSMUSG00000026260-B,-1.0,RBN,Guanosine,,CSF,,0.7999999999999999,1.0,0.9221722216732094,True,1.0,,False,False,False,True
 ENSMUSG00000026260-B,-1.0,RBN,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000026260-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000026315-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
@@ -820,10 +820,10 @@ ENSMUSG00000026553-B,-1.0,RBN,Octadecanoic acid,,CSF,,,,-1.0,True,-1.0,,True,Fal
 ENSMUSG00000026628-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000026628-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000026628-B,1.0,RBN,"3,3-Dimethylacrylic acid",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000026628-B,1.0,RBN,"Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester ",,CSF,-0.5,-0.8823529411764706,-1.0,-0.8247800529104845,True,-1.0,,False,False,False,True
+ENSMUSG00000026628-B,1.0,RBN,"Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester ",-1.0,CSF,-0.5,-0.8823529411764706,-1.0,-0.8247800529104845,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000026628-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000026628-B,1.0,RBN,Isosorbide,,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000026628-B,1.0,RBN,Synephrine,,CSF,-1.0,-0.3970588235294118,-0.8660254037844387,-0.8303938767900017,True,-1.0,,False,False,False,True
+ENSMUSG00000026628-B,1.0,RBN,Synephrine,-1.0,CSF,-1.0,-0.3970588235294118,-0.8660254037844387,-0.8303938767900017,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000026628-B,1.0,RBN,Tyr-Val,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000026630-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000026630-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -868,7 +868,7 @@ ENSMUSG00000027318-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-o
 ENSMUSG00000027318-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000027318-B,1.0,RBN,"2,4-Dimethoxybenzaldoxime",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000027318-B,1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000027318-B,1.0,RBN,Aniline,-1.0,CSF,1.0,0.7714285714285715,0.5,0.8491280340452296,True,1.0,-1.0,False,False,False,True
+ENSMUSG00000027318-B,1.0,RBN,Aniline,1.0,CSF,1.0,0.7714285714285715,0.5,0.8491280340452296,True,1.0,1.0,False,True,False,False
 ENSMUSG00000027318-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000027318-B,1.0,RBN,Isosorbide,,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000027318-B,1.0,RBN,Lupinine,,CSF,,0.8999999999999998,,0.9642857142857144,True,1.0,,False,False,False,True
@@ -906,19 +906,19 @@ ENSMUSG00000027663-B,-1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,
 ENSMUSG00000027663-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000027663-B,-1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000027663-B,-1.0,RBN,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000027663-B,-1.0,RBN,L-Threonine,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
+ENSMUSG00000027663-B,-1.0,RBN,L-Threonine,-1.0,CSF,,1.0,,1.0,True,1.0,1.0,True,True,True,True
 ENSMUSG00000027673-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000027673-B,1.0,RBN,"2,4-Dimethoxybenzaldoxime",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000027673-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000027673-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000027673-B,1.0,RBN,Chlorobenzilate ,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000027673-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000027673-B,1.0,RBN,L-Glutamic acid,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
+ENSMUSG00000027673-B,1.0,RBN,L-Glutamic acid,-1.0,CSF,,-1.0,,-1.0,True,-1.0,-1.0,True,True,True,True
 ENSMUSG00000027714-B,1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000027714-B,1.0,RBN,3-(4-Methoxyphenyl)coumarin,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000027714-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000027714-B,1.0,RBN,Isosorbide,,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000027714-B,1.0,RBN,L-Glutamic acid,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
+ENSMUSG00000027714-B,1.0,RBN,L-Glutamic acid,-1.0,CSF,,-1.0,,-1.0,True,-1.0,-1.0,True,True,True,True
 ENSMUSG00000027714-B,1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000027714-B,1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000027714-B,1.0,RBN,Octadecanoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -937,7 +937,7 @@ ENSMUSG00000028044-B,-1.0,RBN,"13-Docosenamide, (Z)",,CSF,,1.0,,1.0,True,1.0,,Tr
 ENSMUSG00000028044-B,-1.0,RBN,"2,4-Dimethoxybenzaldoxime",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000028044-B,-1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000028044-B,-1.0,RBN,Isosorbide,,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000028044-B,-1.0,RBN,L-Threonine,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
+ENSMUSG00000028044-B,-1.0,RBN,L-Threonine,-1.0,CSF,,1.0,,1.0,True,1.0,1.0,True,True,True,True
 ENSMUSG00000028044-B,-1.0,RBN,Luciferin,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000028044-B,-1.0,RBN,"Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl-",1.0,CSF,0.5,0.8406680016960503,,0.8675889534567239,True,1.0,-1.0,False,False,False,True
 ENSMUSG00000028082-B,-1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -959,7 +959,7 @@ ENSMUSG00000028167-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-
 ENSMUSG00000028167-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000028167-B,1.0,RBN,"4,5-Dihydro-1H-pyrazole",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000028167-B,1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000028214-B,1.0,RBN,"3,4,5-Trimethoxyamphetamine",-1.0,CSF,,-0.9411239481143202,-0.5,-0.8413993200790741,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000028214-B,1.0,RBN,"3,4,5-Trimethoxyamphetamine",1.0,CSF,,-0.9411239481143202,-0.5,-0.8413993200790741,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000028214-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000028214-B,1.0,RBN,Chlorobenzilate ,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000028214-B,1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
@@ -985,10 +985,10 @@ ENSMUSG00000028552-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0
 ENSMUSG00000028552-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000028552-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000028552-B,-1.0,RBN,"Benzene, 1-ethyl-3,5-dimethyl",,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000028552-B,-1.0,RBN,Glycine,-1.0,CSF,-1.0,-0.0289885517826224,-1.0,-0.8315840663996671,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000028552-B,-1.0,RBN,Glycine,,CSF,-1.0,-0.0289885517826224,-1.0,-0.8315840663996671,True,-1.0,,False,False,False,True
 ENSMUSG00000028552-B,-1.0,RBN,Isosorbide,,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000028552-B,-1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000028552-B,-1.0,RBN,L-Threonine,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
+ENSMUSG00000028552-B,-1.0,RBN,L-Threonine,-1.0,CSF,,1.0,,1.0,True,1.0,1.0,True,True,True,True
 ENSMUSG00000028552-B,-1.0,RBN,Octadecanoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000028637-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000028637-B,-1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -1002,7 +1002,7 @@ ENSMUSG00000028688-B,-1.0,RBN,"2,4-Dimethoxybenzaldoxime",,CSF,,,,-1.0,True,-1.0
 ENSMUSG00000028688-B,-1.0,RBN,2-Norbornanemethanol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000028688-B,-1.0,RBN,7-Hydroxy-4-(methoxymethyl)coumarin,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000028688-B,-1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000028688-B,-1.0,RBN,Thymol,1.0,CSF,-0.5,-0.9746794344808964,,-0.87806510397951,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000028688-B,-1.0,RBN,Thymol,-1.0,CSF,-0.5,-0.9746794344808964,,-0.87806510397951,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000028706-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000028706-B,-1.0,RBN,7-Hydroxy-4-(methoxymethyl)coumarin,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000028706-B,-1.0,RBN,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -1015,9 +1015,9 @@ ENSMUSG00000028763-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,
 ENSMUSG00000028763-B,1.0,RBN,"Benzene, 1-ethyl-3,5-dimethyl",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000028763-B,1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000028763-B,1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000028763-B,1.0,RBN,"Oxymorphone, bis(trimethylsilyl) ether",1.0,CSF,0.0,-0.7061878636037996,,-0.8433985745067596,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000028763-B,1.0,RBN,"Oxymorphone, bis(trimethylsilyl) ether",,CSF,0.0,-0.7061878636037996,,-0.8433985745067596,True,-1.0,,False,False,False,True
 ENSMUSG00000028763-B,1.0,RBN,Tyr-Val,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000028776-B,-1.0,RBN,"1-(2,4-Dimethoxyphenyl)-propan-2-one",-1.0,CSF,-0.5,-0.6708203932499368,-0.5,-0.8715963140583688,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000028776-B,-1.0,RBN,"1-(2,4-Dimethoxyphenyl)-propan-2-one",1.0,CSF,-0.5,-0.6708203932499368,-0.5,-0.8715963140583688,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000028776-B,-1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000028776-B,-1.0,RBN,2-Norbornanemethanol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000028776-B,-1.0,RBN,3-(4-Methoxyphenyl)coumarin,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
@@ -1031,13 +1031,13 @@ ENSMUSG00000028807-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0
 ENSMUSG00000028807-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000028807-B,-1.0,RBN,"Benzene, 1-ethyl-3,5-dimethyl",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000028807-B,-1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000028807-B,-1.0,RBN,L-Threonine,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
+ENSMUSG00000028807-B,-1.0,RBN,L-Threonine,-1.0,CSF,,1.0,,1.0,True,1.0,1.0,True,True,True,True
 ENSMUSG00000028807-B,-1.0,RBN,Tyr-Val,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000028871-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000028871-B,-1.0,RBN,3-(4-Methoxyphenyl)coumarin,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000028871-B,-1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000028871-B,-1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000028871-B,-1.0,RBN,L-Glutamic acid,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
+ENSMUSG00000028871-B,-1.0,RBN,L-Glutamic acid,-1.0,CSF,,-1.0,,-1.0,True,-1.0,1.0,True,False,False,False
 ENSMUSG00000028871-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000028948-B,-1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000028948-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -1069,7 +1069,7 @@ ENSMUSG00000029551-B,-1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,1.0,,,1.0,True,1.
 ENSMUSG00000029551-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000029551-B,-1.0,RBN,"4,5-Dihydro-1H-pyrazole",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000029551-B,-1.0,RBN,7-Hydroxy-4-(methoxymethyl)coumarin,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000029551-B,-1.0,RBN,Citramalic acid,1.0,CSF,0.8660254037844387,-0.8207826816681233,-1.0,-0.8401914075580906,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000029551-B,-1.0,RBN,Citramalic acid,-1.0,CSF,0.8660254037844387,-0.8207826816681233,-1.0,-0.8401914075580906,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000029551-B,-1.0,RBN,Luciferin,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000029551-B,-1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000029551-B,-1.0,RBN,m-Toluic acid,1.0,CSF,-0.5,-0.6377481392176932,-1.0,-0.8783410302571225,True,-1.0,-1.0,False,True,False,False
@@ -1123,7 +1123,7 @@ ENSMUSG00000030111-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,Fal
 ENSMUSG00000030111-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000030111-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000030111-B,1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000030111-B,1.0,RBN,L-Glutamic acid,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
+ENSMUSG00000030111-B,1.0,RBN,L-Glutamic acid,-1.0,CSF,,-1.0,,-1.0,True,-1.0,-1.0,True,True,True,True
 ENSMUSG00000030189-B,1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000030189-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000030189-B,1.0,RBN,2-Norbornanemethanol,,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -1136,22 +1136,22 @@ ENSMUSG00000030189-B,1.0,RBN,Tyr-Val,,CSF,,,,1.0,True,1.0,,True,False,False,Fals
 ENSMUSG00000030224-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000030224-B,-1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000030224-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000030224-B,-1.0,RBN,"2-Methylcyclohexanol, (Z)",1.0,CSF,1.0,-0.9276336570439176,0.0,-0.865773028606769,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000030224-B,-1.0,RBN,"2-Methylcyclohexanol, (Z)",,CSF,1.0,-0.9276336570439176,0.0,-0.865773028606769,True,-1.0,,False,False,False,True
 ENSMUSG00000030224-B,-1.0,RBN,3-(4-Methoxyphenyl)coumarin,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000030224-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000030224-B,-1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000030224-B,-1.0,RBN,Glycine,-1.0,CSF,-1.0,-0.2319084142609793,-0.5,-0.824566479341442,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000030224-B,-1.0,RBN,Glycine,,CSF,-1.0,-0.2319084142609793,-0.5,-0.824566479341442,True,-1.0,,False,False,False,True
 ENSMUSG00000030224-B,-1.0,RBN,Isosorbide,,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000030224-B,-1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000030224-B,-1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000030224-B,-1.0,RBN,Octadecanoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000030271-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000030271-B,-1.0,RBN,"2-Methylcyclohexanol, (Z)",1.0,CSF,-0.5,-0.5507824838698261,-0.8660254037844387,-0.830435353969758,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000030271-B,-1.0,RBN,"2-Methylcyclohexanol, (Z)",,CSF,-0.5,-0.5507824838698261,-0.8660254037844387,-0.830435353969758,True,-1.0,,False,False,False,True
 ENSMUSG00000030271-B,-1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000030271-B,-1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000030271-B,-1.0,RBN,Glycine,-1.0,CSF,0.5,-0.753702346348183,-1.0,-0.8350928599287796,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000030271-B,-1.0,RBN,Glycine,,CSF,0.5,-0.753702346348183,-1.0,-0.8350928599287796,True,-1.0,,False,False,False,True
 ENSMUSG00000030271-B,-1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000030271-B,-1.0,RBN,L-Glutamic acid,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
+ENSMUSG00000030271-B,-1.0,RBN,L-Glutamic acid,-1.0,CSF,,-1.0,,-1.0,True,-1.0,1.0,True,False,False,False
 ENSMUSG00000030271-B,-1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000030401-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000030401-B,-1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
@@ -1169,7 +1169,7 @@ ENSMUSG00000030889-B,1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,
 ENSMUSG00000030942-B,-1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000030942-B,-1.0,RBN,"2,4-Dimethoxybenzaldoxime",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000030942-B,-1.0,RBN,Chlorobenzilate ,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000030942-B,-1.0,RBN,L-Glutamic acid,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
+ENSMUSG00000030942-B,-1.0,RBN,L-Glutamic acid,-1.0,CSF,,-1.0,,-1.0,True,-1.0,1.0,True,False,False,False
 ENSMUSG00000030942-B,-1.0,RBN,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000030942-B,-1.0,RBN,Sulindac,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000030942-B,-1.0,RBN,tert-butyl(dimethyl)silyl-2-([tert-butyl(dimethyl)silyl]oxy)hex-2-enoate,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
@@ -1238,7 +1238,7 @@ ENSMUSG00000031788-B,-1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,
 ENSMUSG00000031788-B,-1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000031788-B,-1.0,RBN,L-Val-L-Leu,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000031788-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000031844-B,-1.0,RBN,"1-(2,4-Dimethoxyphenyl)-propan-2-one",-1.0,CSF,-0.5,-0.8944271909999157,-0.5,-0.8425925925925924,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000031844-B,-1.0,RBN,"1-(2,4-Dimethoxyphenyl)-propan-2-one",1.0,CSF,-0.5,-0.8944271909999157,-0.5,-0.8425925925925924,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000031844-B,-1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000031844-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000031844-B,-1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -1251,7 +1251,7 @@ ENSMUSG00000031844-B,-1.0,RBN,Tyr-Val,,CSF,,,,1.0,True,1.0,,True,False,False,Fal
 ENSMUSG00000031872-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000031872-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000031872-B,1.0,RBN,L-Val-L-Leu,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000031872-B,1.0,RBN,N-Caffeoyl-O-methyltyramine,1.0,CSF,,-0.753702346348183,-1.0,-0.8693049274624923,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000031872-B,1.0,RBN,N-Caffeoyl-O-methyltyramine,-1.0,CSF,,-0.753702346348183,-1.0,-0.8693049274624923,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000031951-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000031951-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000031951-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -1308,7 +1308,7 @@ ENSMUSG00000032300-B,1.0,RBN,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl e
 ENSMUSG00000032300-B,1.0,RBN,L-Val-L-Leu,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000032307-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000032307-B,1.0,RBN,2-Norbornanemethanol,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000032307-B,1.0,RBN,3-Aminobenzoic acid,1.0,CSF,,-0.7142857142857143,-1.0,-0.8428267880196796,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000032307-B,1.0,RBN,3-Aminobenzoic acid,,CSF,,-0.7142857142857143,-1.0,-0.8428267880196796,True,-1.0,,False,False,False,True
 ENSMUSG00000032307-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000032307-B,1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000032307-B,1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -1335,22 +1335,22 @@ ENSMUSG00000032387-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,Fa
 ENSMUSG00000032387-B,-1.0,RBN,"3,3-Dimethylacrylic acid",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000032387-B,-1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000032387-B,-1.0,RBN,L-Val-L-Leu,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000032387-B,-1.0,RBN,Synephrine,,CSF,1.0,0.3768511731740915,0.8660254037844387,0.8526368275743421,True,1.0,,False,False,False,True
+ENSMUSG00000032387-B,-1.0,RBN,Synephrine,-1.0,CSF,1.0,0.3768511731740915,0.8660254037844387,0.8526368275743421,True,1.0,1.0,False,True,False,False
 ENSMUSG00000032387-B,-1.0,RBN,Tyr-Val,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000032481-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000032481-B,1.0,RBN,2-Norbornanemethanol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000032481-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000032481-B,1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000032481-B,1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000032481-B,1.0,RBN,L-Glutamic acid,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
+ENSMUSG00000032481-B,1.0,RBN,L-Glutamic acid,-1.0,CSF,,1.0,,1.0,True,1.0,-1.0,True,False,False,False
 ENSMUSG00000032481-B,1.0,RBN,L-Val-L-Leu,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000032526-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000032526-B,1.0,RBN,"2,4-Dimethoxybenzaldoxime",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000032526-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000032526-B,1.0,RBN,"Benzene, 1-ethyl-3,5-dimethyl",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000032526-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000032526-B,1.0,RBN,Glycine,-1.0,CSF,-0.5,-0.8406680016960503,-0.5,-0.8315840663996671,True,-1.0,-1.0,False,True,False,False
-ENSMUSG00000032526-B,1.0,RBN,L-Glutamic acid,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
+ENSMUSG00000032526-B,1.0,RBN,Glycine,,CSF,-0.5,-0.8406680016960503,-0.5,-0.8315840663996671,True,-1.0,,False,False,False,True
+ENSMUSG00000032526-B,1.0,RBN,L-Glutamic acid,-1.0,CSF,,-1.0,,-1.0,True,-1.0,-1.0,True,True,True,True
 ENSMUSG00000032526-B,1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000032691-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000032691-B,1.0,RBN,2-Norbornanemethanol,,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -1392,7 +1392,7 @@ ENSMUSG00000033106-B,1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,T
 ENSMUSG00000033106-B,1.0,RBN,4-tert-Butyldimethylsiloxy-3-penten-2-one,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000033106-B,1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000033106-B,1.0,RBN,Sulindac,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000033106-B,1.0,RBN,Supraene,1.0,CSF,,-0.8999999999999998,,-0.95,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000033106-B,1.0,RBN,Supraene,-1.0,CSF,,-0.8999999999999998,,-0.95,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000033106-B,1.0,RBN,Tyr-Val,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000033356-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000033356-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -1412,7 +1412,7 @@ ENSMUSG00000033420-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,
 ENSMUSG00000033420-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000033420-B,1.0,RBN,Chlorobenzilate ,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000033420-B,1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000033420-B,1.0,RBN,L-Glutamic acid,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
+ENSMUSG00000033420-B,1.0,RBN,L-Glutamic acid,-1.0,CSF,,-1.0,,-1.0,True,-1.0,-1.0,True,True,True,True
 ENSMUSG00000033427-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000033427-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000033427-B,1.0,RBN,Glabridin,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -1444,23 +1444,23 @@ ENSMUSG00000033740-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,Fa
 ENSMUSG00000033740-B,1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000033740-B,1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000033740-B,1.0,RBN,Urea,-1.0,CSF,-0.5,-0.9856107606091624,-1.0,-0.8471119499577373,True,-1.0,-1.0,False,True,False,False
-ENSMUSG00000033906-B,-1.0,RBN,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester",1.0,CSF,-0.5,-0.8696565534786727,-1.0,-0.9071817764981586,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000033906-B,-1.0,RBN,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester",-1.0,CSF,-0.5,-0.8696565534786727,-1.0,-0.9071817764981586,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000033906-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000033906-B,-1.0,RBN,"3,3-Dimethylacrylic acid",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000033906-B,-1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000033906-B,-1.0,RBN,Octadecanoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000033906-B,-1.0,RBN,Sulindac,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000033938-B,1.0,RBN,"2-Allyl-1,4-dimethoxybenzene",-1.0,CSF,-1.0,-0.7714285714285715,-0.8660254037844387,-0.8803035190049984,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000033938-B,1.0,RBN,"2-Allyl-1,4-dimethoxybenzene",,CSF,-1.0,-0.7714285714285715,-0.8660254037844387,-0.8803035190049984,True,-1.0,,False,False,False,True
 ENSMUSG00000033938-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000033938-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000033938-B,1.0,RBN,Glycolic acid,-1.0,CSF,-0.5,-0.8406680016960503,-1.0,-0.8400819752692913,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000033938-B,1.0,RBN,Glycolic acid,1.0,CSF,-0.5,-0.8406680016960503,-1.0,-0.8400819752692913,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000033938-B,1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000033938-B,1.0,RBN,Octadecanoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000033938-B,1.0,RBN,"Phenol, 2,4-bis(1-methyl-1-phenylethyl)-",-1.0,CSF,-1.0,-0.6,-1.0,-0.8231186002975568,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000033938-B,1.0,RBN,"Phenol, 2,4-bis(1-methyl-1-phenylethyl)-",,CSF,-1.0,-0.6,-1.0,-0.8231186002975568,True,-1.0,,False,False,False,True
 ENSMUSG00000033938-B,1.0,RBN,Tyr-Val,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000034006-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000034006-B,1.0,RBN,7-Hydroxy-4-(methoxymethyl)coumarin,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000034006-B,1.0,RBN,Cycloheptanol,-1.0,CSF,-0.5,-0.8116794499134279,-1.0,-0.8491280340452296,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000034006-B,1.0,RBN,Cycloheptanol,1.0,CSF,-0.5,-0.8116794499134279,-1.0,-0.8491280340452296,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000034006-B,1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000034118-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000034118-B,-1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -1484,7 +1484,7 @@ ENSMUSG00000034460-B,-1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False
 ENSMUSG00000034480-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000034480-B,1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000034480-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000034480-B,1.0,RBN,L-Lysine,1.0,CSF,,0.7142857142857143,1.0,0.8428267880196796,True,1.0,1.0,False,True,False,False
+ENSMUSG00000034480-B,1.0,RBN,L-Lysine,-1.0,CSF,,0.7142857142857143,1.0,0.8428267880196796,True,1.0,-1.0,False,False,False,True
 ENSMUSG00000034480-B,1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000034486-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000034486-B,-1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -1496,12 +1496,12 @@ ENSMUSG00000034486-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylam
 ENSMUSG00000034486-B,-1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000034486-B,-1.0,RBN,tert-butyl(dimethyl)silyl-2-([tert-butyl(dimethyl)silyl]oxy)hex-2-enoate,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000034509-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000034509-B,-1.0,RBN,"2-Methylcyclohexanol, (Z)",1.0,CSF,1.0,-0.4058397249567139,-0.8660254037844387,-0.8481041912882634,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000034509-B,-1.0,RBN,"2-Methylcyclohexanol, (Z)",,CSF,1.0,-0.4058397249567139,-0.8660254037844387,-0.8481041912882634,True,-1.0,,False,False,False,True
 ENSMUSG00000034509-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000034509-B,-1.0,RBN,"4,5-Dihydro-1H-pyrazole",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000034509-B,-1.0,RBN,Chlorobenzilate ,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000034509-B,-1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000034509-B,-1.0,RBN,Glycine,-1.0,CSF,-1.0,-0.1739313106957345,-1.0,-0.8456192405161171,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000034509-B,-1.0,RBN,Glycine,,CSF,-1.0,-0.1739313106957345,-1.0,-0.8456192405161171,True,-1.0,,False,False,False,True
 ENSMUSG00000034509-B,-1.0,RBN,Isosorbide,,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000034509-B,-1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000034509-B,-1.0,RBN,L-Ornithine,,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -1517,7 +1517,7 @@ ENSMUSG00000034575-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,Fal
 ENSMUSG00000034575-B,1.0,RBN,3-(4-Methoxyphenyl)coumarin,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000034575-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000034575-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000034575-B,1.0,RBN,L-Glutamic acid,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
+ENSMUSG00000034575-B,1.0,RBN,L-Glutamic acid,-1.0,CSF,,-1.0,,-1.0,True,-1.0,-1.0,True,True,True,True
 ENSMUSG00000034706-B,-1.0,RBN,"2,4-Dimethoxybenzaldoxime",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000034706-B,-1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000034706-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -1529,7 +1529,7 @@ ENSMUSG00000034762-B,-1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-
 ENSMUSG00000034762-B,-1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000034762-B,-1.0,RBN,Isosorbide,,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000034762-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000034762-B,-1.0,RBN,Propanoic acid,,CSF,,-0.8720815992723809,,-0.9700772721497396,True,-1.0,,False,False,False,True
+ENSMUSG00000034762-B,-1.0,RBN,Propanoic acid,-1.0,CSF,,-0.8720815992723809,,-0.9700772721497396,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000034762-B,-1.0,RBN,Tyr-Val,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000034892-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000034892-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
@@ -1630,18 +1630,18 @@ ENSMUSG00000036356-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylam
 ENSMUSG00000036356-B,-1.0,RBN,Tyr-Val,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000036712-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000036712-B,-1.0,RBN,"2'-Hydroxy-2,4,4',5-tetramethoxychalcone",,CSF,-0.8660254037844387,-0.8406680016960503,,-0.8572247806462147,True,-1.0,,False,False,False,True
-ENSMUSG00000036712-B,-1.0,RBN,"2-Methylcyclohexanol, (Z)",1.0,CSF,0.5,-0.9856107606091624,0.0,-0.8410366563608612,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000036712-B,-1.0,RBN,"2-Methylcyclohexanol, (Z)",,CSF,0.5,-0.9856107606091624,0.0,-0.8410366563608612,True,-1.0,,False,False,False,True
 ENSMUSG00000036712-B,-1.0,RBN,3-(4-Methoxyphenyl)coumarin,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000036712-B,-1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000036712-B,-1.0,RBN,3-Buten-2-one,,CSF,-0.5,-0.8285714285714287,-0.5,-0.8251748251748254,True,-1.0,,False,False,False,True
 ENSMUSG00000036712-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000036712-B,-1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000036712-B,-1.0,RBN,"Cytosine, N-(tert-butyldimethylsilyl)-",1.0,CSF,-0.8660254037844387,-0.8857142857142858,-0.5,-0.8631632081616797,True,-1.0,-1.0,False,True,False,False
-ENSMUSG00000036712-B,-1.0,RBN,"Dodecanoic acid, 1-methylethyl ester",1.0,CSF,-0.5,-0.8857142857142858,-0.5,-0.824566479341442,True,-1.0,-1.0,False,True,False,False
-ENSMUSG00000036712-B,-1.0,RBN,Guanosine,-1.0,CSF,,0.7999999999999999,1.0,0.9581010095306072,True,1.0,1.0,False,True,False,False
-ENSMUSG00000036712-B,-1.0,RBN,Isopropyl palmitate,1.0,CSF,0.0,-0.8406680016960503,-0.5,-0.8154770638597305,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000036712-B,-1.0,RBN,"Cytosine, N-(tert-butyldimethylsilyl)-",,CSF,-0.8660254037844387,-0.8857142857142858,-0.5,-0.8631632081616797,True,-1.0,,False,False,False,True
+ENSMUSG00000036712-B,-1.0,RBN,"Dodecanoic acid, 1-methylethyl ester",,CSF,-0.5,-0.8857142857142858,-0.5,-0.824566479341442,True,-1.0,,False,False,False,True
+ENSMUSG00000036712-B,-1.0,RBN,Guanosine,,CSF,,0.7999999999999999,1.0,0.9581010095306072,True,1.0,,False,False,False,True
+ENSMUSG00000036712-B,-1.0,RBN,Isopropyl palmitate,-1.0,CSF,0.0,-0.8406680016960503,-0.5,-0.8154770638597305,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000036712-B,-1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000036712-B,-1.0,RBN,L-Tryptophan,1.0,CSF,-0.8660254037844387,-0.8857142857142858,-0.5,-0.8169216656366385,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000036712-B,-1.0,RBN,L-Tryptophan,,CSF,-0.8660254037844387,-0.8857142857142858,-0.5,-0.8169216656366385,True,-1.0,,False,False,False,True
 ENSMUSG00000036712-B,-1.0,RBN,Luciferin,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000036712-B,-1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000036712-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
@@ -1682,7 +1682,7 @@ ENSMUSG00000037148-B,1.0,RBN,tert-butyl(dimethyl)silyl-2-([tert-butyl(dimethyl)s
 ENSMUSG00000037341-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000037341-B,1.0,RBN,"4,5-Dihydro-1H-pyrazole",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000037341-B,1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000037341-B,1.0,RBN,"L-Histidine, N,1-bis(tert-butyldimethylsilyl)-",,CSF,-0.5,-0.6377481392176932,-0.5,-0.912286317569255,True,-1.0,,False,False,False,True
+ENSMUSG00000037341-B,1.0,RBN,"L-Histidine, N,1-bis(tert-butyldimethylsilyl)-",-1.0,CSF,-0.5,-0.6377481392176932,-0.5,-0.912286317569255,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000037341-B,1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000037341-B,1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000037353-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -1707,11 +1707,11 @@ ENSMUSG00000037437-B,1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylami
 ENSMUSG00000037437-B,1.0,RBN,Oleic Acid,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000037437-B,1.0,RBN,tert-butyl(dimethyl)silyl-2-([tert-butyl(dimethyl)silyl]oxy)hex-2-enoate,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000037514-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000037514-B,1.0,RBN,"2,3-Butanediol, O-(trimethylsilyl)-, monoacetate",,CSF,-1.0,-0.9746794344808964,-0.8660254037844387,-0.8513930525146008,True,-1.0,,False,False,False,True
+ENSMUSG00000037514-B,1.0,RBN,"2,3-Butanediol, O-(trimethylsilyl)-, monoacetate",-1.0,CSF,-1.0,-0.9746794344808964,-0.8660254037844387,-0.8513930525146008,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000037514-B,1.0,RBN,"2,4-Dimethoxybenzaldoxime",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000037514-B,1.0,RBN,"2,4-Di-tert-butylphenol",-1.0,CSF,-1.0,,-1.0,-0.9549937104572924,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000037514-B,1.0,RBN,"2,4-Di-tert-butylphenol",,CSF,-1.0,,-1.0,-0.9549937104572924,True,-1.0,,False,False,False,True
 ENSMUSG00000037514-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000037514-B,1.0,RBN,Butanedioic acid,-1.0,CSF,-1.0,-0.942857142857143,-1.0,-0.8724281949682505,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000037514-B,1.0,RBN,Butanedioic acid,,CSF,-1.0,-0.942857142857143,-1.0,-0.8724281949682505,True,-1.0,,False,False,False,True
 ENSMUSG00000037514-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000037514-B,1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000037514-B,1.0,RBN,tert-butyl(dimethyl)silyl-2-([tert-butyl(dimethyl)silyl]oxy)hex-2-enoate,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
@@ -1747,10 +1747,10 @@ ENSMUSG00000038324-B,-1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,
 ENSMUSG00000038324-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000038324-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000038324-B,-1.0,RBN,"4,5-Dihydro-1H-pyrazole",,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000038324-B,-1.0,RBN,Glycine,-1.0,CSF,-1.0,-0.3188740696088466,-0.5,-0.8280752728705546,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000038324-B,-1.0,RBN,Glycine,,CSF,-1.0,-0.3188740696088466,-0.5,-0.8280752728705546,True,-1.0,,False,False,False,True
 ENSMUSG00000038324-B,-1.0,RBN,Isosorbide,,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000038324-B,-1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000038324-B,-1.0,RBN,Octacosanol,-1.0,CSF,,-0.7999999999999999,,-0.9549937104572924,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000038324-B,-1.0,RBN,Octacosanol,,CSF,,-0.7999999999999999,,-0.9549937104572924,True,-1.0,,False,False,False,True
 ENSMUSG00000038324-B,-1.0,RBN,Octadecanoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000038344-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000038344-B,1.0,RBN,"2,4-Dimethoxybenzaldoxime",,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -1795,7 +1795,7 @@ ENSMUSG00000038816-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,1.0,,1.0,True,1.0,,Tru
 ENSMUSG00000038816-B,1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000038816-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000038816-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000038816-B,1.0,RBN,Frangulin,1.0,CSF,0.5,0.948683298050514,,0.8954053273686237,True,1.0,1.0,False,True,False,False
+ENSMUSG00000038816-B,1.0,RBN,Frangulin,-1.0,CSF,0.5,0.948683298050514,,0.8954053273686237,True,1.0,-1.0,False,False,False,True
 ENSMUSG00000038816-B,1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000038816-B,1.0,RBN,Sarcosine,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000038816-B,1.0,RBN,tert-butyl(dimethyl)silyl-2-([tert-butyl(dimethyl)silyl]oxy)hex-2-enoate,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
@@ -1895,24 +1895,24 @@ ENSMUSG00000040276-B,-1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,
 ENSMUSG00000040276-B,-1.0,RBN,Tyr-Val,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000040649-B,-1.0,RBN,"13-Docosenamide, (Z)",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000040649-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000040649-B,-1.0,RBN,"2-Methylcyclohexanol, (Z)",1.0,CSF,1.0,-0.753702346348183,-0.8660254037844387,-0.9152457730985843,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000040649-B,-1.0,RBN,"2-Methylcyclohexanol, (Z)",,CSF,1.0,-0.753702346348183,-0.8660254037844387,-0.9152457730985843,True,-1.0,,False,False,False,True
 ENSMUSG00000040649-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000040649-B,-1.0,RBN,"4,5-Dihydro-1H-pyrazole",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000040649-B,-1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000040649-B,-1.0,RBN,Glycine,-1.0,CSF,-1.0,-0.8406680016960503,-0.5,-0.8807071758072423,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000040649-B,-1.0,RBN,Glycine,,CSF,-1.0,-0.8406680016960503,-0.5,-0.8807071758072423,True,-1.0,,False,False,False,True
 ENSMUSG00000040649-B,-1.0,RBN,Isosorbide,,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000040649-B,-1.0,RBN,Luciferin,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000040649-B,-1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000040649-B,-1.0,RBN,Octadecanoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000040693-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000040693-B,1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000040729-B,1.0,RBN,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether",1.0,CSF,,-1.0,,-1.0,True,-1.0,1.0,True,False,False,False
+ENSMUSG00000040729-B,1.0,RBN,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000040729-B,1.0,RBN,4-tert-Butyldimethylsiloxy-3-penten-2-one,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000040729-B,1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000040729-B,1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000040729-B,1.0,RBN,L-Val-L-Leu,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000040729-B,1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000040797-B,-1.0,RBN,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester",1.0,CSF,-0.5,-0.5797710356524484,-1.0,-0.8511396590310907,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000040797-B,-1.0,RBN,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester",-1.0,CSF,-0.5,-0.5797710356524484,-1.0,-0.8511396590310907,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000040797-B,-1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000040797-B,-1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000040797-B,-1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
@@ -1931,11 +1931,11 @@ ENSMUSG00000040918-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,Fal
 ENSMUSG00000040918-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000040918-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000040918-B,1.0,RBN,Diclofenac,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000040918-B,1.0,RBN,L-Glutamic acid,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
+ENSMUSG00000040918-B,1.0,RBN,L-Glutamic acid,-1.0,CSF,,-1.0,,-1.0,True,-1.0,-1.0,True,True,True,True
 ENSMUSG00000040918-B,1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000040918-B,1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000041020-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000041020-B,1.0,RBN,Guanosine,-1.0,CSF,,0.7999999999999999,1.0,0.9221722216732094,True,1.0,-1.0,False,False,False,True
+ENSMUSG00000041020-B,1.0,RBN,Guanosine,,CSF,,0.7999999999999999,1.0,0.9221722216732094,True,1.0,,False,False,False,True
 ENSMUSG00000041020-B,1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000041020-B,1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000041057-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -2013,7 +2013,7 @@ ENSMUSG00000042190-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-o
 ENSMUSG00000042190-B,1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000042190-B,1.0,RBN,Isosorbide,,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000042190-B,1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000042190-B,1.0,RBN,L-Glutamic acid,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
+ENSMUSG00000042190-B,1.0,RBN,L-Glutamic acid,-1.0,CSF,,-1.0,,-1.0,True,-1.0,-1.0,True,True,True,True
 ENSMUSG00000042190-B,1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000042757-B,-1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000042757-B,-1.0,RBN,"13-Docosenamide, (Z)",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
@@ -2058,11 +2058,11 @@ ENSMUSG00000043290-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-o
 ENSMUSG00000043290-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000043290-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000043290-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000043290-B,1.0,RBN,Curcumin,1.0,CSF,-0.5,-0.6,-1.0,-0.8371291296643238,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000043290-B,1.0,RBN,Curcumin,-1.0,CSF,-0.5,-0.6,-1.0,-0.8371291296643238,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000043290-B,1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000043290-B,1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000043290-B,1.0,RBN,Octadecanoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000043290-B,1.0,RBN,Yangonin,1.0,CSF,-0.5,-0.6377481392176932,-0.5,-0.8225070385481765,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000043290-B,1.0,RBN,Yangonin,,CSF,-0.5,-0.6377481392176932,-0.5,-0.8225070385481765,True,-1.0,,False,False,False,True
 ENSMUSG00000043631-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000043631-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000043631-B,1.0,RBN,L-Val-L-Leu,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
@@ -2103,18 +2103,18 @@ ENSMUSG00000044749-B,1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,
 ENSMUSG00000045087-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000045087-B,-1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000045087-B,-1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000045087-B,-1.0,RBN,Allylescaline,,CSF,1.0,0.5296408977028497,1.0,0.831922258211395,True,1.0,,False,False,False,True
+ENSMUSG00000045087-B,-1.0,RBN,Allylescaline,-1.0,CSF,1.0,0.5296408977028497,1.0,0.831922258211395,True,1.0,1.0,False,True,False,False
 ENSMUSG00000045087-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000045087-B,-1.0,RBN,tert-butyl(dimethyl)silyl-2-([tert-butyl(dimethyl)silyl]oxy)hex-2-enoate,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000045087-B,-1.0,RBN,Tyr-Val,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000045102-B,1.0,RBN,"(2,5-Dimethoxyphenyl)acetone",1.0,CSF,-0.5,0.7775419143502353,0.8660254037844387,0.8337686707998526,True,1.0,1.0,False,True,False,False
 ENSMUSG00000045102-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000045102-B,1.0,RBN,2-Propyl-1-pentanol,,CSF,,0.8451542547285165,0.0,0.864452882252671,True,1.0,,False,False,False,True
+ENSMUSG00000045102-B,1.0,RBN,2-Propyl-1-pentanol,-1.0,CSF,,0.8451542547285165,0.0,0.864452882252671,True,1.0,-1.0,False,False,False,True
 ENSMUSG00000045102-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000045102-B,1.0,RBN,"6,7,4'-Trihydroxyisoflavone",-1.0,CSF,-0.5,0.8574929257125441,0.8660254037844387,0.863679654505677,True,1.0,-1.0,False,False,False,True
-ENSMUSG00000045102-B,1.0,RBN,Norketamine,1.0,CSF,0.8660254037844387,0.8355727485873495,0.8660254037844387,0.857801684638664,True,1.0,1.0,False,True,False,False
+ENSMUSG00000045102-B,1.0,RBN,"6,7,4'-Trihydroxyisoflavone",,CSF,-0.5,0.8574929257125441,0.8660254037844387,0.863679654505677,True,1.0,,False,False,False,True
+ENSMUSG00000045102-B,1.0,RBN,Norketamine,-1.0,CSF,0.8660254037844387,0.8355727485873495,0.8660254037844387,0.857801684638664,True,1.0,-1.0,False,False,False,True
 ENSMUSG00000045102-B,1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000045102-B,1.0,RBN,Triethyl citrate,1.0,CSF,,0.948683298050514,0.8660254037844387,0.905226481588638,True,1.0,1.0,False,True,False,False
+ENSMUSG00000045102-B,1.0,RBN,Triethyl citrate,-1.0,CSF,,0.948683298050514,0.8660254037844387,0.905226481588638,True,1.0,-1.0,False,False,False,True
 ENSMUSG00000045667-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000045667-B,-1.0,RBN,"2,4-Dimethoxybenzaldoxime",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000045667-B,-1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -2126,7 +2126,7 @@ ENSMUSG00000047003-B,1.0,RBN,3-(4-Methoxyphenyl)coumarin,,CSF,,1.0,,1.0,True,1.0
 ENSMUSG00000047003-B,1.0,RBN,"4,5-Dihydro-1H-pyrazole",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000047003-B,1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000047003-B,1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000047003-B,1.0,RBN,"Propanoic acid, dimethyl(isopropyl)silyl ester",1.0,CSF,,-0.942857142857143,-0.5,-0.8693049274624923,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000047003-B,1.0,RBN,"Propanoic acid, dimethyl(isopropyl)silyl ester",-1.0,CSF,,-0.942857142857143,-0.5,-0.8693049274624923,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000047216-B,1.0,RBN,"2,4-Dimethoxybenzaldoxime",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000047216-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000047216-B,1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -2175,7 +2175,7 @@ ENSMUSG00000048706-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,
 ENSMUSG00000048706-B,1.0,RBN,"4,5-Dihydro-1H-pyrazole",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000048706-B,1.0,RBN,Chlorobenzilate ,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000048706-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000048706-B,1.0,RBN,L-Glutamic acid,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
+ENSMUSG00000048706-B,1.0,RBN,L-Glutamic acid,-1.0,CSF,,-1.0,,-1.0,True,-1.0,-1.0,True,True,True,True
 ENSMUSG00000049387-B,-1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000049387-B,-1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000049387-B,-1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
@@ -2242,7 +2242,7 @@ ENSMUSG00000051297-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-o
 ENSMUSG00000051297-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000051297-B,1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000051297-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000051297-B,1.0,RBN,6-Oxoheptanoic acid,1.0,CSF,0.8660254037844387,0.7714285714285715,1.0,0.8400819752692913,True,1.0,1.0,False,True,False,False
+ENSMUSG00000051297-B,1.0,RBN,6-Oxoheptanoic acid,-1.0,CSF,0.8660254037844387,0.7714285714285715,1.0,0.8400819752692913,True,1.0,-1.0,False,False,False,True
 ENSMUSG00000051297-B,1.0,RBN,Luciferin,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000051297-B,1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000051297-B,1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -2280,7 +2280,7 @@ ENSMUSG00000052533-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0
 ENSMUSG00000052533-B,-1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000052533-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000052533-B,-1.0,RBN,7-Hydroxy-4-(methoxymethyl)coumarin,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000052533-B,-1.0,RBN,"Glycine, tert.-butyldimethylsilyl ester",-1.0,CSF,-0.5,-0.4638168285219587,-1.0,-0.8541419246461831,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000052533-B,-1.0,RBN,"Glycine, tert.-butyldimethylsilyl ester",,CSF,-0.5,-0.4638168285219587,-1.0,-0.8541419246461831,True,-1.0,,False,False,False,True
 ENSMUSG00000052533-B,-1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000052533-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000052698-B,-1.0,RBN,"13-Docosenamide, (Z)",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
@@ -2406,11 +2406,11 @@ ENSMUSG00000057440-B,1.0,RBN,Tyr-Val,,CSF,,,,1.0,True,1.0,,True,False,False,Fals
 ENSMUSG00000057455-B,-1.0,RBN,"2',3'-Di-O-acetyladenosine",,CSF,,-1.0,,-0.9549937104572924,True,-1.0,,False,False,False,True
 ENSMUSG00000057455-B,-1.0,RBN,2-Cyanobenzaldehyde,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000057455-B,-1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000057455-B,-1.0,RBN,Citramalic acid,1.0,CSF,0.0,-0.8720815992723809,-0.5,-0.8401914075580906,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000057455-B,-1.0,RBN,Citramalic acid,-1.0,CSF,0.0,-0.8720815992723809,-0.5,-0.8401914075580906,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000057455-B,-1.0,RBN,L-Ornithine,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000057455-B,-1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000057455-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000057455-B,-1.0,RBN,N-Acetyl-L-alanine,1.0,CSF,0.5,-0.5428571428571429,-1.0,-0.8315840663996671,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000057455-B,-1.0,RBN,N-Acetyl-L-alanine,,CSF,0.5,-0.5428571428571429,-1.0,-0.8315840663996671,True,-1.0,,False,False,False,True
 ENSMUSG00000057455-B,-1.0,RBN,Octadecanoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000057531-B,1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000057531-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -2418,12 +2418,12 @@ ENSMUSG00000057531-B,1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,F
 ENSMUSG00000057531-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000057531-B,1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000057531-B,1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000057531-B,1.0,RBN,Octacosanol,-1.0,CSF,,-1.0,,-0.9549937104572924,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000057531-B,1.0,RBN,Octacosanol,,CSF,,-1.0,,-0.9549937104572924,True,-1.0,,False,False,False,True
 ENSMUSG00000057531-B,1.0,RBN,Octadecanoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000058400-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000058400-B,1.0,RBN,Azelaic acid,-1.0,CSF,-0.5,-0.5797710356524484,-0.5,-0.8877247628654673,True,-1.0,-1.0,False,True,False,False
-ENSMUSG00000058400-B,1.0,RBN,Ethanolamine,,CSF,-0.5,-0.3768511731740915,0.8660254037844387,-0.8677586082058318,True,-1.0,,False,False,False,True
-ENSMUSG00000058400-B,1.0,RBN,Glycine,-1.0,CSF,-1.0,-0.4928053803045811,-1.0,-0.824566479341442,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000058400-B,1.0,RBN,Ethanolamine,-1.0,CSF,-0.5,-0.3768511731740915,0.8660254037844387,-0.8677586082058318,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000058400-B,1.0,RBN,Glycine,,CSF,-1.0,-0.4928053803045811,-1.0,-0.824566479341442,True,-1.0,,False,False,False,True
 ENSMUSG00000058400-B,1.0,RBN,Isosorbide,,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000058400-B,1.0,RBN,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000058400-B,1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
@@ -2485,7 +2485,7 @@ ENSMUSG00000062470-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,Fal
 ENSMUSG00000062470-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000062470-B,1.0,RBN,Benzeneacetic acid,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000062470-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000062470-B,1.0,RBN,L-Glutamic acid,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
+ENSMUSG00000062470-B,1.0,RBN,L-Glutamic acid,-1.0,CSF,,-1.0,,-1.0,True,-1.0,-1.0,True,True,True,True
 ENSMUSG00000062470-B,1.0,RBN,L-Val-L-Leu,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000062661-B,-1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000062661-B,-1.0,RBN,"3,3-Dimethylacrylic acid",,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -2503,7 +2503,7 @@ ENSMUSG00000063077-B,1.0,RBN,"2,4-Dimethoxybenzaldoxime",,CSF,,,,1.0,True,1.0,,T
 ENSMUSG00000063077-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000063077-B,1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000063077-B,1.0,RBN,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000063077-B,1.0,RBN,L-Threonine,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
+ENSMUSG00000063077-B,1.0,RBN,L-Threonine,-1.0,CSF,,1.0,,1.0,True,1.0,-1.0,True,False,False,False
 ENSMUSG00000063077-B,1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000063409-B,1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000063409-B,1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -2561,7 +2561,7 @@ ENSMUSG00000066441-B,-1.0,RBN,"4,5-Dihydro-1H-pyrazole",,CSF,,,,1.0,True,1.0,,Tr
 ENSMUSG00000066441-B,-1.0,RBN,7-Hydroxy-4-(methoxymethyl)coumarin,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000066441-B,-1.0,RBN,Chlorobenzilate ,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000066441-B,-1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000066441-B,-1.0,RBN,L-Alanine,1.0,CSF,-0.8660254037844387,-0.753702346348183,-0.8660254037844387,-0.8400819752692913,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000066441-B,-1.0,RBN,L-Alanine,-1.0,CSF,-0.8660254037844387,-0.753702346348183,-0.8660254037844387,-0.8400819752692913,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000066441-B,-1.0,RBN,L-Ornithine,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000066441-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000066441-B,-1.0,RBN,Octadecanoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -2577,7 +2577,7 @@ ENSMUSG00000067768-B,-1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,
 ENSMUSG00000067768-B,-1.0,RBN,L-Val-L-Leu,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000067768-B,-1.0,RBN,Octadecanoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000068154-B,-1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000068154-B,-1.0,RBN,"2,2'-Bipyridine",1.0,CSF,0.5,0.8116794499134279,1.0,0.8260220258923994,True,1.0,-1.0,False,False,False,True
+ENSMUSG00000068154-B,-1.0,RBN,"2,2'-Bipyridine",-1.0,CSF,0.5,0.8116794499134279,1.0,0.8260220258923994,True,1.0,1.0,False,True,False,False
 ENSMUSG00000068154-B,-1.0,RBN,"2,4-Dimethoxybenzaldoxime",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000068154-B,-1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000068154-B,-1.0,RBN,3-(4-Methoxyphenyl)coumarin,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
@@ -2588,7 +2588,7 @@ ENSMUSG00000068154-B,-1.0,RBN,L-Val-L-Leu,,CSF,,1.0,,1.0,True,1.0,,True,False,Fa
 ENSMUSG00000068154-B,-1.0,RBN,Mevalonolactone,-1.0,CSF,-1.0,-0.942857142857143,0.8660254037844387,-0.8266212326392487,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000068154-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000068154-B,-1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000068154-B,-1.0,RBN,Triethyl citrate,1.0,CSF,,0.7999999999999999,1.0,0.8773666603699838,True,1.0,-1.0,False,False,False,True
+ENSMUSG00000068154-B,-1.0,RBN,Triethyl citrate,-1.0,CSF,,0.7999999999999999,1.0,0.8773666603699838,True,1.0,1.0,False,True,False,False
 ENSMUSG00000068220-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000068220-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000068220-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -2621,7 +2621,7 @@ ENSMUSG00000070527-B,1.0,RBN,4-tert-Butyldimethylsiloxy-3-penten-2-one,,CSF,,-1.
 ENSMUSG00000070527-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000070527-B,1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000070527-B,1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000070527-B,1.0,RBN,Octanoic acid,1.0,CSF,,-1.0,,-1.0,True,-1.0,1.0,True,False,False,False
+ENSMUSG00000070527-B,1.0,RBN,Octanoic acid,-1.0,CSF,,-1.0,,-1.0,True,-1.0,-1.0,True,True,True,True
 ENSMUSG00000070532-B,1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000070532-B,1.0,RBN,3-(4-Methoxyphenyl)coumarin,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000070532-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -2629,7 +2629,7 @@ ENSMUSG00000070532-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,1.0,True,1.0,,True,Fals
 ENSMUSG00000070532-B,1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000070532-B,1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000070532-B,1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000070687-B,1.0,RBN,"1-(2,4-Dimethoxyphenyl)-propan-2-one",-1.0,CSF,-0.5,-0.7826237921249264,-0.5,-0.862421616015649,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000070687-B,1.0,RBN,"1-(2,4-Dimethoxyphenyl)-propan-2-one",1.0,CSF,-0.5,-0.7826237921249264,-0.5,-0.862421616015649,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000070687-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000070687-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000070687-B,1.0,RBN,"3,3-Dimethylacrylic acid",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -2648,13 +2648,13 @@ ENSMUSG00000070953-B,1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0,
 ENSMUSG00000070953-B,1.0,RBN,Formamide,,CSF,-1.0,-0.5217939320872036,-1.0,-0.8227778098887566,True,-1.0,,False,False,False,True
 ENSMUSG00000070953-B,1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000070953-B,1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000070953-B,1.0,RBN,L-Threonine,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
+ENSMUSG00000070953-B,1.0,RBN,L-Threonine,-1.0,CSF,,1.0,,1.0,True,1.0,-1.0,True,False,False,False
 ENSMUSG00000071648-B,1.0,RBN,2-Norbornanemethanol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000071648-B,1.0,RBN,"Benzene, 1-ethyl-3,5-dimethyl",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000071648-B,1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000071648-B,1.0,RBN,Octadecanoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000071661-B,1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000071661-B,1.0,RBN,"2,4,4'-Trihydroxybenzophenone",1.0,CSF,-1.0,-0.7714285714285715,-1.0,-0.8386016534578921,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000071661-B,1.0,RBN,"2,4,4'-Trihydroxybenzophenone",,CSF,-1.0,-0.7714285714285715,-1.0,-0.8386016534578921,True,-1.0,,False,False,False,True
 ENSMUSG00000071661-B,1.0,RBN,2-Norbornanemethanol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000071661-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000071661-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -2684,7 +2684,7 @@ ENSMUSG00000072964-B,-1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,1.0,,,1.0,True,1.
 ENSMUSG00000072964-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000072964-B,-1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000072964-B,-1.0,RBN,Luciferin,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000072964-B,-1.0,RBN,N-Acetyl-L-alanine,1.0,CSF,0.5,-0.942857142857143,-1.0,-0.8315840663996671,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000072964-B,-1.0,RBN,N-Acetyl-L-alanine,,CSF,0.5,-0.942857142857143,-1.0,-0.8315840663996671,True,-1.0,,False,False,False,True
 ENSMUSG00000072964-B,-1.0,RBN,Tyr-Val,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000073460-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000073460-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -2694,7 +2694,7 @@ ENSMUSG00000073460-B,1.0,RBN,Sulindac,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,Fal
 ENSMUSG00000073680-B,-1.0,RBN,"1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine",1.0,CSF,-1.0,-0.9856107606091624,-1.0,-0.8239640937886785,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000073680-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000073680-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000073680-B,-1.0,RBN,Glycolic acid,-1.0,CSF,-0.5,-0.8406680016960503,-1.0,-0.8435969626135144,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000073680-B,-1.0,RBN,Glycolic acid,1.0,CSF,-0.5,-0.8406680016960503,-1.0,-0.8435969626135144,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000073680-B,-1.0,RBN,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000073795-B,-1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000073795-B,-1.0,RBN,Chlorobenzilate ,,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -2731,7 +2731,7 @@ ENSMUSG00000074811-B,-1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,F
 ENSMUSG00000074811-B,-1.0,RBN,"Erythrono-1,4-lactone",-1.0,CSF,-1.0,-0.6571428571428573,-1.0,-0.830435353969758,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000074811-B,-1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000074811-B,-1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000074811-B,-1.0,RBN,Suberic acid,1.0,CSF,,-0.942857142857143,-0.5,-0.8473826084954617,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000074811-B,-1.0,RBN,Suberic acid,,CSF,,-0.942857142857143,-0.5,-0.8473826084954617,True,-1.0,,False,False,False,True
 ENSMUSG00000074811-B,-1.0,RBN,tert-butyl(dimethyl)silyl-2-([tert-butyl(dimethyl)silyl]oxy)hex-2-enoate,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000074813-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000074813-B,1.0,RBN,L-Val-L-Leu,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
@@ -2784,7 +2784,7 @@ ENSMUSG00000084375-B,1.0,RBN,3-(4-Methoxyphenyl)coumarin,,CSF,,1.0,,1.0,True,1.0
 ENSMUSG00000084375-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000084375-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000084375-B,1.0,RBN,L-(+)-Threose,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000084375-B,1.0,RBN,L-Glutamic acid,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
+ENSMUSG00000084375-B,1.0,RBN,L-Glutamic acid,-1.0,CSF,,-1.0,,-1.0,True,-1.0,-1.0,True,True,True,True
 ENSMUSG00000085007-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000085007-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000085007-B,1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -2793,7 +2793,7 @@ ENSMUSG00000085007-B,1.0,RBN,Azelaic acid,-1.0,CSF,-0.5,-0.5507824838698261,0.5,
 ENSMUSG00000085007-B,1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000085007-B,1.0,RBN,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000085007-B,1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000085111-B,1.0,RBN,"2-Allyl-1,4-dimethoxybenzene",-1.0,CSF,1.0,0.7589709258986453,1.0,0.8908907584650155,True,1.0,-1.0,False,False,False,True
+ENSMUSG00000085111-B,1.0,RBN,"2-Allyl-1,4-dimethoxybenzene",,CSF,1.0,0.7589709258986453,1.0,0.8908907584650155,True,1.0,,False,False,False,True
 ENSMUSG00000085111-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000085111-B,1.0,RBN,Diclofenac,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000085111-B,1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -2809,7 +2809,7 @@ ENSMUSG00000086034-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,
 ENSMUSG00000086034-B,1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000086034-B,1.0,RBN,Diclofenac,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000086034-B,1.0,RBN,Isosorbide,,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000086034-B,1.0,RBN,L-Glutamic acid,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
+ENSMUSG00000086034-B,1.0,RBN,L-Glutamic acid,-1.0,CSF,,-1.0,,-1.0,True,-1.0,-1.0,True,True,True,True
 ENSMUSG00000086034-B,1.0,RBN,tert-butyl(dimethyl)silyl-2-([tert-butyl(dimethyl)silyl]oxy)hex-2-enoate,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000086213-B,-1.0,RBN,2-Norbornanemethanol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000086732-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -2823,12 +2823,12 @@ ENSMUSG00000087067-B,-1.0,RBN,Cyclobutylamine,,CSF,-1.0,-0.8574929257125441,-1.0
 ENSMUSG00000087141-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000087141-B,-1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000087141-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000087141-B,-1.0,RBN,L-Threonine,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
+ENSMUSG00000087141-B,-1.0,RBN,L-Threonine,-1.0,CSF,,1.0,,1.0,True,1.0,1.0,True,True,True,True
 ENSMUSG00000087141-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000089940-B,1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000090862-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000090862-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
-ENSMUSG00000090862-B,1.0,RBN,"Propanoic acid, dimethyl(isopropyl)silyl ester",1.0,CSF,,-0.7142857142857143,-1.0,-0.8693049274624923,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000090862-B,1.0,RBN,"Propanoic acid, dimethyl(isopropyl)silyl ester",-1.0,CSF,,-0.7142857142857143,-1.0,-0.8693049274624923,True,-1.0,-1.0,False,True,False,False
 ENSMUSG00000091387-B,-1.0,RBN,"1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000091387-B,-1.0,RBN,7-Hydroxy-4-(methoxymethyl)coumarin,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000091387-B,-1.0,RBN,Diacetyl monoxime,-1.0,CSF,-0.8660254037844387,-0.6,-0.5,-0.8521338063968386,True,-1.0,1.0,False,False,False,True
@@ -2846,14 +2846,14 @@ ENSMUSG00000092417-B,1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,Fals
 ENSMUSG00000092417-B,1.0,RBN,L-Pyroglutamic acid,,CSF,,0.8660254037844387,,0.9856107606091624,True,1.0,,False,False,False,True
 ENSMUSG00000092417-B,1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000092417-B,1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000092417-B,1.0,RBN,Octanoic acid,1.0,CSF,,-1.0,,-1.0,True,-1.0,1.0,True,False,False,False
+ENSMUSG00000092417-B,1.0,RBN,Octanoic acid,-1.0,CSF,,-1.0,,-1.0,True,-1.0,-1.0,True,True,True,True
 ENSMUSG00000093720-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000093720-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000093720-B,1.0,RBN,Oleic Acid,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000094344-B,1.0,RBN,2-Aminoquinolin-8-ol,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000094344-B,1.0,RBN,"3,4-Dihydroxybenzaldehyde",,CSF,-1.0,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000094344-B,1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000094344-B,1.0,RBN,L-Threonine,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
+ENSMUSG00000094344-B,1.0,RBN,L-Threonine,-1.0,CSF,,-1.0,,-1.0,True,-1.0,-1.0,True,True,True,True
 ENSMUSG00000094344-B,1.0,RBN,Luciferin,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000094344-B,1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000094344-B,1.0,RBN,Tyr-Val,,CSF,,,,1.0,True,1.0,,True,False,False,False
@@ -2883,7 +2883,7 @@ ENSMUSG00000097061-B,-1.0,RBN,"4,5-Dihydro-1H-pyrazole",,CSF,,,,1.0,True,1.0,,Tr
 ENSMUSG00000097061-B,-1.0,RBN,4-tert-Butyldimethylsiloxy-3-penten-2-one,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000097061-B,-1.0,RBN,Luciferin,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000097061-B,-1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000097061-B,-1.0,RBN,Octacosanol,-1.0,CSF,,-0.7999999999999999,,-0.9549937104572924,True,-1.0,1.0,False,False,False,True
+ENSMUSG00000097061-B,-1.0,RBN,Octacosanol,,CSF,,-0.7999999999999999,,-0.9549937104572924,True,-1.0,,False,False,False,True
 ENSMUSG00000097061-B,-1.0,RBN,Octadecanoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000097061-B,-1.0,RBN,Sulindac,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000097403-B,-1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,-1.0,True,-1.0,,True,False,False,False
@@ -2892,7 +2892,7 @@ ENSMUSG00000097403-B,-1.0,RBN,"13-Docosenamide, (Z)",,CSF,,1.0,,1.0,True,1.0,,Tr
 ENSMUSG00000097403-B,-1.0,RBN,"2',5'-Dimethoxypropiophenone",-1.0,CSF,1.0,0.8285714285714287,1.0,0.8395179239634888,True,1.0,1.0,False,True,False,False
 ENSMUSG00000097403-B,-1.0,RBN,3-(4-Methoxyphenyl)coumarin,,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000097403-B,-1.0,RBN,"3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000097403-B,-1.0,RBN,Aceturic acid,,CSF,1.0,0.8857142857142858,,0.9178082191780824,True,1.0,,False,False,False,True
+ENSMUSG00000097403-B,-1.0,RBN,Aceturic acid,-1.0,CSF,1.0,0.8857142857142858,,0.9178082191780824,True,1.0,1.0,False,True,False,False
 ENSMUSG00000097403-B,-1.0,RBN,cis-2-Decenoic acid,,CSF,,,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000097403-B,-1.0,RBN,L-(+)-Threose,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000097403-B,-1.0,RBN,L-Val-L-Leu,,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
@@ -2934,7 +2934,7 @@ ENSMUSG00000100680-B,1.0,RBN,"1,2-Bis(trimethylsiloxy)cyclohexene",,CSF,,,,1.0,T
 ENSMUSG00000100680-B,1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000100680-B,1.0,RBN,"N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,CSF,,1.0,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000100680-B,1.0,RBN,Octadecanoic acid,,CSF,,,,1.0,True,1.0,,True,False,False,False
-ENSMUSG00000101225-B,1.0,RBN,"1-(2,4-Dimethoxyphenyl)-propan-2-one",-1.0,CSF,-1.0,-0.4472135954999578,-0.5,-0.8440722199302099,True,-1.0,-1.0,False,True,False,False
+ENSMUSG00000101225-B,1.0,RBN,"1-(2,4-Dimethoxyphenyl)-propan-2-one",1.0,CSF,-1.0,-0.4472135954999578,-0.5,-0.8440722199302099,True,-1.0,1.0,False,False,False,True
 ENSMUSG00000101225-B,1.0,RBN,"13-Docosenamide, (Z)",,CSF,,-1.0,,-1.0,True,-1.0,,True,False,False,False
 ENSMUSG00000101225-B,1.0,RBN,2-Norbornanemethanol,,CSF,,,,1.0,True,1.0,,True,False,False,False
 ENSMUSG00000101225-B,1.0,RBN,Isosorbide,,CSF,1.0,,,1.0,True,1.0,,True,False,False,False

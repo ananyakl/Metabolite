@@ -1,23 +1,270 @@
 Gene,Metabolite,Sign
+ENSMUSG00000027374,Pentanedioic acid,-1
+ENSMUSG00000036948,Butanedioic acid,-1
+ENSMUSG00000044224,"3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal",1
+ENSMUSG00000044224,Aceturic acid,1
+ENSMUSG00000016495,Glycolic acid,-1
+ENSMUSG00000042118,Heptanoic acid,-1
+ENSMUSG00000036371,2-Furoic acid,-1
+ENSMUSG00000036371,"3,5-Dimethylphenol",-1
+ENSMUSG00000036371,Isopropylamine,1
+ENSMUSG00000036371,Oxalic acid,-1
+ENSMUSG00000035295,Heptanoic acid,-1
+ENSMUSG00000024941,"6,7,4'-Trihydroxyisoflavone",-1
+ENSMUSG00000024941,N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,-1
+ENSMUSG00000024941,Propylene glycol,-1
+ENSMUSG00000034647,Benzoic Acid,-1
+ENSMUSG00000020108,"2-Cyclohexen-1-one, 3-methyl-",-1
+ENSMUSG00000020108,L-Tyrosine,-1
+ENSMUSG00000020308,Formamide,-1
+ENSMUSG00000020308,Hexanoic acid,-1
+ENSMUSG00000086610,N-Ethylamphetamine,1
+ENSMUSG00000026603,m-Toluic acid,1
+ENSMUSG00000033808,"2,5-Dimethoxybenzonitrile",-1
+ENSMUSG00000015461,Azelaic acid,-1
+ENSMUSG00000040795,Hypoxanthine,-1
+ENSMUSG00000021288,"2,3-Dihydroxybutanoic acid",-1
+ENSMUSG00000024151,N-Isobutyrylglycine,1
+ENSMUSG00000064370,"2-Methylcyclohexanol, (Z)",-1
+ENSMUSG00000064370,Lignoceric acid,-1
+ENSMUSG00000030663,3-Aminobenzoic acid,-1
+ENSMUSG00000035941,"1-Octanol, 2-butyl-",1
+ENSMUSG00000036501,3-Aminobenzoic acid,-1
+ENSMUSG00000033411,3-Aminobenzoic acid,-1
+ENSMUSG00000024193,"Phenol, 2,4-bis(1-methyl-1-phenylethyl)-",-1
+ENSMUSG00000083899,Oleamide,-1
+ENSMUSG00000021585,Nonanoic acid,-1
+ENSMUSG00000056215,"5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether",-1
+ENSMUSG00000001964,"3,4-Methylenedioxyamphetamine",1
 ENSMUSG00000001964,3-Heptanol,1
+ENSMUSG00000057367,"1-Octanol, 2-butyl-",1
+ENSMUSG00000057367,N-Ethylamphetamine,1
+ENSMUSG00000032724,"2(5H)-Furanone, 4-(hydroxymethyl)",-1
+ENSMUSG00000057738,Azelaic acid,-1
+ENSMUSG00000032301,Salsoline,-1
+ENSMUSG00000028441,Stearic acid,-1
+ENSMUSG00000086825,m-Toluic acid,-1
+ENSMUSG00000018199,Oleamide,-1
+ENSMUSG00000024170,"2,4-Di-tert-butylphenol",-1
+ENSMUSG00000024170,8-Methylnonanoic acid,-1
+ENSMUSG00000030058,Nonanoic acid,1
+ENSMUSG00000050822,"3,4,5-Trimethoxyamphetamine",1
+ENSMUSG00000035133,Nonanoic acid,-1
+ENSMUSG00000013858,Azelaic acid,-1
+ENSMUSG00000024150,"2,4-Di-tert-butylphenol",1
+ENSMUSG00000050493,Lignoceric acid,-1
+ENSMUSG00000050493,Suberic acid,-1
 ENSMUSG00000038644,"2,4-Di-tert-butylphenol",-1
+ENSMUSG00000004040,Triethyl citrate,-1
+ENSMUSG00000024740,"6,7,4'-Trihydroxyisoflavone",-1
+ENSMUSG00000006777,"(2,5-Dimethoxyphenyl)acetone",-1
+ENSMUSG00000006777,"2'-Hydroxy-2,4,4',5-tetramethoxychalcone",-1
+ENSMUSG00000006777,"Cytosine, N-(tert-butyldimethylsilyl)-",-1
+ENSMUSG00000006777,"Dodecanoic acid, 1-methylethyl ester",-1
+ENSMUSG00000006777,L-Glutamine,-1
+ENSMUSG00000006777,L-Tryptophan,-1
 ENSMUSG00000006777,N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,-1
+ENSMUSG00000017405,Aconitic acid,-1
+ENSMUSG00000019897,Aceturic acid,1
+ENSMUSG00000031751,Azelaic acid,-1
+ENSMUSG00000017548,"Benzoic acid, methyl ester",1
+ENSMUSG00000041438,"2,5-Dimethoxybenzonitrile",1
+ENSMUSG00000041438,"Naringenin 4',7-dimethylether",1
+ENSMUSG00000001855,6-Methyluracil,1
+ENSMUSG00000042010,Azelaic acid,-1
+ENSMUSG00000047264,Azelaic acid,-1
+ENSMUSG00000036478,"2-Butenoic acid, 3-[(tert-butyldimethylsilyl)oxy]",1
+ENSMUSG00000039323,Azelaic acid,-1
+ENSMUSG00000030979,"2-Cyclohexen-1-one, 3-methyl-",1
+ENSMUSG00000022941,Salsoline,-1
+ENSMUSG00000106718,"2-(Ethylamino)ethanol, N-acetyl",-1
+ENSMUSG00000106718,Formamide,-1
+ENSMUSG00000106718,Isonicotinic Acid,-1
+ENSMUSG00000002455,Lignoceric acid,-1
+ENSMUSG00000002455,Suberic acid,-1
+ENSMUSG00000024335,N-Ethylamphetamine,1
+ENSMUSG00000055044,"Cyclohexanone, 3,3,5-trimethyl",-1
+ENSMUSG00000055044,Diethylamine,-1
+ENSMUSG00000032372,"Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester ",1
+ENSMUSG00000032372,Cyclobutylamine,1
+ENSMUSG00000032009,"2,5-Dimethoxyphenol",1
+ENSMUSG00000027706,"2-Methylcyclohexanol, (Z)",-1
 ENSMUSG00000027706,Lignoceric acid,-1
+ENSMUSG00000021254,"2,4-Di-tert-butylphenol",1
+ENSMUSG00000021254,Butanedioic acid,1
+ENSMUSG00000021254,L-Valine,1
+ENSMUSG00000020477,2-Butenedioic acid,-1
+ENSMUSG00000022561,Azelaic acid,-1
+ENSMUSG00000001441,Benzoic Acid,-1
+ENSMUSG00000001054,Aconitic acid,1
+ENSMUSG00000021886,"1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine",-1
+ENSMUSG00000021886,Glycolic acid,-1
 ENSMUSG00000030605,Azelaic acid,-1
+ENSMUSG00000042349,"Hymexazole, tert-butyldimethylsilyl ether",1
 ENSMUSG00000037012,Azelaic acid,-1
+ENSMUSG00000039943,Benzoic Acid,-1
+ENSMUSG00000051224,Leucylglycine,-1
+ENSMUSG00000021392,Oleamide,-1
+ENSMUSG00000002844,"5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether",1
+ENSMUSG00000052566,"3,5-Dimethylphenol",-1
+ENSMUSG00000052566,3-Buten-2-one,-1
+ENSMUSG00000052566,Isopropylamine,1
+ENSMUSG00000052566,Lignoceric acid,-1
+ENSMUSG00000017221,Azelaic acid,-1
+ENSMUSG00000020752,"5-Chlorovaleric acid, nonyl ester",1
+ENSMUSG00000037716,Isonicotinic Acid,-1
+ENSMUSG00000007476,Monocaproin,1
+ENSMUSG00000033436,Phenol,-1
+ENSMUSG00000031967,m-Toluic acid,-1
+ENSMUSG00000090110,m-Toluic acid,-1
+ENSMUSG00000047181,"1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans-",-1
+ENSMUSG00000047181,N-Ethylamphetamine,-1
 ENSMUSG00000034786,L-Tyrosine,1
+ENSMUSG00000041720,"1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine",1
 ENSMUSG00000041720,Nonanoic acid,1
 ENSMUSG00000047371,"2,4-Di-tert-butylphenol",-1
+ENSMUSG00000047371,"2-Allyl-1,4-dimethoxybenzene",-1
+ENSMUSG00000047371,Lignoceric acid,-1
 ENSMUSG00000047371,"Phenol, 2,4-bis(1-methyl-1-phenylethyl)-",-1
+ENSMUSG00000033453,"Cyclohexanone, 3,3,5-trimethyl",-1
+ENSMUSG00000020444,"2,5-Dimethoxyphenol",-1
+ENSMUSG00000048175,3-Heptanol,1
+ENSMUSG00000048175,"Cyclohexanone, 3,3,5-trimethyl",-1
+ENSMUSG00000071253,"2,5-Dimethoxyphenol",1
+ENSMUSG00000047547,Benzenepropanoic acid,-1
+ENSMUSG00000027598,"1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine",-1
+ENSMUSG00000030697,Synephrine,-1
+ENSMUSG00000030286,Azelaic acid,-1
+ENSMUSG00000022023,Stearic acid,-1
+ENSMUSG00000031489,3-Buten-2-one,-1
+ENSMUSG00000031489,"6,7,4'-Trihydroxyisoflavone",-1
+ENSMUSG00000031489,Adenine,-1
+ENSMUSG00000031489,Aniline,-1
+ENSMUSG00000031489,Cycloheptanol,-1
+ENSMUSG00000031489,Propylene glycol,-1
+ENSMUSG00000043535,"Benzoic acid, methyl ester",1
+ENSMUSG00000007613,Guanosine,-1
+ENSMUSG00000007613,Palmitic Acid,-1
+ENSMUSG00000024870,2-Ethylhexanoic acid,1
+ENSMUSG00000029772,Mevalonolactone,1
+ENSMUSG00000011831,"Benzoic acid, methyl ester",1
+ENSMUSG00000064246,Salsoline,-1
+ENSMUSG00000028626,Salsoline,1
+ENSMUSG00000058351,Frangulin,-1
+ENSMUSG00000039194,"L-Histidine, N,1-bis(tert-butyldimethylsilyl)-",1
+ENSMUSG00000002660,Glycolic acid,1
+ENSMUSG00000048612,Benzyl alcohol,-1
+ENSMUSG00000048612,Ketamine,-1
+ENSMUSG00000054720,Hexanoic acid,-1
 ENSMUSG00000054720,Lignoceric acid,-1
+ENSMUSG00000054720,Oxalic acid,-1
+ENSMUSG00000054720,"Phenol, 2,4-bis(1-methyl-1-phenylethyl)-",-1
+ENSMUSG00000014603,Cyclobutylamine,-1
+ENSMUSG00000031922,Oleamide,-1
+ENSMUSG00000047141,Aceturic acid,1
+ENSMUSG00000032288,3-Buten-2-one,-1
+ENSMUSG00000032288,"6,7,4'-Trihydroxyisoflavone",-1
+ENSMUSG00000032288,DL-p-Hydroxyphenyllactic acid,-1
 ENSMUSG00000032288,Propylene glycol,-1
 ENSMUSG00000029438,Salsoline,-1
+ENSMUSG00000026895,Hypoxanthine,1
+ENSMUSG00000035293,6-Methyluracil,-1
+ENSMUSG00000035293,"Kojic acid, bis(tert-butyldimethylsilyl) ether",-1
 ENSMUSG00000066357,Glycine,-1
 ENSMUSG00000066357,"Glycine, tert.-butyldimethylsilyl ester",-1
+ENSMUSG00000041570,"2,4-Di-tert-butylphenol",-1
+ENSMUSG00000022199,"2,2'-Bipyridine",-1
+ENSMUSG00000022199,"2,3-Butanediol, O-(trimethylsilyl)-, monoacetate",-1
+ENSMUSG00000022199,"2-Methylcyclohexanol, (Z)",-1
+ENSMUSG00000022199,Lignoceric acid,-1
+ENSMUSG00000044365,"2',5'-Dimethoxypropiophenone",1
+ENSMUSG00000044365,Aceturic acid,1
+ENSMUSG00000044365,Cyclooctylamine,1
+ENSMUSG00000044365,"Naringenin 4',7-dimethylether",1
+ENSMUSG00000069631,Leucylglycine,-1
+ENSMUSG00000039959,Stearic acid,-1
+ENSMUSG00000020227,"1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans-",1
+ENSMUSG00000020297,"2-Methylcyclohexanol, (Z)",-1
+ENSMUSG00000040586,2-Furoic acid,-1
+ENSMUSG00000061524,Allylescaline,1
+ENSMUSG00000002748,Oleamide,-1
 ENSMUSG00000034349,3-Heptanol,-1
+ENSMUSG00000085890,Urea,-1
+ENSMUSG00000001014,Xylazine,1
 ENSMUSG00000017286,"2-Cyclohexen-1-one, 3-methyl-",1
+ENSMUSG00000017286,Pipecolic acid,1
+ENSMUSG00000051285,Stearic acid,-1
+ENSMUSG00000098098,Stearic acid,-1
+ENSMUSG00000051510,"5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether",-1
+ENSMUSG00000051510,N-Ethylamphetamine,1
+ENSMUSG00000006281,"2'-Hydroxy-2,4,4',5-tetramethoxychalcone",-1
+ENSMUSG00000006281,"Cytosine, N-(tert-butyldimethylsilyl)-",-1
+ENSMUSG00000006281,"Dodecanoic acid, 1-methylethyl ester",-1
+ENSMUSG00000022674,2-Ethylhexanoic acid,1
+ENSMUSG00000036815,Guanosine,1
 ENSMUSG00000032763,Azelaic acid,-1
+ENSMUSG00000022439,Hexanoic acid,-1
+ENSMUSG00000043241,"Glycine, tert.-butyldimethylsilyl ester",-1
+ENSMUSG00000043241,"Phenol, 2,4-bis(1-methyl-1-phenylethyl)-",-1
+ENSMUSG00000015748,2-Pentadecanone,-1
+ENSMUSG00000015748,"Dodecanoic acid, 1-methylethyl ester",-1
+ENSMUSG00000097537,Benzoic Acid,-1
+ENSMUSG00000035692,Palmitic Acid,1
+ENSMUSG00000059456,"2,5-Dimethoxybenzonitrile",-1
 ENSMUSG00000031637,Hypoxanthine,-1
 ENSMUSG00000036202,Oleamide,-1
+ENSMUSG00000008348,Azelaic acid,-1
+ENSMUSG00000024098,"Propanoic acid, dimethyl(isopropyl)silyl ester",-1
+ENSMUSG00000040675,Hypoxanthine,1
+ENSMUSG00000040675,Pentanoic acid,1
+ENSMUSG00000016487,"1-Octanol, 2-butyl-",1
+ENSMUSG00000016487,"Benzoic acid, methyl ester",1
+ENSMUSG00000036197,Lignoceric acid,-1
+ENSMUSG00000028057,"Cyclohexanone, 3,3,5-trimethyl",-1
+ENSMUSG00000028057,Diethylamine,-1
+ENSMUSG00000042745,"2,5-Dimethoxyphenol",1
+ENSMUSG00000023764,"D-Streptamine, O-6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4)-O-(3-deoxy-4-C-methyl-3-(methylamino)-beta-L-arabinopyranosyl-(1-6))-2-deoxy-",-1
+ENSMUSG00000024548,Glycolic acid,-1
+ENSMUSG00000030616,"Benzoic acid, methyl ester",1
+ENSMUSG00000004263,Glycine,-1
+ENSMUSG00000075256,"2-Allyl-1,4-dimethoxybenzene",-1
+ENSMUSG00000075256,Hexanoic acid,-1
+ENSMUSG00000025862,Allylescaline,1
+ENSMUSG00000078201,Isopropylamine,1
+ENSMUSG00000042506,Levulinic acid,1
+ENSMUSG00000042506,Suberic acid,1
+ENSMUSG00000018293,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester",1
+ENSMUSG00000026547,N-Acetyl-L-alanine,-1
+ENSMUSG00000026547,"Naringenin 4',7-dimethylether",-1
+ENSMUSG00000026527,Acetic acid,-1
+ENSMUSG00000085945,"Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester ",1
+ENSMUSG00000093606,L-Tryptophan,-1
+ENSMUSG00000005699,"Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl-",1
+ENSMUSG00000042594,3-Aminobenzoic acid,1
+ENSMUSG00000042594,"Hymexazole, tert-butyldimethylsilyl ether",1
+ENSMUSG00000071652,"1,2-Cyclohexanediol, (Z)",1
+ENSMUSG00000102664,"2,5-Dimethoxybenzonitrile",-1
+ENSMUSG00000102664,Diethylamine,-1
+ENSMUSG00000020219,"2,3-Dihydroxybutanoic acid",1
 ENSMUSG00000038780,4-Methoxyphenol,1
+ENSMUSG00000026113,"1-(2,4-Dimethoxyphenyl)-propan-2-one",1
+ENSMUSG00000020074,Salsoline,-1
+ENSMUSG00000003199,"Cytosine, N-(tert-butyldimethylsilyl)-",-1
+ENSMUSG00000003199,Isopropyl palmitate,-1
+ENSMUSG00000003199,L-Tryptophan,-1
+ENSMUSG00000003199,N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,-1
+ENSMUSG00000045098,"3,5-Dimethylphenol",-1
 ENSMUSG00000045098,N-Acetyl-L-alanine,-1
+ENSMUSG00000056938,4-Methoxyphenol,1
+ENSMUSG00000021583,Acetic acid,-1
+ENSMUSG00000036087,Benzyl alcohol,-1
+ENSMUSG00000036087,Formamide,-1
+ENSMUSG00000036087,Hexanoic acid,-1
+ENSMUSG00000036087,Oxalic acid,-1
+ENSMUSG00000039813,Azelaic acid,-1
+ENSMUSG00000039813,Ethanolamine,-1
+ENSMUSG00000044617,"Benzenesulfonamide, N-butyl",-1
+ENSMUSG00000044617,"Cytosine, N-(tert-butyldimethylsilyl)-",-1
+ENSMUSG00000044617,"Dodecanoic acid, 1-methylethyl ester",-1
+ENSMUSG00000044617,Isopropyl palmitate,-1
+ENSMUSG00000044617,Norketamine,-1
