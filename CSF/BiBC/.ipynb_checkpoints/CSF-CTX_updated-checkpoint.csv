@@ -1,0 +1,4705 @@
+node1,node2
+Comt-T,"1-Heptanol, 2-propyl--F"
+Comt-T,"3,3-Dimethylacrylic acid-F"
+Comt-T,"4,5-Dihydro-1H-pyrazole-F"
+Comt-T,Niacinamide-F
+Comt-T,Sulindac-F
+Tpd52l2-T,"3,3-Dimethylacrylic acid-F"
+Tpd52l2-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Tpd52l2-T,L-Threonine-F
+Tpd52l2-T,Luciferin-F
+Tpd52l2-T,N-Isobutyrylglycine-F
+Tpd52l2-T,Octadecanoic acid-F
+Tpd52l2-T,Sulindac-F
+Dlg3-T,Chlorobenzilate-F
+Dlg3-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Heatr6-T,"1-Heptanol, 2-propyl--F"
+Heatr6-T,"2-Butene-1,4-diol-F"
+Heatr6-T,2-Cyanobenzaldehyde-F
+Heatr6-T,5-Nitroso-8-quinolinol-F
+Heatr6-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Heatr6-T,L-Ornithine-F
+Heatr6-T,Octadecanoic acid-F
+Cfp-T,"2-Butenoic acid, 3-[(tert-butyldimethylsilyl)oxy]-F"
+Cfp-T,"3,3-Dimethylacrylic acid-F"
+Cfp-T,"4,5-Dihydro-1H-pyrazole-F"
+Cfp-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Cfp-T,Benzeneacetic acid-F
+Cfp-T,Tyr-Val-F
+Tulp3-T,"1-Heptanol, 2-propyl--F"
+Tulp3-T,"2-Butene-1,4-diol-F"
+Tulp3-T,2-Ethylhexanoic acid-F
+Tulp3-T,"3,3-Dimethylacrylic acid-F"
+Tulp3-T,5-Nitroso-8-quinolinol-F
+Tulp3-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Tulp3-T,Chlorobenzilate-F
+Tulp3-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Tulp3-T,Trimethylolpropane-F
+Tulp3-T,Tyr-Val-F
+Ddt-T,"1-Heptanol, 2-propyl--F"
+Ddt-T,Chlorobenzilate-F
+Ddt-T,L-Glutamic acid-F
+Ddt-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Folh1-T,"1-Heptanol, 2-propyl--F"
+Folh1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Folh1-T,"3,3-Dimethylacrylic acid-F"
+Folh1-T,"4,5-Dihydro-1H-pyrazole-F"
+Folh1-T,5-Nitroso-8-quinolinol-F
+Folh1-T,Adipoyl-L-carnitine-F
+Folh1-T,alpha-Hydroxyisobutyric acid-F
+Folh1-T,Octanoic acid-F
+Folh1-T,Urea-F
+Ppm1j-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Ppm1j-T,"1-Heptanol, 2-propyl--F"
+Ppm1j-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Ppm1j-T,Octadecanoic acid-F
+Ppm1j-T,Oleamide-F
+Ppm1j-T,Sulindac-F
+Ccdc97-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Ccdc97-T,Benzeneacetic acid-F
+Ccdc97-T,Cholesterol-F
+Ccdc97-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Ccdc97-T,L-Threonine-F
+Ccdc97-T,Luciferin-F
+Ccdc97-T,Octanoic acid-F
+Ccdc97-T,"Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl--F"
+Ccdc97-T,Tyr-Val-F
+Shh-T,"2-Butene-1,4-diol-F"
+Shh-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Shh-T,Aceturic acid-F
+Shh-T,Benzeneacetic acid-F
+Shh-T,Octadecanoic acid-F
+Shh-T,Picolinic acid-F
+Shh-T,Trimethylolpropane-F
+Plekha3-T,"1-Heptanol, 2-propyl--F"
+Plekha3-T,"2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl)-F"
+Plekha3-T,"3,3-Dimethylacrylic acid-F"
+Plekha3-T,"4,5-Dihydro-1H-pyrazole-F"
+Plekha3-T,Tyr-Val-F
+Kdelr1-T,Chlorobenzilate-F
+Atg4d-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Atg4d-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Atg4d-T,Benzeneacetic acid-F
+Atg4d-T,Cholesterol-F
+Atg4d-T,L-Serine-F
+Atg4d-T,Octadecanoic acid-F
+Atg4d-T,Octanoic acid-F
+Arrdc2-T,"3,3-Dimethylacrylic acid-F"
+Arrdc2-T,Benzeneacetic acid-F
+Arrdc2-T,L-Glutamic acid-F
+Arrdc2-T,Lupinine-F
+Arrdc2-T,Tyr-Val-F
+Pnkp-T,"2-Butene-1,4-diol-F"
+Pnkp-T,"4,5-Dihydro-1H-pyrazole-F"
+Pnkp-T,Chlorobenzilate-F
+Grk5-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Grk5-T,"2-Butene-1,4-diol-F"
+Grk5-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Grk5-T,Sulindac-F
+Grk5-T,Trimethylolpropane-F
+Grk5-T,Tyr-Val-F
+Plag1-T,"2-Butene-1,4-diol-F"
+Plag1-T,"3,3-Dimethylacrylic acid-F"
+Plag1-T,5-Nitroso-8-quinolinol-F
+Plag1-T,Benzeneacetic acid-F
+Plag1-T,L-Glutamic acid-F
+Plag1-T,L-Threonine-F
+Plag1-T,Trimethylolpropane-F
+Plag1-T,Tyr-Val-F
+Etv3-T,"1-Heptanol, 2-propyl--F"
+Etv3-T,2-Ethylhexanoic acid-F
+Etv3-T,"3,3-Dimethylacrylic acid-F"
+Etv3-T,5-Nitroso-8-quinolinol-F
+Etv3-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Etv3-T,Chlorobenzilate-F
+Etv3-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Etv3-T,Tyr-Val-F
+St8sia6-T,"2-Butene-1,4-diol-F"
+St8sia6-T,5-Nitroso-8-quinolinol-F
+St8sia6-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+St8sia6-T,Benzeneacetic acid-F
+St8sia6-T,Chlorobenzilate-F
+St8sia6-T,Durapan-F
+St8sia6-T,Tyr-Val-F
+Nosip-T,"1-Heptanol, 2-propyl--F"
+Nosip-T,5-Nitroso-8-quinolinol-F
+Nosip-T,6-Nitroveratryl alcohol-F
+Nosip-T,Chlorobenzilate-F
+Nosip-T,L-Glutamic acid-F
+Nosip-T,Sulindac-F
+Nosip-T,Tyr-Val-F
+Bicd1-T,"1-Heptanol, 2-propyl--F"
+Bicd1-T,"2-(Ethylamino)ethanol, N-acetyl-F"
+Bicd1-T,"2,5-Dimethoxybenzonitrile-F"
+Bicd1-T,2-Cyanobenzaldehyde-F
+Bicd1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Bicd1-T,Benzeneacetic acid-F
+Bicd1-T,Octanoic acid-F
+Ess2-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Ess2-T,"2-Butene-1,4-diol-F"
+Ess2-T,5-Nitroso-8-quinolinol-F
+Ess2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Ess2-T,L-Threonine-F
+Ess2-T,Lupinine-F
+Ess2-T,Tyr-Val-F
+Ercc1-T,"1-Heptanol, 2-propyl--F"
+Ercc1-T,"1-Octanol, 2-butyl--F"
+Ercc1-T,Benzeneacetic acid-F
+Ercc1-T,Chlorobenzilate-F
+Ercc1-T,L-Glutamic acid-F
+Ercc1-T,L-Ornithine-F
+Ercc1-T,Octadecanoic acid-F
+Ercc1-T,Sulindac-F
+Itpkc-T,5-Nitroso-8-quinolinol-F
+Itpkc-T,6-Nitroveratryl alcohol-F
+Itpkc-T,Chlorobenzilate-F
+Itpkc-T,L-Threonine-F
+Itpkc-T,N-Ethylamphetamine-F
+Itpkc-T,Tyr-Val-F
+Rpl8-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Rpl8-T,"4,5-Dihydro-1H-pyrazole-F"
+Rpl8-T,5-Nitroso-8-quinolinol-F
+Rpl8-T,6-Nitroveratryl alcohol-F
+Rpl8-T,Ethanolamine-F
+Rpl8-T,Octanoic acid-F
+Rpl8-T,Sulindac-F
+Rpl8-T,Tyr-Val-F
+Hmox2-T,"1-Heptanol, 2-propyl--F"
+Hmox2-T,Chlorobenzilate-F
+Hmox2-T,L-Glutamic acid-F
+Hmox2-T,Nonanoic acid-F
+Hmox2-T,Tyr-Val-F
+Map3k20-T,"1-Heptanol, 2-propyl--F"
+Map3k20-T,"4,5-Dihydro-1H-pyrazole-F"
+Map3k20-T,Benzeneacetic acid-F
+Map3k20-T,L-Threonine-F
+Map3k20-T,Sulindac-F
+Etv1-T,"4,5-Dihydro-1H-pyrazole-F"
+Etv1-T,Benzeneacetic acid-F
+Etv1-T,Chlorobenzilate-F
+Etv1-T,L-Glutamic acid-F
+Etv1-T,L-Threonine-F
+Etv1-T,Lupinine-F
+Etv1-T,Tyr-Val-F
+Emg1-T,"2-Butene-1,4-diol-F"
+Emg1-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Emg1-T,"4,5-Dihydro-1H-pyrazole-F"
+Emg1-T,L-Glutamic acid-F
+Emg1-T,Trimethylolpropane-F
+Emg1-T,Tyr-Val-F
+Utp20-T,"1-Heptanol, 2-propyl--F"
+Utp20-T,Chlorobenzilate-F
+Utp20-T,"l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester-F"
+Utp20-T,Sulindac-F
+9330159F19Rik-T,"1-Heptanol, 2-propyl--F"
+9330159F19Rik-T,"3,3-Dimethylacrylic acid-F"
+9330159F19Rik-T,"4,5-Dihydro-1H-pyrazole-F"
+9330159F19Rik-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+9330159F19Rik-T,Sulindac-F
+9330159F19Rik-T,Tyr-Val-F
+Gab2-T,"1-Heptanol, 2-propyl--F"
+Gab2-T,2-Buten-1-ol-F
+Gab2-T,5-Nitroso-8-quinolinol-F
+Gab2-T,6-Nitroveratryl alcohol-F
+Gab2-T,Chlorobenzilate-F
+Gab2-T,Sulindac-F
+Prcc-T,"2-Butene-1,4-diol-F"
+Prcc-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Prcc-T,Guanosine-F
+Prcc-T,L-Glutamic acid-F
+Tmem242-T,5-Nitroso-8-quinolinol-F
+Tmem242-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Tmem242-T,6-Nitroveratryl alcohol-F
+Tmem242-T,Chlorobenzilate-F
+Tmem242-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Rasa4-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Rasa4-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Rasa4-T,Benzeneacetic acid-F
+Rasa4-T,Tyr-Val-F
+Slc1a2-T,"2(5H)-Furanone, 4-(hydroxymethyl)-F"
+Slc1a2-T,2-Butenedioic acid-F
+Slc1a2-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Slc1a2-T,5-Nitroso-8-quinolinol-F
+Slc1a2-T,Adipoyl-L-carnitine-F
+Slc1a2-T,Benzeneacetic acid-F
+Slc1a2-T,Citramalic acid-F
+Slc1a2-T,L-Glutamic acid-F
+Slc1a2-T,Tyr-Val-F
+Pard6a-T,5-Nitroso-8-quinolinol-F
+Pard6a-T,6-Nitroveratryl alcohol-F
+Pard6a-T,Azelaic acid-F
+Pard6a-T,Chlorobenzilate-F
+Pard6a-T,L-Threonine-F
+Pard6a-T,N-Ethylamphetamine-F
+Pard6a-T,Sulindac-F
+Pard6a-T,Tyr-Val-F
+Apc-T,"2-Butene-1,4-diol-F"
+Apc-T,5-Nitroso-8-quinolinol-F
+Apc-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Apc-T,Benzeneacetic acid-F
+Apc-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Apc-T,Trimethylolpropane-F
+Tbcb-T,"1-Heptanol, 2-propyl--F"
+Tbcb-T,2-Cyanobenzaldehyde-F
+Tbcb-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Tbcb-T,"4,5-Dihydro-1H-pyrazole-F"
+Tbcb-T,alpha-Hydroxyisobutyric acid-F
+Tbcb-T,Ethanolamine-F
+Tbcb-T,Octanoic acid-F
+Tbcb-T,Tyr-Val-F
+Ccdc159-T,"2-Butene-1,4-diol-F"
+Ccdc159-T,"3,3-Dimethylacrylic acid-F"
+Ccdc159-T,5-Nitroso-8-quinolinol-F
+Ccdc159-T,Benzeneacetic acid-F
+Ccdc159-T,L-Glutamic acid-F
+Ccdc159-T,L-Threonine-F
+Ccdc159-T,Trimethylolpropane-F
+Ccdc159-T,Tyr-Val-F
+Kmt2b-T,"3,4,5-Trimethoxyamphetamine-F"
+Kmt2b-T,Benzeneacetic acid-F
+Kmt2b-T,Chlorobenzilate-F
+Kmt2b-T,DL-Glyceraldehyde-F
+Kmt2b-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Kmt2b-T,L-Threonine-F
+Kmt2b-T,Lupinine-F
+Kmt2b-T,L-Valine-F
+Kmt2b-T,Tyr-Val-F
+Rps9-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Rps9-T,Benzeneacetic acid-F
+Rps9-T,Luciferin-F
+Rps9-T,Octanoic acid-F
+Rps9-T,"Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl--F"
+Rps9-T,Tyr-Val-F
+Psmd2-T,"1-Heptanol, 2-propyl--F"
+Psmd2-T,2-Ethyl-1-butanol-F
+Psmd2-T,"3,3-Dimethylacrylic acid-F"
+Psmd2-T,"4,5-Dihydro-1H-pyrazole-F"
+Psmd2-T,L-Threonine-F
+Psmd2-T,Supraene-F
+Psmd2-T,Tyr-Val-F
+Neu1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Neu1-T,"4,5-Dihydro-1H-pyrazole-F"
+Neu1-T,Chlorobenzilate-F
+Neu1-T,L-Threonine-F
+Neu1-T,Nonanoic acid-F
+Pole-T,"3,3-Dimethylacrylic acid-F"
+Pole-T,Adipoyl-L-carnitine-F
+Pole-T,Benzeneacetic acid-F
+Pole-T,Chlorobenzilate-F
+Pole-T,L-Glutamic acid-F
+Pole-T,L-Threonine-F
+Pole-T,Lupinine-F
+Pole-T,Tyr-Val-F
+Gtpbp3-T,"1-Heptanol, 2-propyl--F"
+Gtpbp3-T,"3,3-Dimethylacrylic acid-F"
+Gtpbp3-T,Chlorobenzilate-F
+Gtpbp3-T,Sulindac-F
+Dqx1-T,"1-Heptanol, 2-propyl--F"
+Dqx1-T,"3,3-Dimethylacrylic acid-F"
+Dqx1-T,"4,5-Dihydro-1H-pyrazole-F"
+Dqx1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Dqx1-T,L-Threonine-F
+Sdhb-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Sdhb-T,"4,5-Dihydro-1H-pyrazole-F"
+Sdhb-T,5-Nitroso-8-quinolinol-F
+Sdhb-T,6-Nitroveratryl alcohol-F
+Sdhb-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Sdhb-T,N-Ethylamphetamine-F
+Sdhb-T,N-Methylacetamide-F
+Sdhb-T,Octanoic acid-F
+Sdhb-T,Tyr-Val-F
+Ccnt1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Ccnt1-T,1-Octadecanol-F
+Ccnt1-T,5-Nitroso-8-quinolinol-F
+Ccnt1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Ccnt1-T,Benzeneacetic acid-F
+Ccnt1-T,L-Pyroglutamic acid-F
+Ccnt1-T,L-Serine-F
+Ccnt1-T,L-Threonine-F
+Ccnt1-T,Octadecanoic acid-F
+Trpv4-T,"3,3-Dimethylacrylic acid-F"
+Trpv4-T,L-Threonine-F
+Trpv4-T,Sulindac-F
+Fam120b-T,"3,4,5-Trimethoxyamphetamine-F"
+Fam120b-T,"1-Heptanol, 2-propyl--F"
+Fam120b-T,"4,5-Dihydro-1H-pyrazole-F"
+Fam120b-T,Benzeneacetic acid-F
+Fam120b-T,"L-Histidine, N,1-bis(tert-butyldimethylsilyl)--F"
+Fam120b-T,L-Valine-F
+Fam120b-T,"Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl--F"
+Fam120b-T,Synephrine-F
+Fam120b-T,Tyr-Val-F
+Nol3-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Nol3-T,"4,5-Dihydro-1H-pyrazole-F"
+Nol3-T,5-Nitroso-8-quinolinol-F
+Nol3-T,6-Nitroveratryl alcohol-F
+Nol3-T,Azelaic acid-F
+Nol3-T,N-Ethylamphetamine-F
+Nol3-T,Octanoic acid-F
+Nol3-T,Sulindac-F
+Nol3-T,Tyr-Val-F
+Sirt2-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Sirt2-T,"1-Heptanol, 2-propyl--F"
+Sirt2-T,Chlorobenzilate-F
+Sirt2-T,L-Threonine-F
+Sirt2-T,Octadecanoic acid-F
+Sirt2-T,Sulindac-F
+Lpl-T,"1-Heptanol, 2-propyl--F"
+Lpl-T,2-Cyanobenzaldehyde-F
+Lpl-T,"3,3-Dimethylacrylic acid-F"
+Lpl-T,5-Nitroso-8-quinolinol-F
+Lpl-T,Chlorobenzilate-F
+Lpl-T,L-Threonine-F
+Lpl-T,Sarcosine-F
+Lpl-T,Tyr-Val-F
+Sqstm1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Sqstm1-T,"4,5-Dihydro-1H-pyrazole-F"
+Sqstm1-T,5-Nitroso-8-quinolinol-F
+Sqstm1-T,6-Nitroveratryl alcohol-F
+Sqstm1-T,Ethanolamine-F
+Sqstm1-T,Luciferin-F
+Sqstm1-T,Octanoic acid-F
+Stk32c-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Stk32c-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Stk32c-T,L-Threonine-F
+Stk32c-T,Luciferin-F
+Stk32c-T,Octanoic acid-F
+E2f3-T,"(2,5-Dimethoxyphenyl)acetone-F"
+E2f3-T,"4,5-Dihydro-1H-pyrazole-F"
+E2f3-T,5-Nitroso-8-quinolinol-F
+E2f3-T,Benzeneacetic acid-F
+E2f3-T,Chlorobenzilate-F
+E2f3-T,Sulindac-F
+E2f3-T,Tyr-Val-F
+Mtif3-T,"4,5-Dihydro-1H-pyrazole-F"
+Mtif3-T,Benzeneacetic acid-F
+Mtif3-T,Diclofenac-F
+Mtif3-T,L-Threonine-F
+Mtif3-T,Sulindac-F
+Mrps18c-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Mrps18c-T,2-Amino-4-methylbenzophenone-F
+Mrps18c-T,2-Decanol-F
+Mrps18c-T,2-Hydroxy-3-methylbutyric acid-F
+Mrps18c-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Mrps18c-T,Heptylamine-F
+Mrps18c-T,L-Threonine-F
+Mrps18c-T,Monocaproin-F
+Mrps18c-T,N-Caffeoyl-O-methyltyramine-F
+Mrps18c-T,Octadecanoic acid-F
+Mrps18c-T,Tyr-Val-F
+Mrps18c-T,Yangonin-F
+Plcg1-T,"1-Heptanol, 2-propyl--F"
+Plcg1-T,"2-Butene-1,4-diol-F"
+Plcg1-T,2-Cyanobenzaldehyde-F
+Plcg1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Plcg1-T,Benzeneacetic acid-F
+Plcg1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Plcg1-T,Octanoic acid-F
+Etaa1-T,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester-F"
+Etaa1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Etaa1-T,"2-Butene-1,4-diol-F"
+Etaa1-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Etaa1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Etaa1-T,Adipoyl-L-carnitine-F
+Etaa1-T,Benzeneacetic acid-F
+Etaa1-T,Chlorobenzilate-F
+Etaa1-T,Tyr-Val-F
+Rarb-T,1-Octadecanol-F
+Rarb-T,Chlorobenzilate-F
+Rarb-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Rarb-T,Tyr-Val-F
+Atad5-T,"1-Heptanol, 2-propyl--F"
+Atad5-T,1-Octadecanol-F
+Atad5-T,5-Nitroso-8-quinolinol-F
+Atad5-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Atad5-T,Benzeneacetic acid-F
+Atad5-T,L-Threonine-F
+Atad5-T,Sulindac-F
+Atad5-T,Tyr-Val-F
+Birc5-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Med13l-T,"2-Butene-1,4-diol-F"
+Med13l-T,5-Nitroso-8-quinolinol-F
+Med13l-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Med13l-T,Benzeneacetic acid-F
+Med13l-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Med13l-T,Sulindac-F
+Gdf9-T,Ethanolamine-F
+Gdf9-T,Tromethamine-F
+Appbp2-T,"2,5-Dimethoxybenzonitrile-F"
+Appbp2-T,"2-Butene-1,4-diol-F"
+Appbp2-T,Benzeneacetic acid-F
+Appbp2-T,Guanosine-F
+Appbp2-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Aatf-T,2-Propyl-1-pentanol-F
+Aatf-T,"3,3-Dimethylacrylic acid-F"
+Aatf-T,"4,5-Dihydro-1H-pyrazole-F"
+Aatf-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Aatf-T,Chlorobenzilate-F
+Aatf-T,Curcumin-F
+Aatf-T,L-Threonine-F
+Aatf-T,Octadecanoic acid-F
+Aatf-T,Sulindac-F
+Ywhah-T,5-Nitroso-8-quinolinol-F
+Ywhah-T,6-Nitroveratryl alcohol-F
+Ywhah-T,Chlorobenzilate-F
+Ywhah-T,Sulindac-F
+Dalrd3-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Dalrd3-T,"1-Heptanol, 2-propyl--F"
+Dalrd3-T,1-Octadecanol-F
+Dalrd3-T,L-Threonine-F
+Dalrd3-T,Luciferin-F
+Dalrd3-T,Sulindac-F
+Ubb-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Ubb-T,"4,5-Dihydro-1H-pyrazole-F"
+Ubb-T,5-Nitroso-8-quinolinol-F
+Ubb-T,6-Nitroveratryl alcohol-F
+Ubb-T,Benzeneacetic acid-F
+Ubb-T,L-Serine-F
+Ubb-T,N-Ethylamphetamine-F
+Ubb-T,N-Methylacetamide-F
+Ubb-T,Octadecanoic acid-F
+Ubb-T,Octanoic acid-F
+Mydgf-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Mydgf-T,"1-Heptanol, 2-propyl--F"
+Mydgf-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Mydgf-T,Octadecanoic acid-F
+Mydgf-T,Sulindac-F
+L3hypdh-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+L3hypdh-T,"1-Heptanol, 2-propyl--F"
+L3hypdh-T,2-Cyanobenzaldehyde-F
+L3hypdh-T,"5-Chlorovaleric acid, nonyl ester-F"
+L3hypdh-T,"6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)-F"
+L3hypdh-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+L3hypdh-T,alpha-Hydroxyisobutyric acid-F
+L3hypdh-T,Benzeneacetic acid-F
+L3hypdh-T,Diacetyl monoxime-F
+L3hypdh-T,Formamide-F
+L3hypdh-T,Isonicotinic Acid-F
+L3hypdh-T,Levulinic acid-F
+L3hypdh-T,Octanoic acid-F
+Rgs17-T,"1-Heptanol, 2-propyl--F"
+Rgs17-T,"4,5-Dihydro-1H-pyrazole-F"
+Rgs17-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Rgs17-T,Benzeneacetic acid-F
+Rgs17-T,Chlorobenzilate-F
+Rgs17-T,Sulindac-F
+Pex3-T,"1-Heptanol, 2-propyl--F"
+Pex3-T,"2-Butene-1,4-diol-F"
+Pex3-T,2-Cyanobenzaldehyde-F
+Pex3-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Pex3-T,Benzeneacetic acid-F
+Pex3-T,Octanoic acid-F
+Popdc3-T,"3,3-Dimethylacrylic acid-F"
+Popdc3-T,Benzeneacetic acid-F
+Gopc-T,"1-Heptanol, 2-propyl--F"
+Gopc-T,"2-Butene-1,4-diol-F"
+Gopc-T,"3,3-Dimethylacrylic acid-F"
+Gopc-T,5-Nitroso-8-quinolinol-F
+Gopc-T,Benzoic Acid-F
+Gopc-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Gopc-T,L-Threonine-F
+Gopc-T,Sulindac-F
+Gopc-T,Trimethylolpropane-F
+Sgk1-T,"3,3-Dimethylacrylic acid-F"
+Sgk1-T,3-Aminobenzoic acid-F
+Sgk1-T,"4,5-Dihydro-1H-pyrazole-F"
+Sgk1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Sgk1-T,L-Threonine-F
+Cand1-T,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester-F"
+Cand1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Cand1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Cand1-T,Benzeneacetic acid-F
+Cand1-T,Chlorobenzilate-F
+Cand1-T,L-Threonine-F
+Cand1-T,Tyr-Val-F
+Rab36-T,Benzeneacetic acid-F
+Rab36-T,Luciferin-F
+Rab36-T,Sulindac-F
+Rab36-T,Tyr-Val-F
+Wif1-T,"1-Heptanol, 2-propyl--F"
+Wif1-T,"2(5H)-Furanone, 4-(hydroxymethyl)-F"
+Wif1-T,2-Cyanobenzaldehyde-F
+Wif1-T,"3,3-Dimethylacrylic acid-F"
+Wif1-T,5-Nitroso-8-quinolinol-F
+Wif1-T,Adipoyl-L-carnitine-F
+Wif1-T,"D-Streptamine, O-6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4)-O-(3-deoxy-4-C-methyl-3-(methylamino)-beta-L-arabinopyranosyl-(1-6))-2-deoxy--F"
+Wif1-T,Heptanoic acid-F
+Wif1-T,N-Acetyl-L-alanine-F
+Vps13d-T,"2-Butene-1,4-diol-F"
+Vps13d-T,5-Nitroso-8-quinolinol-F
+Vps13d-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Vps13d-T,Benzeneacetic acid-F
+Vps13d-T,Norephedrine-F
+Vps13d-T,Trimethylolpropane-F
+Vps13d-T,Tyr-Val-F
+Mdh1-T,Chlorobenzilate-F
+Mdh1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Mdh1-T,L-Threonine-F
+Patz1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Patz1-T,Benzeneacetic acid-F
+Patz1-T,Chlorobenzilate-F
+Patz1-T,Cholesterol-F
+Patz1-T,L-Threonine-F
+Patz1-T,L-Valine-F
+Patz1-T,Tyr-Val-F
+Patz1-T,Uracil-F
+2810021J22Rik-T,"2-Butene-1,4-diol-F"
+2810021J22Rik-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+2810021J22Rik-T,Benzeneacetic acid-F
+2810021J22Rik-T,Cyclobutylamine-F
+2810021J22Rik-T,Guanosine-F
+2810021J22Rik-T,L-Glutamic acid-F
+2810021J22Rik-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Cyria-T,"4,5-Dihydro-1H-pyrazole-F"
+Cyria-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Cyria-T,Benzeneacetic acid-F
+Cyria-T,Chlorobenzilate-F
+Cyria-T,L-Threonine-F
+Cyria-T,Tyr-Val-F
+Sdc1-T,"2-Butene-1,4-diol-F"
+Sdc1-T,3-Aminobenzoic acid-F
+Sdc1-T,5-Nitroso-8-quinolinol-F
+Sdc1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Sdc1-T,Benzeneacetic acid-F
+Sdc1-T,Chlorobenzilate-F
+Sdc1-T,Durapan-F
+Sdc1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Sdc1-T,Methanesulfonic acid-F
+Sdc1-T,Methylthiouracil-F
+Sdc1-T,Tyr-Val-F
+Dus4l-T,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone-F"
+Dus4l-T,"1-Heptanol, 2-propyl--F"
+Dus4l-T,"2(5H)-Furanone, 4-(hydroxymethyl)-F"
+Dus4l-T,5-Nitroso-8-quinolinol-F
+Dus4l-T,Adipoyl-L-carnitine-F
+Dus4l-T,Octadecanoic acid-F
+Dnmt3a-T,5-Nitroso-8-quinolinol-F
+Dnmt3a-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Dnmt3a-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Dnmt3a-T,Sulindac-F
+Cdc27-T,"2,4-Imidazolidinedione, 5,5-dimethyl-F"
+Cdc27-T,5-Nitroso-8-quinolinol-F
+Cdc27-T,Benzeneacetic acid-F
+Cdc27-T,Chlorobenzilate-F
+Cdc27-T,L-Threonine-F
+Cdc27-T,Tyr-Val-F
+Gh-T,"1-Heptanol, 2-propyl--F"
+Gh-T,1-Octadecanol-F
+Gh-T,L-Threonine-F
+Grin2c-T,Chlorobenzilate-F
+Grin2c-T,L-Glutamic acid-F
+Grin2c-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Grin2c-T,L-Threonine-F
+Grin2c-T,Lupinine-F
+Unk-T,"1-Heptanol, 2-propyl--F"
+Unk-T,"3,3-Dimethylacrylic acid-F"
+Unk-T,Benzeneacetic acid-F
+Unk-T,Chlorobenzilate-F
+Unk-T,Luciferin-F
+Unk-T,Sulindac-F
+Unk-T,Tyr-Val-F
+Tekt1-T,"1-Heptanol, 2-propyl--F"
+Tekt1-T,"2,4,6-Cycloheptatrien-1-one-F"
+Tekt1-T,Chlorobenzilate-F
+Tekt1-T,L-Serine-F
+Tekt1-T,L-Threonine-F
+Tekt1-T,Octadecanoic acid-F
+Tekt1-T,Sulindac-F
+Slc13a5-T,"1-Heptanol, 2-propyl--F"
+Slc13a5-T,"2-Butene-1,4-diol-F"
+Slc13a5-T,2-Cyanobenzaldehyde-F
+Slc13a5-T,5-Nitroso-8-quinolinol-F
+Slc13a5-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Slc13a5-T,Norephedrine-F
+Slc13a5-T,Octadecanoic acid-F
+Mxra7-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Mxra7-T,"2,5-Dimethoxybenzhydrazide-F"
+Mxra7-T,"2',5'-Dimethoxypropiophenone-F"
+Mxra7-T,"2-Butene-1,4-diol-F"
+Mxra7-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Mxra7-T,Adipoyl-L-carnitine-F
+Mxra7-T,Benzeneacetic acid-F
+Mxra7-T,Octadecanoic acid-F
+Mia2-T,"1-Heptanol, 2-propyl--F"
+Mia2-T,"2-Butene-1,4-diol-F"
+Mia2-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Mia2-T,"3,3-Dimethylacrylic acid-F"
+Mia2-T,"4,5-Dihydro-1H-pyrazole-F"
+Mia2-T,5-Nitroso-8-quinolinol-F
+Mia2-T,Chlorobenzilate-F
+Spata7-T,Benzeneacetic acid-F
+Spata7-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Spata7-T,Luciferin-F
+Spata7-T,Tyr-Val-F
+Npas3-T,"1-Heptanol, 2-propyl--F"
+Npas3-T,"2-Butene-1,4-diol-F"
+Npas3-T,2-Cyanobenzaldehyde-F
+Npas3-T,"2-Methylcyclohexanol, (Z)-F"
+Npas3-T,3-Buten-2-one-F
+Npas3-T,"4,5-Dihydro-1H-pyrazole-F"
+Npas3-T,"5-Chlorovaleric acid, nonyl ester-F"
+Npas3-T,Benzeneacetic acid-F
+Npas3-T,Lignoceric acid-F
+Npas3-T,Octanoic acid-F
+Npas3-T,Propylene glycol-F
+Ttc8-T,"1-Heptanol, 2-propyl--F"
+Ttc8-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Ttc8-T,"3,3-Dimethylacrylic acid-F"
+Ttc8-T,"4,5-Dihydro-1H-pyrazole-F"
+Ttc8-T,5-Nitroso-8-quinolinol-F
+Ttc8-T,alpha-Hydroxyisobutyric acid-F
+Ttc8-T,Octanoic acid-F
+Ttc8-T,Salsoline-F
+Ttc8-T,Sulindac-F
+Ttc8-T,Tyr-Val-F
+Ttc8-T,Urea-F
+Serpina3n-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Serpina3n-T,"2-Butene-1,4-diol-F"
+Serpina3n-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Serpina3n-T,Sarcosine-F
+Serpina3n-T,Trimethylolpropane-F
+Erh-T,"2-Butene-1,4-diol-F"
+Erh-T,Chlorobenzilate-F
+Erh-T,Isobutanol-F
+Erh-T,Norephedrine-F
+Erh-T,Octadecanoic acid-F
+Trip11-T,"1-Heptanol, 2-propyl--F"
+Trip11-T,2-Cyanobenzaldehyde-F
+Trip11-T,5-Nitroso-8-quinolinol-F
+Trip11-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Trip11-T,Benzeneacetic acid-F
+Trip11-T,N-Acetyl-L-alanine-F
+Trip11-T,Tyr-Val-F
+Fdft1-T,"2,4,6-Cycloheptatrien-1-one-F"
+Fdft1-T,Benzeneacetic acid-F
+Fdft1-T,Chlorobenzilate-F
+Fdft1-T,L-Glutamic acid-F
+Fdft1-T,L-Serine-F
+Fdft1-T,Octadecanoic acid-F
+Kif26a-T,"1-Heptanol, 2-propyl--F"
+Kif26a-T,"3,3-Dimethylacrylic acid-F"
+Kif26a-T,"4,5-Dihydro-1H-pyrazole-F"
+Kif26a-T,N-Acetylaminoethanol-F
+Kif26a-T,Tyr-Val-F
+Habp4-T,Chlorobenzilate-F
+Habp4-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Fam193b-T,"3,3-Dimethylacrylic acid-F"
+Fam193b-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Fam193b-T,3-Methyl-3-buten-1-ol-F
+Fam193b-T,"4,5-Dihydro-1H-pyrazole-F"
+Fam193b-T,Benzeneacetic acid-F
+Fam193b-T,L-Glutamic acid-F
+Fam193b-T,Tyr-Val-F
+Cxcl14-T,5-Nitroso-8-quinolinol-F
+Cxcl14-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Cxcl14-T,6-Nitroveratryl alcohol-F
+Cxcl14-T,Chlorobenzilate-F
+Cxcl14-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Cxcl14-T,Sulindac-F
+Mterf3-T,5-Nitroso-8-quinolinol-F
+Mterf3-T,6-Nitroveratryl alcohol-F
+Mterf3-T,Chlorobenzilate-F
+Qng1-T,"1-Heptanol, 2-propyl--F"
+Qng1-T,1-Octadecanol-F
+Qng1-T,"3,3-Dimethylacrylic acid-F"
+Qng1-T,"4,5-Dihydro-1H-pyrazole-F"
+Qng1-T,5-Nitroso-8-quinolinol-F
+Qng1-T,L-Threonine-F
+Qng1-T,Sulindac-F
+Qng1-T,Tyr-Val-F
+Cast-T,5-Nitroso-8-quinolinol-F
+Cast-T,Benzeneacetic acid-F
+Cast-T,Chlorobenzilate-F
+Cast-T,Monocaproin-F
+Cast-T,Tyr-Val-F
+Ankra2-T,"1-Heptanol, 2-propyl--F"
+Ankra2-T,2-Cyanobenzaldehyde-F
+Ankra2-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Ankra2-T,alpha-Hydroxyisobutyric acid-F
+Ankra2-T,Benzeneacetic acid-F
+Ankra2-T,Luciferin-F
+Ankra2-T,Octanoic acid-F
+Ankra2-T,Tyr-Val-F
+Erbin-T,"3,3-Dimethylacrylic acid-F"
+Erbin-T,5-Nitroso-8-quinolinol-F
+Erbin-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Erbin-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Erbin-T,L-Norleucine-F
+Ogdhl-T,"1-Heptanol, 2-propyl--F"
+Ogdhl-T,"1-Octanol, 2-butyl--F"
+Ogdhl-T,2-Cyanobenzaldehyde-F
+Ogdhl-T,Benzeneacetic acid-F
+Ogdhl-T,Chlorobenzilate-F
+Ogdhl-T,L-Glutamic acid-F
+Ogdhl-T,Octadecanoic acid-F
+Ogdhl-T,Sulindac-F
+Gdf10-T,"1-Heptanol, 2-propyl--F"
+Gdf10-T,5-Nitroso-8-quinolinol-F
+Gdf10-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gdf10-T,Benzeneacetic acid-F
+Gdf10-T,Chlorobenzilate-F
+Gdf10-T,Luciferin-F
+Gdf10-T,Sulindac-F
+Zdhhc20-T,Benzeneacetic acid-F
+Zdhhc20-T,Luciferin-F
+Zdhhc20-T,Sulindac-F
+Zdhhc20-T,Tyr-Val-F
+Amer2-T,"(2,5-Dimethoxyphenyl)acetone-F"
+Amer2-T,"4,5-Dihydro-1H-pyrazole-F"
+Amer2-T,5-Nitroso-8-quinolinol-F
+Amer2-T,Benzeneacetic acid-F
+Amer2-T,Citramalic acid-F
+Amer2-T,Diethylamine-F
+Amer2-T,m-Toluic acid-F
+Amer2-T,Sulindac-F
+Slc22a17-T,Chlorobenzilate-F
+Slc22a17-T,L-Glutamic acid-F
+Slc22a17-T,L-Threonine-F
+Slc22a17-T,Lupinine-F
+Carmil3-T,"2-Butene-1,4-diol-F"
+Carmil3-T,"3,3-Dimethylacrylic acid-F"
+Carmil3-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Carmil3-T,"4,5-Dihydro-1H-pyrazole-F"
+Carmil3-T,L-Glutamic acid-F
+Carmil3-T,Tyr-Val-F
+Psme1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Psme1-T,"4,5-Dihydro-1H-pyrazole-F"
+Psme1-T,5-Nitroso-8-quinolinol-F
+Psme1-T,6-Nitroveratryl alcohol-F
+Psme1-T,Ethanolamine-F
+Psme1-T,Luciferin-F
+Psme1-T,Octanoic acid-F
+Sdr39u1-T,"1-Heptanol, 2-propyl--F"
+Sdr39u1-T,2-Cyanobenzaldehyde-F
+Sdr39u1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Sdr39u1-T,"4,5-Dihydro-1H-pyrazole-F"
+Sdr39u1-T,Chlorobenzilate-F
+Sdr39u1-T,Nonanoic acid-F
+Sdr39u1-T,Tyr-Val-F
+Cmbl-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Cmbl-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Cmbl-T,Octadecanoic acid-F
+Cmbl-T,Sulindac-F
+Ndufb9-T,Azelaic acid-F
+Ndufb9-T,Chlorobenzilate-F
+Ndufb9-T,Sulindac-F
+Ndufb9-T,Tyr-Val-F
+Col14a1-T,"2-Butene-1,4-diol-F"
+Col14a1-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Col14a1-T,Benzeneacetic acid-F
+Col14a1-T,Chlorobenzilate-F
+Col14a1-T,Sulindac-F
+Col14a1-T,Tyr-Val-F
+Adsl-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Adsl-T,Benzeneacetic acid-F
+Adsl-T,Chlorobenzilate-F
+Adsl-T,L-Threonine-F
+Adsl-T,Phenol-F
+Shisa9-T,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester-F"
+Shisa9-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Shisa9-T,Chlorobenzilate-F
+Shisa9-T,Octadecanoic acid-F
+Nudt16l1-T,Azelaic acid-F
+Nudt16l1-T,Chlorobenzilate-F
+Nudt16l1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Nudt16l1-T,Sulindac-F
+Fgf12-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Fgf12-T,"2-Butene-1,4-diol-F"
+Fgf12-T,"2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl)-F"
+Fgf12-T,"3,3-Dimethylacrylic acid-F"
+Fgf12-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Fgf12-T,Benzeneacetic acid-F
+Fgf12-T,L-Glutamic acid-F
+Fgf12-T,Tyr-Val-F
+Cep97-T,"2-Butene-1,4-diol-F"
+Cep97-T,Benzeneacetic acid-F
+Cep97-T,Lignoceric acid-F
+Klhl22-T,"1-Heptanol, 2-propyl--F"
+Klhl22-T,2-Cyanobenzaldehyde-F
+Klhl22-T,Azelaic acid-F
+Klhl22-T,Chlorobenzilate-F
+Klhl22-T,L-Glutamic acid-F
+Klhl22-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Klhl22-T,Sulindac-F
+Ccdc116-T,"2-Butene-1,4-diol-F"
+Ccdc116-T,5-Nitroso-8-quinolinol-F
+Ccdc116-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Ccdc116-T,Benzeneacetic acid-F
+Ccdc116-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Ccdc116-T,Sulindac-F
+Ccdc116-T,Trimethylolpropane-F
+Lrch3-T,"2-Butene-1,4-diol-F"
+Lrch3-T,"2'-Hydroxy-2,4,4',5-tetramethoxychalcone-F"
+Lrch3-T,"3,3-Dimethylacrylic acid-F"
+Lrch3-T,5-Nitroso-8-quinolinol-F
+Lrch3-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Lrch3-T,Benzeneacetic acid-F
+Lrch3-T,Tyr-Val-F
+Ccdc14-T,"1-(1-Hydroxybutyl)-2,5-dimethoxybenzene-F"
+Ccdc14-T,"3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-F"
+Ccdc14-T,Aceturic acid-F
+Ccdc14-T,Benzeneacetic acid-F
+Ccdc14-T,"Benzoic acid, methyl ester-F"
+Ccdc14-T,Octadecanoic acid-F
+Ccdc14-T,Picolinic acid-F
+Ccdc14-T,Sulindac-F
+Ece2-T,"1-Heptanol, 2-propyl--F"
+Ece2-T,"2-Butene-1,4-diol-F"
+Ece2-T,5-Nitroso-8-quinolinol-F
+Ece2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Ece2-T,Benzeneacetic acid-F
+Ece2-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Ece2-T,L-Threonine-F
+Ece2-T,Trimethylolpropane-F
+Adamts1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Adamts1-T,"1-Heptanol, 2-propyl--F"
+Adamts1-T,2-Cyanobenzaldehyde-F
+Adamts1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Adamts1-T,Chlorobenzilate-F
+Brwd1-T,Benzeneacetic acid-F
+Brwd1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Brwd1-T,L-Threonine-F
+Brwd1-T,Lupinine-F
+Brwd1-T,Sulindac-F
+Paxbp1-T,"1-(1-Hydroxybutyl)-2,5-dimethoxybenzene-F"
+Paxbp1-T,"3,3-Dimethylacrylic acid-F"
+Paxbp1-T,Benzeneacetic acid-F
+Paxbp1-T,Chlorobenzilate-F
+Paxbp1-T,Luciferin-F
+Paxbp1-T,Sulindac-F
+Paxbp1-T,Tyr-Val-F
+Scaf4-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Scaf4-T,"3,3-Dimethylacrylic acid-F"
+Scaf4-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Scaf4-T,Adipoyl-L-carnitine-F
+Larp4-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Larp4-T,"2-Butene-1,4-diol-F"
+Larp4-T,"3,3-Dimethylacrylic acid-F"
+Larp4-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Larp4-T,Sulindac-F
+Larp4-T,Trimethylolpropane-F
+Larp4-T,Tyr-Val-F
+Sncg-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Sncg-T,"2-Butene-1,4-diol-F"
+Sncg-T,L-Threonine-F
+Sncg-T,Sulindac-F
+Sncg-T,Trimethylolpropane-F
+Ndufa5-T,Chlorobenzilate-F
+Ndufa5-T,L-Glutamic acid-F
+Ndufa5-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Msrb2-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Msrb2-T,"1,2-Cyclohexanediol, (Z)-F"
+Msrb2-T,"3,3-Dimethylacrylic acid-F"
+Msrb2-T,Chlorobenzilate-F
+Msrb2-T,L-Ornithine-F
+Msrb2-T,L-Threonine-F
+Msrb2-T,Octadecanoic acid-F
+Rhebl1-T,"4,5-Dihydro-1H-pyrazole-F"
+Rhebl1-T,Benzeneacetic acid-F
+Rhebl1-T,Chlorobenzilate-F
+Rhebl1-T,L-Glutamic acid-F
+Rhebl1-T,Tyr-Val-F
+Cmtr1-T,"1-Heptanol, 2-propyl--F"
+Cmtr1-T,"2,2'-Bipyridine-F"
+Cmtr1-T,"2-Butene-1,4-diol-F"
+Cmtr1-T,2-Cyanobenzaldehyde-F
+Cmtr1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Cmtr1-T,L-Leucine-F
+Cmtr1-T,L-Ornithine-F
+Cmtr1-T,Luciferin-F
+Cmtr1-T,Octadecanoic acid-F
+Cmtr1-T,Octanoic acid-F
+Ndufv3-T,5-Nitroso-8-quinolinol-F
+Ndufv3-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Ndufv3-T,6-Nitroveratryl alcohol-F
+Ndufv3-T,Chlorobenzilate-F
+Ndufv3-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Clip4-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Clip4-T,"2,6-di-tert-Butyl-4-(dimethylaminomethyl)phenol-F"
+Clip4-T,"2-Butene-1,4-diol-F"
+Clip4-T,Adipoyl-L-carnitine-F
+Clip4-T,L-Threonine-F
+Clip4-T,Lupinine-F
+Clip4-T,Methyl lactate-F
+Clip4-T,Octadecanoic acid-F
+Pja2-T,"1-Heptanol, 2-propyl--F"
+Pja2-T,"2,3-Butanediol, O-(trimethylsilyl)-, monoacetate-F"
+Pja2-T,5-Nitroso-8-quinolinol-F
+Pja2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Pja2-T,L-Serine-F
+Pja2-T,Octadecanoic acid-F
+Acsbg3-T,Sulindac-F
+Zfp523-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Zfp523-T,"1-Heptanol, 2-propyl--F"
+Zfp523-T,2-Cyanobenzaldehyde-F
+Zfp523-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Zfp523-T,alpha-Hydroxyisobutyric acid-F
+Zfp523-T,Benzeneacetic acid-F
+Zfp523-T,L-Serine-F
+Zfp523-T,Octadecanoic acid-F
+Zfp523-T,Octanoic acid-F
+Mtpap-T,"1-Heptanol, 2-propyl--F"
+Mtpap-T,"3,3-Dimethylacrylic acid-F"
+Mtpap-T,5-Nitroso-8-quinolinol-F
+Mtpap-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Mtpap-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Mtpap-T,L-Threonine-F
+Mtpap-T,Sulindac-F
+Svil-T,"3,3-Dimethylacrylic acid-F"
+Svil-T,L-Threonine-F
+Svil-T,Sulindac-F
+Mib1-T,"3,3-Dimethylacrylic acid-F"
+Mib1-T,5-Nitroso-8-quinolinol-F
+Mib1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Mib1-T,Benzeneacetic acid-F
+Mib1-T,Chlorobenzilate-F
+Mib1-T,L-Threonine-F
+Mib1-T,Sulindac-F
+Mib1-T,Tyr-Val-F
+Sting1-T,"1-Heptanol, 2-propyl--F"
+Sting1-T,"2-Butene-1,4-diol-F"
+Sting1-T,2-Cyanobenzaldehyde-F
+Sting1-T,"4,5-Dihydro-1H-pyrazole-F"
+Sting1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Sting1-T,Chlorobenzilate-F
+Sting1-T,Sulindac-F
+Sting1-T,Trimethylolpropane-F
+Spata24-T,"3,3-Dimethylacrylic acid-F"
+Spata24-T,"4,5-Dihydro-1H-pyrazole-F"
+Spata24-T,Hydracrylic acid-F
+Spata24-T,Lupinine-F
+Stard4-T,"1-Heptanol, 2-propyl--F"
+Stard4-T,"2-Butene-1,4-diol-F"
+Stard4-T,"3,3-Dimethylacrylic acid-F"
+Stard4-T,5-Nitroso-8-quinolinol-F
+Stard4-T,Benzoic Acid-F
+Stard4-T,L-Glutamic acid-F
+Stard4-T,L-Threonine-F
+Stard4-T,Trimethylolpropane-F
+Map3k2-T,"1-Heptanol, 2-propyl--F"
+Map3k2-T,2-Cyanobenzaldehyde-F
+Map3k2-T,5-Nitroso-8-quinolinol-F
+Map3k2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Map3k2-T,Benzeneacetic acid-F
+Map3k2-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Map3k2-T,Sulindac-F
+Iws1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Iws1-T,"1-Heptanol, 2-propyl--F"
+Iws1-T,"2-Butene-1,4-diol-F"
+Iws1-T,2-Cyanobenzaldehyde-F
+Iws1-T,2-Methyl-3-pentanol-F
+Iws1-T,5-Nitroso-8-quinolinol-F
+Iws1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Iws1-T,Adipoyl-L-carnitine-F
+Iws1-T,Benzeneacetic acid-F
+Iws1-T,Octadecanoic acid-F
+Csnk2b-T,"4,5-Dihydro-1H-pyrazole-F"
+Csnk2b-T,Chlorobenzilate-F
+Csnk2b-T,Nonanoic acid-F
+Csnk2b-T,Salsoline-F
+Csnk2b-T,Tyr-Val-F
+Impact-T,"2-Butene-1,4-diol-F"
+Impact-T,5-Nitroso-8-quinolinol-F
+Impact-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Impact-T,Benzeneacetic acid-F
+Impact-T,L-Threonine-F
+Impact-T,Sulindac-F
+Impact-T,Trimethylolpropane-F
+Dcp2-T,"1-Heptanol, 2-propyl--F"
+Dcp2-T,1-Octadecanol-F
+Dcp2-T,2-Cyanobenzaldehyde-F
+Dcp2-T,"3,3-Dimethylacrylic acid-F"
+Dcp2-T,"3,5-Dimethylphenol-F"
+Dcp2-T,"4,5-Dihydro-1H-pyrazole-F"
+Dcp2-T,5-Azacytosine-F
+Dcp2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Dcp2-T,Adipoyl-L-carnitine-F
+Dcp2-T,Chlorobenzilate-F
+Dcp2-T,"Cytosine, N-(tert-butyldimethylsilyl)--F"
+Dcp2-T,"Dodecanoic acid, 1-methylethyl ester-F"
+Dcp2-T,Frangulin-F
+Dcp2-T,Isopropylamine-F
+Dcp2-T,L-Alanine-F
+Dcp2-T,L-Ornithine-F
+Dcp2-T,Octadecanoic acid-F
+Fads3-T,"4,5-Dihydro-1H-pyrazole-F"
+Fads3-T,Chlorobenzilate-F
+Fads2-T,"1-Heptanol, 2-propyl--F"
+Fads2-T,"3,3-Dimethylacrylic acid-F"
+Fads2-T,"4,5-Dihydro-1H-pyrazole-F"
+Fads2-T,Niacinamide-F
+Fads2-T,Sulindac-F
+Tmem138-T,"1-Heptanol, 2-propyl--F"
+Tmem138-T,2-Cyanobenzaldehyde-F
+Tmem138-T,5-Nitroso-8-quinolinol-F
+Tmem138-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Tmem138-T,Benzeneacetic acid-F
+Tmem138-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Tmem138-T,Sulindac-F
+Pcsk5-T,"2-Butene-1,4-diol-F"
+Pcsk5-T,Benzeneacetic acid-F
+Pcsk5-T,Guanosine-F
+Naa40-T,"2-Butenoic acid, 3-[(tert-butyldimethylsilyl)oxy]-F"
+Naa40-T,"3,3-Dimethylacrylic acid-F"
+Naa40-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Naa40-T,"4,5-Dihydro-1H-pyrazole-F"
+Naa40-T,Chlorobenzilate-F
+Naa40-T,L-Glutamic acid-F
+Naa40-T,Luciferin-F
+Naa40-T,Sulindac-F
+Naa40-T,Tyr-Val-F
+Pcx-T,"3,3-Dimethylacrylic acid-F"
+Pcx-T,"5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether-F"
+Pcx-T,5-Nitroso-8-quinolinol-F
+Pcx-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Pcx-T,Chlorobenzilate-F
+Pcx-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Pcx-T,L-Threonine-F
+Pcx-T,Sulindac-F
+Pcx-T,Tyr-Val-F
+Efemp2-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Efemp2-T,"1-Heptanol, 2-propyl--F"
+Efemp2-T,"2-Butene-1,4-diol-F"
+Efemp2-T,2-Cyanobenzaldehyde-F
+Efemp2-T,Benzeneacetic acid-F
+Efemp2-T,Chlorobenzilate-F
+Efemp2-T,L-Glutamic acid-F
+Efemp2-T,Tyr-Val-F
+Drap1-T,"1-(1-Hydroxybutyl)-2,5-dimethoxybenzene-F"
+Drap1-T,"3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-F"
+Drap1-T,Aceturic acid-F
+Drap1-T,Benzeneacetic acid-F
+Drap1-T,"Benzoic acid, methyl ester-F"
+Drap1-T,L-Ornithine-F
+Drap1-T,N-Methylacetamide-F
+Drap1-T,Octadecanoic acid-F
+Drap1-T,Picolinic acid-F
+Drap1-T,Sulindac-F
+Xpnpep1-T,"2,4,6-Cycloheptatrien-1-one-F"
+Xpnpep1-T,Azelaic acid-F
+Xpnpep1-T,Benzeneacetic acid-F
+Xpnpep1-T,Chlorobenzilate-F
+Xpnpep1-T,L-Serine-F
+Xpnpep1-T,Octadecanoic acid-F
+Xpnpep1-T,Phenol-F
+Xpnpep1-T,Sulindac-F
+Btbd1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Btbd1-T,"1-Heptanol, 2-propyl--F"
+Btbd1-T,2-Pyrrolidone-5-carboxylic acid-F
+Btbd1-T,"3,3-Dimethylacrylic acid-F"
+Btbd1-T,Octadecanoic acid-F
+Arhgap19-T,2-Furoic acid-F
+Arhgap19-T,"3,3-Dimethylacrylic acid-F"
+Arhgap19-T,"3,5-Dimethylphenol-F"
+Arhgap19-T,Benzeneacetic acid-F
+Arhgap19-T,Isopropylamine-F
+Arhgap19-T,Tyr-Val-F
+Flnb-T,1-Octadecanol-F
+Flnb-T,Benzeneacetic acid-F
+Flnb-T,Chlorobenzilate-F
+Flnb-T,DL-Glyceraldehyde-F
+Flnb-T,Luciferin-F
+Flnb-T,Lupinine-F
+Flnb-T,Tyr-Val-F
+Sp4-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Sp4-T,"2-Butene-1,4-diol-F"
+Sp4-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Sp4-T,Aceturic acid-F
+Sp4-T,Benzeneacetic acid-F
+Sp4-T,L-Ornithine-F
+Sp4-T,Octadecanoic acid-F
+Sp4-T,Sulindac-F
+Sp4-T,Trimethylolpropane-F
+Gdf11-T,5-Nitroso-8-quinolinol-F
+Gdf11-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gdf11-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Gdf11-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Gdf11-T,L-Norleucine-F
+Rps26-T,5-Nitroso-8-quinolinol-F
+Rps26-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Rps26-T,6-Nitroveratryl alcohol-F
+Rps26-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Rps26-T,"Benzoic acid, methyl ester-F"
+Rps26-T,Chlorobenzilate-F
+Rps26-T,Sulindac-F
+Rps26-T,Tyr-Val-F
+Chmp6-T,"1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans--F"
+Chmp6-T,"4,5-Dihydro-1H-pyrazole-F"
+Chmp6-T,Benzeneacetic acid-F
+Chmp6-T,Diacetyl monoxime-F
+Chmp6-T,Formamide-F
+Chmp6-T,Octanoic acid-F
+Chmp6-T,Sulindac-F
+Pstpip2-T,"4,5-Dihydro-1H-pyrazole-F"
+Pstpip2-T,Chlorobenzilate-F
+Pstpip2-T,L-Glutamic acid-F
+Pstpip2-T,Sulindac-F
+Sigirr-T,"3,3-Dimethylacrylic acid-F"
+Sigirr-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Sigirr-T,L-Glutamic acid-F
+Sigirr-T,L-Threonine-F
+Sigirr-T,Sulindac-F
+Eps8l2-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Eps8l2-T,"1-Heptanol, 2-propyl--F"
+Eps8l2-T,2-Cyanobenzaldehyde-F
+Eps8l2-T,alpha-Hydroxyisobutyric acid-F
+Eps8l2-T,Benzeneacetic acid-F
+Eps8l2-T,Formamide-F
+Eps8l2-T,L-Glutamic acid-F
+Eps8l2-T,Octanoic acid-F
+Eps8l2-T,Sulindac-F
+Gaa-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Gaa-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Gaa-T,Benzeneacetic acid-F
+Gaa-T,L-Serine-F
+Gaa-T,Octadecanoic acid-F
+Gaa-T,Octanoic acid-F
+Rab40c-T,"1-Heptanol, 2-propyl--F"
+Rab40c-T,2-Cyanobenzaldehyde-F
+Rab40c-T,Azelaic acid-F
+Rab40c-T,Chlorobenzilate-F
+Rab40c-T,L-Glutamic acid-F
+Rab40c-T,Sulindac-F
+Rab40c-T,Tyr-Val-F
+Gdap1-T,"2-Butene-1,4-diol-F"
+Gdap1-T,"2-Butenoic acid, 3-[(tert-butyldimethylsilyl)oxy]-F"
+Gdap1-T,"3,3-Dimethylacrylic acid-F"
+Gdap1-T,"4,5-Dihydro-1H-pyrazole-F"
+Gdap1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gdap1-T,Adipoyl-L-carnitine-F
+Gdap1-T,Benzeneacetic acid-F
+Gdap1-T,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester-F"
+Gdap1-T,Sarcosine-F
+Gdap1-T,Trimethylolpropane-F
+Gdap1-T,Tyr-Val-F
+Dhtkd1-T,"3,3-Dimethylacrylic acid-F"
+Dhtkd1-T,3-Methyl-3-buten-1-ol-F
+Dhtkd1-T,"4,5-Dihydro-1H-pyrazole-F"
+Dhtkd1-T,Adipoyl-L-carnitine-F
+Dhtkd1-T,Benzeneacetic acid-F
+Dhtkd1-T,L-Threonine-F
+Dhtkd1-T,Tyr-Val-F
+Thoc3-T,"3,3-Dimethylacrylic acid-F"
+Thoc3-T,Chlorobenzilate-F
+Thoc3-T,L-Glutamic acid-F
+Thoc3-T,L-Threonine-F
+Thoc3-T,Lupinine-F
+Thoc3-T,Supraene-F
+Gria4-T,"1-Heptanol, 2-propyl--F"
+Gria4-T,"2-Butene-1,4-diol-F"
+Gria4-T,2-Cyanobenzaldehyde-F
+Gria4-T,2-Methyl-3-pentanol-F
+Gria4-T,5-Nitroso-8-quinolinol-F
+Gria4-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gria4-T,Benzeneacetic acid-F
+Gria4-T,Tyr-Val-F
+Sntg1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Sntg1-T,"3,3-Dimethylacrylic acid-F"
+Sntg1-T,5-Nitroso-8-quinolinol-F
+Sntg1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Sntg1-T,6-Nitroveratryl alcohol-F
+Sntg1-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Sntg1-T,Octadecanoic acid-F
+Carf-T,"2'-Hydroxy-2,4,4',5-tetramethoxychalcone-F"
+Carf-T,"3,3-Dimethylacrylic acid-F"
+Carf-T,"4,5-Dihydro-1H-pyrazole-F"
+Carf-T,"5-Chlorovaleric acid, nonyl ester-F"
+Carf-T,"6,7,4'-Trihydroxyisoflavone-F"
+Carf-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Carf-T,Adenine-F
+Carf-T,Benzeneacetic acid-F
+Carf-T,Diacetyl monoxime-F
+Carf-T,N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine-F
+Carf-T,Oxalic acid-F
+Carf-T,Propylene glycol-F
+Carf-T,Vanillylmandelic acid-F
+Mitd1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Mitd1-T,"1-Heptanol, 2-propyl--F"
+Mitd1-T,"2-Butene-1,4-diol-F"
+Mitd1-T,2-Cyanobenzaldehyde-F
+Mitd1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Mitd1-T,Chlorobenzilate-F
+Mitd1-T,Diclofenac-F
+Mitd1-T,Trimethylolpropane-F
+Gls-T,1-Octadecanol-F
+Gls-T,"2,2'-Bipyridine-F"
+Gls-T,"2-Butene-1,4-diol-F"
+Gls-T,"2'-Hydroxy-2,4,4',5-tetramethoxychalcone-F"
+Gls-T,"2-Methylcyclohexanol, (Z)-F"
+Gls-T,2-Pentadecanone-F
+Gls-T,"3,3-Dimethylacrylic acid-F"
+Gls-T,"3,5-Dimethylphenol-F"
+Gls-T,3-Methyl-3-buten-1-ol-F
+Gls-T,"4,5-Dihydro-1H-pyrazole-F"
+Gls-T,"5-Nonanol, tert-butyldimethylsilyl ether-F"
+Gls-T,"Benzenesulfonamide, N-butyl-F"
+Gls-T,"Cytosine, N-(tert-butyldimethylsilyl)--F"
+Gls-T,"Dodecanoic acid, 1-methylethyl ester-F"
+Gls-T,Frangulin-F
+Gls-T,Isopropyl palmitate-F
+Gls-T,L-Alanine-F
+Gls-T,L-Leucine-F
+Gls-T,L-Ornithine-F
+Gls-T,Luciferin-F
+Gls-T,Norketamine-F
+Gls-T,Octadecanoic acid-F
+Zfand2b-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Zfand2b-T,"1-Heptanol, 2-propyl--F"
+Zfand2b-T,2-Cyanobenzaldehyde-F
+Zfand2b-T,Chlorobenzilate-F
+Zfand2b-T,Glycine-F
+Zfand2b-T,"Glycine, tert.-butyldimethylsilyl ester-F"
+Zfand2b-T,L-Ornithine-F
+Zfand2b-T,Niacin-F
+Zfand2b-T,Octadecanoic acid-F
+Ncl-T,"(9H-fluoren-9-yl)methanol, O-methoxycarbonyl--F"
+Ncl-T,"2-Butene-1,4-diol-F"
+Ncl-T,"4,5-Dihydro-1H-pyrazole-F"
+Ncl-T,Luciferin-F
+Cdc73-T,"1-Heptanol, 2-propyl--F"
+Cdc73-T,2-Cyanobenzaldehyde-F
+Cdc73-T,"4,5-Dihydro-1H-pyrazole-F"
+Cdc73-T,Benzeneacetic acid-F
+Cdc73-T,Chlorobenzilate-F
+Cdc73-T,Monocaproin-F
+Cdc73-T,Sulindac-F
+Cdc73-T,Tyr-Val-F
+Cfh-T,"1-Heptanol, 2-propyl--F"
+Cfh-T,"2-Butene-1,4-diol-F"
+Cfh-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Cfh-T,"3,3-Dimethylacrylic acid-F"
+Cfh-T,"4,5-Dihydro-1H-pyrazole-F"
+Cfh-T,5-Nitroso-8-quinolinol-F
+Cfh-T,Adipoyl-L-carnitine-F
+Cfh-T,Octanoic acid-F
+Cfh-T,Tyr-Val-F
+Ptpn4-T,"1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine-F"
+Ptpn4-T,"2-Butene-1,4-diol-F"
+Ptpn4-T,"3,3-Dimethylacrylic acid-F"
+Ptpn4-T,5-Nitroso-8-quinolinol-F
+Ptpn4-T,Glycolic acid-F
+Steap3-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Steap3-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Steap3-T,Ketamine-F
+Steap3-T,Xylazine-F
+Csrp1-T,"1-Heptanol, 2-propyl--F"
+Csrp1-T,2-Cyanobenzaldehyde-F
+Csrp1-T,alpha-Hydroxyisobutyric acid-F
+Csrp1-T,Azelaic acid-F
+Csrp1-T,L-Glutamic acid-F
+Csrp1-T,Octanoic acid-F
+Csrp1-T,Sulindac-F
+Csrp1-T,Tyr-Val-F
+Tor1aip1-T,"1-Heptanol, 2-propyl--F"
+Tor1aip1-T,"3,3-Dimethylacrylic acid-F"
+Tor1aip1-T,"4,5-Dihydro-1H-pyrazole-F"
+Tor1aip1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Tor1aip1-T,Tyr-Val-F
+Xpr1-T,"(2,5-Dimethoxyphenyl)acetone-F"
+Xpr1-T,"4,5-Dihydro-1H-pyrazole-F"
+Xpr1-T,Benzeneacetic acid-F
+Xpr1-T,Luciferin-F
+Xpr1-T,Octanoic acid-F
+Xpr1-T,Sulindac-F
+Xpr1-T,Tyr-Val-F
+Cdc42bpa-T,"2-Methylcyclohexanol, (Z)-F"
+Cdc42bpa-T,Adipoyl-L-carnitine-F
+Cdc42bpa-T,Benzeneacetic acid-F
+Cdc42bpa-T,Luciferin-F
+Cdc42bpa-T,Tyr-Val-F
+Efcab2-T,"1,2-Cyclohexanediol, (Z)-F"
+Efcab2-T,"2-Methylcyclohexanol, (Z)-F"
+Efcab2-T,"4,5-Dihydro-1H-pyrazole-F"
+Efcab2-T,Chlorobenzilate-F
+Efcab2-T,Glycine-F
+Efcab2-T,L-Alanine-F
+Efcab2-T,L-Ornithine-F
+Efcab2-T,Octadecanoic acid-F
+Trp53bp2-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Trp53bp2-T,"1-Heptanol, 2-propyl--F"
+Trp53bp2-T,"2-Butene-1,4-diol-F"
+Trp53bp2-T,Chlorobenzilate-F
+Trp53bp2-T,L-Serine-F
+Trp53bp2-T,Octadecanoic acid-F
+Trp53bp2-T,Sulindac-F
+Atp1b1-T,"1-Heptanol, 2-propyl--F"
+Atp1b1-T,2-Cyanobenzaldehyde-F
+Atp1b1-T,"4,5-Dihydro-1H-pyrazole-F"
+Atp1b1-T,alpha-Hydroxyisobutyric acid-F
+Atp1b1-T,L-Glutamic acid-F
+Atp1b1-T,Luciferin-F
+Atp1b1-T,Octadecanoic acid-F
+Atp1b1-T,Octanoic acid-F
+Atp1b1-T,Sulindac-F
+Sec16b-T,Benzeneacetic acid-F
+Sec16b-T,Chlorobenzilate-F
+Sec16b-T,Cholesterol-F
+Sec16b-T,Phenol-F
+Sec16b-T,Tyr-Val-F
+Soat1-T,5-Nitroso-8-quinolinol-F
+Soat1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Soat1-T,Benzeneacetic acid-F
+Soat1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Soat1-T,Sulindac-F
+Atf3-T,"2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole-F"
+Atf3-T,"2-Butene-1,4-diol-F"
+Atf3-T,Sulindac-F
+Rgs5-T,"2,5-Dimethoxyphenol-F"
+Rgs5-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Rgs5-T,Benzeneacetic acid-F
+Rgs5-T,Octanoic acid-F
+Rgs5-T,Sulindac-F
+Trdmt1-T,"2,4,6-Cycloheptatrien-1-one-F"
+Trdmt1-T,"3,3-Dimethylacrylic acid-F"
+Trdmt1-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Trdmt1-T,Octadecanoic acid-F
+Lypd6b-T,"1-Heptanol, 2-propyl--F"
+Lypd6b-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Lypd6b-T,"4,5-Dihydro-1H-pyrazole-F"
+Lypd6b-T,Luciferin-F
+Lypd6b-T,Octanoic acid-F
+Lypd6b-T,Sulindac-F
+Spopl-T,Benzeneacetic acid-F
+Spopl-T,Chlorobenzilate-F
+Spopl-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Spopl-T,L-Threonine-F
+Spopl-T,Luciferin-F
+Spopl-T,Tyr-Val-F
+Pkn3-T,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone-F"
+Pkn3-T,"1-Heptanol, 2-propyl--F"
+Pkn3-T,2-Cyanobenzaldehyde-F
+Pkn3-T,5-Nitroso-8-quinolinol-F
+Pkn3-T,Sulindac-F
+Inpp5e-T,"2-Butene-1,4-diol-F"
+Inpp5e-T,"3,3-Dimethylacrylic acid-F"
+Inpp5e-T,"4,5-Dihydro-1H-pyrazole-F"
+Inpp5e-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Inpp5e-T,Benzeneacetic acid-F
+Inpp5e-T,L-Threonine-F
+Inpp5e-T,Lupinine-F
+Inpp5e-T,Sulindac-F
+Inpp5e-T,Tyr-Val-F
+Slc25a12-T,5-Nitroso-8-quinolinol-F
+Slc25a12-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Slc25a12-T,6-Nitroveratryl alcohol-F
+Slc25a12-T,Chlorobenzilate-F
+Slc25a12-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Sp3-T,"2-Butene-1,4-diol-F"
+Sp3-T,"3,3-Dimethylacrylic acid-F"
+Sp3-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Sp3-T,5-Nitroso-8-quinolinol-F
+Sp3-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Sp3-T,Adipoyl-L-carnitine-F
+Sp3-T,Chlorobenzilate-F
+Sp3-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Lrp4-T,2-Propyl-1-pentanol-F
+Lrp4-T,"3,3-Dimethylacrylic acid-F"
+Lrp4-T,"4,5-Dihydro-1H-pyrazole-F"
+Lrp4-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Lrp4-T,Benzeneacetic acid-F
+Lrp4-T,Chlorobenzilate-F
+Lrp4-T,Curcumin-F
+Lrp4-T,L-Threonine-F
+Lrp4-T,m-Toluic acid-F
+Lrp4-T,Tyr-Val-F
+Vps39-T,5-Nitroso-8-quinolinol-F
+Vps39-T,6-Nitroveratryl alcohol-F
+Vps39-T,Benzeneacetic acid-F
+Vps39-T,"Benzoic acid, methyl ester-F"
+Vps39-T,Chlorobenzilate-F
+Vps39-T,L-Serine-F
+Vps39-T,L-Threonine-F
+Vps39-T,N-Ethylamphetamine-F
+Vps39-T,Octadecanoic acid-F
+Vps39-T,Sulindac-F
+Knstrn-T,5-Nitroso-8-quinolinol-F
+Knstrn-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gabpb1-T,"4,5-Dihydro-1H-pyrazole-F"
+Gabpb1-T,Chlorobenzilate-F
+Gabpb1-T,Octadecanoic acid-F
+Gabpb1-T,Sulindac-F
+Cpxm1-T,"1-Heptanol, 2-propyl--F"
+Cpxm1-T,alpha-Hydroxyisobutyric acid-F
+Cpxm1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Cpxm1-T,Octanoic acid-F
+Cpxm1-T,Tyr-Val-F
+Mrgbp-T,"2-Butene-1,4-diol-F"
+Mrgbp-T,"3,3-Dimethylacrylic acid-F"
+Mrgbp-T,Benzeneacetic acid-F
+Mrgbp-T,Chlorobenzilate-F
+Mrgbp-T,Luciferin-F
+Mrgbp-T,Tyr-Val-F
+Mmp24-T,"4,5-Dihydro-1H-pyrazole-F"
+Mmp24-T,Ethanolamine-F
+Mmp24-T,L-Threonine-F
+Mmp24-T,Lupinine-F
+Mmp24-T,Tyr-Val-F
+Rpn2-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Rpn2-T,Chlorobenzilate-F
+Rpn2-T,L-Threonine-F
+Rpn2-T,Octadecanoic acid-F
+Rpn2-T,Sulindac-F
+Slc7a11-T,"2-Butene-1,4-diol-F"
+Slc7a11-T,Tyr-Val-F
+Casq2-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Casq2-T,4-Methylvaleric acid-F
+Casq2-T,5-Nitroso-8-quinolinol-F
+Casq2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Casq2-T,Benzeneacetic acid-F
+Casq2-T,L-Serine-F
+Casq2-T,Octadecanoic acid-F
+Sypl2-T,"2-Butene-1,4-diol-F"
+Sypl2-T,"4,5-Dihydro-1H-pyrazole-F"
+Sypl2-T,Tyr-Val-F
+Ctso-T,"1-Heptanol, 2-propyl--F"
+Ctso-T,"2-Butene-1,4-diol-F"
+Ctso-T,"3,3-Dimethylacrylic acid-F"
+Ctso-T,5-Nitroso-8-quinolinol-F
+Ctso-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Ctso-T,Chlorobenzilate-F
+Ctso-T,Trimethylolpropane-F
+Ctso-T,Tyr-Val-F
+Iqgap3-T,1-Octadecanol-F
+Iqgap3-T,"2-Butene-1,4-diol-F"
+Iqgap3-T,Benzeneacetic acid-F
+Iqgap3-T,"L-Histidine, N,1-bis(tert-butyldimethylsilyl)--F"
+Iqgap3-T,Lupinine-F
+Iqgap3-T,"Oxymorphone, bis(trimethylsilyl) ether-F"
+Iqgap3-T,Pentanoic acid-F
+Iqgap3-T,Prostaglandin-F
+Iqgap3-T,Trimethylolpropane-F
+Iqgap3-T,Tyr-Val-F
+Lrba-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Lrba-T,"1-Heptanol, 2-propyl--F"
+Lrba-T,"2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl)-F"
+Lrba-T,"3,3-Dimethylacrylic acid-F"
+Lrba-T,Sulindac-F
+Lrba-T,Tyr-Val-F
+Zranb2-T,L-Ornithine-F
+Zranb2-T,Luciferin-F
+Zranb2-T,Octadecanoic acid-F
+Zranb2-T,Sulindac-F
+Ndufaf4-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Ndufaf4-T,"1-Heptanol, 2-propyl--F"
+Ndufaf4-T,2-Cyanobenzaldehyde-F
+Ndufaf4-T,Benzeneacetic acid-F
+Ndufaf4-T,Chlorobenzilate-F
+Ndufaf4-T,L-Glutamic acid-F
+Ndufaf4-T,Sulindac-F
+Nans-T,5-Nitroso-8-quinolinol-F
+Nans-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Nans-T,6-Nitroveratryl alcohol-F
+Nans-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Nans-T,Octanoic acid-F
+Nans-T,Sulindac-F
+Nans-T,Tyr-Val-F
+Nudt2-T,"2-Butene-1,4-diol-F"
+Nudt2-T,2-Pyrrolidone-5-carboxylic acid-F
+Nudt2-T,"4,5-Dihydro-1H-pyrazole-F"
+Nudt2-T,L-Glutamic acid-F
+Nudt2-T,"L-Histidine, N,1-bis(tert-butyldimethylsilyl)--F"
+Nudt2-T,Lupinine-F
+Nudt2-T,Octadecanoic acid-F
+Nudt2-T,"Oxymorphone, bis(trimethylsilyl) ether-F"
+Nudt2-T,Synephrine-F
+Nudt2-T,Trimethylolpropane-F
+Gne-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Gne-T,Benzeneacetic acid-F
+Gne-T,Chlorobenzilate-F
+Gne-T,L-Threonine-F
+Gne-T,Phenol-F
+Gne-T,Sulindac-F
+Plin2-T,"1-Heptanol, 2-propyl--F"
+Plin2-T,"2-Butene-1,4-diol-F"
+Plin2-T,2-Ethyl-1-butanol-F
+Plin2-T,"3,3-Dimethylacrylic acid-F"
+Plin2-T,"4,5-Dihydro-1H-pyrazole-F"
+Plin2-T,5-Nitroso-8-quinolinol-F
+Plin2-T,"Benzene, 1,4-dimethoxy-F"
+Plin2-T,DL-p-Hydroxyphenyllactic acid-F
+Plin2-T,L-Serine-F
+Plin2-T,Octadecanoic acid-F
+Plin2-T,Pentanedioic acid-F
+Plin2-T,Tyr-Val-F
+Plpp3-T,"2-Butene-1,4-diol-F"
+Plpp3-T,5-Nitroso-8-quinolinol-F
+Plpp3-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Plpp3-T,Adipoyl-L-carnitine-F
+Plpp3-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Pum1-T,"1-Heptanol, 2-propyl--F"
+Pum1-T,2-Buten-1-ol-F
+Pum1-T,"2-Butene-1,4-diol-F"
+Pum1-T,2-Cyanobenzaldehyde-F
+Pum1-T,2-Methyl-3-pentanol-F
+Pum1-T,"4,5-Dihydro-1H-pyrazole-F"
+Pum1-T,5-Nitroso-8-quinolinol-F
+Pum1-T,Benzeneacetic acid-F
+Pum1-T,Isonicotinic Acid-F
+Pum1-T,Levulinic acid-F
+Ybx1-T,"3,3-Dimethylacrylic acid-F"
+Ybx1-T,5-Nitroso-8-quinolinol-F
+Ybx1-T,Benzeneacetic acid-F
+Ybx1-T,L-Threonine-F
+Ybx1-T,Sulindac-F
+Macf1-T,"2-Butene-1,4-diol-F"
+Macf1-T,5-Nitroso-8-quinolinol-F
+Macf1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Macf1-T,Benzeneacetic acid-F
+Macf1-T,Chlorobenzilate-F
+Macf1-T,Lupinine-F
+Macf1-T,Norephedrine-F
+Macf1-T,Tyr-Val-F
+Ptch2-T,1-Octadecanol-F
+Ptch2-T,"2,5-Dimethoxyphenol-F"
+Ptch2-T,5-Nitroso-8-quinolinol-F
+Ptch2-T,Benzeneacetic acid-F
+Ptch2-T,"Cyclohexanone, 3,3,5-trimethyl-F"
+Ptch2-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Ptch2-T,L-Threonine-F
+Ptch2-T,Sulindac-F
+Htr6-T,"1-Heptanol, 2-propyl--F"
+Htr6-T,5-Nitroso-8-quinolinol-F
+Htr6-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Htr6-T,Benzeneacetic acid-F
+Htr6-T,N-Acetyl-L-alanine-F
+Ccdc28b-T,"1-Heptanol, 2-propyl--F"
+Ccdc28b-T,2-Cyanobenzaldehyde-F
+Ccdc28b-T,"2-Methylcyclohexanol, (Z)-F"
+Ccdc28b-T,"4,5-Dihydro-1H-pyrazole-F"
+Ccdc28b-T,alpha-Hydroxyisobutyric acid-F
+Ccdc28b-T,Benzeneacetic acid-F
+Ccdc28b-T,L-Glutamic acid-F
+Ccdc28b-T,Luciferin-F
+Ccdc28b-T,Octanoic acid-F
+Ccdc28b-T,Sulindac-F
+Ccdc28b-T,Tyr-Val-F
+Yars1-T,5-Nitroso-8-quinolinol-F
+Yars1-T,6-Nitroveratryl alcohol-F
+Yars1-T,Chlorobenzilate-F
+Yars1-T,N-Ethylamphetamine-F
+Yars1-T,Tyr-Val-F
+Extl1-T,"1-Heptanol, 2-propyl--F"
+Extl1-T,5-Nitroso-8-quinolinol-F
+Extl1-T,6-Nitroveratryl alcohol-F
+Extl1-T,Chlorobenzilate-F
+Extl1-T,L-Glutamic acid-F
+Errfi1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Errfi1-T,"1-Heptanol, 2-propyl--F"
+Errfi1-T,4-Methylvaleric acid-F
+Errfi1-T,5-Nitroso-8-quinolinol-F
+Errfi1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Errfi1-T,Sulindac-F
+Hycc1-T,"1-Heptanol, 2-propyl--F"
+Hycc1-T,"3,3-Dimethylacrylic acid-F"
+Hycc1-T,Benzeneacetic acid-F
+Hycc1-T,Chlorobenzilate-F
+Hycc1-T,Luciferin-F
+Hycc1-T,Sulindac-F
+Hycc1-T,Tyr-Val-F
+Mfn2-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Mfn2-T,"4,5-Dihydro-1H-pyrazole-F"
+Mfn2-T,Chlorobenzilate-F
+Mfn2-T,Nonanoic acid-F
+Dnajb6-T,"1-Heptanol, 2-propyl--F"
+Dnajb6-T,2-Cyanobenzaldehyde-F
+Dnajb6-T,5-Nitroso-8-quinolinol-F
+Dnajb6-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Dnajb6-T,Benzeneacetic acid-F
+Dnajb6-T,N-Acetyl-L-alanine-F
+Dnajb6-T,Sulindac-F
+Dnajb6-T,Tyr-Val-F
+Glmn-T,"2-Butene-1,4-diol-F"
+Glmn-T,"3,3-Dimethylacrylic acid-F"
+Glmn-T,5-Nitroso-8-quinolinol-F
+Glmn-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Glmn-T,Chlorobenzilate-F
+Glmn-T,Tyr-Val-F
+Brdt-T,"3,3-Dimethylacrylic acid-F"
+Brdt-T,5-Nitroso-8-quinolinol-F
+Brdt-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Brdt-T,Chlorobenzilate-F
+Brdt-T,L-Norleucine-F
+Brdt-T,L-Threonine-F
+Brdt-T,N-Ethylamphetamine-F
+Tfip11-T,5-Nitroso-8-quinolinol-F
+Tfip11-T,6-Nitroveratryl alcohol-F
+Tfip11-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Tfip11-T,Chlorobenzilate-F
+Tfip11-T,L-Threonine-F
+Tfip11-T,N-Ethylamphetamine-F
+Asphd2-T,5-Nitroso-8-quinolinol-F
+Asphd2-T,6-Nitroveratryl alcohol-F
+Asphd2-T,Azelaic acid-F
+Asphd2-T,Octanoic acid-F
+Asphd2-T,Sulindac-F
+Asphd2-T,Tyr-Val-F
+Fam168a-T,"1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine-F"
+Fam168a-T,"1-Heptanol, 2-propyl--F"
+Fam168a-T,2-Cyanobenzaldehyde-F
+Fam168a-T,5-Nitroso-8-quinolinol-F
+Fam168a-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Prkab1-T,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone-F"
+Prkab1-T,"1-Heptanol, 2-propyl--F"
+Prkab1-T,"2(5H)-Furanone, 4-(hydroxymethyl)-F"
+Prkab1-T,Octadecanoic acid-F
+Prkab1-T,Sulindac-F
+Gigyf1-T,"2-Butene-1,4-diol-F"
+Gigyf1-T,"3,3-Dimethylacrylic acid-F"
+Gigyf1-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Gigyf1-T,5-Nitroso-8-quinolinol-F
+Gigyf1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gigyf1-T,Benzoic Acid-F
+Gigyf1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Gigyf1-T,L-Threonine-F
+Gigyf1-T,Sulindac-F
+Agk-T,"1,2-Cyclohexanediol, (Z)-F"
+Agk-T,5-Nitroso-8-quinolinol-F
+Agk-T,Chlorobenzilate-F
+Dusp11-T,"1-Heptanol, 2-propyl--F"
+Dusp11-T,"2-Butene-1,4-diol-F"
+Dusp11-T,"3,3-Dimethylacrylic acid-F"
+Dusp11-T,5-Nitroso-8-quinolinol-F
+Dusp11-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Dusp11-T,Biphenyl-F
+Dusp11-T,Chlorobenzilate-F
+Dusp11-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Dusp11-T,L-Lysine-F
+Dusp11-T,Trimethylolpropane-F
+Zfp638-T,5-Nitroso-8-quinolinol-F
+Zfp638-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Zfp638-T,Benzeneacetic acid-F
+Zfp638-T,Chlorobenzilate-F
+Zfp638-T,L-Threonine-F
+Zfp638-T,Sulindac-F
+Zfp638-T,Tyr-Val-F
+Wbp1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Wbp1-T,"2-Butene-1,4-diol-F"
+Wbp1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Wbp1-T,L-Threonine-F
+Wbp1-T,Sulindac-F
+Wbp1-T,Trimethylolpropane-F
+Wbp1-T,Tyr-Val-F
+Ift122-T,"1-Heptanol, 2-propyl--F"
+Ift122-T,2-Cyanobenzaldehyde-F
+Ift122-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Ift122-T,"4,5-Dihydro-1H-pyrazole-F"
+Ift122-T,alpha-Hydroxyisobutyric acid-F
+Ift122-T,Ethanolamine-F
+Ift122-T,Octanoic acid-F
+Ift122-T,Sulindac-F
+Ift122-T,Tyr-Val-F
+Sbk2-T,Chlorobenzilate-F
+Sbk2-T,L-Threonine-F
+Psd3-T,5-Nitroso-8-quinolinol-F
+Psd3-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Psd3-T,Benzeneacetic acid-F
+Psd3-T,Chlorobenzilate-F
+Psd3-T,L-Threonine-F
+Psd3-T,Tyr-Val-F
+Mtmr10-T,Benzeneacetic acid-F
+Mtmr10-T,DL-Glyceraldehyde-F
+Mtmr10-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Mtmr10-T,L-Threonine-F
+Mtmr10-T,Luciferin-F
+Mtmr10-T,Lupinine-F
+Mtmr10-T,Tyr-Val-F
+Furin-T,"1-Heptanol, 2-propyl--F"
+Furin-T,5-Nitroso-8-quinolinol-F
+Furin-T,6-Nitroveratryl alcohol-F
+Furin-T,Chlorobenzilate-F
+Furin-T,L-Glutamic acid-F
+Furin-T,Sulindac-F
+Furin-T,Tyr-Val-F
+Sgf29-T,"1-Heptanol, 2-propyl--F"
+Sgf29-T,2-Cyanobenzaldehyde-F
+Sgf29-T,Chlorobenzilate-F
+Sgf29-T,L-Glutamic acid-F
+Sgf29-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Ppme1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Ppme1-T,"4,5-Dihydro-1H-pyrazole-F"
+Ppme1-T,5-Nitroso-8-quinolinol-F
+Ppme1-T,6-Nitroveratryl alcohol-F
+Ppme1-T,Chlorobenzilate-F
+Ppme1-T,N-Ethylamphetamine-F
+Ppme1-T,Nonanoic acid-F
+Ppme1-T,Tyr-Val-F
+Sh2b1-T,Chlorobenzilate-F
+Sh2b1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Spns1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Spns1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Spns1-T,Tyr-Val-F
+Bag3-T,"2,4,6-Cycloheptatrien-1-one-F"
+Bag3-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Bag3-T,L-Threonine-F
+Bag3-T,Octadecanoic acid-F
+Thumpd1-T,"1-Heptanol, 2-propyl--F"
+Thumpd1-T,"4,5-Dihydro-1H-pyrazole-F"
+Thumpd1-T,Chlorobenzilate-F
+Thumpd1-T,Luciferin-F
+Thumpd1-T,N-Acetylaminoethanol-F
+Thumpd1-T,Sulindac-F
+Thumpd1-T,Tyr-Val-F
+Fadd-T,"2,5-Dimethoxybenzhydrazide-F"
+Fadd-T,"4,5-Dihydro-1H-pyrazole-F"
+Fadd-T,Benzeneacetic acid-F
+Fadd-T,Chlorobenzilate-F
+Fadd-T,"l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester-F"
+Fadd-T,L-Serine-F
+Fadd-T,L-Threonine-F
+Fadd-T,Luciferin-F
+Fadd-T,Octadecanoic acid-F
+Cul4b-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Cul4b-T,"1-Heptanol, 2-propyl--F"
+Cul4b-T,Chlorobenzilate-F
+Cul4b-T,L-Threonine-F
+Cul4b-T,Sulindac-F
+Elf4-T,"2-Butene-1,4-diol-F"
+Elf4-T,Allylescaline-F
+Elf4-T,Benzeneacetic acid-F
+Elf4-T,Chlorobenzilate-F
+Elf4-T,Cholesterol-F
+Elf4-T,Pinosylvin-F
+Elf4-T,Tyr-Val-F
+F9-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Prickle3-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Prickle3-T,"2-Butene-1,4-diol-F"
+Prickle3-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Prickle3-T,Sarcosine-F
+Prickle3-T,Trimethylolpropane-F
+Rpgr-T,"1-Heptanol, 2-propyl--F"
+Rpgr-T,"2-Butene-1,4-diol-F"
+Rpgr-T,"3,3-Dimethylacrylic acid-F"
+Rpgr-T,5-Nitroso-8-quinolinol-F
+Rpgr-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Rpgr-T,Chlorobenzilate-F
+Rpgr-T,Sulindac-F
+Rpgr-T,Trimethylolpropane-F
+Rpgr-T,Tyr-Val-F
+Heph-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Heph-T,"1-Heptanol, 2-propyl--F"
+Heph-T,"2-Butene-1,4-diol-F"
+Heph-T,2-Cyanobenzaldehyde-F
+Heph-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Heph-T,L-Ornithine-F
+Heph-T,L-Threonine-F
+Heph-T,Octadecanoic acid-F
+Heph-T,Sulindac-F
+Heph-T,Trimethylolpropane-F
+Chic1-T,"1-Heptanol, 2-propyl--F"
+Chic1-T,"2-Butene-1,4-diol-F"
+Chic1-T,2-Cyanobenzaldehyde-F
+Chic1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Chic1-T,Benzeneacetic acid-F
+Chic1-T,Chlorobenzilate-F
+Flna-T,"1-Heptanol, 2-propyl--F"
+Flna-T,2-Cyanobenzaldehyde-F
+Flna-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Flna-T,alpha-Hydroxyisobutyric acid-F
+Flna-T,Benzeneacetic acid-F
+Flna-T,Luciferin-F
+Flna-T,Octanoic acid-F
+Flna-T,Tyr-Val-F
+Mtm1-T,"1-Heptanol, 2-propyl--F"
+Mtm1-T,2-Cyanobenzaldehyde-F
+Mtm1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Mtm1-T,alpha-Hydroxyisobutyric acid-F
+Mtm1-T,Benzeneacetic acid-F
+Mtm1-T,Octanoic acid-F
+Mtm1-T,Sulindac-F
+Mecp2-T,"1-Heptanol, 2-propyl--F"
+Mecp2-T,"2-Butene-1,4-diol-F"
+Mecp2-T,2-Cyanobenzaldehyde-F
+Mecp2-T,5-Nitroso-8-quinolinol-F
+Mecp2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Mecp2-T,Benzeneacetic acid-F
+Mecp2-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Mecp2-T,Sulindac-F
+Psmd10-T,2-Butenedioic acid-F
+Psmd10-T,"3,3-Dimethylacrylic acid-F"
+Psmd10-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Psmd10-T,Adipoyl-L-carnitine-F
+Eif4ebp1-T,"1-Heptanol, 2-propyl--F"
+Eif4ebp1-T,"2-(Ethylamino)ethanol, N-acetyl-F"
+Eif4ebp1-T,3-Buten-2-one-F
+Eif4ebp1-T,"4,5-Dihydro-1H-pyrazole-F"
+Eif4ebp1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Eif4ebp1-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Eif4ebp1-T,Benzeneacetic acid-F
+Eif4ebp1-T,Benzyl alcohol-F
+Eif4ebp1-T,Dodecanoic acid-F
+Eif4ebp1-T,Isonicotinic Acid-F
+Eif4ebp1-T,Levulinic acid-F
+Eif4ebp1-T,Octanoic acid-F
+Wwc2-T,"1-Heptanol, 2-propyl--F"
+Wwc2-T,2-Cyanobenzaldehyde-F
+Wwc2-T,"4,5-Dihydro-1H-pyrazole-F"
+Wwc2-T,Benzeneacetic acid-F
+Wwc2-T,Chlorobenzilate-F
+Wwc2-T,Cholesterol-F
+Wwc2-T,L-Glutamic acid-F
+Wwc2-T,Tyr-Val-F
+Star-T,2-(Methylamino)ethanol-F
+Star-T,"2-Butene-1,4-diol-F"
+Star-T,"3,3-Dimethylacrylic acid-F"
+Star-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Star-T,Benzeneacetic acid-F
+Star-T,Leucylglycine-F
+Msmo1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Msmo1-T,"1-Heptanol, 2-propyl--F"
+Msmo1-T,"2-Butene-1,4-diol-F"
+Msmo1-T,2-Cyanobenzaldehyde-F
+Msmo1-T,Allylescaline-F
+Msmo1-T,Benzeneacetic acid-F
+Msmo1-T,Chlorobenzilate-F
+Msmo1-T,L-Glutamic acid-F
+Msmo1-T,Trimethylolpropane-F
+Msmo1-T,Tyr-Val-F
+Nr3c2-T,"3,3-Dimethylacrylic acid-F"
+Nr3c2-T,"4,5-Dihydro-1H-pyrazole-F"
+Nr3c2-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Nr3c2-T,Octadecanoic acid-F
+Nek1-T,"2-Butene-1,4-diol-F"
+Nek1-T,"4,5-Dihydro-1H-pyrazole-F"
+Nek1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Nek1-T,Benzeneacetic acid-F
+Nek1-T,Synephrine-F
+Nek1-T,Tyr-Val-F
+Sall1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Sall1-T,"1-Heptanol, 2-propyl--F"
+Sall1-T,Benzeneacetic acid-F
+Sall1-T,Octadecanoic acid-F
+Rfx1-T,"3,3-Dimethylacrylic acid-F"
+Rfx1-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Rfx1-T,"4,5-Dihydro-1H-pyrazole-F"
+Rfx1-T,"4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol-F"
+Rfx1-T,L-Glutamic acid-F
+Rfx1-T,L-Threonine-F
+Rfx1-T,Sulindac-F
+Bean1-T,Adipoyl-L-carnitine-F
+Bean1-T,L-Ornithine-F
+Bean1-T,Luciferin-F
+Bean1-T,Octadecanoic acid-F
+Vps4a-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Vps4a-T,5-Nitroso-8-quinolinol-F
+Vps4a-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Vps4a-T,Benzeneacetic acid-F
+Vps4a-T,L-Serine-F
+Vps4a-T,Octadecanoic acid-F
+Vps4a-T,Sulindac-F
+Cfdp1-T,"(9H-fluoren-9-yl)methanol, O-methoxycarbonyl--F"
+Cfdp1-T,"3,3-Dimethylacrylic acid-F"
+Cfdp1-T,"4,5-Dihydro-1H-pyrazole-F"
+Cfdp1-T,5-Nitroso-8-quinolinol-F
+Cfdp1-T,Luciferin-F
+2310030G06Rik-T,"1,2-Cyclohexanediol, (Z)-F"
+2310030G06Rik-T,"3,3-Dimethylacrylic acid-F"
+2310030G06Rik-T,5-Nitroso-8-quinolinol-F
+2310030G06Rik-T,Chlorobenzilate-F
+Zpr1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Zpr1-T,"1-Heptanol, 2-propyl--F"
+Zpr1-T,2-Cyanobenzaldehyde-F
+Zpr1-T,Benzeneacetic acid-F
+Zpr1-T,Chlorobenzilate-F
+Zpr1-T,L-Glutamic acid-F
+Zpr1-T,Phenol-F
+Il10ra-T,"1-Heptanol, 2-propyl--F"
+Il10ra-T,"4,5-Dihydro-1H-pyrazole-F"
+Il10ra-T,Benzeneacetic acid-F
+Ddx6-T,"2-Butene-1,4-diol-F"
+Ddx6-T,5-Nitroso-8-quinolinol-F
+Ddx6-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Ddx6-T,Benzeneacetic acid-F
+Ddx6-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Ddx6-T,Tyr-Val-F
+Ldlr-T,"3,4,5-Trimethoxyamphetamine-F"
+Ldlr-T,Benzeneacetic acid-F
+Ldlr-T,Chlorobenzilate-F
+Ldlr-T,Cholesterol-F
+Ldlr-T,L-Threonine-F
+Ldlr-T,Lupinine-F
+Ldlr-T,L-Valine-F
+Ldlr-T,Tyr-Val-F
+Dock6-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Dock6-T,Benzeneacetic acid-F
+Dock6-T,Cholesterol-F
+Dock6-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Dock6-T,L-Threonine-F
+Dock6-T,Luciferin-F
+Dock6-T,Octanoic acid-F
+Dock6-T,"Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl--F"
+Dock6-T,Tyr-Val-F
+Rab27a-T,"1-Heptanol, 2-propyl--F"
+Rab27a-T,Chlorobenzilate-F
+Rab27a-T,Nonanoic acid-F
+Rab27a-T,Sulindac-F
+Phip-T,"1-Heptanol, 2-propyl--F"
+Phip-T,"2-Butene-1,4-diol-F"
+Phip-T,2-Cyanobenzaldehyde-F
+Phip-T,5-Nitroso-8-quinolinol-F
+Phip-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Phip-T,Benzeneacetic acid-F
+Phip-T,Sulindac-F
+Phip-T,Tyr-Val-F
+Nptn-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Nptn-T,"1-Heptanol, 2-propyl--F"
+Nptn-T,"3,3-Dimethylacrylic acid-F"
+Nptn-T,Octadecanoic acid-F
+Nptn-T,Sulindac-F
+Mto1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Mto1-T,Chlorobenzilate-F
+Mto1-T,L-Threonine-F
+Mto1-T,Octadecanoic acid-F
+Mto1-T,Sulindac-F
+Csnk1g1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Csnk1g1-T,"1,2-Cyclohexanediol, (Z)-F"
+Csnk1g1-T,"2,6-di-tert-Butyl-4-(dimethylaminomethyl)phenol-F"
+Csnk1g1-T,"2-Butene-1,4-diol-F"
+Csnk1g1-T,2-Butoxyethanol-F
+Csnk1g1-T,5-Nitroso-8-quinolinol-F
+Csnk1g1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Csnk1g1-T,Adipoyl-L-carnitine-F
+Csnk1g1-T,Biphenyl-F
+Csnk1g1-T,Chlorobenzilate-F
+Csnk1g1-T,Diclofenac-F
+Csnk1g1-T,Octadecanoic acid-F
+Rasa2-T,"1-Heptanol, 2-propyl--F"
+Rasa2-T,"2-Butene-1,4-diol-F"
+Rasa2-T,"3,3-Dimethylacrylic acid-F"
+Rasa2-T,5-Nitroso-8-quinolinol-F
+Rasa2-T,Chlorobenzilate-F
+Rasa2-T,Sulindac-F
+Rasa2-T,Tyr-Val-F
+Me1-T,"1-Heptanol, 2-propyl--F"
+Me1-T,"3,3-Dimethylacrylic acid-F"
+Me1-T,5-Nitroso-8-quinolinol-F
+Me1-T,Benzeneacetic acid-F
+Me1-T,Chlorobenzilate-F
+Me1-T,L-Glutamic acid-F
+Me1-T,Sulindac-F
+Me1-T,Tyr-Val-F
+Me1-T,Urea-F
+Cmtm7-T,"2-Butene-1,4-diol-F"
+Cmtm7-T,3-Aminobenzoic acid-F
+Cmtm7-T,6-Methyluracil-F
+Cmtm7-T,"Hymexazole, tert-butyldimethylsilyl ether-F"
+Cmtm7-T,L-Threonine-F
+Cmtm7-T,Xylazine-F
+Zcwpw2-T,"2,6-di-tert-Butyl-4-(dimethylaminomethyl)phenol-F"
+Zcwpw2-T,"2-Butene-1,4-diol-F"
+Zcwpw2-T,"4,5-Dihydro-1H-pyrazole-F"
+Zcwpw2-T,"5-Nonanol, tert-butyldimethylsilyl ether-F"
+Zcwpw2-T,Luciferin-F
+Zcwpw2-T,Octadecanoic acid-F
+Kif9-T,"2-Butene-1,4-diol-F"
+Kif9-T,5-Nitroso-8-quinolinol-F
+Kif9-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Kif9-T,Chlorobenzilate-F
+Kif9-T,Lupinine-F
+Kif9-T,Norephedrine-F
+Kif9-T,Octadecanoic acid-F
+Trib1-T,"1-Heptanol, 2-propyl--F"
+Trib1-T,"1-Octanol, 2-butyl--F"
+Trib1-T,"2,4,6-Cycloheptatrien-1-one-F"
+Trib1-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Trib1-T,alpha-Hydroxyisobutyric acid-F
+Trib1-T,Benzeneacetic acid-F
+Trib1-T,L-Glutamic acid-F
+Trib1-T,L-Ornithine-F
+Trib1-T,Octadecanoic acid-F
+Trib1-T,Octanoic acid-F
+Trib1-T,Sulindac-F
+Lyzl4-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Lyzl4-T,"3,3-Dimethylacrylic acid-F"
+Lyzl4-T,5-Nitroso-8-quinolinol-F
+Lyzl4-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Lyzl4-T,6-Nitroveratryl alcohol-F
+Lyzl4-T,Chlorobenzilate-F
+Lyzl4-T,L-Threonine-F
+Lyzl4-T,Octadecanoic acid-F
+Lyzl4-T,Sulindac-F
+Srprb-T,"1-Heptanol, 2-propyl--F"
+Srprb-T,2-Ethyl-1-butanol-F
+Srprb-T,"3,3-Dimethylacrylic acid-F"
+Srprb-T,"4,5-Dihydro-1H-pyrazole-F"
+Srprb-T,L-Threonine-F
+Srprb-T,Sulindac-F
+Srprb-T,Tyr-Val-F
+Nphp3-T,1-Octadecanol-F
+Nphp3-T,"3,3-Dimethylacrylic acid-F"
+Nphp3-T,"4,5-Dihydro-1H-pyrazole-F"
+Nphp3-T,Chlorobenzilate-F
+Nphp3-T,Luciferin-F
+Nphp3-T,Lupinine-F
+Mrpl3-T,"1-Heptanol, 2-propyl--F"
+Mrpl3-T,1-Octadecanol-F
+Mrpl3-T,2-Ethylhexanoic acid-F
+Mrpl3-T,5-Nitroso-8-quinolinol-F
+Mrpl3-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Mrpl3-T,Benzeneacetic acid-F
+Mrpl3-T,Chlorobenzilate-F
+Mrpl3-T,Tyr-Val-F
+Ip6k2-T,"2,5-Dimethoxyphenol-F"
+Ip6k2-T,3-Heptanol-F
+Ip6k2-T,5-Nitroso-8-quinolinol-F
+Ip6k2-T,Benzeneacetic acid-F
+Ip6k2-T,"Cyclohexanone, 3,3,5-trimethyl-F"
+Ip6k2-T,"l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester-F"
+Ip6k2-T,L-Threonine-F
+Ip6k2-T,Sulindac-F
+Nicn1-T,"1-Heptanol, 2-propyl--F"
+Nicn1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Nicn1-T,"4,5-Dihydro-1H-pyrazole-F"
+Nicn1-T,Chlorobenzilate-F
+Nicn1-T,Ethanolamine-F
+Mier3-T,"1-Heptanol, 2-propyl--F"
+Mier3-T,5-Nitroso-8-quinolinol-F
+Mier3-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Mier3-T,Benzeneacetic acid-F
+Mier3-T,"Cyclohexanone, 3,3,5-trimethyl-F"
+Mier3-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Pwp2-T,2-Buten-1-ol-F
+Pwp2-T,5-Nitroso-8-quinolinol-F
+Pwp2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Pwp2-T,6-Nitroveratryl alcohol-F
+Pwp2-T,Chlorobenzilate-F
+Cep15-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Cep15-T,Benzeneacetic acid-F
+Cep15-T,Luciferin-F
+Cep15-T,Octanoic acid-F
+Cep15-T,"Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl--F"
+Cep15-T,Tyr-Val-F
+Adamts15-T,"1-Heptanol, 2-propyl--F"
+Adamts15-T,1-Octadecanol-F
+Adamts15-T,5-Nitroso-8-quinolinol-F
+Adamts15-T,5-Oxohexanoic Acid-F
+Adamts15-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Adamts15-T,L-Threonine-F
+Adamts15-T,Sulindac-F
+Angptl1-T,Benzeneacetic acid-F
+Ndn-T,Chlorobenzilate-F
+Ndn-T,L-Threonine-F
+Ndn-T,Nonanoic acid-F
+Ndn-T,Phenol-F
+Ndn-T,Tyr-Val-F
+Map3k13-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Map3k13-T,Benzeneacetic acid-F
+Map3k13-T,Chlorobenzilate-F
+Map3k13-T,L-Threonine-F
+Map3k13-T,Phenol-F
+Map3k13-T,Tyr-Val-F
+Cep350-T,"2',5'-Dimethoxypropiophenone-F"
+Cep350-T,"2-Butene-1,4-diol-F"
+Cep350-T,5-Nitroso-8-quinolinol-F
+Cep350-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Cep350-T,Adipoyl-L-carnitine-F
+Cep350-T,Benzeneacetic acid-F
+Cep350-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Cep350-T,Trimethylolpropane-F
+Smyd5-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Smyd5-T,1-Octadecanol-F
+Smyd5-T,L-Threonine-F
+Smyd5-T,Luciferin-F
+Smyd5-T,Lupinine-F
+Rpap2-T,Benzeneacetic acid-F
+Rpap2-T,Luciferin-F
+Rpap2-T,Tyr-Val-F
+Gde1-T,5-Nitroso-8-quinolinol-F
+Gde1-T,6-Nitroveratryl alcohol-F
+Gde1-T,Chlorobenzilate-F
+Skic3-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Skic3-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Skic3-T,L-Ornithine-F
+Skic3-T,L-Threonine-F
+Skic3-T,Octadecanoic acid-F
+Skic3-T,Tyr-Val-F
+Gpbp1l1-T,"1,2-Cyclohexanediol, (Z)-F"
+Gpbp1l1-T,"2-Butene-1,4-diol-F"
+Gpbp1l1-T,"3,3-Dimethylacrylic acid-F"
+Gpbp1l1-T,3-Methyl-3-buten-1-ol-F
+Gpbp1l1-T,"4,5-Dihydro-1H-pyrazole-F"
+Gpbp1l1-T,Adipoyl-L-carnitine-F
+Gpbp1l1-T,Benzeneacetic acid-F
+Gpbp1l1-T,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester-F"
+Gpbp1l1-T,L-Threonine-F
+Gpbp1l1-T,Tyr-Val-F
+Phka1-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Phka1-T,Chlorobenzilate-F
+Phka1-T,Luciferin-F
+Phka1-T,N-Acetylaminoethanol-F
+Phka1-T,Sulindac-F
+Phka1-T,Tyr-Val-F
+Tmem132c-T,"3,3-Dimethylacrylic acid-F"
+Tmem132c-T,"4,5-Dihydro-1H-pyrazole-F"
+Tmem132c-T,"5-Chlorovaleric acid, nonyl ester-F"
+Tmem132c-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Tmem132c-T,Benzeneacetic acid-F
+Tmem132c-T,Cycloheptanol-F
+Tmem132c-T,Lupinine-F
+Tmem132c-T,m-Toluic acid-F
+Tmem132c-T,Octanoic acid-F
+Tmem132c-T,Oxalic acid-F
+Tmem132c-T,Vanillylmandelic acid-F
+Cops8-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Cops8-T,"4,5-Dihydro-1H-pyrazole-F"
+Cops8-T,5-Nitroso-8-quinolinol-F
+Cops8-T,6-Nitroveratryl alcohol-F
+Cops8-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Cops8-T,Chlorobenzilate-F
+Cops8-T,N-Ethylamphetamine-F
+Pkd2-T,"1-Heptanol, 2-propyl--F"
+Pkd2-T,"3,3-Dimethylacrylic acid-F"
+Pkd2-T,"4,5-Dihydro-1H-pyrazole-F"
+Pkd2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Pkd2-T,Benzeneacetic acid-F
+Pkd2-T,Sulindac-F
+Pkd2-T,Tyr-Val-F
+Dynlrb2-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Dynlrb2-T,"1-Heptanol, 2-propyl--F"
+Dynlrb2-T,"2-Butene-1,4-diol-F"
+Dynlrb2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Dynlrb2-T,Adipoyl-L-carnitine-F
+Dynlrb2-T,Chlorobenzilate-F
+Dynlrb2-T,Octadecanoic acid-F
+Dynlrb2-T,Trimethylolpropane-F
+2700049A03Rik-T,"2-Butene-1,4-diol-F"
+2700049A03Rik-T,Benzeneacetic acid-F
+2700049A03Rik-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+2700049A03Rik-T,"Naringenin 4',7-dimethylether-F"
+2700049A03Rik-T,Sulindac-F
+Dgkh-T,"1-Heptanol, 2-propyl--F"
+Dgkh-T,2-Cyanobenzaldehyde-F
+Dgkh-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Dgkh-T,Adipoyl-L-carnitine-F
+Dgkh-T,Benzeneacetic acid-F
+Dgkh-T,Chlorobenzilate-F
+Rab24-T,"1-Heptanol, 2-propyl--F"
+Rab24-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Rab24-T,"4,5-Dihydro-1H-pyrazole-F"
+Rab24-T,Chlorobenzilate-F
+Rab24-T,Ethanolamine-F
+Rab24-T,Nonanoic acid-F
+Mrpl34-T,"2-Butene-1,4-diol-F"
+Mrpl34-T,"3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-F"
+Mrpl34-T,"3,3-Dimethylacrylic acid-F"
+Mrpl34-T,"4,5-Dihydro-1H-pyrazole-F"
+Mrpl34-T,"Naringenin 4',7-dimethylether-F"
+Mrpl34-T,Picolinic acid-F
+Mrpl34-T,Sulindac-F
+Mrpl34-T,Trimethylolpropane-F
+Mrpl34-T,Tyr-Val-F
+Ncaph-T,"1-Heptanol, 2-propyl--F"
+Ncaph-T,2-Cyanobenzaldehyde-F
+Ncaph-T,Benzeneacetic acid-F
+Arhgap5-T,"3,3-Dimethylacrylic acid-F"
+Arhgap5-T,5-Nitroso-8-quinolinol-F
+Arhgap5-T,Benzeneacetic acid-F
+Arhgap5-T,Chlorobenzilate-F
+Arhgap5-T,L-Threonine-F
+Arhgap5-T,Sulindac-F
+Arhgap5-T,Tyr-Val-F
+Zc3h12c-T,"1-Heptanol, 2-propyl--F"
+Zc3h12c-T,2-Buten-1-ol-F
+Zc3h12c-T,"2-Butene-1,4-diol-F"
+Zc3h12c-T,"3,3-Dimethylacrylic acid-F"
+Zc3h12c-T,5-Nitroso-8-quinolinol-F
+Zc3h12c-T,L-Threonine-F
+Zc3h12c-T,Sulindac-F
+Zc3h12c-T,Trimethylolpropane-F
+Xrra1-T,"1-Heptanol, 2-propyl--F"
+Xrra1-T,"2,3-Butanediol, O-(trimethylsilyl)-, monoacetate-F"
+Xrra1-T,5-Nitroso-8-quinolinol-F
+Xrra1-T,Benzeneacetic acid-F
+Xrra1-T,N-Acetyl-L-alanine-F
+Xrra1-T,Tyr-Val-F
+Hectd1-T,"4,5-Dihydro-1H-pyrazole-F"
+Hectd1-T,Benzeneacetic acid-F
+Hectd1-T,Chlorobenzilate-F
+Hectd1-T,L-Threonine-F
+Hectd1-T,Sulindac-F
+Hectd1-T,Tyr-Val-F
+Vps13c-T,"2-Butene-1,4-diol-F"
+Vps13c-T,"3,3-Dimethylacrylic acid-F"
+Vps13c-T,"4,5-Dihydro-1H-pyrazole-F"
+Vps13c-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Vps13c-T,Benzeneacetic acid-F
+Vps13c-T,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester-F"
+Vps13c-T,L-Threonine-F
+Vps13c-T,"N,N-Dimethyl-2-aminoethanol-F"
+Vps13c-T,Tyr-Val-F
+L3mbtl1-T,Chlorobenzilate-F
+L3mbtl1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+L3mbtl1-T,Luciferin-F
+L3mbtl1-T,Sulindac-F
+L3mbtl1-T,Tyr-Val-F
+Tsen34-T,"4,5-Dihydro-1H-pyrazole-F"
+Tsen34-T,Chlorobenzilate-F
+Tsen34-T,Octadecanoic acid-F
+Grhpr-T,Chlorobenzilate-F
+Grhpr-T,Diclofenac-F
+Grhpr-T,L-Threonine-F
+Lrfn5-T,"3,3-Dimethylacrylic acid-F"
+Lrfn5-T,"4,5-Dihydro-1H-pyrazole-F"
+Lrfn5-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Lrfn5-T,Benzeneacetic acid-F
+Lrfn5-T,Tyr-Val-F
+Ppp1r26-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Ppp1r26-T,"2-Butene-1,4-diol-F"
+Ppp1r26-T,"Phenol, 2,4-bis(1-methyl-1-phenylethyl)--F"
+Ppp1r26-T,Tyr-Val-F
+Atosb-T,"1-Heptanol, 2-propyl--F"
+Atosb-T,"4,5-Dihydro-1H-pyrazole-F"
+Atosb-T,N-Acetylaminoethanol-F
+Atosb-T,Octadecanoic acid-F
+Slf2-T,1-Octadecanol-F
+Slf2-T,"2,5-Dimethoxyphenol-F"
+Slf2-T,5-Nitroso-8-quinolinol-F
+Slf2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Slf2-T,Benzeneacetic acid-F
+Slf2-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Slf2-T,L-Threonine-F
+Slf2-T,Sulindac-F
+Rfxank-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Rfxank-T,1-Octadecanol-F
+Rfxank-T,DL-Glyceraldehyde-F
+Rfxank-T,Hydracrylic acid-F
+Rfxank-T,Lupinine-F
+Dipk1b-T,2-Buten-1-ol-F
+Dipk1b-T,5-Nitroso-8-quinolinol-F
+Dipk1b-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Dipk1b-T,6-Nitroveratryl alcohol-F
+Dipk1b-T,Chlorobenzilate-F
+Dipk1b-T,L-Threonine-F
+Slc18a1-T,Phthalazin-1-one-F
+Sec24a-T,"2-Butene-1,4-diol-F"
+Sec24a-T,Benzeneacetic acid-F
+Sec24a-T,L-Threonine-F
+Sec24a-T,Lupinine-F
+Sec24a-T,N-Isobutyrylglycine-F
+Sec24a-T,Sulindac-F
+Thap11-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Thap11-T,"1-Heptanol, 2-propyl--F"
+Thap11-T,"3,3-Dimethylacrylic acid-F"
+Thap11-T,Chlorobenzilate-F
+Thap11-T,L-Threonine-F
+Thap11-T,Octadecanoic acid-F
+Thap11-T,Sulindac-F
+Elf1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Elf1-T,"2-Butene-1,4-diol-F"
+Elf1-T,"3,3-Dimethylacrylic acid-F"
+Elf1-T,L-Threonine-F
+Rnf13-T,"4,5-Dihydro-1H-pyrazole-F"
+Rnf13-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Rnf13-T,Adipoyl-L-carnitine-F
+Rnf13-T,Benzeneacetic acid-F
+Rnf13-T,Chlorobenzilate-F
+Rnf13-T,L-Ornithine-F
+Rnf13-T,Luciferin-F
+Rnf13-T,N-Methylacetamide-F
+Rnf13-T,Octadecanoic acid-F
+Phpt1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Phpt1-T,Benzeneacetic acid-F
+Phpt1-T,Chlorobenzilate-F
+Phpt1-T,Sulindac-F
+Cnot1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Cnot1-T,"2-Butene-1,4-diol-F"
+Cnot1-T,Luciferin-F
+Ermard-T,Benzeneacetic acid-F
+Ermard-T,L-Threonine-F
+Ermard-T,Monocaproin-F
+Ermard-T,"N,N-Dimethyl-2-aminoethanol-F"
+Ermard-T,Tyr-Val-F
+Alg5-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Alg5-T,"2-Butene-1,4-diol-F"
+Alg5-T,Adipoyl-L-carnitine-F
+Alg5-T,Octadecanoic acid-F
+Colec11-T,5-Nitroso-8-quinolinol-F
+Colec11-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Colec11-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Colec11-T,Benzeneacetic acid-F
+Colec11-T,L-Norleucine-F
+Zcchc12-T,"3,4,5-Trimethoxyamphetamine-F"
+Zcchc12-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Zcchc12-T,"1-Heptanol, 2-propyl--F"
+Zcchc12-T,1-Octadecanol-F
+Zcchc12-T,Benzeneacetic acid-F
+Zcchc12-T,L-Serine-F
+Zcchc12-T,L-Valine-F
+Zcchc12-T,Octadecanoic acid-F
+Zcchc12-T,Pentanoic acid-F
+Zcchc12-T,Tyr-Val-F
+Mrpl41-T,"1-Heptanol, 2-propyl--F"
+Mrpl41-T,2-Cyanobenzaldehyde-F
+Mrpl41-T,Chlorobenzilate-F
+Mrpl41-T,L-Glutamic acid-F
+Arhgef26-T,"1-Heptanol, 2-propyl--F"
+Arhgef26-T,"3,3-Dimethylacrylic acid-F"
+Arhgef26-T,5-Nitroso-8-quinolinol-F
+Arhgef26-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Arhgef26-T,Benzeneacetic acid-F
+Arhgef26-T,Tyr-Val-F
+4921524J17Rik-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+4921524J17Rik-T,"1,2-Cyclohexanediol, (Z)-F"
+4921524J17Rik-T,"2-Butene-1,4-diol-F"
+4921524J17Rik-T,"3,3-Dimethylacrylic acid-F"
+4921524J17Rik-T,Adipoyl-L-carnitine-F
+4921524J17Rik-T,Benzeneacetic acid-F
+4921524J17Rik-T,Chlorobenzilate-F
+4921524J17Rik-T,Tyr-Val-F
+Zdhhc9-T,"3,3-Dimethylacrylic acid-F"
+Zdhhc9-T,"4,5-Dihydro-1H-pyrazole-F"
+Zdhhc9-T,L-Threonine-F
+Zdhhc9-T,Lupinine-F
+Zdhhc9-T,Monocaproin-F
+Zdhhc9-T,Sulindac-F
+Zdhhc9-T,Tyr-Val-F
+Ss18-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Ss18-T,"2-Butene-1,4-diol-F"
+Ss18-T,"3,3-Dimethylacrylic acid-F"
+Ss18-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Ss18-T,L-Glutamic acid-F
+Ss18-T,Octadecanoic acid-F
+Socs5-T,"2-Butene-1,4-diol-F"
+Socs5-T,"3,3-Dimethylacrylic acid-F"
+Socs5-T,5-Nitroso-8-quinolinol-F
+Socs5-T,Benzeneacetic acid-F
+Socs5-T,L-Glutamic acid-F
+Socs5-T,L-Threonine-F
+Socs5-T,Trimethylolpropane-F
+Fam91a1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Fam91a1-T,"1-Heptanol, 2-propyl--F"
+Fam91a1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Fam91a1-T,Benzeneacetic acid-F
+Fam91a1-T,Octadecanoic acid-F
+Fam91a1-T,Sulindac-F
+Nudt22-T,"1-Heptanol, 2-propyl--F"
+Nudt22-T,2-Cyanobenzaldehyde-F
+Nudt22-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Nudt22-T,"4,5-Dihydro-1H-pyrazole-F"
+Nudt22-T,4-Oxohexanoic acid-F
+Nudt22-T,Benzeneacetic acid-F
+Nudt22-T,Chlorobenzilate-F
+Nudt22-T,Cholesterol-F
+Nudt22-T,L-Serine-F
+Nudt22-T,Octadecanoic acid-F
+Nudt22-T,Tyr-Val-F
+Dmxl1-T,"2-Butene-1,4-diol-F"
+Dmxl1-T,5-Nitroso-8-quinolinol-F
+Dmxl1-T,Benzeneacetic acid-F
+Dmxl1-T,Sulindac-F
+Dmxl1-T,Trimethylolpropane-F
+Ubr5-T,"1-Heptanol, 2-propyl--F"
+Ubr5-T,"2-Butene-1,4-diol-F"
+Ubr5-T,2-Cyanobenzaldehyde-F
+Ubr5-T,3-Buten-2-one-F
+Ubr5-T,"4,5-Dihydro-1H-pyrazole-F"
+Ubr5-T,"5-Chlorovaleric acid, nonyl ester-F"
+Ubr5-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Ubr5-T,Benzeneacetic acid-F
+Ubr5-T,Isonicotinic Acid-F
+Ubr5-T,Levulinic acid-F
+Ubr5-T,Octanoic acid-F
+Ubr5-T,Oxalic acid-F
+Aldh8a1-T,Phthalazin-1-one-F
+Vash2-T,"1-Heptanol, 2-propyl--F"
+Vash2-T,"3,3-Dimethylacrylic acid-F"
+Vash2-T,Benzeneacetic acid-F
+Vash2-T,L-Threonine-F
+Vash2-T,Luciferin-F
+Vash2-T,Sulindac-F
+Vash2-T,Tyr-Val-F
+Atp8a1-T,"1-Heptanol, 2-propyl--F"
+Atp8a1-T,"2(5H)-Furanone, 4-(hydroxymethyl)-F"
+Atp8a1-T,"2,3-Butanediol, O-(trimethylsilyl)-, monoacetate-F"
+Atp8a1-T,5-Nitroso-8-quinolinol-F
+Atp8a1-T,Adipoyl-L-carnitine-F
+Atp8a1-T,N-Acetyl-L-alanine-F
+Atp8a1-T,Octadecanoic acid-F
+Ddhd1-T,"1-Heptanol, 2-propyl--F"
+Ddhd1-T,1-Octadecanol-F
+Ddhd1-T,2-Ethylhexanoic acid-F
+Ddhd1-T,Chlorobenzilate-F
+Ddhd1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Ddhd1-T,Luciferin-F
+Ddhd1-T,Tyr-Val-F
+Themis2-T,"2-Butene-1,4-diol-F"
+Themis2-T,"3,3-Dimethylacrylic acid-F"
+Themis2-T,5-Nitroso-8-quinolinol-F
+Themis2-T,L-Threonine-F
+Dzip1l-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Dzip1l-T,"1-Heptanol, 2-propyl--F"
+Dzip1l-T,"2-Allyl-1,4-dimethoxybenzene-F"
+Dzip1l-T,"2-Butene-1,4-diol-F"
+Dzip1l-T,2-Methyl-3-pentanol-F
+Dzip1l-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Dzip1l-T,"Phenol, 2,4-bis(1-methyl-1-phenylethyl)--F"
+Dzip1l-T,Tyr-Val-F
+Nufip2-T,"4,5-Dihydro-1H-pyrazole-F"
+Ankrd9-T,"1-Heptanol, 2-propyl--F"
+Ankrd9-T,"2-Butene-1,4-diol-F"
+Ankrd9-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Ankrd9-T,"4,5-Dihydro-1H-pyrazole-F"
+Ankrd9-T,Ethanolamine-F
+Ankrd9-T,Luciferin-F
+Ankrd9-T,Octanoic acid-F
+Kmt2c-T,"4,5-Dihydro-1H-pyrazole-F"
+Kmt2c-T,Benzeneacetic acid-F
+Kmt2c-T,Chlorobenzilate-F
+Kmt2c-T,L-Threonine-F
+Kmt2c-T,Niacinamide-F
+Kmt2c-T,Sulindac-F
+Crygn-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Crygn-T,Phthalazin-1-one-F
+Notch3-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Notch3-T,"3,3-Dimethylacrylic acid-F"
+Notch3-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Notch3-T,Chlorobenzilate-F
+Notch3-T,L-Glutamic acid-F
+Notch3-T,L-Threonine-F
+Notch3-T,Sulindac-F
+Prdm1-T,"1-Heptanol, 2-propyl--F"
+Prdm1-T,2-Buten-1-ol-F
+Prdm1-T,"3,3-Dimethylacrylic acid-F"
+Prdm1-T,5-Nitroso-8-quinolinol-F
+Prdm1-T,Chlorobenzilate-F
+Prdm1-T,"l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester-F"
+Prdm1-T,Sulindac-F
+Scarf1-T,"1-Heptanol, 2-propyl--F"
+Scarf1-T,"3,3-Dimethylacrylic acid-F"
+Scarf1-T,Tyr-Val-F
+Bend3-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Bend3-T,6-Methyluracil-F
+Bend3-T,Benzeneacetic acid-F
+Bend3-T,L-Glutamic acid-F
+Bend3-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Bend3-T,L-Threonine-F
+Bend3-T,Sulindac-F
+Bend3-T,Tyr-Val-F
+Atg9b-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Atg9b-T,"2-Butene-1,4-diol-F"
+Atg9b-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Atg9b-T,L-Threonine-F
+Atg9b-T,Trimethylolpropane-F
+Atg9b-T,Tyr-Val-F
+Kcnh2-T,"3,4,5-Trimethoxyamphetamine-F"
+Kcnh2-T,"1-Heptanol, 2-propyl--F"
+Kcnh2-T,"4,5-Dihydro-1H-pyrazole-F"
+Kcnh2-T,Benzeneacetic acid-F
+Kcnh2-T,L-Valine-F
+Kcnh2-T,Synephrine-F
+Kcnh2-T,Tyr-Val-F
+Sesn1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Sesn1-T,"1-Heptanol, 2-propyl--F"
+Sesn1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Sesn1-T,Benzeneacetic acid-F
+Sesn1-T,L-Ornithine-F
+Sesn1-T,Octadecanoic acid-F
+Fbxo25-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Fbxo25-T,"2-Butene-1,4-diol-F"
+Mllt6-T,"3,3-Dimethylacrylic acid-F"
+Mllt6-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Mllt6-T,"4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol-F"
+Mllt6-T,Chlorobenzilate-F
+Mllt6-T,Sulindac-F
+Spsb2-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Spsb2-T,5-Nitroso-8-quinolinol-F
+Spsb2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Spsb2-T,L-Norleucine-F
+Spsb2-T,Sulindac-F
+Dock10-T,"1-Heptanol, 2-propyl--F"
+Dock10-T,1-Octadecanol-F
+Dock10-T,5-Nitroso-8-quinolinol-F
+Dock10-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Dock10-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Dock10-T,L-Threonine-F
+Atp5mf-T,5-Nitroso-8-quinolinol-F
+Atp5mf-T,6-Nitroveratryl alcohol-F
+Atp5mf-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Atp5mf-T,Chlorobenzilate-F
+Atp5mf-T,N-Ethylamphetamine-F
+Atp5mf-T,Tyr-Val-F
+Kdm3b-T,Chlorobenzilate-F
+Kdm3b-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Kdm3b-T,L-Threonine-F
+Ascc3-T,Sulindac-F
+Sema6c-T,"2-Butene-1,4-diol-F"
+Sema6c-T,"4,5-Dihydro-1H-pyrazole-F"
+Sema6c-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Sema6c-T,"Naringenin 4',7-dimethylether-F"
+Sema6c-T,Sulindac-F
+Sema6c-T,Trimethylolpropane-F
+Sema6c-T,Tyr-Val-F
+Ctu1-T,"2-Butene-1,4-diol-F"
+Ctu1-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Ctu1-T,5-Nitroso-8-quinolinol-F
+Ctu1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Ctu1-T,6-Nitroveratryl alcohol-F
+Ctu1-T,Benzoic Acid-F
+Ctu1-T,Chlorobenzilate-F
+Ctu1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Ctu1-T,Sulindac-F
+Rsad1-T,5-Nitroso-8-quinolinol-F
+Rsad1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Rsad1-T,6-Nitroveratryl alcohol-F
+Rsad1-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Rsad1-T,Chlorobenzilate-F
+Rsad1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Rsad1-T,L-Threonine-F
+Rsad1-T,Sulindac-F
+Zc3hc1-T,"(9H-fluoren-9-yl)methanol, O-methoxycarbonyl--F"
+Zc3hc1-T,"1-Heptanol, 2-propyl--F"
+Zc3hc1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Zc3hc1-T,"4,5-Dihydro-1H-pyrazole-F"
+Zc3hc1-T,alpha-Hydroxyisobutyric acid-F
+Zc3hc1-T,Ethanolamine-F
+Zc3hc1-T,Luciferin-F
+Zc3hc1-T,Octanoic acid-F
+Zc3hc1-T,Sulindac-F
+Ndst2-T,"1-Heptanol, 2-propyl--F"
+Ndst2-T,2-Cyanobenzaldehyde-F
+Ndst2-T,"2-Methylcyclohexanol, (Z)-F"
+Ndst2-T,"4,5-Dihydro-1H-pyrazole-F"
+Ndst2-T,alpha-Hydroxyisobutyric acid-F
+Ndst2-T,Benzeneacetic acid-F
+Ndst2-T,L-Glutamic acid-F
+Ndst2-T,Luciferin-F
+Ndst2-T,Octanoic acid-F
+Ndst2-T,Sulindac-F
+Ndst2-T,Tyr-Val-F
+Minar1-T,"1-Heptanol, 2-propyl--F"
+Minar1-T,"2-Butene-1,4-diol-F"
+Minar1-T,2-Cyanobenzaldehyde-F
+Minar1-T,5-Nitroso-8-quinolinol-F
+Minar1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Minar1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Hlx-T,"1-Heptanol, 2-propyl--F"
+Hlx-T,2-Cyanobenzaldehyde-F
+Hlx-T,5-Nitroso-8-quinolinol-F
+Hlx-T,Benzeneacetic acid-F
+Hlx-T,Heptanoic acid-F
+Hlx-T,Sarcosine-F
+Hlx-T,Stearic acid-F
+Hlx-T,Tyr-Val-F
+Snx22-T,"1-Heptanol, 2-propyl--F"
+Snx22-T,Chlorobenzilate-F
+Snx22-T,L-Threonine-F
+Snx22-T,Sulindac-F
+Tnrc18-T,"2-Butene-1,4-diol-F"
+Tnrc18-T,Benzeneacetic acid-F
+Tnrc18-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Tnrc18-T,Sulindac-F
+Flicr-T,Benzeneacetic acid-F
+Flicr-T,Phthalazin-1-one-F
+Flicr-T,Tyr-Val-F
+Myo9a-T,"2-Butene-1,4-diol-F"
+Myo9a-T,5-Nitroso-8-quinolinol-F
+Myo9a-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Myo9a-T,Benzeneacetic acid-F
+Myo9a-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Myo9a-T,"Naringenin 4',7-dimethylether-F"
+Myo9a-T,Sulindac-F
+Myo9a-T,Trimethylolpropane-F
+Rxrb-T,"1-Heptanol, 2-propyl--F"
+Rxrb-T,2-Cyanobenzaldehyde-F
+Rxrb-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Rxrb-T,"4,5-Dihydro-1H-pyrazole-F"
+Rxrb-T,Chlorobenzilate-F
+Rxrb-T,Nonanoic acid-F
+Lmbrd2-T,"1-Heptanol, 2-propyl--F"
+Lmbrd2-T,5-Nitroso-8-quinolinol-F
+Lmbrd2-T,Benzeneacetic acid-F
+Lmbrd2-T,"Cyclohexanone, 3,3,5-trimethyl-F"
+Lmbrd2-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Plekhg5-T,"2,4,6-Cycloheptatrien-1-one-F"
+Plekhg5-T,Azelaic acid-F
+Plekhg5-T,Benzeneacetic acid-F
+Plekhg5-T,L-Serine-F
+Plekhg5-T,Octadecanoic acid-F
+Plekhg5-T,Octanoic acid-F
+Plekhg5-T,Sulindac-F
+Nhsl1-T,"2-Butene-1,4-diol-F"
+Nhsl1-T,5-Nitroso-8-quinolinol-F
+Nhsl1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Nhsl1-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Nhsl1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Nhsl1-T,L-Norleucine-F
+Epcip-T,"1-Heptanol, 2-propyl--F"
+Epcip-T,"2-Butene-1,4-diol-F"
+Epcip-T,5-Nitroso-8-quinolinol-F
+Epcip-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Epcip-T,6-Nitroveratryl alcohol-F
+Epcip-T,Benzoic Acid-F
+Epcip-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Epcip-T,L-Threonine-F
+Epcip-T,Sulindac-F
+Epcip-T,Trimethylolpropane-F
+2310057M21Rik-T,"1-Heptanol, 2-propyl--F"
+2310057M21Rik-T,2-Pyrrolidone-5-carboxylic acid-F
+2310057M21Rik-T,Diclofenac-F
+Zfp704-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Zfp704-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Zfp704-T,Benzeneacetic acid-F
+Zfp704-T,Chlorobenzilate-F
+Zfp704-T,Cholesterol-F
+Zfp704-T,L-Serine-F
+Zfp704-T,Octadecanoic acid-F
+Zfp704-T,Tyr-Val-F
+Ankib1-T,"2-Butene-1,4-diol-F"
+Ankib1-T,5-Nitroso-8-quinolinol-F
+Ankib1-T,Norephedrine-F
+Ankib1-T,Octadecanoic acid-F
+Ankib1-T,Sulindac-F
+Wdr47-T,"2-Butene-1,4-diol-F"
+Wdr47-T,"3,3-Dimethylacrylic acid-F"
+Wdr47-T,"4,5-Dihydro-1H-pyrazole-F"
+Wdr47-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Wdr47-T,Sulindac-F
+Wdr47-T,Trimethylolpropane-F
+Wdr47-T,Tyr-Val-F
+Cfap69-T,"1-Heptanol, 2-propyl--F"
+Cfap69-T,"3,3-Dimethylacrylic acid-F"
+Cfap69-T,3-Methyl-3-buten-1-ol-F
+Cfap69-T,"4,5-Dihydro-1H-pyrazole-F"
+Cfap69-T,Octadecanoic acid-F
+Cfap69-T,Sulindac-F
+Ltbp4-T,"1-Heptanol, 2-propyl--F"
+Ltbp4-T,2-Cyanobenzaldehyde-F
+Ltbp4-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Ltbp4-T,Benzeneacetic acid-F
+Ltbp4-T,Chlorobenzilate-F
+Ltbp4-T,Cholesterol-F
+Manea-T,"2-Butenoic acid, 3-[(tert-butyldimethylsilyl)oxy]-F"
+Manea-T,"3,3-Dimethylacrylic acid-F"
+Manea-T,"4,5-Dihydro-1H-pyrazole-F"
+Manea-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Manea-T,Adipoyl-L-carnitine-F
+Manea-T,Chlorobenzilate-F
+Manea-T,Luciferin-F
+Manea-T,Salsoline-F
+Manea-T,Tyr-Val-F
+Abhd11-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Abhd11-T,"2-Butene-1,4-diol-F"
+Abhd11-T,"3,3-Dimethylacrylic acid-F"
+Abhd11-T,L-Threonine-F
+Abhd11-T,Lupinine-F
+Abhd11-T,Sulindac-F
+Abhd11-T,Tyr-Val-F
+Oaz2-T,"1-Heptanol, 2-propyl--F"
+Oaz2-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Oaz2-T,"4,5-Dihydro-1H-pyrazole-F"
+Oaz2-T,5-Nitroso-8-quinolinol-F
+Oaz2-T,6-Nitroveratryl alcohol-F
+Oaz2-T,Chlorobenzilate-F
+Oaz2-T,Nonanoic acid-F
+Oaz2-T,Salsoline-F
+Oaz2-T,Tyr-Val-F
+Rad54l2-T,"2-Butene-1,4-diol-F"
+Rad54l2-T,Benzeneacetic acid-F
+Rad54l2-T,Luciferin-F
+Rad54l2-T,Sulindac-F
+Rad54l2-T,Tyr-Val-F
+Appl1-T,"4,5-Dihydro-1H-pyrazole-F"
+Appl1-T,Benzeneacetic acid-F
+Appl1-T,Chlorobenzilate-F
+Appl1-T,"l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester-F"
+Appl1-T,Sulindac-F
+Appl1-T,Tyr-Val-F
+Arhgef1-T,"3,4,5-Trimethoxyamphetamine-F"
+Arhgef1-T,1-Octadecanol-F
+Arhgef1-T,Benzeneacetic acid-F
+Arhgef1-T,DL-Glyceraldehyde-F
+Arhgef1-T,"L-Histidine, N,1-bis(tert-butyldimethylsilyl)--F"
+Arhgef1-T,Lupinine-F
+Arhgef1-T,L-Valine-F
+Arhgef1-T,Prostaglandin-F
+Arhgef1-T,Tyr-Val-F
+Cables1-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Cables1-T,Chlorobenzilate-F
+Cables1-T,Sulindac-F
+Wwp1-T,"1-Heptanol, 2-propyl--F"
+Wwp1-T,2-Cyanobenzaldehyde-F
+Wwp1-T,5-Nitroso-8-quinolinol-F
+Wwp1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Wwp1-T,Benzeneacetic acid-F
+Wwp1-T,N-Acetyl-L-alanine-F
+Wwp1-T,Tyr-Val-F
+Osgin2-T,"1-Heptanol, 2-propyl--F"
+Osgin2-T,2-Propyl-1-pentanol-F
+Osgin2-T,"3,3-Dimethylacrylic acid-F"
+Osgin2-T,"4,5-Dihydro-1H-pyrazole-F"
+Osgin2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Osgin2-T,Benzeneacetic acid-F
+Osgin2-T,L-Threonine-F
+Osgin2-T,m-Toluic acid-F
+Osgin2-T,Sulindac-F
+Phf8-T,"1-Heptanol, 2-propyl--F"
+Phf8-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Phf8-T,"4,5-Dihydro-1H-pyrazole-F"
+Phf8-T,5-Nitroso-8-quinolinol-F
+Phf8-T,6-Nitroveratryl alcohol-F
+Phf8-T,Chlorobenzilate-F
+Phf8-T,Sulindac-F
+Myzap-T,"Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester-F"
+Myzap-T,L-Serine-F
+Myzap-T,Octadecanoic acid-F
+Myzap-T,Phthalazin-1-one-F
+Myzap-T,Sulindac-F
+Hspb8-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Hspb8-T,"1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans--F"
+Hspb8-T,"6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)-F"
+Hspb8-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Hspb8-T,Benzeneacetic acid-F
+Hspb8-T,Chlorobenzilate-F
+Hspb8-T,Sulindac-F
+Hspb8-T,Tetrahydro-solasodine triacetate-F
+Tmtc4-T,"1-Heptanol, 2-propyl--F"
+Tmtc4-T,2-Ethylhexanoic acid-F
+Tmtc4-T,5-Nitroso-8-quinolinol-F
+Tmtc4-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Tmtc4-T,Chlorobenzilate-F
+Tmtc4-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Tmtc4-T,Pentanoic acid-F
+Tmtc4-T,Tyr-Val-F
+Inava-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Inava-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Inava-T,Octadecanoic acid-F
+Kctd12b-T,"1-Heptanol, 2-propyl--F"
+Kctd12b-T,"2(5H)-Furanone, 4-(hydroxymethyl)-F"
+Kctd12b-T,2-Cyanobenzaldehyde-F
+Kctd12b-T,2-Ethyl-1-butanol-F
+Kctd12b-T,"3,3-Dimethylacrylic acid-F"
+Kctd12b-T,"4,5-Dihydro-1H-pyrazole-F"
+Kctd12b-T,5-Azacytosine-F
+Kctd12b-T,5-Nitroso-8-quinolinol-F
+Kctd12b-T,Adipoyl-L-carnitine-F
+Kctd12b-T,"D-Streptamine, O-6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4)-O-(3-deoxy-4-C-methyl-3-(methylamino)-beta-L-arabinopyranosyl-(1-6))-2-deoxy--F"
+Kctd12b-T,Glycerol-F
+Kctd12b-T,Heptanoic acid-F
+Kctd12b-T,L-Ornithine-F
+Kctd12b-T,Octadecanoic acid-F
+Kctd12b-T,Sarcosine-F
+Kctd12b-T,Stearic acid-F
+Klf8-T,"3,3-Dimethylacrylic acid-F"
+Klf8-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Klf8-T,5-Nitroso-8-quinolinol-F
+Klf8-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Klf8-T,Chlorobenzilate-F
+Klf8-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Prima1-T,"2-Butene-1,4-diol-F"
+Prima1-T,Norephedrine-F
+Prima1-T,Octadecanoic acid-F
+Prima1-T,Phthalazin-1-one-F
+Fcho2-T,5-Nitroso-8-quinolinol-F
+Fcho2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Fcho2-T,Chlorobenzilate-F
+Fcho2-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Fcho2-T,L-Threonine-F
+Fcho2-T,Sulindac-F
+Fcho2-T,Tyr-Val-F
+Pramel1-T,5-Nitroso-8-quinolinol-F
+Pramel1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Rpl37-T,Chlorobenzilate-F
+Rpl37-T,L-Glutamic acid-F
+Rpl37-T,Nonanoic acid-F
+Kank3-T,"3,4,5-Trimethoxyamphetamine-F"
+Kank3-T,"1-Heptanol, 2-propyl--F"
+Kank3-T,2-Ethyl-1-butanol-F
+Kank3-T,L-Valine-F
+Kank3-T,Tyr-Val-F
+Grk3-T,"2-Butene-1,4-diol-F"
+Grk3-T,5-Nitroso-8-quinolinol-F
+Grk3-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Grk3-T,Benzeneacetic acid-F
+Grk3-T,Sulindac-F
+Grk3-T,Tyr-Val-F
+Ehbp1-T,"2-Butene-1,4-diol-F"
+Ehbp1-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Ehbp1-T,5-Nitroso-8-quinolinol-F
+Ehbp1-T,Benzeneacetic acid-F
+Ehbp1-T,Citramalic acid-F
+Ehbp1-T,Guanosine-F
+Ehbp1-T,L-Glutamic acid-F
+Ehbp1-T,Trimethylolpropane-F
+Ehbp1-T,Tyr-Val-F
+Rbm7-T,"1-Heptanol, 2-propyl--F"
+Rbm7-T,"3,3-Dimethylacrylic acid-F"
+Rbm7-T,"4,5-Dihydro-1H-pyrazole-F"
+Rbm7-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Rbm7-T,Benzeneacetic acid-F
+Rbm7-T,L-Threonine-F
+Rbm7-T,m-Toluic acid-F
+Zmym6-T,5-Nitroso-8-quinolinol-F
+Zmym6-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Zmym6-T,Benzeneacetic acid-F
+Zmym6-T,L-Threonine-F
+Zmym6-T,"Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl--F"
+Zmym6-T,Sulindac-F
+Zmym6-T,Tyr-Val-F
+Dctpp1-T,5-Nitroso-8-quinolinol-F
+Dctpp1-T,6-Nitroveratryl alcohol-F
+Dctpp1-T,Chlorobenzilate-F
+Dctpp1-T,Sarcosine-F
+Prdm10-T,"1-Heptanol, 2-propyl--F"
+Prdm10-T,"2-Butene-1,4-diol-F"
+Prdm10-T,Chlorobenzilate-F
+Prdm10-T,Nonanoic acid-F
+Prdm10-T,Phytanic acid-F
+Prdm10-T,Sulindac-F
+Dmtf1-T,"1-Heptanol, 2-propyl--F"
+Dmtf1-T,"2-Butene-1,4-diol-F"
+Dmtf1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Dmtf1-T,"3,3-Dimethylacrylic acid-F"
+Dmtf1-T,"4,5-Dihydro-1H-pyrazole-F"
+Dmtf1-T,5-Nitroso-8-quinolinol-F
+Dmtf1-T,Adipoyl-L-carnitine-F
+Dmtf1-T,L-Ornithine-F
+Dmtf1-T,Octadecanoic acid-F
+Dmtf1-T,Octanoic acid-F
+Fam199x-T,"3,3-Dimethylacrylic acid-F"
+Fam199x-T,"4,5-Dihydro-1H-pyrazole-F"
+Fam199x-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Immp1l-T,"1-Heptanol, 2-propyl--F"
+Immp1l-T,"3,3-Dimethylacrylic acid-F"
+Immp1l-T,"4,5-Dihydro-1H-pyrazole-F"
+Immp1l-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Immp1l-T,Sulindac-F
+Krtcap2-T,5-Nitroso-8-quinolinol-F
+Krtcap2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Krtcap2-T,6-Nitroveratryl alcohol-F
+Krtcap2-T,Chlorobenzilate-F
+Krtcap2-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Krtcap2-T,Sulindac-F
+Krtcap2-T,Tyr-Val-F
+Tmem82-T,"1-Heptanol, 2-propyl--F"
+Tmem82-T,5-Nitroso-8-quinolinol-F
+Tmem82-T,6-Nitroveratryl alcohol-F
+Tmem82-T,Benzoic Acid-F
+Tmem82-T,L-Threonine-F
+Pigv-T,"2-Butene-1,4-diol-F"
+Pigv-T,Benzeneacetic acid-F
+Pigv-T,Cyclobutylamine-F
+Pigv-T,"Cyclohexanone, 3,3,5-trimethyl-F"
+Pigv-T,Cyclooctylamine-F
+Pigv-T,Diclofenac-F
+Pigv-T,"Naringenin 4',7-dimethylether-F"
+Pigv-T,Sulindac-F
+Pigv-T,Trimethylolpropane-F
+Smco3-T,"2,5-Dimethoxybenzonitrile-F"
+Smco3-T,"2-Butene-1,4-diol-F"
+Smco3-T,Benzeneacetic acid-F
+Smco3-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Pcdhb19-T,"1-Heptanol, 2-propyl--F"
+Pcdhb19-T,2-Cyanobenzaldehyde-F
+Pcdhb19-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Pcdhb19-T,alpha-Hydroxyisobutyric acid-F
+Pcdhb19-T,Benzeneacetic acid-F
+Pcdhb19-T,Octanoic acid-F
+Pcdhb19-T,Sulindac-F
+Hexim2-T,5-Nitroso-8-quinolinol-F
+Hexim2-T,Diethylamine-F
+Hexim2-T,Octadecanoic acid-F
+Hexim2-T,Sulindac-F
+Hexim2-T,Tyr-Val-F
+Zbtb37-T,"2-Butene-1,4-diol-F"
+Zbtb37-T,5-Nitroso-8-quinolinol-F
+Zbtb37-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Zbtb37-T,N-Isobutyrylglycine-F
+Zbtb37-T,Octadecanoic acid-F
+Zbtb37-T,Sulindac-F
+Zbtb37-T,Tyr-Val-F
+Hscb-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Hscb-T,"1-Heptanol, 2-propyl--F"
+Hscb-T,"2-Butene-1,4-diol-F"
+Hscb-T,"3,3-Dimethylacrylic acid-F"
+Hscb-T,5-Nitroso-8-quinolinol-F
+Hscb-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Hscb-T,6-Nitroveratryl alcohol-F
+Hscb-T,Chlorobenzilate-F
+Hscb-T,N-Ethyldiethanolamine-F
+Hscb-T,Trimethylolpropane-F
+Adamts3-T,"3,3-Dimethylacrylic acid-F"
+Adamts3-T,Chlorobenzilate-F
+Adamts3-T,Sulindac-F
+Mgat5b-T,"1-Heptanol, 2-propyl--F"
+Mgat5b-T,1-Octadecanol-F
+Mgat5b-T,5-Nitroso-8-quinolinol-F
+Mgat5b-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Mgat5b-T,L-Threonine-F
+Mgat5b-T,Octadecanoic acid-F
+Mgat5b-T,Sulindac-F
+Zfp469-T,"1-Heptanol, 2-propyl--F"
+Zfp469-T,"2-Butene-1,4-diol-F"
+Zfp469-T,"3,3-Dimethylacrylic acid-F"
+Zfp469-T,5-Nitroso-8-quinolinol-F
+Zfp469-T,Adipoyl-L-carnitine-F
+Zfp469-T,Chlorobenzilate-F
+Zfp469-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Or52b2-T,"1-Heptanol, 2-propyl--F"
+Or52b2-T,"2-Butene-1,4-diol-F"
+Or52b2-T,2-Cyanobenzaldehyde-F
+Or52b2-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Or52b2-T,Benzeneacetic acid-F
+Or52b2-T,Luciferin-F
+Or52b2-T,Octanoic acid-F
+Or52b2-T,Tyr-Val-F
+Bclaf3-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Bclaf3-T,L-Threonine-F
+Bclaf3-T,Prostaglandin-F
+Bclaf3-T,Tyr-Val-F
+Kcnj4-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Kcnj4-T,"4,5-Dihydro-1H-pyrazole-F"
+Kcnj4-T,5-Nitroso-8-quinolinol-F
+Kcnj4-T,6-Nitroveratryl alcohol-F
+Kcnj4-T,Ethanolamine-F
+Kcnj4-T,Luciferin-F
+Kcnj4-T,Octanoic acid-F
+Trp53i13-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Trp53i13-T,"1-Heptanol, 2-propyl--F"
+Trp53i13-T,"2-Butene-1,4-diol-F"
+Trp53i13-T,2-Cyanobenzaldehyde-F
+Trp53i13-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Trp53i13-T,Benzeneacetic acid-F
+Trp53i13-T,L-Serine-F
+Trp53i13-T,Luciferin-F
+Trp53i13-T,Octadecanoic acid-F
+Trp53i13-T,Octanoic acid-F
+Trp53i13-T,Tyr-Val-F
+Ackr3-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Ackr3-T,1-Octadecanol-F
+Ackr3-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Ackr3-T,L-Threonine-F
+Ackr3-T,Norephedrine-F
+Tceal3-T,"1-Heptanol, 2-propyl--F"
+Tceal3-T,Chlorobenzilate-F
+Tceal3-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Tceal3-T,L-Threonine-F
+Setd2-T,"2-Butene-1,4-diol-F"
+Setd2-T,Benzeneacetic acid-F
+Setd2-T,Guanosine-F
+D630023F18Rik-T,"1-Heptanol, 2-propyl--F"
+D630023F18Rik-T,"3,3-Dimethylacrylic acid-F"
+D630023F18Rik-T,3-Methyl-3-buten-1-ol-F
+D630023F18Rik-T,"4,5-Dihydro-1H-pyrazole-F"
+D630023F18Rik-T,Benzeneacetic acid-F
+D630023F18Rik-T,L-Threonine-F
+D630023F18Rik-T,m-Toluic acid-F
+D630023F18Rik-T,Sulindac-F
+H1f10-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+H1f10-T,"2-Butene-1,4-diol-F"
+H1f10-T,Tyr-Val-F
+Fzd5-T,Phthalazin-1-one-F
+Tubg2-T,"1-Heptanol, 2-propyl--F"
+Tubg2-T,5-Nitroso-8-quinolinol-F
+Tubg2-T,6-Nitroveratryl alcohol-F
+Tubg2-T,Chlorobenzilate-F
+Tubg2-T,L-Glutamic acid-F
+Tubg2-T,Sulindac-F
+Tubg2-T,Tyr-Val-F
+Tmem232-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Tmem232-T,"1-Heptanol, 2-propyl--F"
+Tmem232-T,"3,3-Dimethylacrylic acid-F"
+Tmem232-T,Chlorobenzilate-F
+Tmem232-T,L-Threonine-F
+Tmem232-T,Octadecanoic acid-F
+Tmem232-T,Sulindac-F
+Vcpip1-T,"2-Butene-1,4-diol-F"
+Vcpip1-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Vcpip1-T,5-Nitroso-8-quinolinol-F
+Vcpip1-T,Benzeneacetic acid-F
+Vcpip1-T,Cyclobutylamine-F
+Vcpip1-T,"Cyclohexanone, 3,3,5-trimethyl-F"
+Vcpip1-T,Guanosine-F
+Vcpip1-T,L-Glutamic acid-F
+Vcpip1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Vcpip1-T,Trimethylolpropane-F
+Ccdc149-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Ccdc149-T,"1-Heptanol, 2-propyl--F"
+Ccdc149-T,"3,3-Dimethylacrylic acid-F"
+Ccdc149-T,Chlorobenzilate-F
+Ccdc149-T,L-Threonine-F
+Ccdc149-T,Niacinamide-F
+Ccdc149-T,Sulindac-F
+Tmem104-T,"1-Heptanol, 2-propyl--F"
+Tmem104-T,"3,3-Dimethylacrylic acid-F"
+Tmem104-T,Aconitic acid-F
+Tmem104-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Tmem104-T,L-Threonine-F
+Tmem104-T,Sulindac-F
+Tmem104-T,Tyr-Val-F
+Eid2-T,"1-Heptanol, 2-propyl--F"
+Eid2-T,2-Ethyl-1-butanol-F
+Eid2-T,"4,5-Dihydro-1H-pyrazole-F"
+Eid2-T,Chlorobenzilate-F
+Eid2-T,L-Threonine-F
+Patl1-T,"2-Butene-1,4-diol-F"
+Patl1-T,"3,3-Dimethylacrylic acid-F"
+Patl1-T,Chlorobenzilate-F
+Patl1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Patl1-T,Sulindac-F
+Patl1-T,Supraene-F
+Tmem229b-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Tmem229b-T,"4,5-Dihydro-1H-pyrazole-F"
+Tmem229b-T,5-Nitroso-8-quinolinol-F
+Tmem229b-T,6-Nitroveratryl alcohol-F
+Tmem229b-T,Chlorobenzilate-F
+Tmem229b-T,L-Threonine-F
+Vps13a-T,"2-Butene-1,4-diol-F"
+Vps13a-T,5-Nitroso-8-quinolinol-F
+Vps13a-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Vps13a-T,Benzeneacetic acid-F
+Vps13a-T,Guanosine-F
+Nxph3-T,"1-Heptanol, 2-propyl--F"
+Nxph3-T,"2-Butene-1,4-diol-F"
+Nxph3-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Nxph3-T,"4,5-Dihydro-1H-pyrazole-F"
+Nxph3-T,Ethanolamine-F
+Nxph3-T,"Naringenin 4',7-dimethylether-F"
+Nxph3-T,Octanoic acid-F
+Nxph3-T,Sulindac-F
+Nxph3-T,Tyr-Val-F
+Myct1-T,"1-Heptanol, 2-propyl--F"
+Myct1-T,"2-Butene-1,4-diol-F"
+Myct1-T,2-Cyanobenzaldehyde-F
+Myct1-T,"4,5-Dihydro-1H-pyrazole-F"
+Myct1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Myct1-T,Benzeneacetic acid-F
+Myct1-T,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester-F"
+Myct1-T,Trimethylolpropane-F
+Myct1-T,Tyr-Val-F
+Wdr27-T,"1-Heptanol, 2-propyl--F"
+Wdr27-T,2-Cyanobenzaldehyde-F
+Wdr27-T,"3,3-Dimethylacrylic acid-F"
+Wdr27-T,5-Nitroso-8-quinolinol-F
+Wdr27-T,Benzeneacetic acid-F
+Wdr27-T,Heptanoic acid-F
+Wdr27-T,Isopropylamine-F
+Wdr27-T,N-Acetyl-L-alanine-F
+Wdr27-T,Stearic acid-F
+Wdr27-T,Tyr-Val-F
+Mipol1-T,"1-Heptanol, 2-propyl--F"
+Mipol1-T,"2-Butene-1,4-diol-F"
+Mipol1-T,"3,3-Dimethylacrylic acid-F"
+Mipol1-T,5-Nitroso-8-quinolinol-F
+Mipol1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Mipol1-T,Benzeneacetic acid-F
+Mipol1-T,L-Threonine-F
+Mipol1-T,Sulindac-F
+Mipol1-T,Trimethylolpropane-F
+Mipol1-T,Tyr-Val-F
+Cd24a-T,"2-Butene-1,4-diol-F"
+Cd24a-T,"3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-F"
+Cd24a-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Cd24a-T,"4,5-Dihydro-1H-pyrazole-F"
+Cd24a-T,L-Glutamic acid-F
+Cd24a-T,N-Acetylaminoethanol-F
+Cd24a-T,Picolinic acid-F
+Cd24a-T,Tyr-Val-F
+Tet1-T,"2-Butene-1,4-diol-F"
+Tet1-T,"3,3-Dimethylacrylic acid-F"
+Tet1-T,5-Nitroso-8-quinolinol-F
+Tet1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Tet1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Tet1-T,L-Norleucine-F
+Emc6-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Emc6-T,"1-Heptanol, 2-propyl--F"
+Emc6-T,"2,6-di-tert-Butyl-4-(dimethylaminomethyl)phenol-F"
+Emc6-T,5-Nitroso-8-quinolinol-F
+Emc6-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Emc6-T,Biphenyl-F
+Emc6-T,Chlorobenzilate-F
+Emc6-T,Diclofenac-F
+Emc6-T,Octadecanoic acid-F
+Zbtb44-T,2-Buten-1-ol-F
+Zbtb44-T,"2-Butene-1,4-diol-F"
+Zbtb44-T,5-Nitroso-8-quinolinol-F
+Zbtb44-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Zbtb44-T,Sulindac-F
+Cmya5-T,"1-Heptanol, 2-propyl--F"
+Cmya5-T,"2-Butene-1,4-diol-F"
+Cmya5-T,2-Cyanobenzaldehyde-F
+Cmya5-T,"4,5-Dihydro-1H-pyrazole-F"
+Cmya5-T,L-Glutamic acid-F
+Cmya5-T,L-Threonine-F
+Cmya5-T,Trimethylolpropane-F
+Gphn-T,"1-Heptanol, 2-propyl--F"
+Gphn-T,Chlorobenzilate-F
+Gphn-T,L-Glutamic acid-F
+Gphn-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Mafa-T,1-Octadecanol-F
+Mafa-T,"3,3-Dimethylacrylic acid-F"
+Mafa-T,"4,5-Dihydro-1H-pyrazole-F"
+Mafa-T,Adipoyl-L-carnitine-F
+Mafa-T,Lupinine-F
+Mafa-T,Octadecanoic acid-F
+Yipf6-T,"2-Butene-1,4-diol-F"
+Yipf6-T,"4,5-Dihydro-1H-pyrazole-F"
+Yipf6-T,L-Ornithine-F
+Yipf6-T,L-Threonine-F
+Yipf6-T,Octadecanoic acid-F
+Yipf6-T,Sulindac-F
+Yipf6-T,Trimethylolpropane-F
+Slc38a9-T,"2-Butene-1,4-diol-F"
+Slc38a9-T,"4,5-Dihydro-1H-pyrazole-F"
+Slc38a9-T,Benzeneacetic acid-F
+Slc38a9-T,L-Glutamic acid-F
+Slc38a9-T,"L-Histidine, N,1-bis(tert-butyldimethylsilyl)--F"
+Slc38a9-T,Lupinine-F
+Slc38a9-T,Tyr-Val-F
+Ankrd16-T,"2-Butene-1,4-diol-F"
+Ankrd16-T,"3,3-Dimethylacrylic acid-F"
+Ankrd16-T,Benzeneacetic acid-F
+Ankrd16-T,Chlorobenzilate-F
+Ankrd16-T,Luciferin-F
+Ankrd16-T,Tyr-Val-F
+Kmt2d-T,"2-Butene-1,4-diol-F"
+Kmt2d-T,"3,3-Dimethylacrylic acid-F"
+Kmt2d-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Kmt2d-T,Chlorobenzilate-F
+Kmt2d-T,Luciferin-F
+Kmt2d-T,Tyr-Val-F
+Zfp738-T,"2-Butene-1,4-diol-F"
+Zfp738-T,"3,3-Dimethylacrylic acid-F"
+Zfp738-T,"4,5-Dihydro-1H-pyrazole-F"
+Zfp738-T,Benzeneacetic acid-F
+Zfp738-T,Sulindac-F
+Zfp738-T,Tyr-Val-F
+Phldb1-T,"3,3-Dimethylacrylic acid-F"
+Phldb1-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Phldb1-T,Chlorobenzilate-F
+Phldb1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Phldb1-T,Luciferin-F
+Phldb1-T,Tyr-Val-F
+Ccdc169-T,"3,3-Dimethylacrylic acid-F"
+Ccdc169-T,5-Nitroso-8-quinolinol-F
+Ccdc169-T,L-Threonine-F
+Ccdc169-T,Sulindac-F
+Zfp689-T,"2-Butene-1,4-diol-F"
+Zfp689-T,"3,3-Dimethylacrylic acid-F"
+Zfp689-T,"4,5-Dihydro-1H-pyrazole-F"
+Zfp689-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Frmd3-T,"3,3-Dimethylacrylic acid-F"
+Frmd3-T,"4,5-Dihydro-1H-pyrazole-F"
+Frmd3-T,5-Nitroso-8-quinolinol-F
+Frmd3-T,Benzeneacetic acid-F
+Frmd3-T,Chlorobenzilate-F
+Frmd3-T,L-Threonine-F
+Frmd3-T,Sulindac-F
+Frmd3-T,Tyr-Val-F
+Gm8186-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Gm8186-T,"2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl)-F"
+Gm8186-T,"3,3-Dimethylacrylic acid-F"
+Gm8186-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Gm8186-T,Benzeneacetic acid-F
+Gm8186-T,L-Glutamic acid-F
+Gm8186-T,Tyr-Val-F
+Myef2l-T,5-Nitroso-8-quinolinol-F
+Myef2l-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Myef2l-T,L-Norleucine-F
+Myef2l-T,L-Serine-F
+Myef2l-T,Octadecanoic acid-F
+Myef2l-T,Sulindac-F
+Polr1a-T,Diclofenac-F
+Polr1a-T,Octadecanoic acid-F
+Polr1a-T,Sulindac-F
+Polr1a-T,Tyr-Val-F
+Zbtb45-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Zbtb45-T,"1-Heptanol, 2-propyl--F"
+Zbtb45-T,"2-Butene-1,4-diol-F"
+Zbtb45-T,5-Nitroso-8-quinolinol-F
+Zbtb45-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Zbtb45-T,Sulindac-F
+Zbtb45-T,Tyr-Val-F
+Lpar4-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Lpar4-T,"2-Butene-1,4-diol-F"
+Lpar4-T,"3,3-Dimethylacrylic acid-F"
+Lpar4-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Lpar4-T,Benzeneacetic acid-F
+Lpar4-T,Tyr-Val-F
+Mchr1-T,"1-Heptanol, 2-propyl--F"
+Mchr1-T,2-Cyanobenzaldehyde-F
+Mchr1-T,2-Ethyl-1-butanol-F
+Mchr1-T,"3,3-Dimethylacrylic acid-F"
+Mchr1-T,"4,5-Dihydro-1H-pyrazole-F"
+Mchr1-T,5-Nitroso-8-quinolinol-F
+Mchr1-T,L-Threonine-F
+Mchr1-T,Luciferin-F
+Mchr1-T,Sarcosine-F
+Nudt6-T,"3,4,5-Trimethoxyamphetamine-F"
+Nudt6-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Nudt6-T,"1-Heptanol, 2-propyl--F"
+Nudt6-T,1-Octadecanol-F
+Nudt6-T,L-Serine-F
+Nudt6-T,Octadecanoic acid-F
+Snip1-T,"1-Heptanol, 2-propyl--F"
+Snip1-T,"3,3-Dimethylacrylic acid-F"
+Snip1-T,Chlorobenzilate-F
+Snip1-T,Luciferin-F
+Snip1-T,N-Acetylaminoethanol-F
+Snip1-T,Sulindac-F
+Snip1-T,Tyr-Val-F
+Synpo2-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Synpo2-T,"2-Butene-1,4-diol-F"
+Synpo2-T,3-Aminobenzoic acid-F
+Synpo2-T,5-Nitroso-8-quinolinol-F
+Synpo2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Synpo2-T,Diclofenac-F
+Synpo2-T,Hypoxanthine-F
+Synpo2-T,L-Threonine-F
+Mir9-2hg-T,"1-Heptanol, 2-propyl--F"
+Mir9-2hg-T,1-Octadecanol-F
+Mir9-2hg-T,5-Nitroso-8-quinolinol-F
+Mir9-2hg-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Mir9-2hg-T,Benzeneacetic acid-F
+Mir9-2hg-T,L-Threonine-F
+Mir9-2hg-T,Norephedrine-F
+Mir9-2hg-T,Tyr-Val-F
+Ppp1r3g-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Ppp1r3g-T,"1-Heptanol, 2-propyl--F"
+Ppp1r3g-T,"3,3-Dimethylacrylic acid-F"
+Ppp1r3g-T,Benzenepropanoic acid-F
+Ppp1r3g-T,L-Threonine-F
+Ppp1r3g-T,Niacinamide-F
+Ppp1r3g-T,Sulindac-F
+Fbxl22-T,"2-Butene-1,4-diol-F"
+Fbxl22-T,5-Nitroso-8-quinolinol-F
+B230217C12Rik-T,5-Nitroso-8-quinolinol-F
+B230217C12Rik-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+B230217C12Rik-T,Adipoyl-L-carnitine-F
+B230217C12Rik-T,Benzeneacetic acid-F
+B230217C12Rik-T,N-Acetyl-L-alanine-F
+B230217C12Rik-T,Tyr-Val-F
+Zscan29-T,Benzeneacetic acid-F
+Zscan29-T,Luciferin-F
+Zscan29-T,Tyr-Val-F
+Serpinb1b-T,Phthalazin-1-one-F
+Gimap9-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Gimap9-T,"2-Butene-1,4-diol-F"
+Gimap9-T,"3,3-Dimethylacrylic acid-F"
+Gimap9-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Gimap9-T,Chlorobenzilate-F
+Zgrf1-T,"2-Butene-1,4-diol-F"
+Zgrf1-T,"3,3-Dimethylacrylic acid-F"
+Zgrf1-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Zgrf1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Zgrf1-T,Tyr-Val-F
+Pcmtd1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Pcmtd1-T,5-Nitroso-8-quinolinol-F
+Pcmtd1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Pcmtd1-T,L-Norleucine-F
+Pcmtd1-T,Sulindac-F
+Spryd4-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Spryd4-T,"2-Butene-1,4-diol-F"
+Spryd4-T,"2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl)-F"
+Spryd4-T,Sulindac-F
+Spryd4-T,Trimethylolpropane-F
+Spryd4-T,Tyr-Val-F
+Mettl5-T,"2-Butene-1,4-diol-F"
+Mettl5-T,"2-Butenoic acid, 3-[(tert-butyldimethylsilyl)oxy]-F"
+Mettl5-T,"3,3-Dimethylacrylic acid-F"
+Mettl5-T,"4,5-Dihydro-1H-pyrazole-F"
+Mettl5-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Mettl5-T,Adipoyl-L-carnitine-F
+Mettl5-T,Sarcosine-F
+Mettl5-T,Trimethylolpropane-F
+Mettl5-T,Tyr-Val-F
+Nlgn2-T,5-Nitroso-8-quinolinol-F
+Nlgn2-T,6-Nitroveratryl alcohol-F
+Nlgn2-T,Azelaic acid-F
+Nlgn2-T,Chlorobenzilate-F
+Nlgn2-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Nlgn2-T,Sulindac-F
+Tbc1d30-T,"1-Heptanol, 2-propyl--F"
+Tbc1d30-T,2-Ethyl-1-butanol-F
+Tbc1d30-T,"3,3-Dimethylacrylic acid-F"
+Tbc1d30-T,"4,5-Dihydro-1H-pyrazole-F"
+Tbc1d30-T,5-Nitroso-8-quinolinol-F
+Tbc1d30-T,Chlorobenzilate-F
+Tbc1d30-T,L-Threonine-F
+Cemip-T,"3,3-Dimethylacrylic acid-F"
+Cemip-T,5-Nitroso-8-quinolinol-F
+Cemip-T,Adipoyl-L-carnitine-F
+Cemip-T,Chlorobenzilate-F
+Cemip-T,L-Ornithine-F
+Cemip-T,Octadecanoic acid-F
+Senp7-T,"3,3-Dimethylacrylic acid-F"
+Senp7-T,5-Nitroso-8-quinolinol-F
+Senp7-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Senp7-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Senp7-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Senp7-T,L-Norleucine-F
+Gas1-T,"4,5-Dihydro-1H-pyrazole-F"
+Gas1-T,Chlorobenzilate-F
+Gas1-T,Nonanoic acid-F
+Gas1-T,Sulindac-F
+Jam2-T,"1-Heptanol, 2-propyl--F"
+Jam2-T,"2-Butene-1,4-diol-F"
+Jam2-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Jam2-T,"4,5-Dihydro-1H-pyrazole-F"
+Jam2-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Jam2-T,Benzeneacetic acid-F
+Jam2-T,Octadecanoic acid-F
+Jam2-T,Octanoic acid-F
+Jam2-T,Pipecolic acid-F
+Mterf1b-T,"1-Heptanol, 2-propyl--F"
+Mterf1b-T,1-Octadecanol-F
+Mterf1b-T,"2(5H)-Furanone, 4-(hydroxymethyl)-F"
+Mterf1b-T,"3,3-Dimethylacrylic acid-F"
+Mterf1b-T,"4,5-Dihydro-1H-pyrazole-F"
+Mterf1b-T,5-Azacytosine-F
+Mterf1b-T,5-Nitroso-8-quinolinol-F
+Mterf1b-T,Adipoyl-L-carnitine-F
+Mterf1b-T,Benzophenone-F
+Mterf1b-T,Glycerol-F
+Mterf1b-T,Heptanoic acid-F
+Mterf1b-T,Octadecanoic acid-F
+Tcf4-T,"4,5-Dihydro-1H-pyrazole-F"
+Tcf4-T,Chlorobenzilate-F
+Tcf4-T,"N,N-Dimethyl-2-aminoethanol-F"
+Tcf4-T,Sulindac-F
+UNKNOWN-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+UNKNOWN-T,5-Nitroso-8-quinolinol-F
+UNKNOWN-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+UNKNOWN-T,6-Nitroveratryl alcohol-F
+UNKNOWN-T,Chlorobenzilate-F
+UNKNOWN-T,"Erythrono-1,4-lactone-F"
+Mast1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Mast1-T,"2-Butene-1,4-diol-F"
+Mast1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Mast1-T,Trimethylolpropane-F
+Mast1-T,Tyr-Val-F
+UNKNOWN-T,"1-Heptanol, 2-propyl--F"
+UNKNOWN-T,2-Cyanobenzaldehyde-F
+UNKNOWN-T,Ethanolamine-F
+Fpgt-T,1-Octadecanol-F
+Fpgt-T,2-Furoic acid-F
+Fpgt-T,"3,3-Dimethylacrylic acid-F"
+Fpgt-T,"3,5-Dimethylphenol-F"
+Fpgt-T,"4,5-Dihydro-1H-pyrazole-F"
+Fpgt-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Fpgt-T,Adipoyl-L-carnitine-F
+Fpgt-T,Benzeneacetic acid-F
+Fpgt-T,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester-F"
+Fpgt-T,L-Threonine-F
+Fpgt-T,Tyr-Val-F
+Srcap-T,Benzeneacetic acid-F
+Srcap-T,"Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester-F"
+Srcap-T,L-Threonine-F
+Srcap-T,Prostaglandin-F
+Srcap-T,Tyr-Val-F
+Tprkb-T,"1-Heptanol, 2-propyl--F"
+Tprkb-T,"2-Butene-1,4-diol-F"
+Tprkb-T,2-Cyanobenzaldehyde-F
+Tprkb-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Tprkb-T,"4,5-Dihydro-1H-pyrazole-F"
+Tprkb-T,Diclofenac-F
+Tprkb-T,L-Threonine-F
+Tprkb-T,Trimethylolpropane-F
+Fra10ac1-T,"1-Heptanol, 2-propyl--F"
+Fra10ac1-T,"2,5-Dimethoxybenzonitrile-F"
+Fra10ac1-T,"2-Butene-1,4-diol-F"
+Fra10ac1-T,2-Cyanobenzaldehyde-F
+Fra10ac1-T,2-Methyl-3-pentanol-F
+Fra10ac1-T,5-Nitroso-8-quinolinol-F
+Fra10ac1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Fra10ac1-T,"Benzene, 1,4-dimethoxy-F"
+Fra10ac1-T,Benzeneacetic acid-F
+Dnajc8-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Dnajc8-T,"1-Heptanol, 2-propyl--F"
+Dnajc8-T,"2-Butene-1,4-diol-F"
+Dnajc8-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Dnajc8-T,Tyr-Val-F
+Gimap4-T,Phthalazin-1-one-F
+Tle5-T,Chlorobenzilate-F
+Tle5-T,Nonanoic acid-F
+Tle5-T,Phenol-F
+Tle5-T,Tyr-Val-F
+Zfp869-T,"1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans--F"
+Zfp869-T,2-Propyl-1-pentanol-F
+Zfp869-T,"4,5-Dihydro-1H-pyrazole-F"
+Zfp869-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Zfp869-T,Benzeneacetic acid-F
+Zfp869-T,Chlorobenzilate-F
+Zfp869-T,L-Threonine-F
+Zfp869-T,Sulindac-F
+Adam10-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Adam10-T,"2-Butene-1,4-diol-F"
+Adam10-T,"Naringenin 4',7-dimethylether-F"
+Adam10-T,Octadecanoic acid-F
+Adam10-T,Sulindac-F
+Adam10-T,Tromethamine-F
+Hmgb2-T,"4,5-Dihydro-1H-pyrazole-F"
+Hmgb2-T,Benzeneacetic acid-F
+Hmgb2-T,Chlorobenzilate-F
+Hmgb2-T,"Erythrono-1,4-lactone-F"
+Hmgb2-T,Luciferin-F
+Hmgb2-T,Sulindac-F
+Vmac-T,"2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl)-F"
+Vmac-T,"3,3-Dimethylacrylic acid-F"
+Vmac-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Vmac-T,"4,5-Dihydro-1H-pyrazole-F"
+Vmac-T,L-Glutamic acid-F
+Vmac-T,Tyr-Val-F
+Ep300-T,"4,5-Dihydro-1H-pyrazole-F"
+Ep300-T,5-Nitroso-8-quinolinol-F
+Ep300-T,Benzeneacetic acid-F
+Ep300-T,Chlorobenzilate-F
+Ep300-T,Luciferin-F
+Rps27a-ps3-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Rps27a-ps3-T,"1-Heptanol, 2-propyl--F"
+Rps27a-ps3-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Rps27a-ps3-T,Benzeneacetic acid-F
+Rps27a-ps3-T,L-Ornithine-F
+Rps27a-ps3-T,Octadecanoic acid-F
+Mrfap1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Mrfap1-T,Chlorobenzilate-F
+Mrfap1-T,L-Threonine-F
+Mrfap1-T,Octadecanoic acid-F
+Maf-T,"1-(2,4-Dimethoxyphenyl)-propan-2-one-F"
+Maf-T,"1-Heptanol, 2-propyl--F"
+Maf-T,"2,4-Imidazolidinedione, 5,5-dimethyl-F"
+Maf-T,2-Cyanobenzaldehyde-F
+Maf-T,5-Nitroso-8-quinolinol-F
+Maf-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Maf-T,Benzeneacetic acid-F
+Maf-T,Chlorobenzilate-F
+Maf-T,L-Threonine-F
+Maf-T,Tyr-Val-F
+Zcchc24-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Zcchc24-T,"1-Heptanol, 2-propyl--F"
+Zcchc24-T,2-Ethyl-1-butanol-F
+Zcchc24-T,DL-Glyceraldehyde-F
+Zcchc24-T,L-Threonine-F
+Zcchc24-T,Luciferin-F
+Zfp459-T,"1-Heptanol, 2-propyl--F"
+Zfp459-T,"4,5-Dihydro-1H-pyrazole-F"
+Zfp459-T,Sulindac-F
+Klhl26-T,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester-F"
+Klhl26-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Klhl26-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Klhl26-T,Chlorobenzilate-F
+Klhl26-T,Curcumin-F
+Klhl26-T,Niacin-F
+Klhl26-T,Octadecanoic acid-F
+Klhl26-T,Sulindac-F
+R3hdm1-T,"2-Butene-1,4-diol-F"
+R3hdm1-T,Benzeneacetic acid-F
+R3hdm1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+R3hdm1-T,"Naringenin 4',7-dimethylether-F"
+R3hdm1-T,Sulindac-F
+BC043934-T,"2-Butene-1,4-diol-F"
+Med12l-T,"2-Butene-1,4-diol-F"
+Med12l-T,5-Nitroso-8-quinolinol-F
+Med12l-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Med12l-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Med12l-T,L-Threonine-F
+Med12l-T,Lupinine-F
+Med12l-T,Sulindac-F
+Pign-T,2-Butenedioic acid-F
+Pign-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Pign-T,Adipoyl-L-carnitine-F
+Pign-T,Benzeneacetic acid-F
+Pign-T,L-Glutamic acid-F
+Pign-T,Tyr-Val-F
+Fry-T,"1-Heptanol, 2-propyl--F"
+Fry-T,"3,3-Dimethylacrylic acid-F"
+Fry-T,"4,5-Dihydro-1H-pyrazole-F"
+Fry-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Fry-T,Benzeneacetic acid-F
+Fry-T,Sulindac-F
+Fry-T,Tyr-Val-F
+H2bc27-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+H2bc27-T,"1-Heptanol, 2-propyl--F"
+H2bc27-T,"2-Butene-1,4-diol-F"
+H2bc27-T,2-Methyl-3-pentanol-F
+H2bc27-T,5-Nitroso-8-quinolinol-F
+H2bc27-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+H2bc27-T,"Naringenin 4',7-dimethylether-F"
+H2bc27-T,Sulindac-F
+Mpp7-T,2-Propyl-1-pentanol-F
+Mpp7-T,"3,3-Dimethylacrylic acid-F"
+Mpp7-T,"4,5-Dihydro-1H-pyrazole-F"
+Mpp7-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Mpp7-T,Benzeneacetic acid-F
+Mpp7-T,Chlorobenzilate-F
+Mpp7-T,Curcumin-F
+Mpp7-T,L-Threonine-F
+Mpp7-T,m-Toluic acid-F
+Mpp7-T,Sulindac-F
+Mpp7-T,Tyr-Val-F
+Cyb5d2-T,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester-F"
+Cyb5d2-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Cyb5d2-T,2-Propyl-1-pentanol-F
+Cyb5d2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Cyb5d2-T,Chlorobenzilate-F
+Cyb5d2-T,Curcumin-F
+Cyb5d2-T,L-Threonine-F
+Cyb5d2-T,Octadecanoic acid-F
+Cyb5d2-T,Sulindac-F
+Mmel1-T,"2-Butene-1,4-diol-F"
+Mmel1-T,"4,5-Dihydro-1H-pyrazole-F"
+Mmel1-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Mmel1-T,Adipoyl-L-carnitine-F
+Mmel1-T,Benzeneacetic acid-F
+Mmel1-T,L-Ornithine-F
+Mmel1-T,Octadecanoic acid-F
+Idi1-T,"3,4,5-Trimethoxyamphetamine-F"
+Idi1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Idi1-T,"1-Heptanol, 2-propyl--F"
+Idi1-T,2-Ethyl-1-butanol-F
+Idi1-T,Benzeneacetic acid-F
+Idi1-T,Diclofenac-F
+Idi1-T,L-Serine-F
+Idi1-T,L-Valine-F
+Idi1-T,Octadecanoic acid-F
+Idi1-T,Tyr-Val-F
+Rrp1b-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Rrp1b-T,Benzeneacetic acid-F
+Rrp1b-T,Chlorobenzilate-F
+Rrp1b-T,L-Threonine-F
+Rrp1b-T,Phenol-F
+Rrp1b-T,Sulindac-F
+Rpl28-ps1-T,Picolinic acid-F
+Rpl28-ps1-T,Tyr-Val-F
+Tubb2a-T,5-Nitroso-8-quinolinol-F
+Tubb2a-T,6-Nitroveratryl alcohol-F
+Tubb2a-T,Chlorobenzilate-F
+Tubb2a-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Tubb2a-T,L-Threonine-F
+Nap1l1-T,Benzeneacetic acid-F
+Nap1l1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Nap1l1-T,Sulindac-F
+Col13a1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Col13a1-T,2-Hexanol-F
+Col13a1-T,3-Aminobenzoic acid-F
+Col13a1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Col13a1-T,Chlorobenzilate-F
+Col13a1-T,Methanesulfonic acid-F
+Col25a1-T,"1-Heptanol, 2-propyl--F"
+Col25a1-T,"2-Butene-1,4-diol-F"
+Col25a1-T,"3,3-Dimethylacrylic acid-F"
+Col25a1-T,"4,5-Dihydro-1H-pyrazole-F"
+Col25a1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Col25a1-T,Adipoyl-L-carnitine-F
+Col25a1-T,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester-F"
+Col25a1-T,L-Ornithine-F
+Col25a1-T,Octadecanoic acid-F
+Hopx-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Hopx-T,"3,3-Dimethylacrylic acid-F"
+Hopx-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Hopx-T,Octadecanoic acid-F
+Ptk2b-T,5-Nitroso-8-quinolinol-F
+Ptk2b-T,6-Nitroveratryl alcohol-F
+Ptk2b-T,Chlorobenzilate-F
+Ptk2b-T,Sulindac-F
+Cfap418-T,"1-Heptanol, 2-propyl--F"
+Cfap418-T,"2-Butene-1,4-diol-F"
+Cfap418-T,5-Nitroso-8-quinolinol-F
+Cfap418-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Cfap418-T,6-Nitroveratryl alcohol-F
+Cfap418-T,Chlorobenzilate-F
+Cfap418-T,Tyr-Val-F
+Taf1b-T,"3,3-Dimethylacrylic acid-F"
+Taf1b-T,"4,5-Dihydro-1H-pyrazole-F"
+Taf1b-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Kcnh7-T,"1-Heptanol, 2-propyl--F"
+Kcnh7-T,2-Ethyl-1-butanol-F
+Kcnh7-T,"3,3-Dimethylacrylic acid-F"
+Kcnh7-T,"4,5-Dihydro-1H-pyrazole-F"
+Kcnh7-T,5-Nitroso-8-quinolinol-F
+Kcnh7-T,Benzeneacetic acid-F
+Kcnh7-T,Tyr-Val-F
+Nrm-T,"1-Heptanol, 2-propyl--F"
+Nrm-T,2-Ethylhexanoic acid-F
+Nrm-T,5-Nitroso-8-quinolinol-F
+Nrm-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Nrm-T,6-Nitroveratryl alcohol-F
+Nrm-T,Chlorobenzilate-F
+Nrm-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Nrm-T,Tyr-Val-F
+Zfp74-T,"2-Butene-1,4-diol-F"
+Zfp74-T,"3,3-Dimethylacrylic acid-F"
+Zfp74-T,"4,5-Dihydro-1H-pyrazole-F"
+Zfp74-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Zfp74-T,"Naringenin 4',7-dimethylether-F"
+Zfp74-T,Sulindac-F
+Zfp74-T,Trimethylolpropane-F
+Zfp74-T,Tyr-Val-F
+Scrt2-T,"1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine-F"
+Scrt2-T,"1-Heptanol, 2-propyl--F"
+Scrt2-T,"3,3-Dimethylacrylic acid-F"
+Scrt2-T,5-Nitroso-8-quinolinol-F
+Scrt2-T,Glycolic acid-F
+Scrt2-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Ap2a1-T,"2,4,6-Cycloheptatrien-1-one-F"
+Ap2a1-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Ap2a1-T,Adipoyl-L-carnitine-F
+Ap2a1-T,Benzeneacetic acid-F
+Ap2a1-T,Chlorobenzilate-F
+Ap2a1-T,L-Glutamic acid-F
+Ap2a1-T,L-Ornithine-F
+Ap2a1-T,Octadecanoic acid-F
+Sycp2-T,"1-(1-Hydroxybutyl)-2,5-dimethoxybenzene-F"
+Sycp2-T,"3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-F"
+Sycp2-T,Adipoyl-L-carnitine-F
+Sycp2-T,Chlorobenzilate-F
+Sycp2-T,Luciferin-F
+Sycp2-T,Tyr-Val-F
+Samd5-T,"2-Butene-1,4-diol-F"
+Samd5-T,"4,5-Dihydro-1H-pyrazole-F"
+Samd5-T,L-Glutamic acid-F
+Samd5-T,L-Threonine-F
+Tnfrsf19-T,"1-Heptanol, 2-propyl--F"
+Tnfrsf19-T,"3,3-Dimethylacrylic acid-F"
+Tnfrsf19-T,5-Nitroso-8-quinolinol-F
+Tnfrsf19-T,Chlorobenzilate-F
+Tnfrsf19-T,Tyr-Val-F
+Tnfrsf19-T,Urea-F
+H3f3a-T,"1-Heptanol, 2-propyl--F"
+H3f3a-T,"3,3-Dimethylacrylic acid-F"
+H3f3a-T,"4,5-Dihydro-1H-pyrazole-F"
+H3f3a-T,N-Acetylaminoethanol-F
+H3f3a-T,Tyr-Val-F
+Arl1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Arl1-T,5-Nitroso-8-quinolinol-F
+Arl1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Arl1-T,L-Norleucine-F
+Arl1-T,L-Ornithine-F
+Arl1-T,Octadecanoic acid-F
+Arl1-T,Palmitic Acid-F
+Exoc5-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Exoc5-T,"2-Butene-1,4-diol-F"
+Exoc5-T,"3,3-Dimethylacrylic acid-F"
+Exoc5-T,Adipoyl-L-carnitine-F
+Exoc5-T,Benzeneacetic acid-F
+Exoc5-T,Tyr-Val-F
+Itgb1bp1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Itgb1bp1-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Itgb1bp1-T,"6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)-F"
+Itgb1bp1-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Itgb1bp1-T,L-Ornithine-F
+Itgb1bp1-T,Octadecanoic acid-F
+Itgb1bp1-T,"Propanoic acid, dimethyl(isopropyl)silyl ester-F"
+Itgb1bp1-T,Tyr-Val-F
+Lrrc40-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Lrrc40-T,"2-Butene-1,4-diol-F"
+Lrrc40-T,Chlorobenzilate-F
+Lrrc40-T,L-Glutamic acid-F
+Lrrc40-T,Octadecanoic acid-F
+Dgkeos-T,Benzeneacetic acid-F
+Dgkeos-T,Phthalazin-1-one-F
+Dgkeos-T,Tyr-Val-F
+Kcnma1-T,"1-Heptanol, 2-propyl--F"
+Kcnma1-T,"2-Butene-1,4-diol-F"
+Kcnma1-T,2-Cyanobenzaldehyde-F
+Kcnma1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Kcnma1-T,Adipoyl-L-carnitine-F
+Kcnma1-T,Benzeneacetic acid-F
+Kcnma1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Kcnma1-T,Octanoic acid-F
+B9d2-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+B9d2-T,"4,5-Dihydro-1H-pyrazole-F"
+B9d2-T,5-Nitroso-8-quinolinol-F
+B9d2-T,6-Nitroveratryl alcohol-F
+B9d2-T,N-Methylacetamide-F
+B9d2-T,Octanoic acid-F
+B9d2-T,Salsoline-F
+B9d2-T,Sarcosine-F
+B9d2-T,Stearic acid-F
+B9d2-T,Tyr-Val-F
+Krt73-T,Chlorobenzilate-F
+Krt73-T,L-Threonine-F
+Krt73-T,Sulindac-F
+Brwd3-T,"1-Heptanol, 2-propyl--F"
+Brwd3-T,"3,3-Dimethylacrylic acid-F"
+Brwd3-T,"4,5-Dihydro-1H-pyrazole-F"
+Brwd3-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gm8730-T,"1-Heptanol, 2-propyl--F"
+Gm8730-T,"2-Butene-1,4-diol-F"
+Gm8730-T,5-Nitroso-8-quinolinol-F
+Gm8730-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gm8730-T,Trimethylolpropane-F
+Pepd-T,Butylmethylamine-F
+Pepd-T,L-Threonine-F
+Pepd-T,Sulindac-F
+Pepd-T,Tyr-Val-F
+Arb2a-T,"1-Heptanol, 2-propyl--F"
+Arb2a-T,2-Cyanobenzaldehyde-F
+Arb2a-T,4-Methylvaleric acid-F
+Arb2a-T,5-Nitroso-8-quinolinol-F
+Arb2a-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Arb2a-T,Benzeneacetic acid-F
+Arb2a-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Arb2a-T,Sulindac-F
+Arb2a-T,Tyr-Val-F
+Gm26225-T,5-Nitroso-8-quinolinol-F
+Gm26225-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Med18-T,"1-(2,4-Dimethoxyphenyl)-propan-2-one-F"
+Med18-T,5-Nitroso-8-quinolinol-F
+Med18-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Med18-T,Chlorobenzilate-F
+Med18-T,L-Norleucine-F
+Med18-T,L-Serine-F
+Med18-T,L-Threonine-F
+Med18-T,Mevalonolactone-F
+Med18-T,Octadecanoic acid-F
+Med18-T,Sulindac-F
+Gm1976-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Gm1976-T,2-Butenedioic acid-F
+Gm1976-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Gm1976-T,L-Glutamic acid-F
+Gm1976-T,Sulindac-F
+Rdh11-T,"1-Heptanol, 2-propyl--F"
+Rdh11-T,2-Cyanobenzaldehyde-F
+Rdh11-T,5-Nitroso-8-quinolinol-F
+Rdh11-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Rdh11-T,Benzeneacetic acid-F
+Rdh11-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Rdh11-T,L-Threonine-F
+Rdh11-T,Tyr-Val-F
+Cntnap5b-T,"1-Heptanol, 2-propyl--F"
+Cntnap5b-T,1-Octadecanol-F
+Cntnap5b-T,2-Cyanobenzaldehyde-F
+Cntnap5b-T,2-Furoic acid-F
+Cntnap5b-T,2-Pentadecanone-F
+Cntnap5b-T,"3,3-Dimethylacrylic acid-F"
+Cntnap5b-T,"3,5-Dimethylphenol-F"
+Cntnap5b-T,"4,5-Dihydro-1H-pyrazole-F"
+Cntnap5b-T,5-Azacytosine-F
+Cntnap5b-T,"6,7,4'-Trihydroxyisoflavone-F"
+Cntnap5b-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Cntnap5b-T,Adipoyl-L-carnitine-F
+Cntnap5b-T,"Benzenesulfonamide, N-butyl-F"
+Cntnap5b-T,"Cytosine, N-(tert-butyldimethylsilyl)--F"
+Cntnap5b-T,"Dodecanoic acid, 1-methylethyl ester-F"
+Cntnap5b-T,"D-Streptamine, O-6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4)-O-(3-deoxy-4-C-methyl-3-(methylamino)-beta-L-arabinopyranosyl-(1-6))-2-deoxy--F"
+Cntnap5b-T,Frangulin-F
+Cntnap5b-T,Heptanoic acid-F
+Cntnap5b-T,Isopropyl palmitate-F
+Cntnap5b-T,Isopropylamine-F
+Cntnap5b-T,L-Alanine-F
+Cntnap5b-T,Luciferin-F
+Cntnap5b-T,Octanoic acid-F
+Cntnap5b-T,Propylene glycol-F
+Ifit1bl2-T,5-Nitroso-8-quinolinol-F
+Ifit1bl2-T,6-Nitroveratryl alcohol-F
+Ifit1bl2-T,Chlorobenzilate-F
+Gm10221-T,Sulindac-F
+Rtl8b-T,"4,5-Dihydro-1H-pyrazole-F"
+Rtl8b-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Ccdc134-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Ccdc134-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Ccdc134-T,Benzeneacetic acid-F
+Ccdc134-T,Chlorobenzilate-F
+Ccdc134-T,L-Ornithine-F
+Ccdc134-T,Luciferin-F
+Ccdc134-T,Octadecanoic acid-F
+Col8a1-T,"1-Heptanol, 2-propyl--F"
+Col8a1-T,5-Nitroso-8-quinolinol-F
+Col8a1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Col8a1-T,Sulindac-F
+Efcc1-T,"1-Heptanol, 2-propyl--F"
+Efcc1-T,"3,3-Dimethylacrylic acid-F"
+Efcc1-T,5-Nitroso-8-quinolinol-F
+Efcc1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Efcc1-T,Chlorobenzilate-F
+Efcc1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Efcc1-T,L-Lysine-F
+Efcc1-T,Sulindac-F
+Uty-T,"2-Butene-1,4-diol-F"
+Uty-T,3-Heptanol-F
+Uty-T,5-Nitroso-8-quinolinol-F
+Uty-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Uty-T,L-Threonine-F
+Uty-T,Sulindac-F
+Uty-T,Trimethylolpropane-F
+Aard-T,Benzeneacetic acid-F
+Aard-T,Chlorobenzilate-F
+Aard-T,L-Threonine-F
+Aard-T,Luciferin-F
+Aard-T,Tyr-Val-F
+Flnc-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Flnc-T,"3,3-Dimethylacrylic acid-F"
+Flnc-T,L-Threonine-F
+Flnc-T,Octadecanoic acid-F
+Flnc-T,Sulindac-F
+Cry2-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Cry2-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Cry2-T,L-Threonine-F
+Cry2-T,Luciferin-F
+Cry2-T,Octanoic acid-F
+Dap3-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Dap3-T,Benzeneacetic acid-F
+Dap3-T,Chlorobenzilate-F
+Dap3-T,L-Threonine-F
+Dap3-T,Phenol-F
+Dap3-T,Sulindac-F
+Urm1-T,"1-Heptanol, 2-propyl--F"
+Urm1-T,Azelaic acid-F
+Urm1-T,Chlorobenzilate-F
+Urm1-T,L-Glutamic acid-F
+Urm1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Urm1-T,Sulindac-F
+Urm1-T,Tyr-Val-F
+Slc7a14-T,"1-Heptanol, 2-propyl--F"
+Slc7a14-T,"2(5H)-Furanone, 4-(hydroxymethyl)-F"
+Slc7a14-T,2-Cyanobenzaldehyde-F
+Slc7a14-T,"4,5-Dihydro-1H-pyrazole-F"
+Slc7a14-T,5-Azacytosine-F
+Slc7a14-T,5-Nitroso-8-quinolinol-F
+Slc7a14-T,Adipoyl-L-carnitine-F
+Slc7a14-T,Benzeneacetic acid-F
+Slc7a14-T,Citramalic acid-F
+Slc7a14-T,Heptanoic acid-F
+Slc7a14-T,Isopropylamine-F
+Slc7a14-T,Sarcosine-F
+Slc7a14-T,Stearic acid-F
+Slc7a14-T,Tyr-Val-F
+Cdk7-T,"3,3-Dimethylacrylic acid-F"
+Cdk7-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Cdk7-T,L-Threonine-F
+Cdk7-T,Sulindac-F
+Cdk7-T,Tyr-Val-F
+Zfp874a-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Zfp874a-T,"1-Heptanol, 2-propyl--F"
+Zfp874a-T,2-Decanol-F
+Zfp874a-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Zfp874a-T,L-Threonine-F
+Zfp874a-T,Octadecanoic acid-F
+Zfp874a-T,Sulindac-F
+Zfp874a-T,Tyr-Val-F
+Nkain2-T,"2-Butene-1,4-diol-F"
+Nkain2-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Nkain2-T,5-Nitroso-8-quinolinol-F
+Nkain2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Nkain2-T,6-Nitroveratryl alcohol-F
+Nkain2-T,Chlorobenzilate-F
+Nkain2-T,Tyr-Val-F
+Tmem100-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Tmem100-T,"1-Heptanol, 2-propyl--F"
+Tmem100-T,"3,3-Dimethylacrylic acid-F"
+Tmem100-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Tmem100-T,Sulindac-F
+Tmem100-T,Tyr-Val-F
+Msi2-T,"1-Heptanol, 2-propyl--F"
+Msi2-T,"2-Butene-1,4-diol-F"
+Msi2-T,2-Cyanobenzaldehyde-F
+Msi2-T,2-Methyl-3-pentanol-F
+Msi2-T,5-Nitroso-8-quinolinol-F
+Msi2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Msi2-T,Benzeneacetic acid-F
+Msi2-T,Tyr-Val-F
+Hs3st3b1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Hs3st3b1-T,L-Threonine-F
+Hs3st3b1-T,Luciferin-F
+Hs3st3b1-T,Octadecanoic acid-F
+Hs3st3b1-T,Octanoic acid-F
+Hs3st3b1-T,"Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl--F"
+Hs3st3b1-T,Sulindac-F
+Ccnyl1-T,"1-Heptanol, 2-propyl--F"
+Ccnyl1-T,"3,3-Dimethylacrylic acid-F"
+Ccnyl1-T,"4,5-Dihydro-1H-pyrazole-F"
+Ccnyl1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Ccnyl1-T,Tyr-Val-F
+Gprin2-T,2-Amino-4-methylbenzophenone-F
+Gprin2-T,5-Nitroso-8-quinolinol-F
+Gprin2-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gprin2-T,Chlorobenzilate-F
+Gprin2-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Gprin2-T,L-Threonine-F
+Gprin2-T,Tyr-Val-F
+Rimbp3-T,"2-Butene-1,4-diol-F"
+Rimbp3-T,Allylescaline-F
+Rimbp3-T,Benzeneacetic acid-F
+Rimbp3-T,Chlorobenzilate-F
+Rimbp3-T,Pinosylvin-F
+Cebpd-T,"3,3-Dimethylacrylic acid-F"
+Cebpd-T,3-Amino-5-methylisoxazole-F
+Cebpd-T,5-Nitroso-8-quinolinol-F
+Cebpd-T,Adipoyl-L-carnitine-F
+Cebpd-T,Chlorobenzilate-F
+Cebpd-T,Glycerol-F
+Cebpd-T,L-Norleucine-F
+Cebpd-T,L-Threonine-F
+Cebpd-T,Octadecanoic acid-F
+Rom1-T,"2,5-Dimethoxybenzhydrazide-F"
+Rom1-T,"2-Butene-1,4-diol-F"
+Rom1-T,Benzeneacetic acid-F
+Rom1-T,Cyclobutylamine-F
+Rom1-T,Cyclooctylamine-F
+Rom1-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Rom1-T,"Naringenin 4',7-dimethylether-F"
+Rom1-T,Sulindac-F
+Mpst-T,"1-Heptanol, 2-propyl--F"
+Mpst-T,"2,5-Dimethoxybenzonitrile-F"
+Mpst-T,2-Cyanobenzaldehyde-F
+Mpst-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Mpst-T,alpha-Hydroxyisobutyric acid-F
+Mpst-T,Benzeneacetic acid-F
+Mpst-T,Octanoic acid-F
+Mpst-T,Sulindac-F
+Ang-T,5-Nitroso-8-quinolinol-F
+Ang-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Ang-T,6-Nitroveratryl alcohol-F
+Ang-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+G530011O06Rikx-T,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone-F"
+G530011O06Rikx-T,"2,4,6-Cycloheptatrien-1-one-F"
+G530011O06Rikx-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+G530011O06Rikx-T,L-Glutamic acid-F
+G530011O06Rikx-T,L-Serine-F
+G530011O06Rikx-T,Octadecanoic acid-F
+G530011O06Rikx-T,Sulindac-F
+4933439C10Rik-T,"2-Butene-1,4-diol-F"
+4933439C10Rik-T,"3,3-Dimethylacrylic acid-F"
+4933439C10Rik-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+4933439C10Rik-T,3-Methyl-3-buten-1-ol-F
+4933439C10Rik-T,"4,5-Dihydro-1H-pyrazole-F"
+4933439C10Rik-T,Benzeneacetic acid-F
+4933439C10Rik-T,L-Glutamic acid-F
+4933439C10Rik-T,"L-Histidine, N,1-bis(tert-butyldimethylsilyl)--F"
+4933439C10Rik-T,Tyr-Val-F
+C030034I22Rik-T,"3,4,5-Trimethoxyamphetamine-F"
+C030034I22Rik-T,"1-Heptanol, 2-propyl--F"
+C030034I22Rik-T,2-Ethyl-1-butanol-F
+C030034I22Rik-T,Benzeneacetic acid-F
+C030034I22Rik-T,Chlorobenzilate-F
+C030034I22Rik-T,Cholesterol-F
+C030034I22Rik-T,L-Threonine-F
+C030034I22Rik-T,L-Valine-F
+C030034I22Rik-T,Tyr-Val-F
+Nbeal1-T,Benzeneacetic acid-F
+Nbeal1-T,"Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester-F"
+Nbeal1-T,L-Threonine-F
+Nbeal1-T,Sulindac-F
+Nbeal1-T,Tyr-Val-F
+Rpl31-T,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester-F"
+Rpl31-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Rpl31-T,Chlorobenzilate-F
+Rpl31-T,L-Threonine-F
+Rpl31-T,Octadecanoic acid-F
+Rpl31-T,Sulindac-F
+Cenps-T,"1-Heptanol, 2-propyl--F"
+Cenps-T,"3,3-Dimethylacrylic acid-F"
+Cenps-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+5730409E04Rik-T,Chlorobenzilate-F
+5730409E04Rik-T,L-Glutamic acid-F
+5730409E04Rik-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+4930513N10Rik-T,"2-Butene-1,4-diol-F"
+4930513N10Rik-T,"3,3-Dimethylacrylic acid-F"
+4930513N10Rik-T,Chlorobenzilate-F
+4930513N10Rik-T,Supraene-F
+Zfp382-T,"2-Butene-1,4-diol-F"
+Zfp382-T,"3,3-Dimethylacrylic acid-F"
+Zfp382-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Zfp382-T,Chlorobenzilate-F
+Zfp382-T,Luciferin-F
+Zfp382-T,Octadecanoic acid-F
+Zfp382-T,Sulindac-F
+Gm10654-T,"2-Butene-1,4-diol-F"
+Gm10654-T,"4,5-Dihydro-1H-pyrazole-F"
+Gm10654-T,5-Nitroso-8-quinolinol-F
+Gm10654-T,Benzeneacetic acid-F
+AI429214-T,"2-Butene-1,4-diol-F"
+AI429214-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+AI429214-T,Trimethylolpropane-F
+AI429214-T,Tyr-Val-F
+Eif2s2-T,Chlorobenzilate-F
+Eif2s2-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Chst14-T,"1-Heptanol, 2-propyl--F"
+Chst14-T,"2-Butene-1,4-diol-F"
+Chst14-T,5-Nitroso-8-quinolinol-F
+Chst14-T,Chlorobenzilate-F
+Chst14-T,Sulindac-F
+Chst14-T,Trimethylolpropane-F
+Heg1-T,"(2,5-Dimethoxyphenyl)acetone-F"
+Heg1-T,"3,3-Dimethylacrylic acid-F"
+Heg1-T,"4,5-Dihydro-1H-pyrazole-F"
+Heg1-T,5-Nitroso-8-quinolinol-F
+Heg1-T,Benzeneacetic acid-F
+Heg1-T,L-Threonine-F
+Heg1-T,m-Toluic acid-F
+Heg1-T,Sulindac-F
+UNKNOWN-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+UNKNOWN-T,"3,3-Dimethylacrylic acid-F"
+UNKNOWN-T,5-Nitroso-8-quinolinol-F
+UNKNOWN-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+UNKNOWN-T,6-Nitroveratryl alcohol-F
+UNKNOWN-T,Benzeneacetic acid-F
+UNKNOWN-T,Diclofenac-F
+UNKNOWN-T,L-Threonine-F
+UNKNOWN-T,Tetrahydro-solasodine triacetate-F
+Smim24-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Smim24-T,"2-Butene-1,4-diol-F"
+Smim24-T,"3,3-Dimethylacrylic acid-F"
+Ppil6-T,"3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-F"
+Ppil6-T,"3,3-Dimethylacrylic acid-F"
+Ppil6-T,"4,5-Dihydro-1H-pyrazole-F"
+Ppil6-T,"l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester-F"
+Ppil6-T,Salsoline-F
+Ppil6-T,Tyr-Val-F
+Nkain1-T,"1-Heptanol, 2-propyl--F"
+Nkain1-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Nkain1-T,"4,5-Dihydro-1H-pyrazole-F"
+Nkain1-T,5-Nitroso-8-quinolinol-F
+Nkain1-T,Octanoic acid-F
+Nkain1-T,Sulindac-F
+Nkain1-T,Tyr-Val-F
+Cntd1-T,"1-Heptanol, 2-propyl--F"
+Cntd1-T,"2-Butene-1,4-diol-F"
+Cntd1-T,2-Cyanobenzaldehyde-F
+Cntd1-T,5-Nitroso-8-quinolinol-F
+Cntd1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+D030028A08Rik-T,"1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine-F"
+D030028A08Rik-T,"1-Heptanol, 2-propyl--F"
+D030028A08Rik-T,2-Cyanobenzaldehyde-F
+D030028A08Rik-T,"3,3-Dimethylacrylic acid-F"
+D030028A08Rik-T,5-Nitroso-8-quinolinol-F
+D030028A08Rik-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Tmem8b-T,"1-Heptanol, 2-propyl--F"
+Tmem8b-T,"4,5-Dihydro-1H-pyrazole-F"
+Tmem8b-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Tmem8b-T,Chlorobenzilate-F
+Tmem8b-T,Sulindac-F
+Alkbh1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Alkbh1-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Alkbh1-T,Chlorobenzilate-F
+Alkbh1-T,Octadecanoic acid-F
+Zfp664-T,"2-Butene-1,4-diol-F"
+Zfp664-T,"3,3-Dimethylacrylic acid-F"
+Zfp664-T,5-Nitroso-8-quinolinol-F
+Zfp664-T,Benzeneacetic acid-F
+Zfp664-T,L-Glutamic acid-F
+Zfp664-T,L-Threonine-F
+Zfp664-T,Trimethylolpropane-F
+Neu2-T,"1-Heptanol, 2-propyl--F"
+Neu2-T,"2-Butene-1,4-diol-F"
+Neu2-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Neu2-T,"4,5-Dihydro-1H-pyrazole-F"
+Neu2-T,5-Nitroso-8-quinolinol-F
+Neu2-T,6-Nitroveratryl alcohol-F
+Neu2-T,Chlorobenzilate-F
+Neu2-T,Trimethylolpropane-F
+Gm5909-T,"2-Butene-1,4-diol-F"
+Gm5909-T,Chlorobenzilate-F
+Gm5909-T,Octadecanoic acid-F
+Rps13-ps5-T,Benzeneacetic acid-F
+Rps13-ps5-T,Phthalazin-1-one-F
+Rps13-ps5-T,Tyr-Val-F
+Gm12191-T,Phthalazin-1-one-F
+Gm15542-T,"1-Heptanol, 2-propyl--F"
+Gm15542-T,5-Nitroso-8-quinolinol-F
+Gm15542-T,6-Nitroveratryl alcohol-F
+Gm15542-T,Benzeneacetic acid-F
+Gm15542-T,Chlorobenzilate-F
+Gm15542-T,Octadecanoic acid-F
+Gm15542-T,Pipecolic acid-F
+Gm13340-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Gm13340-T,Benzeneacetic acid-F
+Gm13340-T,Chlorobenzilate-F
+Gm13340-T,L-Glutamic acid-F
+Gm13340-T,L-Threonine-F
+Gm13340-T,Lupinine-F
+Gm13340-T,Sulindac-F
+Slc2a4rg-ps-T,"3,3-Dimethylacrylic acid-F"
+Slc2a4rg-ps-T,"4,5-Dihydro-1H-pyrazole-F"
+UNKNOWN-T,"4,5-Dihydro-1H-pyrazole-F"
+UNKNOWN-T,Lactic acid-F
+UNKNOWN-T,L-Serine-F
+UNKNOWN-T,Lupinine-F
+UNKNOWN-T,Octadecanoic acid-F
+Ascl4-T,Benzoic Acid-F
+Ascl4-T,L-Threonine-F
+Taco1os-T,5-Nitroso-8-quinolinol-F
+Taco1os-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Taco1os-T,6-Nitroveratryl alcohol-F
+Taco1os-T,Benzeneacetic acid-F
+Taco1os-T,Chlorobenzilate-F
+Taco1os-T,L-Serine-F
+Taco1os-T,Octadecanoic acid-F
+A430018G15Rik-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+A430018G15Rik-T,"2-Butene-1,4-diol-F"
+A430018G15Rik-T,Cyclooctylamine-F
+A430018G15Rik-T,Sulindac-F
+A430018G15Rik-T,Trimethylolpropane-F
+A430018G15Rik-T,Tyr-Val-F
+Gm14634-T,"1-Heptanol, 2-propyl--F"
+Gm14634-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gm14634-T,Benzeneacetic acid-F
+Gm14634-T,Chlorobenzilate-F
+Gm14634-T,Tyr-Val-F
+4833417C18Rik-T,Phthalazin-1-one-F
+A330040F15Rik-T,"2-Butene-1,4-diol-F"
+A330040F15Rik-T,5-Nitroso-8-quinolinol-F
+A330040F15Rik-T,Benzeneacetic acid-F
+A330040F15Rik-T,"Cyclohexanone, 3,3,5-trimethyl-F"
+A330040F15Rik-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+A330040F15Rik-T,L-Threonine-F
+A330040F15Rik-T,Sulindac-F
+A330040F15Rik-T,Trimethylolpropane-F
+Gm15513-T,"2-Butene-1,4-diol-F"
+Gm15513-T,"3,3-Dimethylacrylic acid-F"
+Gm15513-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Gm15513-T,Chlorobenzilate-F
+Gm15513-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Gm15513-T,Sulindac-F
+Ftx-T,"1-Heptanol, 2-propyl--F"
+Ftx-T,"2-Butene-1,4-diol-F"
+Ftx-T,5-Nitroso-8-quinolinol-F
+Ftx-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Ftx-T,Biphenyl-F
+Ftx-T,Chlorobenzilate-F
+Ftx-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Ftx-T,Trimethylolpropane-F
+5330413P13Rik-T,"1-Heptanol, 2-propyl--F"
+5330413P13Rik-T,"2-Butene-1,4-diol-F"
+5330413P13Rik-T,2-Cyanobenzaldehyde-F
+5330413P13Rik-T,"4,5-Dihydro-1H-pyrazole-F"
+5330413P13Rik-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+5330413P13Rik-T,Benzeneacetic acid-F
+5330413P13Rik-T,Chlorobenzilate-F
+5330413P13Rik-T,Oxalic acid-F
+5330413P13Rik-T,Tyr-Val-F
+Gm14379-T,Chlorobenzilate-F
+1810021B22Rik-T,"2-Butene-1,4-diol-F"
+1810021B22Rik-T,"3,3-Dimethylacrylic acid-F"
+1810021B22Rik-T,5-Nitroso-8-quinolinol-F
+1810021B22Rik-T,Benzeneacetic acid-F
+1810021B22Rik-T,L-Threonine-F
+1810021B22Rik-T,Sulindac-F
+1810021B22Rik-T,Tyr-Val-F
+Gm12999-T,"2-Butene-1,4-diol-F"
+Gm12999-T,"3,3-Dimethylacrylic acid-F"
+Gm12999-T,"4,5-Dihydro-1H-pyrazole-F"
+Gm12999-T,Tyr-Val-F
+Tbx3os1-T,"2-Butene-1,4-diol-F"
+Tbx3os1-T,"3,3-Dimethylacrylic acid-F"
+Tbx3os1-T,"4,5-Dihydro-1H-pyrazole-F"
+Tbx3os1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Tbx3os1-T,Adipoyl-L-carnitine-F
+Tbx3os1-T,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester-F"
+Tbx3os1-T,L-Threonine-F
+Tbx3os1-T,Sarcosine-F
+Tbx3os1-T,Trimethylolpropane-F
+Gm15764-T,Chlorobenzilate-F
+B230398E01Rik-T,"2-Butene-1,4-diol-F"
+B230398E01Rik-T,Phthalazin-1-one-F
+Tmem250-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Tmem250-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Tmem250-T,Chlorobenzilate-F
+Gm13031-T,"2-Butene-1,4-diol-F"
+Gm13031-T,Allylescaline-F
+Gm13031-T,Benzeneacetic acid-F
+Gm13031-T,Chlorobenzilate-F
+Gm13031-T,Diclofenac-F
+Gm13031-T,Octadecanoic acid-F
+Gm13031-T,Tyr-Val-F
+Gm23751-T,"2-Butene-1,4-diol-F"
+Gm23751-T,L-Threonine-F
+Gm23751-T,Malic acid-F
+Gm23751-T,Norephedrine-F
+Fcor-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Fcor-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Fcor-T,Azelaic acid-F
+Fcor-T,Diethylamine-F
+Fcor-T,Octadecanoic acid-F
+Fcor-T,Octanoic acid-F
+Fcor-T,Sulindac-F
+Fcor-T,Tyr-Val-F
+Cbx6-T,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester-F"
+Cbx6-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Cbx6-T,Chlorobenzilate-F
+Cbx6-T,Octadecanoic acid-F
+Gm16168-T,"1-Heptanol, 2-propyl--F"
+Gm16168-T,5-Nitroso-8-quinolinol-F
+Gm16168-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gm3687-T,5-Nitroso-8-quinolinol-F
+Gm3687-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gm3687-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Tarbp1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Tarbp1-T,2-Hexanol-F
+Tarbp1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Tarbp1-T,Benzeneacetic acid-F
+Tarbp1-T,Chlorobenzilate-F
+Tarbp1-T,L-Serine-F
+Tarbp1-T,Methanesulfonic acid-F
+Tarbp1-T,Methylthiouracil-F
+Tarbp1-T,Octadecanoic acid-F
+Tarbp1-T,Tyr-Val-F
+Gypc-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Gypc-T,"2-Butene-1,4-diol-F"
+Gypc-T,Benzeneacetic acid-F
+Gypc-T,Chlorobenzilate-F
+Gypc-T,L-Glutamic acid-F
+Gypc-T,"N,N-Dimethyl-2-aminoethanol-F"
+AU040972-T,"2-Butene-1,4-diol-F"
+AU040972-T,Tyr-Val-F
+Dynlt1a-T,5-Nitroso-8-quinolinol-F
+Dynlt1a-T,Benzeneacetic acid-F
+Dynlt1a-T,Hypoxanthine-F
+Dynlt1a-T,Synephrine-F
+Dynlt1a-T,Tyr-Val-F
+Dynlt1a-T,Xylazine-F
+Gm20522-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Gm20522-T,"1-Heptanol, 2-propyl--F"
+Gm20522-T,5-Nitroso-8-quinolinol-F
+Gm20522-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gm20522-T,6-Nitroveratryl alcohol-F
+Gm20522-T,Benzeneacetic acid-F
+Gm20522-T,Chlorobenzilate-F
+Gm20522-T,N-Ethyldiethanolamine-F
+Gm18284-T,"2-Butene-1,4-diol-F"
+Gm20632-T,Benzeneacetic acid-F
+Gm20632-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Gm20632-T,L-Threonine-F
+Gm20632-T,Sulindac-F
+Gm20632-T,Tyr-Val-F
+Hmgcs1-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Hmgcs1-T,"2-Butene-1,4-diol-F"
+Hmgcs1-T,Chlorobenzilate-F
+Hmgcs1-T,L-Glutamic acid-F
+Hmgcs1-T,Octadecanoic acid-F
+Slc6a16-T,Benzeneacetic acid-F
+Slc6a16-T,N-Acetylaminoethanol-F
+Slc6a16-T,Octadecanoic acid-F
+Slc6a16-T,Picolinic acid-F
+Fsbp-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Fsbp-T,"3,3-Dimethylacrylic acid-F"
+Fsbp-T,Lupinine-F
+Fsbp-T,Vanillylmandelic acid-F
+Rnaset2b-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Rnaset2b-T,"2,4,4'-Trihydroxybenzophenone-F"
+Rnaset2b-T,2-Hexanol-F
+Rnaset2b-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Rnaset2b-T,Benzeneacetic acid-F
+Rnaset2b-T,Crotonic acid-F
+Rnaset2b-T,"Kojic acid, bis(tert-butyldimethylsilyl) ether-F"
+Rnaset2b-T,L-Serine-F
+Rnaset2b-T,Malic acid-F
+Rnaset2b-T,Octadecanoic acid-F
+Rnaset2b-T,Tyr-Val-F
+Muc3a-T,"3,4,5-Trimethoxyamphetamine-F"
+Muc3a-T,Benzeneacetic acid-F
+Muc3a-T,Chlorobenzilate-F
+Muc3a-T,DL-Glyceraldehyde-F
+Muc3a-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Muc3a-T,L-Threonine-F
+Muc3a-T,Lupinine-F
+Muc3a-T,L-Valine-F
+Muc3a-T,Tyr-Val-F
+Zfp799-T,"2-Butene-1,4-diol-F"
+Zfp799-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Zfp799-T,5-Nitroso-8-quinolinol-F
+Zfp799-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Zfp799-T,6-Nitroveratryl alcohol-F
+Zfp799-T,Benzeneacetic acid-F
+Zfp799-T,Chlorobenzilate-F
+Zfp799-T,Octadecanoic acid-F
+Gm3764-T,1-Octadecanol-F
+Gm3764-T,Benzeneacetic acid-F
+Gm3764-T,DL-Glyceraldehyde-F
+Gm3764-T,L-Threonine-F
+Gm3764-T,Luciferin-F
+Gm3764-T,Lupinine-F
+Gm3764-T,Norephedrine-F
+Gm3764-T,Tyr-Val-F
+Gm10516-T,"3,3-Dimethylacrylic acid-F"
+Gm10516-T,5-Nitroso-8-quinolinol-F
+Gm10516-T,Benzeneacetic acid-F
+Gm10516-T,Tyr-Val-F
+Gm16754-T,Benzeneacetic acid-F
+Gm16754-T,Chlorobenzilate-F
+Gm16754-T,Tyr-Val-F
+Gm26652-T,"1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine-F"
+Gm26652-T,"1-Heptanol, 2-propyl--F"
+Gm26652-T,2-Cyanobenzaldehyde-F
+Gm26652-T,2-Ethyl-1-butanol-F
+Gm26652-T,2-Furoic acid-F
+Gm26652-T,"3,3-Dimethylacrylic acid-F"
+Gm26652-T,"4,5-Dihydro-1H-pyrazole-F"
+Gm26652-T,5-Nitroso-8-quinolinol-F
+Gm26652-T,Benzeneacetic acid-F
+Gm26652-T,DL-p-Hydroxyphenyllactic acid-F
+Gm26652-T,Heptanoic acid-F
+Gm26652-T,Isopropylamine-F
+Gm26652-T,Propylene glycol-F
+Gm26592-T,Chlorobenzilate-F
+Gm26592-T,Phthalazin-1-one-F
+4930519P11Rik-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gm17259-T,"2,4,6-Cycloheptatrien-1-one-F"
+Gm17259-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Gm17259-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Gm17259-T,L-Glutamic acid-F
+Gm17259-T,L-Ornithine-F
+Gm17259-T,Octadecanoic acid-F
+Gm17259-T,Sulindac-F
+Celrr-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Celrr-T,"2-Butene-1,4-diol-F"
+Celrr-T,"3,3-Dimethylacrylic acid-F"
+Celrr-T,5-Nitroso-8-quinolinol-F
+Celrr-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Celrr-T,6-Nitroveratryl alcohol-F
+Celrr-T,L-Threonine-F
+Celrr-T,Lupinine-F
+Celrr-T,Supraene-F
+Gm26691-T,"3,3-Dimethylacrylic acid-F"
+Gm26691-T,"4,5-Dihydro-1H-pyrazole-F"
+Bvht-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Bvht-T,"2-Butene-1,4-diol-F"
+Bvht-T,Tyr-Val-F
+Gm8927-T,Phthalazin-1-one-F
+Gm8927-T,Sulindac-F
+UNKNOWN-T,"1-Heptanol, 2-propyl--F"
+UNKNOWN-T,Benzeneacetic acid-F
+UNKNOWN-T,Tyr-Val-F
+Gm27151-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+2310034G01Rik-T,"1-Heptanol, 2-propyl--F"
+2310034G01Rik-T,"2-Butene-1,4-diol-F"
+2310034G01Rik-T,5-Nitroso-8-quinolinol-F
+2310034G01Rik-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+2310034G01Rik-T,Benzeneacetic acid-F
+2310034G01Rik-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+2310034G01Rik-T,L-Threonine-F
+2310034G01Rik-T,Trimethylolpropane-F
+Gm28523-T,5-Nitroso-8-quinolinol-F
+Gm29155-T,"1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone-F"
+Gm29155-T,"1-Heptanol, 2-propyl--F"
+Gm29155-T,5-Nitroso-8-quinolinol-F
+Gm29155-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Gm29155-T,Benzeneacetic acid-F
+Gm29155-T,N-Acetyl-L-alanine-F
+Gm29155-T,Tyr-Val-F
+UNKNOWN-T,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester-F"
+UNKNOWN-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+UNKNOWN-T,Benzeneacetic acid-F
+UNKNOWN-T,Chlorobenzilate-F
+UNKNOWN-T,Glycine-F
+UNKNOWN-T,Sulindac-F
+UNKNOWN-T,Tyr-Val-F
+Iqank1-T,1-Octadecanol-F
+Iqank1-T,"2-Butene-1,4-diol-F"
+Iqank1-T,2-Butoxyethanol-F
+Iqank1-T,"2-Methyl-1,3-butanediol-F"
+Iqank1-T,5-Nitroso-8-quinolinol-F
+Iqank1-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Iqank1-T,Prostaglandin-F
+6430511E19Rik-T,"2-Butene-1,4-diol-F"
+6430511E19Rik-T,"3,3-Dimethylacrylic acid-F"
+6430511E19Rik-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+6430511E19Rik-T,Chlorobenzilate-F
+6430511E19Rik-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+6430511E19Rik-T,Sulindac-F
+Gm37968-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Gm37968-T,"2-Butene-1,4-diol-F"
+Gm37968-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Gm37968-T,Benzeneacetic acid-F
+Gm37968-T,L-Threonine-F
+Gm37968-T,Sulindac-F
+Gm37968-T,Tyr-Val-F
+Gm7265-T,"2-Butene-1,4-diol-F"
+Gm7265-T,"4,5-Dihydro-1H-pyrazole-F"
+Gm7265-T,Benzeneacetic acid-F
+Gm7265-T,Chlorobenzilate-F
+Gm7265-T,Luciferin-F
+Gm7265-T,Octadecanoic acid-F
+Gm37266-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Gm37777-T,"3,3-Dimethylacrylic acid-F"
+Gm37777-T,5-Nitroso-8-quinolinol-F
+Gm37777-T,Octanoic acid-F
+Gm37777-T,Sulindac-F
+Gm37777-T,Tyr-Val-F
+Gm37777-T,Urea-F
+Gm37258-T,"1-Heptanol, 2-propyl--F"
+Gm37258-T,"2-Butene-1,4-diol-F"
+Gm37258-T,"3,3-Dimethylacrylic acid-F"
+Gm37258-T,5-Nitroso-8-quinolinol-F
+Gm37258-T,L-Threonine-F
+Gm37258-T,Octadecanoic acid-F
+Gm37258-T,Sulindac-F
+Gm37258-T,Trimethylolpropane-F
+Gm37258-T,Tyr-Val-F
+Gm38254-T,Phthalazin-1-one-F
+C130023A14Rik-T,"1-Heptanol, 2-propyl--F"
+C130023A14Rik-T,"3,3-Dimethylacrylic acid-F"
+C130023A14Rik-T,5-Nitroso-8-quinolinol-F
+C130023A14Rik-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+C130023A14Rik-T,Chlorobenzilate-F
+C130023A14Rik-T,Sulindac-F
+C130023A14Rik-T,Tyr-Val-F
+Zc3h11a-T,Phthalazin-1-one-F
+Gm37124-T,"(2,5-Dimethoxyphenyl)acetone-F"
+Gm37124-T,"3,3-Dimethylacrylic acid-F"
+Gm37124-T,"4,5-Dihydro-1H-pyrazole-F"
+Gm37124-T,5-Nitroso-8-quinolinol-F
+Gm37124-T,Benzeneacetic acid-F
+Gm37124-T,L-Threonine-F
+Gm37124-T,Sulindac-F
+Gm37124-T,Tyr-Val-F
+Gm37745-T,"1-Heptanol, 2-propyl--F"
+Gm37745-T,"2-Butene-1,4-diol-F"
+Gm37745-T,5-Nitroso-8-quinolinol-F
+Gm37745-T,Benzoic Acid-F
+Gm37745-T,Sulindac-F
+Gm37745-T,Trimethylolpropane-F
+Gm38357-T,"1-Heptanol, 2-propyl--F"
+Gm38357-T,4-Methylvaleric acid-F
+Gm38357-T,5-Nitroso-8-quinolinol-F
+Gm38357-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gm5845-T,Phthalazin-1-one-F
+Gm37834-T,"(9H-fluoren-9-yl)methanol, O-methoxycarbonyl--F"
+Gm37834-T,"2-Butene-1,4-diol-F"
+Gm37834-T,Phthalazin-1-one-F
+Gm37834-T,Sulindac-F
+Gm38217-T,5-Nitroso-8-quinolinol-F
+Gm38217-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gm38217-T,Chlorobenzilate-F
+Gm37529-T,1-Octadecanol-F
+Gm37529-T,Benzeneacetic acid-F
+Gm37529-T,L-Threonine-F
+Gm37529-T,Lupinine-F
+Gm37529-T,N-Isobutyrylglycine-F
+Gm37529-T,Sulindac-F
+2900035J10Rik-T,Lactic acid-F
+2900035J10Rik-T,L-Threonine-F
+2900035J10Rik-T,Lupinine-F
+Gm37061-T,"1-Heptanol, 2-propyl--F"
+Gm37061-T,1-Octadecanol-F
+Gm37061-T,"3,3-Dimethylacrylic acid-F"
+Gm37061-T,"4,5-Dihydro-1H-pyrazole-F"
+Gm37061-T,5-Nitroso-8-quinolinol-F
+Gm37061-T,L-Threonine-F
+Gm37061-T,Luciferin-F
+Gm37420-T,"2-Butene-1,4-diol-F"
+Gm37420-T,"3,3-Dimethylacrylic acid-F"
+Gm37420-T,5-Nitroso-8-quinolinol-F
+Gm37420-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gm37420-T,Chlorobenzilate-F
+Gm37452-T,"4,5-Dihydro-1H-pyrazole-F"
+Gm37452-T,Benzeneacetic acid-F
+Gm37452-T,Chlorobenzilate-F
+Gm37452-T,L-Glutamic acid-F
+Gm37452-T,Tyr-Val-F
+Gm37941-T,"1-Heptanol, 2-propyl--F"
+Gm37941-T,"2-Butene-1,4-diol-F"
+Gm37941-T,"3,3-Dimethylacrylic acid-F"
+Gm37941-T,5-Nitroso-8-quinolinol-F
+Gm37941-T,Chlorobenzilate-F
+Gm37941-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Gm37941-T,Sulindac-F
+Gm37941-T,Trimethylolpropane-F
+Gm37678-T,"2-Butene-1,4-diol-F"
+Gm37678-T,Chlorobenzilate-F
+Gm38031-T,Phthalazin-1-one-F
+Gm38104-T,"1-Heptanol, 2-propyl--F"
+Gm38104-T,"2-Butene-1,4-diol-F"
+Gm38104-T,"3,3-Dimethylacrylic acid-F"
+Gm38104-T,5-Nitroso-8-quinolinol-F
+Gm38104-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gm38104-T,Chlorobenzilate-F
+Gm38104-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Gm38104-T,Sulindac-F
+Gm38104-T,Trimethylolpropane-F
+Gm37397-T,"1,2-Bis(trimethylsiloxy)cyclohexene-F"
+Gm37397-T,"2-Butene-1,4-diol-F"
+Gm37397-T,"9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester-F"
+Gm37397-T,Adipoyl-L-carnitine-F
+Gm37397-T,Benzeneacetic acid-F
+Gm37397-T,L-Ornithine-F
+Gm37397-T,Octadecanoic acid-F
+Gm38299-T,"3,3-Dimethylacrylic acid-F"
+Gm38299-T,Monocaproin-F
+Gm38299-T,Sulindac-F
+Gm38299-T,Tyr-Val-F
+5730408A14Rik-T,1-Octadecanol-F
+5730408A14Rik-T,"2-Butene-1,4-diol-F"
+5730408A14Rik-T,"2'-Hydroxy-2,4,4',5-tetramethoxychalcone-F"
+5730408A14Rik-T,"2-Methylcyclohexanol, (Z)-F"
+5730408A14Rik-T,"3,3-Dimethylacrylic acid-F"
+5730408A14Rik-T,"3,5-Dimethylphenol-F"
+5730408A14Rik-T,3-Methyl-3-buten-1-ol-F
+5730408A14Rik-T,"4,5-Dihydro-1H-pyrazole-F"
+5730408A14Rik-T,Benzeneacetic acid-F
+5730408A14Rik-T,"Benzenesulfonamide, N-butyl-F"
+5730408A14Rik-T,"Cytosine, N-(tert-butyldimethylsilyl)--F"
+5730408A14Rik-T,"Dodecanoic acid, 1-methylethyl ester-F"
+5730408A14Rik-T,Lignoceric acid-F
+5730408A14Rik-T,L-Tryptophan-F
+5730408A14Rik-T,Propylene glycol-F
+Gm38077-T,"3,3-Dimethylacrylic acid-F"
+Gm38077-T,Chlorobenzilate-F
+Gm37033-T,"3,3-Dimethylacrylic acid-F"
+Gm37033-T,3-Hydroxymethyl-2-trimethylsilyloxypentane-F
+Gm37033-T,Benzeneacetic acid-F
+Gm37033-T,DL-Glyceraldehyde-F
+Gm37033-T,N-Acetylaminoethanol-F
+Gm37033-T,Tyr-Val-F
+E230020A03Rik-T,"2-(Ethylamino)ethanol, N-acetyl-F"
+E230020A03Rik-T,"2,5-Dimethoxybenzonitrile-F"
+E230020A03Rik-T,"2-Butene-1,4-diol-F"
+E230020A03Rik-T,Benzeneacetic acid-F
+E230020A03Rik-T,Lignoceric acid-F
+Gm42941-T,Chlorobenzilate-F
+Gm42941-T,Phthalazin-1-one-F
+Gm42941-T,Tyr-Val-F
+Gm43133-T,"2-Butene-1,4-diol-F"
+Gm43133-T,"4,5-Dihydro-1H-pyrazole-F"
+Gm43133-T,Benzeneacetic acid-F
+Gm43133-T,L-Threonine-F
+Gm43133-T,Synephrine-F
+Gm43133-T,Tyr-Val-F
+Gm43066-T,"1-Heptanol, 2-propyl--F"
+Gm43066-T,1-Octadecanol-F
+Gm43066-T,Benzeneacetic acid-F
+Gm43066-T,L-Threonine-F
+Gm43066-T,Luciferin-F
+Gm43066-T,"Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl--F"
+Gm43066-T,Sulindac-F
+Gm43066-T,Tyr-Val-F
+Gm43413-T,5-Nitroso-8-quinolinol-F
+Gm43413-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gm43413-T,Benzeneacetic acid-F
+Gm43413-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+A530041M06Rik-T,"1-Heptanol, 2-propyl--F"
+A530041M06Rik-T,2-Cyanobenzaldehyde-F
+A530041M06Rik-T,5-Nitroso-8-quinolinol-F
+A530041M06Rik-T,Benzeneacetic acid-F
+A530041M06Rik-T,Chlorobenzilate-F
+A530041M06Rik-T,Luciferin-F
+A530041M06Rik-T,Sulindac-F
+Gm42989-T,"2-Butene-1,4-diol-F"
+Gm42989-T,5-Nitroso-8-quinolinol-F
+Gm42989-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Gm42989-T,L-Threonine-F
+Gm42989-T,Sulindac-F
+Gm42989-T,Trimethylolpropane-F
+Gm42482-T,"1-Heptanol, 2-propyl--F"
+Gm42482-T,"2-Butene-1,4-diol-F"
+Gm42482-T,2-Cyanobenzaldehyde-F
+Gm42482-T,4-Methylvaleric acid-F
+Gm42482-T,5-Nitroso-8-quinolinol-F
+Gm42482-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gm42482-T,Benzeneacetic acid-F
+Gm42482-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Gm43765-T,"1-Heptanol, 2-propyl--F"
+Gm43765-T,2-Cyanobenzaldehyde-F
+Gm43765-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Gm43765-T,Benzeneacetic acid-F
+Gm43765-T,Chlorobenzilate-F
+Gm43765-T,Sulindac-F
+Gm43765-T,Tyr-Val-F
+Gm3364-T,"1-Heptanol, 2-propyl--F"
+Gm3364-T,"2-Butene-1,4-diol-F"
+Gm3364-T,2-Cyanobenzaldehyde-F
+Gm3364-T,"4,5-Dihydro-1H-pyrazole-F"
+Gm3364-T,Benzeneacetic acid-F
+Gm3364-T,Chlorobenzilate-F
+Gm3364-T,Sulindac-F
+Gm3364-T,Tyr-Val-F
+Gm43751-T,"4,5-Dihydro-1H-pyrazole-F"
+Gm43751-T,Benzeneacetic acid-F
+Gm43751-T,L-Glutamic acid-F
+Gm43751-T,L-Threonine-F
+Gm43751-T,Lupinine-F
+Gm43751-T,Sulindac-F
+Gm43663-T,"2-Butene-1,4-diol-F"
+Gm43663-T,"3,3-Dimethylacrylic acid-F"
+Gm43663-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gm43663-T,Adipoyl-L-carnitine-F
+Gm43663-T,Benzeneacetic acid-F
+Gm43663-T,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester-F"
+Gm43663-T,L-Threonine-F
+Gm43663-T,Tyr-Val-F
+Gm43009-T,"2-Butene-1,4-diol-F"
+Gm43009-T,"Naringenin 4',7-dimethylether-F"
+Gm43009-T,Sulindac-F
+Gm43187-T,"1-Heptanol, 2-propyl--F"
+Gm43187-T,1-Octadecanol-F
+Gm43187-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Gm43187-T,L-Threonine-F
+Gm43187-T,Sulindac-F
+Gm19439-T,5-Nitroso-8-quinolinol-F
+Gm19439-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gm19439-T,6-Nitroveratryl alcohol-F
+Gm19439-T,Aceturic acid-F
+Gm19439-T,Benzeneacetic acid-F
+Gm19439-T,"Benzoic acid, methyl ester-F"
+Gm19439-T,Chlorobenzilate-F
+Gm19439-T,Octadecanoic acid-F
+Gm19439-T,Sulindac-F
+Gm43258-T,Benzeneacetic acid-F
+Gm43311-T,"3,3-Dimethylacrylic acid-F"
+Gm43311-T,Benzeneacetic acid-F
+Gm43420-T,5-Nitroso-8-quinolinol-F
+Gm43420-T,Benzeneacetic acid-F
+Gm43420-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Gm43420-T,Tyr-Val-F
+Gm42679-T,Phthalazin-1-one-F
+Gm43677-T,Phthalazin-1-one-F
+Gm42442-T,"2-Butene-1,4-diol-F"
+Gm42442-T,"3,3-Dimethylacrylic acid-F"
+Gm42442-T,L-Threonine-F
+Gm42442-T,"N,N-Dimethyl-2-aminoethanol-F"
+Gm42771-T,Lupinine-F
+Gm42771-T,Prostaglandin-F
+Gm42771-T,Vanillylmandelic acid-F
+Gm43176-T,5-Nitroso-8-quinolinol-F
+Gm43176-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gm43176-T,Benzeneacetic acid-F
+Gm43176-T,Chlorobenzilate-F
+Gm43176-T,L-Tyrosine-F
+Gm43176-T,Lupinine-F
+Gm43176-T,Thymol-F
+Gm43176-T,Tyr-Val-F
+Gm43795-T,"2-Butene-1,4-diol-F"
+Gm43795-T,5-Nitroso-8-quinolinol-F
+Gm43795-T,Benzeneacetic acid-F
+Gm43795-T,L-Threonine-F
+Gm43795-T,Sulindac-F
+Gm43795-T,Trimethylolpropane-F
+Gm20559-T,"2-Butene-1,4-diol-F"
+Gm20559-T,Chlorobenzilate-F
+Gm42727-T,Benzeneacetic acid-F
+Gm42727-T,"l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester-F"
+Gm42727-T,Luciferin-F
+Gm42727-T,Tyr-Val-F
+Peg13-T,"1-Heptanol, 2-propyl--F"
+Peg13-T,2-Cyanobenzaldehyde-F
+Peg13-T,Chlorobenzilate-F
+Peg13-T,L-Glutamic acid-F
+Peg13-T,Nonanoic acid-F
+Peg13-T,Tyr-Val-F
+Gm43417-T,1-(tert-Butyldimethylsilyl)-4-methyl-1H-pyrazole-F
+Gm43417-T,"1-Heptanol, 2-propyl--F"
+Gm43417-T,2-Cyanobenzaldehyde-F
+Gm43417-T,2-Pentadecanone-F
+Gm43417-T,"4,5-Dihydro-1H-pyrazole-F"
+Gm43417-T,"5-Chlorovaleric acid, nonyl ester-F"
+Gm43417-T,"6,7,4'-Trihydroxyisoflavone-F"
+Gm43417-T,"6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol-F"
+Gm43417-T,alpha-Hydroxyisobutyric acid-F
+Gm43417-T,Benzeneacetic acid-F
+Gm43417-T,Butachlor ESA-F
+Gm43417-T,Diacetyl monoxime-F
+Gm43417-T,Diethylamine-F
+Gm43417-T,Formamide-F
+Gm43417-T,Isonicotinic Acid-F
+Gm43417-T,L-Glutamine-F
+Gm43417-T,N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine-F
+Gm43417-T,Octanoic acid-F
+Gm43417-T,Oxalic acid-F
+Gm43417-T,Propylene glycol-F
+Gm42853-T,"2-Butene-1,4-diol-F"
+Gm42853-T,"2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether-F"
+Gm42853-T,Benzeneacetic acid-F
+Gm42853-T,Crotonic acid-F
+Gm42853-T,Tyr-Val-F
+Gm42853-T,Uracil-F
+Gm42897-T,2-Buten-1-ol-F
+Gm42897-T,"3,3-Dimethylacrylic acid-F"
+Gm42897-T,5-Nitroso-8-quinolinol-F
+Gm42897-T,Chlorobenzilate-F
+Gm42897-T,L-Threonine-F
+Gm42600-T,"1-Heptanol, 2-propyl--F"
+Gm42600-T,2-Cyanobenzaldehyde-F
+Gm42600-T,Benzeneacetic acid-F
+Gm42600-T,Chlorobenzilate-F
+Gm42600-T,Glycine-F
+Gm42600-T,Oxalic acid-F
+Gm42600-T,Tyr-Val-F
