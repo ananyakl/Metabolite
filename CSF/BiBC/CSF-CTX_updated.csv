@@ -391,7 +391,7 @@ Mterf1b-T,1-Octadecanol-F
 Mterf1b-T,5-Azacytosine-F
 Mterf1b-T,Benzophenone-F
 Mterf1b-T,Glycerol-F
-UNKNOWN-T,"Erythrono-1,4-lactone-F"
+UNKNOWN_1343-T,"Erythrono-1,4-lactone-F"
 Fpgt-T,2-Furoic acid-F
 Fpgt-T,"3,5-Dimethylphenol-F"
 Srcap-T,"Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester-F"
@@ -465,7 +465,7 @@ Rpl31-T,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) es
 Heg1-T,"(2,5-Dimethoxyphenyl)acetone-F"
 Heg1-T,L-Threonine-F
 Heg1-T,m-Toluic acid-F
-UNKNOWN-T,Tetrahydro-solasodine triacetate-F
+UNKNOWN_1454-T,Tetrahydro-solasodine triacetate-F
 Ppil6-T,"3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-F"
 Ppil6-T,"l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester-F"
 Ppil6-T,Salsoline-F
