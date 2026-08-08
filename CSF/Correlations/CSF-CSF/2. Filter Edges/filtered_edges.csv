@@ -1,4 +1,340 @@
 Gene,Metabolite,VECPAC r,LPS r,DSS r,Pooled Data r,Pooled P-value,Consistent,Sign
+"(2,5-Dimethoxyphenyl)acetone","(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester",0.5,0.6087595874350709,-0.15389675281277312,0.3105734406203723,0.27981800895530207,False,
+"(2,5-Dimethoxyphenyl)acetone",(4-Fluorophenyl)phenylmethanol,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","(9H-fluoren-9-yl)methanol, O-methoxycarbonyl-",-0.5,-0.7826908981308054,-0.3,-0.47304759098159954,0.08757002771574116,True,-
+"(2,5-Dimethoxyphenyl)acetone","3,4,5-Trimethoxyamphetamine",,-0.7142857142857143,0.39999999999999997,-0.2087912087912088,0.49362181935688504,False,
+"(2,5-Dimethoxyphenyl)acetone",Oxypeucedanin,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","1-(1-Hydroxybutyl)-2,5-dimethoxybenzene ",,0.7999999999999999,0.7999999999999999,0.18787878787878787,0.6032176100292089,True,+
+"(2,5-Dimethoxyphenyl)acetone","1-(2,4-Dimethoxyphenyl)-propan-2-one",-0.5,-0.11180339887498947,-0.09999999999999999,-0.15469849363075233,0.6138204558448682,True,-
+"(2,5-Dimethoxyphenyl)acetone","1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine",0.5,-0.49280538030458115,0.49999999999999994,0.17381748691882032,0.5523230858668635,False,
+"(2,5-Dimethoxyphenyl)acetone","1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone",,0.08571428571428573,-0.7999999999999999,0.07692307692307691,0.8027630076692551,False,
+"(2,5-Dimethoxyphenyl)acetone",1-(Cyclohexylmethyl)-4-piperidinylamine,,-0.09999999999999999,0.5,-0.41818181818181815,0.22911284098281895,False,
+"(2,5-Dimethoxyphenyl)acetone",1-(tert-Butyldimethylsilyl)-4-methyl-1H-pyrazole,0.5,0.09107651110783746,0.7999999999999999,0.18322474380399187,0.530665355012191,True,+
+"(2,5-Dimethoxyphenyl)acetone","1,2,4-Butanetriol, (S)",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","1,2-Benzenedicarboxylic acid, butyl octyl ester",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","1,2-Bis(trimethylsiloxy)cyclohexene",,,,-0.5,0.6666666666666666,False,
+"(2,5-Dimethoxyphenyl)acetone","1,2-Cinnolinedicarboxylic acid, 1,2,3,5,6,7,8,8a-octahydro-4-trimethylsilyloxy-, diethyl ester",,,-0.5,-0.39999999999999997,0.6,False,
+"(2,5-Dimethoxyphenyl)acetone","1,2-Cyclohexanediol, (Z)",,-0.1449427589131121,0.6668859288553501,0.16804471478509211,0.5831622245603262,False,
+"(2,5-Dimethoxyphenyl)acetone","1,3-Butanediamine",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans-",1.0,0.08827348295047495,0.10259783520851541,0.13009993989092644,0.6575511508762721,True,+
+"(2,5-Dimethoxyphenyl)acetone","1,3-Propanediol",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",10-Undecynoic acid,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","13-Docosenamide, (Z)",,0.5,,0.5,0.6666666666666666,False,
+"(2,5-Dimethoxyphenyl)acetone",1-Butanol,,,-0.5,-0.1785714285714286,0.7016579425162728,False,
+"(2,5-Dimethoxyphenyl)acetone","1-Heptanol, 2-propyl-",,0.057977103565244846,,0.057977103565244846,0.9131317851623264,False,
+"(2,5-Dimethoxyphenyl)acetone",1-Hexacosanol,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",1-Octadecanol,,0.49999999999999994,1.0,0.7,0.03576957497026173,True,+
+"(2,5-Dimethoxyphenyl)acetone","1-Octanol, 2-butyl-",1.0,0.5590653920196746,0.8999999999999998,0.281939009924877,0.3287813974362653,True,+
+"(2,5-Dimethoxyphenyl)acetone","1-Pentene, 1,3-diphenyl-1-(trimethylsilyloxy)-",,,,0.39999999999999997,0.6,False,
+"(2,5-Dimethoxyphenyl)acetone","2(1H)-Quinolinone, 3-[3-(4-methoxyphenyl)-1-oxo-2-propen-1-yl]-4-phenyl",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","2(5H)-Furanone, 4-(hydroxymethyl)",0.5,0.2898855178262242,-0.20519567041703082,0.3436131683459438,0.22902522071684897,False,
+"(2,5-Dimethoxyphenyl)acetone","2-(Ethylamino)ethanol, N-acetyl",0.0,-0.5161002296110789,0.3354101966249684,-0.14873106063951574,0.6118363781150286,False,
+"(2,5-Dimethoxyphenyl)acetone",2-(Methylamino)ethanol,1.0,-0.1449427589131121,0.19999999999999998,0.1584159374450008,0.5885690796887758,False,
+"(2,5-Dimethoxyphenyl)acetone","2,2'-Bipyridine",-0.5,0.11595420713048969,0.6668859288553501,0.1585906930827433,0.5881525241520347,False,
+"(2,5-Dimethoxyphenyl)acetone","2,3-Butanediol, O-(trimethylsilyl)-, monoacetate",-1.0,0.6668859288553501,-0.6668859288553501,-0.14325123227581624,0.6405875298469966,False,
+"(2,5-Dimethoxyphenyl)acetone","2,3-Dihydroxybutanoic acid",,-0.39999999999999997,-0.316227766016838,-0.20668788485122197,0.5666951380068741,True,-
+"(2,5-Dimethoxyphenyl)acetone","2',3'-Di-O-acetyladenosine",,0.5,,0.5357142857142858,0.21521745567801284,False,
+"(2,5-Dimethoxyphenyl)acetone","2,4,4'-Trihydroxybenzophenone",-0.5,0.7714285714285715,0.8207826816681233,0.3520354165444462,0.21706023268083177,False,
+"(2,5-Dimethoxyphenyl)acetone","2,4,6-Cycloheptatrien-1-one",-0.5,-0.5,-0.5,-0.5,0.1704706607870538,True,-
+"(2,5-Dimethoxyphenyl)acetone","2,4-Dihydroxyacetophenone",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","2,4-Dimethoxybenzaldoxime",,,,0.5,0.6666666666666666,False,
+"(2,5-Dimethoxyphenyl)acetone","2,4-Di-tert-butylphenol",-1.0,,0.6,-0.2333333333333333,0.5456987782182728,False,
+"(2,5-Dimethoxyphenyl)acetone","2,4-Imidazolidinedione, 5,5-dimethyl",-1.0,-0.2898855178262242,0.7,-0.10561062496333386,0.7193527006616556,False,
+"(2,5-Dimethoxyphenyl)acetone","2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole",,-0.2571428571428572,0.19999999999999998,-0.20979020979020982,0.512840943181826,False,
+"(2,5-Dimethoxyphenyl)acetone","2,5-Dimethoxybenzhydrazide",,0.5428571428571429,-0.3,0.19230769230769232,0.5290679872349875,False,
+"(2,5-Dimethoxyphenyl)acetone","2,5-Dimethoxybenzonitrile",1.0,0.4285714285714286,-0.09999999999999999,0.3274725274725274,0.25307100077194056,False,
+"(2,5-Dimethoxyphenyl)acetone","2,5-Dimethoxyphenol",1.0,0.6,-0.09999999999999999,0.37142857142857144,0.19102081204361632,False,
+"(2,5-Dimethoxyphenyl)acetone","2',5'-Dimethoxypropiophenone",0.5,0.14285714285714288,-0.3,0.16043956043956045,0.583752752641341,False,
+"(2,5-Dimethoxyphenyl)acetone","2,6-di-tert-Butyl-4-(dimethylaminomethyl)phenol",-0.5,-0.39999999999999997,-0.5,-0.406060606060606,0.24428229408662652,True,-
+"(2,5-Dimethoxyphenyl)acetone","2-Allyl-1,4-dimethoxybenzene",-1.0,-0.4285714285714286,0.15811388300841897,-0.3237893317106009,0.25876371378813134,False,
+"(2,5-Dimethoxyphenyl)acetone",2-Amino-4-methylbenzophenone,1.0,0.7,-0.7999999999999999,0.11538461538461539,0.7073898735142603,False,
+"(2,5-Dimethoxyphenyl)acetone",2-Aminoquinolin-8-ol,,,,1.0,0.0,False,
+"(2,5-Dimethoxyphenyl)acetone",2-Butanol,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",2-Buten-1-ol,,,0.5,-0.25,0.5887244480896834,False,
+"(2,5-Dimethoxyphenyl)acetone","2-Butene-1,4-diol",,0.19999999999999998,,-0.14285714285714288,0.7871720116618076,False,
+"(2,5-Dimethoxyphenyl)acetone",2-Butenedioic acid,,0.14285714285714288,-0.7,0.07692307692307691,0.8027630076692551,False,
+"(2,5-Dimethoxyphenyl)acetone","2-Butenoic acid, 3-[(tert-butyldimethylsilyl)oxy]",-0.8660254037844387,0.08571428571428573,-0.41039134083406165,-0.22467014853388634,0.4399868566179323,False,
+"(2,5-Dimethoxyphenyl)acetone",2-Butoxyethanol,-0.5,0.7142857142857143,0.8999999999999998,0.45054945054945056,0.10593278527264065,False,
+"(2,5-Dimethoxyphenyl)acetone",2-Cyanobenzaldehyde,,0.49999999999999994,,0.7142857142857143,0.11078717201166179,False,
+"(2,5-Dimethoxyphenyl)acetone","2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl)",-0.5,-0.09999999999999999,-0.6,-0.41208791208791207,0.16175105277252644,True,-
+"(2,5-Dimethoxyphenyl)acetone","2-Cyclohexen-1-one, 3-methyl-",-0.5,0.3714285714285715,0.0,-0.06813186813186813,0.8169838797817922,False,
+"(2,5-Dimethoxyphenyl)acetone",2-Decanol,,0.09999999999999999,0.8207826816681233,0.07005264683383464,0.8287278541011254,True,+
+"(2,5-Dimethoxyphenyl)acetone",2-Ethyl-1-butanol,,0.5,1.0,0.7714285714285715,0.07239650145772594,True,+
+"(2,5-Dimethoxyphenyl)acetone",2-Ethylhexanoic acid,-1.0,-0.2898855178262242,-0.11180339887498947,-0.17458829995470623,0.5505344383978736,True,-
+"(2,5-Dimethoxyphenyl)acetone",2-Ethylhexanol,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","2-Furancarbodithioic acid, methyl ester",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",2-Furoic acid,0.5,-0.6000000000000001,0.8999999999999998,0.37762237762237766,0.22620604493502647,False,
+"(2,5-Dimethoxyphenyl)acetone",2-Hexanol,-1.0,0.316227766016838,-0.7999999999999999,-0.39579745461116567,0.2028076432500999,False,
+"(2,5-Dimethoxyphenyl)acetone","2'-Hydroxy-2,4,4',5-tetramethoxychalcone",0.8660254037844387,0.46381682852195877,0.7999999999999999,0.66391436497061,0.013338924984693008,True,+
+"(2,5-Dimethoxyphenyl)acetone","2-Hydroxy-2',4',6'-trimethoxychalcone",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",2-Hydroxy-3-methylbutyric acid,,0.08571428571428573,0.8999999999999998,0.2582417582417582,0.3942840173973615,True,+
+"(2,5-Dimethoxyphenyl)acetone","2-Hydroxymethyl-17alpha-methylandrosta-1,4-diene-11alpha,17beta-diol-3-one",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",2-Isopropyl-5-methyl-1-heptanol,,,,-1.0,0.0,False,
+"(2,5-Dimethoxyphenyl)acetone","2-Methyl-1,3-butanediol",-0.5,-0.9276336570439175,0.7,-0.2486250129345151,0.39138147165073434,False,
+"(2,5-Dimethoxyphenyl)acetone",2-Methyl-3-pentanol,,0.7999999999999999,1.0,0.8571428571428572,0.006530017254715293,True,+
+"(2,5-Dimethoxyphenyl)acetone","2-Methylcyclohexanol, (Z)",-0.5,0.40583972495671394,0.8720815992723809,0.2907496039850294,0.31323162956586054,False,
+"(2,5-Dimethoxyphenyl)acetone","2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether",,0.7999999999999999,0.0,0.2882999880625789,0.5306506599466652,False,
+"(2,5-Dimethoxyphenyl)acetone",2-Naphthol,0.8660254037844387,0.3236694374850748,0.8999999999999998,0.43219641048511165,0.12275037576290708,True,+
+"(2,5-Dimethoxyphenyl)acetone",2-Norbornanemethanol,,,,-0.5,0.6666666666666666,False,
+"(2,5-Dimethoxyphenyl)acetone","2-Oxiraneethanol, 2-t-butyldimethysilyloxymethyl- acetate",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",2-Pentadecanone,0.0,0.7589709258986453,0.8999999999999998,0.6828833504557497,0.007110635060572798,False,
+"(2,5-Dimethoxyphenyl)acetone","2-Pivaloyl-1,3-indandione",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",2-Propyl-1-pentanol,,0.7714285714285715,0.7999999999999999,0.6153846153846154,0.033169901090105904,True,+
+"(2,5-Dimethoxyphenyl)acetone",2-Pyrrolidone-5-carboxylic acid,-0.5,-0.48571428571428577,-0.22360679774997894,-0.36865701464176676,0.1946136976559927,True,-
+"(2,5-Dimethoxyphenyl)acetone","2-Thiophenecarboxylic acid, 4-cyanophenyl ester",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal",0.5,0.5428571428571429,-0.09999999999999999,0.1824175824175824,0.5325088185186945,False,
+"(2,5-Dimethoxyphenyl)acetone",3-(4-Methoxyphenyl)coumarin,,-1.0,,-0.7999999999999999,0.2000000000000001,False,
+"(2,5-Dimethoxyphenyl)acetone","3,3-Bis{4-[(trimethylsilyl)oxy]phenyl}-2-benzofuran-1(3H)-one",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","3,3-Dimethylacrylic acid",,,,-0.19999999999999998,0.8,False,
+"(2,5-Dimethoxyphenyl)acetone","3,4-Dihydroxybenzaldehyde",-1.0,,,-1.0,0.0,False,
+"(2,5-Dimethoxyphenyl)acetone","3,4-Methylenedioxyamphetamine",-1.0,-0.6000000000000001,,-0.5,0.1704706607870538,True,-
+"(2,5-Dimethoxyphenyl)acetone","3,5-Dimethoxy-4-(tert.-butyldimethylsilyl)oxybenzaldehyde",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","3,5-Dimethylphenol",-0.5,0.19999999999999998,0.8999999999999998,0.521978021978022,0.06729171199351021,False,
+"(2,5-Dimethoxyphenyl)acetone",3-Amino-5-methylisoxazole,,0.6571428571428573,0.8207826816681233,0.2255848076310991,0.45867079393927446,True,+
+"(2,5-Dimethoxyphenyl)acetone",3-Aminobenzoic acid,,-0.4285714285714286,0.6668859288553501,0.03851447935165106,0.9005882601420017,False,
+"(2,5-Dimethoxyphenyl)acetone",3-Buten-2-one,0.5,0.6,0.8999999999999998,0.6087912087912088,0.020856616017223235,True,+
+"(2,5-Dimethoxyphenyl)acetone",3-Heptanol,-1.0,-0.8406680016960503,-0.19999999999999998,-0.5859702929929769,0.03533692471825445,True,-
+"(2,5-Dimethoxyphenyl)acetone","3-Hydroxy-7,3',4',5'-tetramethoxyflavone",,,,0.7,0.1881204043741873,False,
+"(2,5-Dimethoxyphenyl)acetone",3-Hydroxymethyl-2-trimethylsilyloxypentane,,0.7,,0.7714285714285715,0.07239650145772594,False,
+"(2,5-Dimethoxyphenyl)acetone",3-Methyl-3-buten-1-ol,,1.0,,0.3233590907165799,0.4346394485508574,False,
+"(2,5-Dimethoxyphenyl)acetone",3-Nonene,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",3-Phenyl oxindole,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","4,4'-Dichlorobenzophenone",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","4,5-Dihydro-1H-pyrazole",,,0.5,-0.09999999999999999,0.8728885715695384,False,
+"(2,5-Dimethoxyphenyl)acetone","4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol",-0.5,-0.2608969660436018,0.41039134083406165,-0.026431782180457216,0.928531584478003,False,
+"(2,5-Dimethoxyphenyl)acetone",4-Aminobutanoic acid,-0.5,-0.3714285714285715,-0.39999999999999997,-0.43736263736263736,0.11784483174447688,True,-
+"(2,5-Dimethoxyphenyl)acetone",4-Hydroxybutanoic acid,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",4-Methoxyphenol,1.0,-0.19999999999999998,,0.08333333333333334,0.831214097710308,False,
+"(2,5-Dimethoxyphenyl)acetone","4-Methylquinoline-2,7-diol",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",4-Methylvaleric acid,-1.0,0.7999999999999999,-0.09999999999999999,-0.054945054945054944,0.8585042942308734,False,
+"(2,5-Dimethoxyphenyl)acetone",4-Oxohexanoic acid,-1.0,-0.6000000000000001,0.7999999999999999,0.1258741258741259,0.696683109395766,False,
+"(2,5-Dimethoxyphenyl)acetone","4-Phenyl-2,3-dihydro-1H-1,5-benzodiazepin-2-one",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",4-tert-Butyldimethylsiloxy-3-penten-2-one,,0.39999999999999997,,0.8285714285714287,0.04156268221574335,False,
+"(2,5-Dimethoxyphenyl)acetone",5-Aminovaleric acid,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",5-Azacytosine,0.5,0.46381682852195877,0.6,0.48624891910201623,0.07789960750661182,True,+
+"(2,5-Dimethoxyphenyl)acetone","5-Chlorovaleric acid, nonyl ester",0.0,0.08571428571428573,0.7999999999999999,0.2178219139868761,0.4544107943236176,False,
+"(2,5-Dimethoxyphenyl)acetone","5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether",-0.5,-0.39999999999999997,-0.7999999999999999,-0.6272727272727273,0.03884525362035333,True,-
+"(2,5-Dimethoxyphenyl)acetone",5-Ethyl-5-methylnonadecane,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",5-Hydroxy-7-methoxy-2-methyl-3-phenyl-4-chromenone,,0.753702346348183,-0.39999999999999997,-0.054669845709384636,0.8731599802319701,False,
+"(2,5-Dimethoxyphenyl)acetone",5-Nitroso-8-quinolinol,,,,-0.8720815992723809,0.05385421772754213,False,
+"(2,5-Dimethoxyphenyl)acetone","5-Nonanol, tert-butyldimethylsilyl ether",-1.0,0.2942449431682498,0.7999999999999999,0.15418539605266712,0.5986890438161956,False,
+"(2,5-Dimethoxyphenyl)acetone",5-Oxohexanoic Acid,0.5,0.5217939320872036,0.20519567041703082,0.21365690595869583,0.4632948555009797,True,+
+"(2,5-Dimethoxyphenyl)acetone","6,7,4'-Trihydroxyisoflavone",-0.5,0.8696565534786727,0.7,0.5808584372983363,0.029390055437154772,False,
+"(2,5-Dimethoxyphenyl)acetone","6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)",0.8660254037844387,1.0,0.9746794344808964,0.6701795640604913,0.017090393169504694,True,+
+"(2,5-Dimethoxyphenyl)acetone","6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ",,0.0,-0.10540925533894598,0.17573375583870182,0.6510838503222887,False,
+"(2,5-Dimethoxyphenyl)acetone",6-Methyluracil,-1.0,-0.2898855178262242,0.7,-0.18921903639263984,0.5170638772864485,False,
+"(2,5-Dimethoxyphenyl)acetone",6-Nitroveratryl alcohol,,1.0,,0.3,0.623837664781073,False,
+"(2,5-Dimethoxyphenyl)acetone",6-Oxoheptanoic acid,-0.8660254037844387,0.5428571428571429,0.7181848464596079,0.23568339110907688,0.41727836223227616,False,
+"(2,5-Dimethoxyphenyl)acetone","7(S),17(S)-Dihydroxy-8(E),10(Z),13(Z),15(E),19(Z)-docosapentaenoic acid",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",7-Hydroxy-4-(methoxymethyl)coumarin,,1.0,,0.8857142857142858,0.01884548104956266,False,
+"(2,5-Dimethoxyphenyl)acetone",8-Acetyl-7-hydroxycoumarin,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",8-Methylnonanoic acid,-1.0,0.3478626213914691,0.7999999999999999,0.16501660150520914,0.5729185122712153,False,
+"(2,5-Dimethoxyphenyl)acetone","9,12-Octadecadienoic acid (Z,Z)",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",9-Ethyl-N-(trimethylsilyl)-9H-carbazol-3-amine,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","9H-Xanthen-9-one, 1-hydroxy-3,5,6-trimethoxy",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","9Z-Octadecenoic acid, (2S)-3-[(hydroxymercaptophosphinyl)oxy]-2-methoxypropyl ester ",,0.0,,-0.2142857142857143,0.6103444156452668,False,
+"(2,5-Dimethoxyphenyl)acetone",Acetic acid,0.8660254037844387,-0.5246313898711126,0.8944271909999157,0.215568862686201,0.45920621258446814,False,
+"(2,5-Dimethoxyphenyl)acetone",Aceturic acid,0.5,0.4285714285714286,0.39999999999999997,0.2692307692307692,0.37373304228189164,True,+
+"(2,5-Dimethoxyphenyl)acetone",Aconitic acid,0.5,0.057977103565244846,-0.6668859288553501,-0.11894301981205749,0.6854819812801608,False,
+"(2,5-Dimethoxyphenyl)acetone",Adenine,,0.6,0.8999999999999998,0.7692307692307694,0.00344645026182745,True,+
+"(2,5-Dimethoxyphenyl)acetone",Adipic acid,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Adipoyl-L-carnitine,,1.0,0.5,0.14285714285714288,0.7599453002180928,True,+
+"(2,5-Dimethoxyphenyl)acetone",alpha-Hydroxyisobutyric acid,,0.6,1.0,0.25,0.5164895523012261,True,+
+"(2,5-Dimethoxyphenyl)acetone",Allylescaline,1.0,0.26482044885142486,-0.30779350562554625,0.037486423358402535,0.898760344498624,False,
+"(2,5-Dimethoxyphenyl)acetone",Aminoguanidine,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Aniline,-0.5,0.6,0.7999999999999999,0.3934065934065934,0.16403157340077776,False,
+"(2,5-Dimethoxyphenyl)acetone",Azelaic acid,-0.5,0.753702346348183,0.8999999999999998,0.2134214712800705,0.4637995378995399,False,
+"(2,5-Dimethoxyphenyl)acetone","Aziridine, 1-(2-buten-2-yl)",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","Benz[a]anthracene-1,7,12(2H)-trione, 3,4-dihydro-8-hydroxy-3-methyl-, (3S)",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","Benz[c]acridine, 5,10-dimethyl",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","Benzaldehyde, 2,5-dimethoxy",0.8660254037844387,-0.2070196678027063,-0.7071067811865475,0.08561186344841122,0.7710522666967269,False,
+"(2,5-Dimethoxyphenyl)acetone","Benzene, 1,4-dimethoxy",0.8660254037844387,0.5428571428571429,0.20519567041703082,0.5066091584587633,0.06450219258073488,True,+
+"(2,5-Dimethoxyphenyl)acetone","Benzene, 1-acetoxy-2,6-dimethoxy-4-(2-propenyl)",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","Benzene, 1-ethyl-3,5-dimethyl",,,,0.39999999999999997,0.6,False,
+"(2,5-Dimethoxyphenyl)acetone",Benzeneacetic acid,,-0.5,,0.4285714285714286,0.3965014577259473,False,
+"(2,5-Dimethoxyphenyl)acetone",Benzenepropanoic acid,-1.0,0.44136741475237473,-0.8999999999999998,-0.41409792082716307,0.1410214290131628,False,
+"(2,5-Dimethoxyphenyl)acetone","Benzenesulfonamide, N-butyl",-1.0,0.6377481392176932,0.8999999999999998,0.5258529034632665,0.05343661941685603,False,
+"(2,5-Dimethoxyphenyl)acetone","Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester ",1.0,0.028988551782622423,0.39999999999999997,0.0968097395497227,0.7419808198687496,True,+
+"(2,5-Dimethoxyphenyl)acetone","Benzoic acid, methyl ester",1.0,0.942857142857143,-0.09999999999999999,0.44175824175824174,0.11377750302872344,False,
+"(2,5-Dimethoxyphenyl)acetone",Benzoic Acid,0.0,-0.9411239481143202,-0.15389675281277312,-0.2544303829065145,0.3800470027822136,False,
+"(2,5-Dimethoxyphenyl)acetone",Benzophenone,,0.6,0.6668859288553501,0.5364516766837113,0.05875579719812923,True,+
+"(2,5-Dimethoxyphenyl)acetone",Benzyl alcohol,-0.5,-0.2571428571428572,0.39999999999999997,-0.14285714285714285,0.6261174762253241,False,
+"(2,5-Dimethoxyphenyl)acetone",Biphenyl,-0.5,-0.2571428571428572,0.3,-0.16923076923076924,0.5630172739962107,False,
+"(2,5-Dimethoxyphenyl)acetone",Butachlor ESA,,0.39999999999999997,0.7999999999999999,0.23636363636363633,0.5108853175152,True,+
+"(2,5-Dimethoxyphenyl)acetone",Butanedioic acid,-1.0,0.14285714285714288,0.39999999999999997,0.2703296703296703,0.34991938634960434,False,
+"(2,5-Dimethoxyphenyl)acetone",Butylmethylamine,0.5,-0.5428571428571429,-0.35909242322980395,-0.3828385154920852,0.17667778719297414,False,
+"(2,5-Dimethoxyphenyl)acetone",Butyric Acid,-0.5,-0.20291986247835697,0.0,-0.2178219139868761,0.4544107943236176,False,
+"(2,5-Dimethoxyphenyl)acetone",Chlorobenzilate ,,,-1.0,-0.6,0.28475697986529386,False,
+"(2,5-Dimethoxyphenyl)acetone",Cholesterol,-1.0,-0.4285714285714286,0.8999999999999998,-0.06813186813186813,0.8169838797817922,False,
+"(2,5-Dimethoxyphenyl)acetone",cis-2-Decenoic acid,,,,-1.0,0.0,False,
+"(2,5-Dimethoxyphenyl)acetone",Citramalic acid,-0.8660254037844387,0.41039134083406165,0.7,0.5289276268645523,0.06309112889904989,False,
+"(2,5-Dimethoxyphenyl)acetone",Crotonic acid,-1.0,0.3946648814672956,0.41039134083406165,0.04419956960878639,0.8807390513457443,False,
+"(2,5-Dimethoxyphenyl)acetone",Curcumin,0.5,0.8857142857142858,0.49999999999999994,0.37142857142857144,0.19102081204361632,True,+
+"(2,5-Dimethoxyphenyl)acetone",Cyclobutylamine,1.0,0.028988551782622423,0.09999999999999999,-0.011001106767013944,0.9702256662352539,False,
+"(2,5-Dimethoxyphenyl)acetone",Cyclocurcumin,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Cycloheptanol,0.5,0.8406680016960503,0.8999999999999998,0.6028606508323641,0.022488006783151847,True,+
+"(2,5-Dimethoxyphenyl)acetone","Cyclohexanone, 3,3,5-trimethyl",1.0,0.49999999999999994,-0.09999999999999999,0.39560439560439564,0.1808891631049407,False,
+"(2,5-Dimethoxyphenyl)acetone",Cyclooctylamine,1.0,0.3142857142857143,-0.20519567041703082,0.04840486977486135,0.8694767612383197,False,
+"(2,5-Dimethoxyphenyl)acetone","Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester",1.0,0.1449427589131121,0.49999999999999994,0.10341040360993106,0.7249905123330245,True,+
+"(2,5-Dimethoxyphenyl)acetone","Cytosine, N-(tert-butyldimethylsilyl)-",0.8660254037844387,0.5428571428571429,0.8999999999999998,0.6886692836150728,0.006457307800008827,True,+
+"(2,5-Dimethoxyphenyl)acetone",Desmethylverapamil,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Diacetyl monoxime,0.0,0.08571428571428573,0.8999999999999998,0.2486250129345151,0.39138147165073434,False,
+"(2,5-Dimethoxyphenyl)acetone",Dibutyldodecylamine,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Diclofenac,,,0.316227766016838,0.028988551782622423,0.9565293523898406,False,
+"(2,5-Dimethoxyphenyl)acetone",Diethylamine,1.0,0.753702346348183,0.39999999999999997,0.5082511326360442,0.06349899636712993,True,+
+"(2,5-Dimethoxyphenyl)acetone",DL-Glyceraldehyde,0.8660254037844387,0.3714285714285715,-0.051298917604257706,-0.09911918317671456,0.7360233837556448,False,
+"(2,5-Dimethoxyphenyl)acetone",DL-p-Hydroxyphenyllactic acid,-0.5,0.6155870112510925,1.0,0.49737379252022584,0.09991387241786226,False,
+"(2,5-Dimethoxyphenyl)acetone","Dodecanoic acid, 1-methylethyl ester",0.5,0.5428571428571429,0.8999999999999998,0.6747252747252748,0.008117706397553255,True,+
+"(2,5-Dimethoxyphenyl)acetone",Dodecanoic acid,-0.5,-0.08571428571428573,0.8999999999999998,0.178021978021978,0.5425969526062154,False,
+"(2,5-Dimethoxyphenyl)acetone","D-Streptamine, O-6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4)-O-(3-deoxy-4-C-methyl-3-(methylamino)-beta-L-arabinopyranosyl-(1-6))-2-deoxy-",0.5,0.5507824838698261,0.7999999999999999,0.6519951147386644,0.015741399339552726,True,+
+"(2,5-Dimethoxyphenyl)acetone",Durapan,,-0.2571428571428572,0.39999999999999997,-0.013986013986013986,0.9655902689187796,False,
+"(2,5-Dimethoxyphenyl)acetone","Erythrono-1,4-lactone",-0.5,0.4285714285714286,0.3,0.26593406593406593,0.3581134003647862,False,
+"(2,5-Dimethoxyphenyl)acetone",Ethanolamine,-0.5,-0.3188740696088466,-0.8207826816681233,-0.29956019804518175,0.29811093261983196,True,-
+"(2,5-Dimethoxyphenyl)acetone",Formamide,-0.5,-0.49280538030458115,0.10259783520851541,-0.33480257428579147,0.24196906770766705,False,
+"(2,5-Dimethoxyphenyl)acetone",Frangulin,0.5,0.9486832980505139,0.7999999999999999,0.5968124823274489,0.05257593092309145,True,+
+"(2,5-Dimethoxyphenyl)acetone",Glabridin,,,0.5,0.6,0.208,False,
+"(2,5-Dimethoxyphenyl)acetone",Glyceric acid,,,,0.7999999999999999,0.2000000000000001,False,
+"(2,5-Dimethoxyphenyl)acetone",Glycerol,0.0,0.7142857142857143,0.7999999999999999,0.39383962225909913,0.1635263888853332,False,
+"(2,5-Dimethoxyphenyl)acetone",Glycine,0.5,-0.20291986247835697,0.6000000000000001,-0.030261376633440123,0.9218242916131714,False,
+"(2,5-Dimethoxyphenyl)acetone","Glycine, tert.-butyldimethylsilyl ester",0.5,-0.5507824838698261,0.5642880936468347,-0.055066212875952536,0.8516846570837248,False,
+"(2,5-Dimethoxyphenyl)acetone",Glycolic acid,-0.5,-0.5797710356524484,-0.39999999999999997,-0.3520354165444462,0.21706023268083177,True,-
+"(2,5-Dimethoxyphenyl)acetone",Guanosine,,-0.39999999999999997,-0.39999999999999997,-0.5,0.1704706607870538,True,-
+"(2,5-Dimethoxyphenyl)acetone",Heptanedioic acid,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Heptanoic acid,-0.5,-0.3478626213914691,0.7181848464596079,0.04185032178572393,0.8870398801406121,False,
+"(2,5-Dimethoxyphenyl)acetone",Heptylamine,,0.09999999999999999,0.7999999999999999,0.5151515151515151,0.12755286970323432,True,+
+"(2,5-Dimethoxyphenyl)acetone",Hexacosanoic acid,,0.8720815992723809,0.7999999999999999,0.7836011218345129,0.004322990018662704,True,+
+"(2,5-Dimethoxyphenyl)acetone",Hexanoic acid,-0.5,-0.2898855178262242,0.10259783520851541,-0.3171813861654866,0.26916820930017227,False,
+"(2,5-Dimethoxyphenyl)acetone",Hydracrylic acid,-0.5,0.08571428571428573,-0.09999999999999999,-0.04615384615384615,0.875502537632114,False,
+"(2,5-Dimethoxyphenyl)acetone",Hydroxylamine,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","Hymexazole, tert-butyldimethylsilyl ether",-1.0,-0.3142857142857143,0.7,-0.221978021978022,0.445629657953609,False,
+"(2,5-Dimethoxyphenyl)acetone",Hypoxanthine,-0.5,-0.7714285714285715,0.7,-0.3626373626373627,0.20256454381724168,False,
+"(2,5-Dimethoxyphenyl)acetone",Iminodiacetic acid,-0.5,0.753702346348183,0.7181848464596079,0.3920714356767821,0.1655956269809868,False,
+"(2,5-Dimethoxyphenyl)acetone",Indoprofen,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Isobutanol,0.5,0.3714285714285715,0.316227766016838,0.35213238264366686,0.23800897666669446,True,+
+"(2,5-Dimethoxyphenyl)acetone",Isonicotinic Acid,0.5,-0.23190841426097938,0.19999999999999998,0.09460951819631992,0.7476690315403666,False,
+"(2,5-Dimethoxyphenyl)acetone",Isopropyl palmitate,0.0,0.6377481392176932,0.8999999999999998,0.5528647772745635,0.040315055643083735,False,
+"(2,5-Dimethoxyphenyl)acetone",Isopropylamine,-0.5,0.3142857142857143,-0.6,-0.23956043956043957,0.4094298928517327,False,
+"(2,5-Dimethoxyphenyl)acetone",Isosorbide,0.5,,,0.5,0.6666666666666666,False,
+"(2,5-Dimethoxyphenyl)acetone",Ketamine,-0.5,-0.3768511731740915,0.0,-0.2332234634606956,0.4222977022344997,False,
+"(2,5-Dimethoxyphenyl)acetone","Kojic acid, bis(tert-butyldimethylsilyl) ether",-1.0,-0.2571428571428572,0.8999999999999998,0.015384615384615385,0.958369789371986,False,
+"(2,5-Dimethoxyphenyl)acetone",L-(+)-Threose,,1.0,,-0.19999999999999998,0.8,False,
+"(2,5-Dimethoxyphenyl)acetone",Lactic acid,-0.5,0.40583972495671394,-0.9486832980505139,-0.3663925748592992,0.21820136906616103,False,
+"(2,5-Dimethoxyphenyl)acetone",L-Alanine,-0.8660254037844387,0.3478626213914691,0.8720815992723809,0.44983708030083047,0.10655419615935394,False,
+"(2,5-Dimethoxyphenyl)acetone",L-Asparagine,,,,0.5,0.6666666666666666,False,
+"(2,5-Dimethoxyphenyl)acetone",L-gamma-Glutamyl-L-glutamic acid,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Leucylglycine,,-0.7714285714285715,-0.7999999999999999,-0.7062937062937064,0.010245193941127849,True,-
+"(2,5-Dimethoxyphenyl)acetone",Levulinic acid,0.0,0.2942449431682498,0.41039134083406165,0.19646990600669006,0.5008240361525409,False,
+"(2,5-Dimethoxyphenyl)acetone",L-Glutamic acid,,-1.0,0.5,-0.5428571428571429,0.26570262390670546,False,
+"(2,5-Dimethoxyphenyl)acetone",L-Glutamine,0.5,0.6957252427829382,0.8999999999999998,0.5940597654187529,0.02508366416795366,True,+
+"(2,5-Dimethoxyphenyl)acetone","L-Histidine, N,1-bis(tert-butyldimethylsilyl)-",-1.0,0.3768511731740915,-0.05270462766947298,0.03528133963143768,0.9046901576772698,False,
+"(2,5-Dimethoxyphenyl)acetone",Lignoceric acid,-0.5,-0.11595420713048969,0.7,0.015401549473819522,0.9583240025471575,False,
+"(2,5-Dimethoxyphenyl)acetone",L-Leucine,0.5,0.08571428571428573,0.8720815992723809,0.16941704421201473,0.5625812800132441,True,+
+"(2,5-Dimethoxyphenyl)acetone","l-Leucine, n-butoxycarbonyl-N-methyl-, hexadecyl ester",,,-0.7999999999999999,-0.028571428571428574,0.9571545189504373,False,
+"(2,5-Dimethoxyphenyl)acetone",L-Lysine,,0.3714285714285715,-0.09999999999999999,-0.0934065934065934,0.7615000227827018,False,
+"(2,5-Dimethoxyphenyl)acetone",L-Norleucine,,-0.7,,-0.28571428571428575,0.5345092286010408,False,
+"(2,5-Dimethoxyphenyl)acetone","l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester",,-0.09999999999999999,-0.39999999999999997,-0.2727272727272727,0.4458383415427514,True,-
+"(2,5-Dimethoxyphenyl)acetone",L-Ornithine,,,,-0.19999999999999998,0.7470600781046621,False,
+"(2,5-Dimethoxyphenyl)acetone",L-Pyroglutamic acid,,-0.8660254037844387,,-0.18018749253911182,0.6990457740939315,False,
+"(2,5-Dimethoxyphenyl)acetone",L-Serine,-1.0,,,-0.19999999999999998,0.7470600781046621,False,
+"(2,5-Dimethoxyphenyl)acetone",L-Threonine,,0.39999999999999997,0.5,0.07142857142857144,0.8790481931481541,True,+
+"(2,5-Dimethoxyphenyl)acetone",L-Tryptophan,0.8660254037844387,0.2,0.8999999999999998,0.5478551169972944,0.04254762688644846,True,+
+"(2,5-Dimethoxyphenyl)acetone",L-Tyrosine,-1.0,0.35909242322980395,0.7999999999999999,0.3922948222694739,0.2071966088271393,False,
+"(2,5-Dimethoxyphenyl)acetone",Luciferin,,,,0.39999999999999997,0.6,False,
+"(2,5-Dimethoxyphenyl)acetone",Lupinine,,0.6,,0.4047619047619048,0.3198886412288164,False,
+"(2,5-Dimethoxyphenyl)acetone",L-Valine,-1.0,0.08571428571428573,0.8999999999999998,0.0857142857142857,0.7707850311186758,False,
+"(2,5-Dimethoxyphenyl)acetone",L-Val-L-Leu,,0.5,,0.7999999999999999,0.2000000000000001,False,
+"(2,5-Dimethoxyphenyl)acetone",Malic acid,-1.0,-0.2571428571428572,0.49999999999999994,-0.18681318681318684,0.5225040123791592,False,
+"(2,5-Dimethoxyphenyl)acetone",Maltol,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Methanesulfonic acid,,-0.14285714285714288,0.7,0.10989010989010989,0.7208097995138619,False,
+"(2,5-Dimethoxyphenyl)acetone",Methyl lactate,,0.6,0.22360679774997894,0.33149677206589795,0.2685282716349934,True,+
+"(2,5-Dimethoxyphenyl)acetone",Methylsuccinic acid,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Methylthiouracil,,-0.3142857142857143,0.39999999999999997,-0.03846153846153846,0.9007243023389339,False,
+"(2,5-Dimethoxyphenyl)acetone",Mevalonolactone,1.0,0.2,-0.051298917604257706,-0.015401549473819522,0.9583240025471575,False,
+"(2,5-Dimethoxyphenyl)acetone",Monocaproin,-1.0,0.5,0.6000000000000001,-0.10303030303030303,0.7769984634438898,False,
+"(2,5-Dimethoxyphenyl)acetone",m-Toluic acid,0.5,0.17393131069573456,0.8999999999999998,0.4532455988009745,0.10360347458283126,True,+
+"(2,5-Dimethoxyphenyl)acetone",Myristic acid,-0.5,0.6179143806533246,0.7999999999999999,0.07929534654137164,0.7875776173252321,False,
+"(2,5-Dimethoxyphenyl)acetone","N,N-Dimethyl-2-aminoethanol",-1.0,-0.48571428571428577,0.7999999999999999,-0.07692307692307691,0.8027630076692551,False,
+"(2,5-Dimethoxyphenyl)acetone","N-[(3,4,5-Trimethoxyphenyl)methylidene]hydroxylamine",,0.5,,0.5,0.6666666666666666,False,
+"(2,5-Dimethoxyphenyl)acetone",N-Acetylaminoethanol,0.0,-0.11595420713048969,-0.051298917604257706,-0.2624049635088178,0.36476723513891324,False,
+"(2,5-Dimethoxyphenyl)acetone",N-Acetylaspartic acid,-1.0,-0.49999999999999994,-0.6,-0.510989010989011,0.0743289141440214,True,-
+"(2,5-Dimethoxyphenyl)acetone",N-Acetyl-L-alanine,-0.5,0.6,0.7181848464596079,0.343234531130835,0.2295724979159092,False,
+"(2,5-Dimethoxyphenyl)acetone","Naringenin 4',7-dimethylether",,0.6155870112510925,0.8999999999999998,0.6383008208640678,0.047024452528598076,True,+
+"(2,5-Dimethoxyphenyl)acetone",N-Caffeoyl-O-methyltyramine,,0.5507824838698261,0.9999999999999999,0.7565685858054141,0.004398492761225516,True,+
+"(2,5-Dimethoxyphenyl)acetone",N-Ethylamphetamine,0.5,0.20291986247835697,0.8660254037844387,0.0035087935291125195,0.9913652201695151,True,+
+"(2,5-Dimethoxyphenyl)acetone",N-Ethyldiethanolamine,-0.5,0.8285714285714287,0.3,0.21318681318681318,0.46430282003974443,False,
+"(2,5-Dimethoxyphenyl)acetone",Niacin,-1.0,0.9746794344808964,0.7999999999999999,0.5061903000502711,0.07755726564758796,False,
+"(2,5-Dimethoxyphenyl)acetone",Niacinamide,,-0.6571428571428573,0.35909242322980395,-0.2255848076310991,0.45867079393927446,False,
+"(2,5-Dimethoxyphenyl)acetone",N-Isobutyrylglycine,-0.5,-0.49280538030458115,0.20519567041703082,-0.38105819310159156,0.17886844765623588,False,
+"(2,5-Dimethoxyphenyl)acetone",N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,1.0,0.7999999999999999,0.7999999999999999,0.8090909090909091,0.002558580199713916,True,+
+"(2,5-Dimethoxyphenyl)acetone",N-Methylacetamide,-0.5,0.8406680016960503,-0.31622776601683794,0.19625245169987213,0.5013076262247314,False,
+"(2,5-Dimethoxyphenyl)acetone",Nonanoic acid,0.5,-0.8720815992723809,0.7181848464596079,0.02754831389919543,0.928816344110627,False,
+"(2,5-Dimethoxyphenyl)acetone",Norephedrine,0.5,0.5,0.5,-0.2833333333333333,0.46003032896572005,False,
+"(2,5-Dimethoxyphenyl)acetone",Norketamine,-0.8660254037844387,0.7356123579206245,0.8999999999999998,0.40132523830760364,0.15495399392315634,False,
+"(2,5-Dimethoxyphenyl)acetone","Norleucine, N-trimethylsilyl-",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Octacosanol,,-0.39999999999999997,-0.5,-0.2142857142857143,0.6103444156452668,True,-
+"(2,5-Dimethoxyphenyl)acetone","Octadecanoic acid, octyl ester",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Octadecanoic acid,,,,0.6000000000000001,0.4,False,
+"(2,5-Dimethoxyphenyl)acetone",Octanoic acid,,0.39999999999999997,0.39999999999999997,0.28571428571428575,0.49272624501695705,True,+
+"(2,5-Dimethoxyphenyl)acetone",Octocrylene,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Oleamide,-0.5,-0.3714285714285715,0.0,-0.367032967032967,0.19673887170748847,False,
+"(2,5-Dimethoxyphenyl)acetone",Oleic Acid,-0.8660254037844387,,,-0.21081851067789195,0.7891814893221081,False,
+"(2,5-Dimethoxyphenyl)acetone",Olomoucine,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Oxalic acid,0.0,-0.6667366910003157,-0.10540925533894596,-0.17439463566885974,0.550983597252068,False,
+"(2,5-Dimethoxyphenyl)acetone","Oxalic acid, di(cyclohexylmethyl) ester",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","Oxymorphone, bis(trimethylsilyl) ether",0.0,0.26482044885142486,0.0,0.046896953221770024,0.879081602607434,False,
+"(2,5-Dimethoxyphenyl)acetone",Palmitic Acid,-1.0,-0.19999999999999998,,-0.31666666666666665,0.406397014486386,True,-
+"(2,5-Dimethoxyphenyl)acetone",Pentadecanoic acid,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Pentanedioic acid,-1.0,0.057977103565244846,0.6000000000000001,0.25309515002513555,0.40410567145243725,False,
+"(2,5-Dimethoxyphenyl)acetone",Pentanoic acid,-1.0,-0.2,0.10259783520851541,-0.2750276691753486,0.34127707155106723,False,
+"(2,5-Dimethoxyphenyl)acetone","Phenol, 2,4-bis(1-methyl-1-phenylethyl)-",-1.0,-0.3142857142857143,-0.3,-0.3318681318681319,0.24637718314961166,True,-
+"(2,5-Dimethoxyphenyl)acetone",Phenol,1.0,0.7999999999999999,-0.3,-0.03296703296703297,0.9148564744875124,False,
+"(2,5-Dimethoxyphenyl)acetone",Phenoxyethanol,-0.5,-0.028988551782622423,0.6,0.05060509112826414,0.8635933320481158,False,
+"(2,5-Dimethoxyphenyl)acetone",Phosphoserine,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Phthalazin-1-one,,-0.8660254037844387,,-0.632455532033676,0.36754446796632406,False,
+"(2,5-Dimethoxyphenyl)acetone",Phthalimide,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Phytanic acid,-0.8660254037844387,0.5296408977028497,-0.09999999999999999,-0.02205083726964855,0.940356040793405,False,
+"(2,5-Dimethoxyphenyl)acetone",Picolinic acid,-0.8660254037844387,-0.1471224715841249,-0.22360679774997894,-0.2458545632036096,0.3968525873383629,True,-
+"(2,5-Dimethoxyphenyl)acetone",Pinosylvin,,-0.3714285714285715,0.39999999999999997,0.06993006993006995,0.8290236405313092,False,
+"(2,5-Dimethoxyphenyl)acetone",Pipecolic acid,-0.5,0.2,0.9486832980505138,0.17400923268801002,0.5518779144484403,False,
+"(2,5-Dimethoxyphenyl)acetone","Piperazine, 1-(4-acetylphenylsulfonyl)-4-methyl-",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Praziquantel,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Pro-Ala-Lys,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Prometryne,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl-",-1.0,-0.20291986247835697,0.7999999999999999,-0.08253102718210943,0.7886663341770895,False,
+"(2,5-Dimethoxyphenyl)acetone","Propanoic acid, dimethyl(isopropyl)silyl ester",,0.6,0.8999999999999998,0.37762237762237766,0.22620604493502647,True,+
+"(2,5-Dimethoxyphenyl)acetone",Propanoic acid,,-0.051298917604257706,1.0,0.4769916229907622,0.1941791760650662,False,
+"(2,5-Dimethoxyphenyl)acetone","Propionic acid, 3-iodo-, octadecyl ester",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Propylene glycol,0.5,0.6667366910003157,0.39999999999999997,0.29986273209499753,0.31954781207783634,True,+
+"(2,5-Dimethoxyphenyl)acetone",Prostaglandin,,,0.7999999999999999,-0.1785714285714286,0.7016579425162728,False,
+"(2,5-Dimethoxyphenyl)acetone","Pyrazole[4,5-b]imidazole, 1-formyl-3-ethyl-6-beta-d-ribofuranosyl-",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","Quinoxaline, 2,3-diphenyl- ",,,-0.5,0.39999999999999997,0.6,False,
+"(2,5-Dimethoxyphenyl)acetone",Salsoline,0.5,0.19999999999999998,0.8720815992723809,0.3817869252443987,0.22070801550440278,True,+
+"(2,5-Dimethoxyphenyl)acetone",Sarcosine,,,-0.5,0.39285714285714296,0.3833168704269725,False,
+"(2,5-Dimethoxyphenyl)acetone",Simetryn,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Spiroxamine,,0.7999999999999999,,0.19999999999999998,0.6059012741795534,False,
+"(2,5-Dimethoxyphenyl)acetone",Stearic acid,0.0,0.39999999999999997,0.7,0.5218922189120679,0.08178822638152844,False,
+"(2,5-Dimethoxyphenyl)acetone",Suberic acid,,0.2,0.6,0.11538461538461539,0.7073898735142603,True,+
+"(2,5-Dimethoxyphenyl)acetone",Succinamide,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Sulindac,,-0.5,,-0.09999999999999999,0.8728885715695384,False,
+"(2,5-Dimethoxyphenyl)acetone",Supraene,,0.6,0.19999999999999998,-0.02727272727272728,0.9365584481926121,False,
+"(2,5-Dimethoxyphenyl)acetone",Synephrine,0.5,0.028988551782622423,0.9486832980505139,0.17355437756493122,0.5706872439132389,True,+
+"(2,5-Dimethoxyphenyl)acetone",Taurine,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",tert-butyl(dimethyl)silyl-2-([tert-butyl(dimethyl)silyl]oxy)hex-2-enoate,,-0.39999999999999997,,-0.39999999999999997,0.6,False,
+"(2,5-Dimethoxyphenyl)acetone",tert-Butylamine,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone","Tetrahydro[2,2']bifuranyl-5-one",,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Tetrahydro-solasodine triacetate,0.8660254037844387,0.8857142857142858,0.7999999999999999,0.39383962225909913,0.1635263888853332,True,+
+"(2,5-Dimethoxyphenyl)acetone",Theobromine,,,,,,False,
+"(2,5-Dimethoxyphenyl)acetone",Thymol,-1.0,0.7181848464596079,0.7999999999999999,0.08406317620060154,0.7950626235050117,False,
+"(2,5-Dimethoxyphenyl)acetone",Triethyl citrate,,0.7999999999999999,0.8999999999999998,0.7394549559641986,0.005986227573400453,True,+
+"(2,5-Dimethoxyphenyl)acetone",Trimethylolpropane,,0.6155870112510925,1.0,0.7782494901428224,0.013505972810006877,True,+
+"(2,5-Dimethoxyphenyl)acetone",Tromethamine,,0.6,,0.3333333333333334,0.41975308641975323,False,
+"(2,5-Dimethoxyphenyl)acetone",Tyr-Val,,,,0.5,0.6666666666666666,False,
+"(2,5-Dimethoxyphenyl)acetone",Uracil,-1.0,-0.49280538030458115,0.9746794344808964,-0.04845826733083824,0.8693338997325666,False,
+"(2,5-Dimethoxyphenyl)acetone",Urea,-1.0,-0.3188740696088466,0.10259783520851541,-0.41409792082716307,0.1410214290131628,False,
+"(2,5-Dimethoxyphenyl)acetone",Vanillylmandelic acid,,-0.19999999999999998,0.8999999999999998,0.35757575757575755,0.3103760917056803,False,
+"(2,5-Dimethoxyphenyl)acetone","Weberine, 5-desmethoxy-",,,-0.5,-0.5,0.6666666666666666,False,
+"(2,5-Dimethoxyphenyl)acetone",Xylazine,-1.0,0.08571428571428573,0.6668859288553501,-0.03300332030104183,0.9108209553502696,False,
+"(2,5-Dimethoxyphenyl)acetone",Yangonin,0.5,0.6957252427829382,0.7999999999999999,0.3603854853618778,0.2264174875044146,True,+
 "(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester",(4-Fluorophenyl)phenylmethanol,,,,,,False,
 "(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester","(9H-fluoren-9-yl)methanol, O-methoxycarbonyl-",0.5,-0.3088235294117647,0.35909242322980395,0.08930545670479381,0.7614302407373128,False,
 "(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester","3,4,5-Trimethoxyamphetamine",,-0.23190841426097936,0.7181848464596079,-0.1900833659044485,0.5339342676666191,False,
