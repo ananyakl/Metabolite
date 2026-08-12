@@ -12,7 +12,6 @@ Pfdn2-B,Lignoceric acid-F
 Pfdn2-B,Pipecolic acid-F
 Aldh3a2-B,DL-Glyceraldehyde-F
 Dcbld1-B,Monocaproin-F
-Tbc1d15-B,L-Tyrosine-F
 Rasgef1c-B,2-Hexanol-F
 Hs1bp3-B,"2,4,4'-Trihydroxybenzophenone-F"
 Hs1bp3-B,2-Naphthol-F
@@ -44,7 +43,6 @@ Vwa5a-B,"Erythrono-1,4-lactone-F"
 Vwa5a-B,Hydracrylic acid-F
 Vwa5a-B,Myristic acid-F
 Vwa5a-B,Pipecolic acid-F
-Ogfod2-B,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester-F"
 Epas1-B,Norephedrine-F
 St6gal2-B,"N,N-Dimethyl-2-aminoethanol-F"
 Ppp2r2b-B,"N,N-Dimethyl-2-aminoethanol-F"
@@ -57,8 +55,6 @@ Ppil3-B,2-Hexanol-F
 Ppil3-B,Cyclobutylamine-F
 Ppil3-B,Picolinic acid-F
 Mrpl30-B,4-Methylvaleric acid-F
-Serpinb8-B,Azelaic acid-F
-Serpinb8-B,Salsoline-F
 Sdccag8-B,Pipecolic acid-F
 Atf3-B,"1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans--F"
 Atf3-B,2-Butenedioic acid-F
@@ -89,7 +85,6 @@ Btk-B,Mevalonolactone-F
 Tceal6-B,DL-Glyceraldehyde-F
 Tceal6-B,Methyl lactate-F
 Tceal6-B,Norephedrine-F
-Adcy7-B,"6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)-F"
 Irx3-B,"6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)-F"
 Kifc3-B,Glycerol-F
 Tmem231-B,Cyclobutylamine-F
@@ -115,8 +110,6 @@ Nlrp3-B,"Oxymorphone, bis(trimethylsilyl) ether-F"
 Nlrp3-B,Phenoxyethanol-F
 Nlrp3-B,Uracil-F
 Mier3-B,Monocaproin-F
-St18-B,"1-(2,4-Dimethoxyphenyl)-propan-2-one-F"
-St18-B,Urea-F
 Zdhhc15-B,Synephrine-F
 Tpst1-B,Cyclobutylamine-F
 Tpst1-B,Dodecanoic acid-F
@@ -132,12 +125,6 @@ Csgalnact1-B,DL-Glyceraldehyde-F
 Csgalnact1-B,Norephedrine-F
 Foxa2-B,"N,N-Dimethyl-2-aminoethanol-F"
 Arhgap10-B,"2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl)-F"
-Slc9a7-B,"Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester-F"
-Slc9a7-B,Cyclobutylamine-F
-Slc9a7-B,"L-Histidine, N,1-bis(tert-butyldimethylsilyl)--F"
-Slc9a7-B,"N,N-Dimethyl-2-aminoethanol-F"
-Slc9a7-B,Picolinic acid-F
-Letmd1-B,Palmitic Acid-F
 Pafah2-B,"1-(2,4-Dimethoxyphenyl)-propan-2-one-F"
 Pafah2-B,3-Amino-5-methylisoxazole-F
 Pank2-B,"2,3-Butanediol, O-(trimethylsilyl)-, monoacetate-F"
@@ -174,8 +161,6 @@ Tmem108-B,Glycerol-F
 Tmem108-B,Methyl lactate-F
 Apobr-B,Dodecanoic acid-F
 Niban3-B,Urea-F
-Zfp784-B,2-Propyl-1-pentanol-F
-Zfp784-B,Aconitic acid-F
 Rtn4r-B,Glycerol-F
 Ptx4-B,"Benzaldehyde, 2,5-dimethoxy-F"
 Poln-B,2-Pyrrolidone-5-carboxylic acid-F
@@ -184,7 +169,7 @@ Smtnl2-B,8-Methylnonanoic acid-F
 Smtnl2-B,Hydracrylic acid-F
 Cdh19-B,Ethanolamine-F
 Lonp2-B,Benzoic Acid-F
-Lurap1l-B,Palmitic Acid-F
+Zfp280b-B,"Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl--F"
 Spink8-B,Benzoic Acid-F
 Fam78a-B,"1-(2,4-Dimethoxyphenyl)-propan-2-one-F"
 Fam78a-B,"Propanoic acid, dimethyl(isopropyl)silyl ester-F"
@@ -195,7 +180,6 @@ Junb-B,Norephedrine-F
 C130021I20Rik-B,Acetic acid-F
 Gm9905-B,"2-Methylcyclohexanol, (Z)-F"
 Zfp867-B,m-Toluic acid-F
-Kcmf1-B,Cyclobutylamine-F
 S100a9-B,Azelaic acid-F
 S100a9-B,Salsoline-F
 Uts2b-B,N-Acetyl-L-alanine-F
@@ -224,7 +208,6 @@ Zbtb3-B,"2,4,4'-Trihydroxybenzophenone-F"
 Noxred1-B,"3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-F"
 Noxred1-B,Trimethylolpropane-F
 Bhlhb9-B,Monocaproin-F
-Spef1l-B,"2,3-Dihydroxybutanoic acid-F"
 Nalf1-B,Norephedrine-F
 Fzd10-B,Benzoic Acid-F
 Smim43-B,Aconitic acid-F
@@ -240,10 +223,8 @@ Gng14-B,4-Methoxyphenol-F
 9330151L19Rik-B,Methyl lactate-F
 9230116N13Rik-B,"2',5'-Dimethoxypropiophenone-F"
 9230116N13Rik-B,Aceturic acid-F
-A330094K24Rik-B,"6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)-F"
 1700008J07Rik-B,"1-(2,4-Dimethoxyphenyl)-propan-2-one-F"
 1700008J07Rik-B,Myristic acid-F
 Gm37390-B,"1,2-Cyclohexanediol, (Z)-F"
-Gm37805-B,DL-Glyceraldehyde-F
 Tmem217rt-B,"1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine-F"
 Tmem217rt-B,Benzoic Acid-F

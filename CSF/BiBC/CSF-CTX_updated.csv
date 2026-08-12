@@ -26,7 +26,6 @@ Etv1-T,L-Glutamic acid-F
 Emg1-T,2-Butenedioic acid-F
 Emg1-T,L-Glutamic acid-F
 Emg1-T,Trimethylolpropane-F
-Prcc-T,L-Glutamic acid-F
 Pard6a-T,Azelaic acid-F
 Tbcb-T,alpha-Hydroxyisobutyric acid-F
 Tbcb-T,Ethanolamine-F
@@ -52,7 +51,6 @@ Gdf9-T,Ethanolamine-F
 Dalrd3-T,N-Isobutyrylglycine-F
 Mydgf-T,Aconitic acid-F
 L3hypdh-T,alpha-Hydroxyisobutyric acid-F
-Wif1-T,Isopropylamine-F
 Vps13d-T,Norephedrine-F
 Patz1-T,Synephrine-F
 Cyria-T,Synephrine-F
@@ -209,8 +207,6 @@ Rfx1-T,"4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol-F"
 Rfx1-T,Benzenepropanoic acid-F
 Rfx1-T,L-Glutamic acid-F
 Zpr1-T,Cholesterol-F
-Ldlr-T,"3,4,5-Trimethoxyamphetamine-F"
-Ldlr-T,Cholesterol-F
 Dock6-T,Glycerol-F
 Nptn-T,Aconitic acid-F
 Mto1-T,Aconitic acid-F
@@ -226,8 +222,6 @@ Map3k13-T,Cholesterol-F
 Gpbp1l1-T,"3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-F"
 Gpbp1l1-T,"N,N-Dimethyl-2-aminoethanol-F"
 Cops8-T,N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine-F
-Dynlrb2-T,4-Methoxyphenol-F
-Dynlrb2-T,Trimethylolpropane-F
 Mrpl34-T,"3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-F"
 Mrpl34-T,Cyclobutylamine-F
 Mrpl34-T,Cyclooctylamine-F
@@ -320,7 +314,6 @@ Myct1-T,Trimethylolpropane-F
 Wdr27-T,Isopropylamine-F
 Cd24a-T,L-Glutamic acid-F
 Cd24a-T,Picolinic acid-F
-Mafa-T,Lactic acid-F
 Yipf6-T,"Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester-F"
 Yipf6-T,Trimethylolpropane-F
 Slc38a9-T,L-Glutamic acid-F
@@ -401,8 +394,6 @@ Nkain2-T,"Erythrono-1,4-lactone-F"
 Hs3st3b1-T,"Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl--F"
 Cebpd-T,3-Amino-5-methylisoxazole-F
 Mpst-T,alpha-Hydroxyisobutyric acid-F
-G530011O06Rikx-T,"2,4,6-Cycloheptatrien-1-one-F"
-G530011O06Rikx-T,"2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl)-F"
 4933439C10Rik-T,"3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-F"
 4933439C10Rik-T,Cyclobutylamine-F
 4933439C10Rik-T,L-Glutamic acid-F
@@ -414,7 +405,6 @@ Nbeal1-T,"2,4-Di-tert-butylphenol-F"
 Nbeal1-T,"Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester-F"
 Nbeal1-T,Monocaproin-F
 Rpl31-T,Aconitic acid-F
-Cenps-T,"1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine-F"
 Zfp382-T,"1-(1-Hydroxybutyl)-2,5-dimethoxybenzene-F"
 Gm10654-T,"(2,5-Dimethoxyphenyl)acetone-F"
 Eif2s2-T,Glycine-F
@@ -445,7 +435,6 @@ Dynlt1a-T,Phenoxyethanol-F
 Dynlt1a-T,Synephrine-F
 Dynlt1a-T,Uracil-F
 Dynlt1a-T,Xylazine-F
-Gm20632-T,Butylmethylamine-F
 Hmgcs1-T,L-Glutamic acid-F
 Fsbp-T,"Propanoic acid, dimethyl(isopropyl)silyl ester-F"
 Muc3a-T,2-Ethylhexanoic acid-F
@@ -462,7 +451,6 @@ Gm10516-T,Urea-F
 Gm26652-T,Isopropylamine-F
 Gm17259-T,"2,4,6-Cycloheptatrien-1-one-F"
 Gm17259-T,"2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl)-F"
-UNKNOWN-T,"Benzaldehyde, 2,5-dimethoxy-F"
 Gm37777-T,"2,4-Di-tert-butylphenol-F"
 Gm37777-T,Acetic acid-F
 Gm37777-T,Azelaic acid-F

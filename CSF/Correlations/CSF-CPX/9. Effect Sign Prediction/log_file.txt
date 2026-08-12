@@ -1,76 +1,72 @@
-ENSMUSG00000105729 votes - 
-NODE- Heptylamine,
+ENSMUSG00000044224 votes - 
+ENSMUSG00000062937 votes - 
+ENSMUSG00000019897 votes - 
+ENSMUSG00000047141 votes - 
+ENSMUSG00000044365 votes - 
+NODE- Aceturic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 5
+
+
+ENSMUSG00000024098 votes - 
+NODE- Propanoic acid, dimethyl(isopropyl)silyl ester,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 1
 
 
-ENSMUSG00000032459 votes - 
-NODE- Methyl lactate,
+ENSMUSG00000031513 votes - 
+NODE- 2-Pyrrolidone-5-carboxylic acid,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 1
 
 
-ENSMUSG00000025474 votes - 
-ENSMUSG00000003360 votes - 
-ENSMUSG00000022427 votes + 
-NODE- L-Valine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 2
-L-Valine node is removed
-
-
-ENSMUSG00000086610 votes - 
-ENSMUSG00000024335 votes + 
-ENSMUSG00000085945 votes - 
-NODE- N-Ethylamphetamine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 2
-N-Ethylamphetamine node is removed
-
-
-ENSMUSG00000024941 votes - 
-ENSMUSG00000031489 votes + 
-ENSMUSG00000032288 votes - 
-ENSMUSG00000030611 votes - 
-NODE- 6,7,4'-Trihydroxyisoflavone,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 3
-6,7,4'-Trihydroxyisoflavone node is removed
-
-
-ENSMUSG00000039194 votes - 
-NODE- L-Histidine, N,1-bis(tert-butyldimethylsilyl)-,
+ENSMUSG00000031256 votes - 
+NODE- 2-Methyl-1,3-butanediol,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 1
 
 
-ENSMUSG00000059495 votes - 
-NODE- Cyclohexanone, 3,3,5-trimethyl,
+ENSMUSG00000024740 votes + 
+ENSMUSG00000101059 votes - 
+NODE- Niacinamide,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Niacinamide node is removed
+
+
+ENSMUSG00000039813 votes - 
+NODE- Ethanolamine,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 1
 
 
-ENSMUSG00000055044 votes - 
-ENSMUSG00000048175 votes - 
-ENSMUSG00000034349 votes - 
-NODE- (2,5-Dimethoxyphenyl)acetone,
+ENSMUSG00000029438 votes + 
+ENSMUSG00000020074 votes + 
+NODE- Salsoline,
 LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-
-ENSMUSG00000056215 votes + 
-NODE- 5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether,
-LAYER-1,
-POS_VOTES- 1,
+POS_VOTES- 2,
 NEG_VOTES- 0
+
+
+ENSMUSG00000044365 votes - 
+NODE- Cyclooctylamine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000044224 votes - 
+ENSMUSG00000029772 votes - 
+NODE- 3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
 
 
 ENSMUSG00000029550 votes + 
@@ -80,31 +76,81 @@ POS_VOTES- 1,
 NEG_VOTES- 0
 
 
-ENSMUSG00000001964 votes + 
-NODE- 3,4-Methylenedioxyamphetamine,
+ENSMUSG00000036371 votes - 
+ENSMUSG00000078201 votes - 
+NODE- Isopropylamine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+
+ENSMUSG00000039715 votes - 
+NODE- L-Tryptophan,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000044224 votes - 
+ENSMUSG00000070348 votes - 
+ENSMUSG00000044365 votes - 
+NODE- Diethylamine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+
+ENSMUSG00000086610 votes - 
+ENSMUSG00000024335 votes + 
+NODE- N-Ethylamphetamine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+N-Ethylamphetamine node is removed
+
+
+ENSMUSG00000031513 votes - 
+NODE- Picolinic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000017286 votes - 
+NODE- Hydracrylic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000047371 votes - 
+ENSMUSG00000054720 votes + 
+NODE- Phenol, 2,4-bis(1-methyl-1-phenylethyl)-,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Phenol, 2,4-bis(1-methyl-1-phenylethyl)- node is removed
+
+
+ENSMUSG00000066800 votes + 
+NODE- 4-Oxohexanoic acid,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 0
 
 
-ENSMUSG00000042626 votes - 
-ENSMUSG00000030216 votes - 
-ENSMUSG00000024805 votes - 
-ENSMUSG00000032301 votes - 
-ENSMUSG00000013858 votes - 
-ENSMUSG00000017548 votes - 
-ENSMUSG00000047264 votes - 
-ENSMUSG00000039323 votes - 
-ENSMUSG00000031246 votes - 
-ENSMUSG00000024873 votes - 
-ENSMUSG00000020886 votes - 
-ENSMUSG00000021709 votes - 
-ENSMUSG00000041685 votes - 
-ENSMUSG00000020074 votes - 
-NODE- Azelaic acid,
+ENSMUSG00000103657 votes + 
+NODE- 2-Furoic acid,
 LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 14
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+
+ENSMUSG00000103657 votes + 
+NODE- N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
 
 
 ENSMUSG00000071652 votes + 
@@ -114,16 +160,11 @@ POS_VOTES- 1,
 NEG_VOTES- 0
 
 
-ENSMUSG00000044224 votes - 
-ENSMUSG00000062937 votes - 
-ENSMUSG00000019897 votes - 
-ENSMUSG00000047141 votes - 
-ENSMUSG00000044365 votes - 
-ENSMUSG00000072763 votes - 
-NODE- Aceturic acid,
+ENSMUSG00000021377 votes - 
+NODE- 2-Amino-4-methylbenzophenone,
 LAYER-1,
 POS_VOTES- 0,
-NEG_VOTES- 6
+NEG_VOTES- 1
 
 
 ENSMUSG00000033411 votes + 
@@ -135,16 +176,67 @@ NEG_VOTES- 1
 3-Aminobenzoic acid node is removed
 
 
-ENSMUSG00000035941 votes - 
-ENSMUSG00000085945 votes - 
-NODE- 1-Octanol, 2-butyl-,
+ENSMUSG00000061718 votes - 
+ENSMUSG00000031489 votes + 
+NODE- Cycloheptanol,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Cycloheptanol node is removed
+
+
+ENSMUSG00000046711 votes - 
+NODE- Glycerol,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000004085 votes - 
+NODE- m-Toluic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000017286 votes - 
+NODE- Butanedioic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000044365 votes - 
+NODE- 2',5'-Dimethoxypropiophenone,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000024472 votes - 
+ENSMUSG00000025894 votes - 
+NODE- Acetic acid,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 2
 
 
-ENSMUSG00000021377 votes - 
-NODE- 2-Amino-4-methylbenzophenone,
+ENSMUSG00000042594 votes - 
+NODE- Uracil,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000039194 votes - 
+NODE- L-Histidine, N,1-bis(tert-butyldimethylsilyl)-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000105382 votes - 
+NODE- 2-Butenedioic acid,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 1
@@ -161,42 +253,11 @@ NEG_VOTES- 2
 Hypoxanthine node is removed
 
 
-ENSMUSG00000061718 votes - 
-ENSMUSG00000031489 votes + 
-NODE- Cycloheptanol,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Cycloheptanol node is removed
-
-
-ENSMUSG00000017548 votes - 
-ENSMUSG00000011831 votes - 
-ENSMUSG00000016487 votes - 
-ENSMUSG00000030616 votes - 
-NODE- Benzoic acid, methyl ester,
+ENSMUSG00000042594 votes - 
+NODE- Phenoxyethanol,
 LAYER-1,
 POS_VOTES- 0,
-NEG_VOTES- 4
-
-
-ENSMUSG00000024870 votes + 
-ENSMUSG00000031513 votes - 
-NODE- 2-Allyl-1,4-dimethoxybenzene,
-LAYER-1,
-POS_VOTES- 1,
 NEG_VOTES- 1
-2-Allyl-1,4-dimethoxybenzene node is removed
-
-
-ENSMUSG00000044224 votes - 
-ENSMUSG00000070348 votes - 
-ENSMUSG00000043535 votes - 
-ENSMUSG00000044365 votes - 
-NODE- Diethylamine,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 4
 
 
 ENSMUSG00000039715 votes - 
@@ -206,171 +267,11 @@ POS_VOTES- 0,
 NEG_VOTES- 1
 
 
-ENSMUSG00000042594 votes - 
-NODE- Phenoxyethanol,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-ENSMUSG00000070348 votes - 
-NODE- 2,5-Dimethoxybenzonitrile,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-ENSMUSG00000024472 votes - 
-ENSMUSG00000025894 votes - 
-NODE- Acetic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-
-ENSMUSG00000029438 votes + 
-ENSMUSG00000020074 votes + 
-NODE- Salsoline,
+ENSMUSG00000038555 votes + 
+ENSMUSG00000018171 votes + 
+NODE- Palmitic Acid,
 LAYER-1,
 POS_VOTES- 2,
-NEG_VOTES- 0
-
-
-ENSMUSG00000020108 votes - 
-ENSMUSG00000017286 votes - 
-ENSMUSG00000063801 votes - 
-NODE- Suberic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-
-ENSMUSG00000061718 votes - 
-ENSMUSG00000031489 votes + 
-ENSMUSG00000042506 votes + 
-NODE- 3-Buten-2-one,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 1
-3-Buten-2-one node is removed
-
-
-ENSMUSG00000022439 votes - 
-NODE- Oxalic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-ENSMUSG00000024335 votes + 
-ENSMUSG00000013663 votes - 
-NODE- Phenol,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Phenol node is removed
-
-
-ENSMUSG00000054717 votes - 
-NODE- Lactic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-ENSMUSG00000044365 votes - 
-NODE- 2',5'-Dimethoxypropiophenone,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-ENSMUSG00000001964 votes + 
-ENSMUSG00000034349 votes + 
-NODE- 3-Heptanol,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 0
-
-
-ENSMUSG00000032372 votes - 
-ENSMUSG00000085945 votes - 
-NODE- 1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-
-ENSMUSG00000105382 votes - 
-NODE- 2-Butenedioic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-ENSMUSG00000070348 votes - 
-NODE- Benzene, 1,4-dimethoxy,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-ENSMUSG00000004085 votes - 
-NODE- m-Toluic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-ENSMUSG00000031256 votes - 
-NODE- 2-Methyl-1,3-butanediol,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-ENSMUSG00000039715 votes - 
-NODE- L-Tryptophan,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-ENSMUSG00000017286 votes - 
-NODE- Hydracrylic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-ENSMUSG00000050822 votes + 
-NODE- 3,4,5-Trimethoxyamphetamine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-
-ENSMUSG00000062421 votes - 
-ENSMUSG00000038084 votes - 
-ENSMUSG00000042594 votes - 
-NODE- Xylazine,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-
-ENSMUSG00000001855 votes - 
-ENSMUSG00000042594 votes - 
-NODE- 6-Methyluracil,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-
-ENSMUSG00000066800 votes + 
-NODE- 4-Oxohexanoic acid,
-LAYER-1,
-POS_VOTES- 1,
 NEG_VOTES- 0
 
 
@@ -383,105 +284,23 @@ POS_VOTES- 0,
 NEG_VOTES- 3
 
 
-ENSMUSG00000030862 votes - 
-NODE- N,N-Dimethyl-2-aminoethanol,
+ENSMUSG00000017548 votes - 
+ENSMUSG00000011831 votes - 
+ENSMUSG00000016487 votes - 
+ENSMUSG00000030616 votes - 
+NODE- Benzoic acid, methyl ester,
 LAYER-1,
 POS_VOTES- 0,
-NEG_VOTES- 1
+NEG_VOTES- 4
 
 
-ENSMUSG00000030879 votes - 
-ENSMUSG00000017286 votes - 
-ENSMUSG00000022843 votes - 
-NODE- 2,3-Butanediol, O-(trimethylsilyl)-, monoacetate,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-
-ENSMUSG00000099689 votes - 
-NODE- Myristic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-ENSMUSG00000098113 votes + 
-NODE- L-Lysine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-
-ENSMUSG00000028441 votes - 
-ENSMUSG00000098098 votes + 
-NODE- Stearic acid,
+ENSMUSG00000007613 votes + 
+ENSMUSG00000036815 votes - 
+NODE- Guanosine,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 1
-Stearic acid node is removed
-
-
-ENSMUSG00000044224 votes - 
-ENSMUSG00000044365 votes - 
-NODE- Cyclooctylamine,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-
-ENSMUSG00000022177 votes + 
-NODE- 2,2'-Bipyridine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-
-ENSMUSG00000044224 votes - 
-ENSMUSG00000029772 votes - 
-NODE- 3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-
-ENSMUSG00000042626 votes - 
-ENSMUSG00000030979 votes - 
-ENSMUSG00000017286 votes - 
-NODE- Butanedioic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-
-ENSMUSG00000044224 votes - 
-ENSMUSG00000044365 votes - 
-NODE- 2,5-Dimethoxybenzhydrazide,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-
-ENSMUSG00000044365 votes - 
-ENSMUSG00000017286 votes - 
-NODE- N-Acetyl-L-alanine,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-
-ENSMUSG00000058492 votes - 
-NODE- 2,3-Dihydroxybutanoic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-ENSMUSG00000024098 votes - 
-NODE- Propanoic acid, dimethyl(isopropyl)silyl ester,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
+Guanosine node is removed
 
 
 ENSMUSG00000052566 votes + 
@@ -491,11 +310,80 @@ POS_VOTES- 1,
 NEG_VOTES- 0
 
 
-ENSMUSG00000103657 votes + 
-NODE- 2-Furoic acid,
+ENSMUSG00000030560 votes + 
+NODE- Cholesterol,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 0
+
+
+ENSMUSG00000066357 votes - 
+NODE- Glycine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000022177 votes + 
+NODE- 2,2'-Bipyridine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+
+ENSMUSG00000024870 votes + 
+ENSMUSG00000022674 votes - 
+ENSMUSG00000031513 votes - 
+NODE- Hexanoic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 2
+Hexanoic acid node is removed
+
+
+ENSMUSG00000098113 votes + 
+NODE- L-Lysine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+
+ENSMUSG00000048175 votes - 
+ENSMUSG00000034349 votes - 
+NODE- (2,5-Dimethoxyphenyl)acetone,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+
+ENSMUSG00000062421 votes - 
+ENSMUSG00000038084 votes - 
+NODE- Xylazine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+
+ENSMUSG00000097537 votes - 
+NODE- Phytanic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000044365 votes - 
+NODE- 2,5-Dimethoxybenzhydrazide,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000035941 votes - 
+ENSMUSG00000085945 votes - 
+NODE- 1-Octanol, 2-butyl-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
 
 
 ENSMUSG00000020108 votes - 
@@ -506,6 +394,13 @@ POS_VOTES- 0,
 NEG_VOTES- 2
 
 
+ENSMUSG00000059495 votes - 
+NODE- Cyclohexanone, 3,3,5-trimethyl,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
 ENSMUSG00000029772 votes - 
 ENSMUSG00000050199 votes - 
 NODE- Mevalonolactone,
@@ -514,134 +409,44 @@ POS_VOTES- 0,
 NEG_VOTES- 2
 
 
-ENSMUSG00000038555 votes + 
-ENSMUSG00000018171 votes + 
-NODE- Palmitic Acid,
+ENSMUSG00000025474 votes - 
+ENSMUSG00000003360 votes - 
+ENSMUSG00000022427 votes + 
+NODE- L-Valine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 2
+L-Valine node is removed
+
+
+ENSMUSG00000106032 votes - 
+NODE- 2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl),
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000061718 votes - 
+ENSMUSG00000031489 votes + 
+ENSMUSG00000042506 votes + 
+NODE- 3-Buten-2-one,
 LAYER-1,
 POS_VOTES- 2,
-NEG_VOTES- 0
-
-
-ENSMUSG00000005124 votes - 
-ENSMUSG00000023249 votes - 
-NODE- Oleamide,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-
-ENSMUSG00000017286 votes - 
-NODE- Pipecolic acid,
-LAYER-1,
-POS_VOTES- 0,
 NEG_VOTES- 1
+3-Buten-2-one node is removed
 
 
-ENSMUSG00000007892 votes + 
-ENSMUSG00000022010 votes + 
-NODE- Benzoic Acid,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 0
-
-
-ENSMUSG00000031513 votes - 
-NODE- 2-Pyrrolidone-5-carboxylic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-ENSMUSG00000103657 votes + 
-NODE- N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-
-ENSMUSG00000046711 votes - 
-NODE- Glycerol,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-ENSMUSG00000005510 votes - 
-ENSMUSG00000031513 votes - 
-NODE- Picolinic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-
-ENSMUSG00000037221 votes - 
-ENSMUSG00000020219 votes + 
-NODE- Glycine, tert.-butyldimethylsilyl ester,
+ENSMUSG00000041438 votes + 
+ENSMUSG00000044365 votes - 
+NODE- Naringenin 4',7-dimethylether,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 1
-Glycine, tert.-butyldimethylsilyl ester node is removed
+Naringenin 4',7-dimethylether node is removed
 
 
-ENSMUSG00000104339 votes + 
-NODE- 4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-
-ENSMUSG00000020108 votes - 
-ENSMUSG00000050199 votes - 
-NODE- 2-Cyclohexen-1-one, 3-methyl-,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-
-ENSMUSG00000042426 votes - 
-ENSMUSG00000070348 votes - 
-ENSMUSG00000030879 votes - 
-NODE- Butachlor ESA,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-
-ENSMUSG00000051224 votes + 
-ENSMUSG00000069631 votes + 
-NODE- Leucylglycine,
-LAYER-1,
-POS_VOTES- 2,
-NEG_VOTES- 0
-
-
-ENSMUSG00000047371 votes - 
-ENSMUSG00000054720 votes + 
-NODE- Phenol, 2,4-bis(1-methyl-1-phenylethyl)-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Phenol, 2,4-bis(1-methyl-1-phenylethyl)- node is removed
-
-
-ENSMUSG00000024740 votes + 
-ENSMUSG00000101059 votes - 
-NODE- Niacinamide,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Niacinamide node is removed
-
-
-ENSMUSG00000005699 votes + 
-NODE- Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl-,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-
-ENSMUSG00000042594 votes - 
-NODE- Uracil,
+ENSMUSG00000085945 votes - 
+NODE- Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester ,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 1
@@ -661,115 +466,243 @@ NEG_VOTES- 6
 ENSMUSG00000021000 2,4-Di-tert-butylphenol edge is removed MINORITY CASE
 
 
-ENSMUSG00000032261 votes - 
-NODE- Lignoceric acid,
+ENSMUSG00000017286 votes - 
+NODE- Pipecolic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000032372 votes - 
+ENSMUSG00000085945 votes - 
+NODE- 1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+
+ENSMUSG00000024941 votes - 
+ENSMUSG00000031489 votes + 
+ENSMUSG00000032288 votes - 
+ENSMUSG00000030611 votes - 
+NODE- 6,7,4'-Trihydroxyisoflavone,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 3
+6,7,4'-Trihydroxyisoflavone node is removed
+
+
+ENSMUSG00000001964 votes + 
+NODE- 3,4-Methylenedioxyamphetamine,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+
+ENSMUSG00000070348 votes - 
+NODE- 2,5-Dimethoxybenzonitrile,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000085945 votes - 
+NODE- Cyclobutylamine,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000042626 votes - 
+ENSMUSG00000030216 votes - 
+ENSMUSG00000032301 votes - 
+ENSMUSG00000017548 votes - 
+ENSMUSG00000047264 votes - 
+ENSMUSG00000039323 votes - 
+ENSMUSG00000031246 votes - 
+ENSMUSG00000020886 votes - 
+ENSMUSG00000021709 votes - 
+ENSMUSG00000041685 votes - 
+ENSMUSG00000020074 votes - 
+NODE- Azelaic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 11
+
+
+ENSMUSG00000024335 votes + 
+ENSMUSG00000013663 votes - 
+NODE- Phenol,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Phenol node is removed
+
+
+ENSMUSG00000054717 votes - 
+NODE- Lactic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000007892 votes + 
+ENSMUSG00000022010 votes + 
+NODE- Benzoic Acid,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 0
+
+
+ENSMUSG00000020108 votes - 
+ENSMUSG00000050199 votes - 
+NODE- 2-Cyclohexen-1-one, 3-methyl-,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+
+ENSMUSG00000056215 votes + 
+NODE- 5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+
+ENSMUSG00000024870 votes + 
+ENSMUSG00000031513 votes - 
+NODE- 2-Allyl-1,4-dimethoxybenzene,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+2-Allyl-1,4-dimethoxybenzene node is removed
+
+
+ENSMUSG00000022439 votes - 
+NODE- Oxalic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+ENSMUSG00000028441 votes - 
+ENSMUSG00000098098 votes + 
+NODE- Stearic acid,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Stearic acid node is removed
+
+
+ENSMUSG00000042426 votes - 
+ENSMUSG00000070348 votes - 
+ENSMUSG00000030879 votes - 
+NODE- Butachlor ESA,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+
+ENSMUSG00000050989 votes + 
+ENSMUSG00000039804 votes + 
+NODE- Benzophenone,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 0
+
+
+ENSMUSG00000001964 votes + 
+ENSMUSG00000034349 votes + 
+NODE- 3-Heptanol,
+LAYER-1,
+POS_VOTES- 2,
+NEG_VOTES- 0
+
+
+ENSMUSG00000020108 votes - 
+ENSMUSG00000017286 votes - 
+ENSMUSG00000063801 votes - 
+NODE- Suberic acid,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+
+ENSMUSG00000005124 votes - 
+ENSMUSG00000023249 votes - 
+NODE- Oleamide,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+
+ENSMUSG00000030879 votes - 
+ENSMUSG00000022843 votes - 
+NODE- 2,3-Butanediol, O-(trimethylsilyl)-, monoacetate,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+
+ENSMUSG00000001855 votes - 
+ENSMUSG00000042594 votes - 
+NODE- 6-Methyluracil,
+LAYER-1,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+
+ENSMUSG00000070348 votes - 
+NODE- Benzene, 1,4-dimethoxy,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 1
 
 
 ENSMUSG00000017286 votes - 
-ENSMUSG00000031513 votes - 
-NODE- 8-Methylnonanoic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-
-ENSMUSG00000066357 votes - 
-NODE- Glycine,
+NODE- N-Acetyl-L-alanine,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 1
 
 
-ENSMUSG00000036371 votes - 
-ENSMUSG00000078201 votes - 
-NODE- Isopropylamine,
+ENSMUSG00000105729 votes - 
+NODE- Heptylamine,
 LAYER-1,
 POS_VOTES- 0,
-NEG_VOTES- 2
+NEG_VOTES- 1
 
 
-ENSMUSG00000036188 votes - 
-ENSMUSG00000085945 votes - 
-NODE- Cyclobutylamine,
+ENSMUSG00000051224 votes + 
+ENSMUSG00000069631 votes + 
+NODE- Leucylglycine,
 LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-
-ENSMUSG00000041438 votes + 
-ENSMUSG00000044365 votes - 
-ENSMUSG00000026547 votes - 
-NODE- Naringenin 4',7-dimethylether,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 2
-Naringenin 4',7-dimethylether node is removed
-
-
-ENSMUSG00000050989 votes + 
-ENSMUSG00000039804 votes + 
-ENSMUSG00000039813 votes + 
-NODE- Benzophenone,
-LAYER-1,
-POS_VOTES- 3,
+POS_VOTES- 2,
 NEG_VOTES- 0
 
 
-ENSMUSG00000106032 votes - 
-NODE- 2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl),
+ENSMUSG00000030862 votes - 
+NODE- N,N-Dimethyl-2-aminoethanol,
 LAYER-1,
 POS_VOTES- 0,
 NEG_VOTES- 1
 
 
-ENSMUSG00000085945 votes - 
-NODE- Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester ,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-ENSMUSG00000039813 votes - 
-NODE- Ethanolamine,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-ENSMUSG00000024870 votes + 
-ENSMUSG00000022674 votes - 
-ENSMUSG00000031513 votes - 
-NODE- Hexanoic acid,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 2
-Hexanoic acid node is removed
-
-
-ENSMUSG00000007613 votes + 
-ENSMUSG00000036815 votes - 
-NODE- Guanosine,
-LAYER-1,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Guanosine node is removed
-
-
-ENSMUSG00000097537 votes - 
-NODE- Phytanic acid,
-LAYER-1,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-ENSMUSG00000030560 votes + 
-NODE- Cholesterol,
+ENSMUSG00000005699 votes + 
+NODE- Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl-,
 LAYER-1,
 POS_VOTES- 1,
 NEG_VOTES- 0
+
+
+ENSMUSG00000020219 votes + 
+NODE- Glycine, tert.-butyldimethylsilyl ester,
+LAYER-1,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+
+SAME EDGE REMOVAL Benzoic Acid-2-Pyrrolidone-5-carboxylic acid edge is removed in layer1
 
 
 SAME EDGE REMOVAL 2,2'-Bipyridine-2-Methyl-1,3-butanediol edge is removed in layer1
@@ -784,205 +717,34 @@ SAME EDGE REMOVAL 3,4-Methylenedioxyamphetamine-2-Methyl-1,3-butanediol edge is 
 SAME EDGE REMOVAL 4-Oxohexanoic acid-2-Methyl-1,3-butanediol edge is removed in layer1
 
 
-SAME EDGE REMOVAL 1,2-Cyclohexanediol, (Z)-L-Tryptophan edge is removed in layer1
+SAME EDGE REMOVAL Glycine, tert.-butyldimethylsilyl ester-2-Methyl-1,3-butanediol edge is removed in layer1
+
+
+SAME EDGE REMOVAL 2-Methylcyclohexanol, (Z)-Pipecolic acid edge is removed in layer1
 
 
 SAME EDGE REMOVAL N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine-L-Tryptophan edge is removed in layer1
 
 
-SAME EDGE REMOVAL 2-Amino-4-methylbenzophenone-Heptylamine edge is removed in layer1
+SAME EDGE REMOVAL N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine-Diethylamine edge is removed in layer1
 
 
-SAME EDGE REMOVAL 4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol-Heptylamine edge is removed in layer1
+SAME EDGE REMOVAL Benzoic Acid-Picolinic acid edge is removed in layer1
 
 
-SAME EDGE REMOVAL N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine-Heptylamine edge is removed in layer1
-
-
-SAME EDGE REMOVAL Lactic acid-Methyl lactate edge is removed in layer1
-
-
-SAME EDGE REMOVAL L-Lysine-Methyl lactate edge is removed in layer1
-
-
-SAME EDGE REMOVAL Oleamide-Methyl lactate edge is removed in layer1
-
-
-SAME EDGE REMOVAL Isopropylamine-Hydracrylic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2-Pyrrolidone-5-carboxylic acid-3,4,5-Trimethoxyamphetamine edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2,5-Dimethoxybenzhydrazide-6-Methyluracil edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2',5'-Dimethoxypropiophenone-6-Methyluracil edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2-Amino-4-methylbenzophenone-6-Methyluracil edge is removed in layer1
-
-
-SAME EDGE REMOVAL 3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-6-Methyluracil edge is removed in layer1
-
-
-SAME EDGE REMOVAL Cholesterol-6-Methyluracil edge is removed in layer1
-
-
-SAME EDGE REMOVAL Cyclooctylamine-6-Methyluracil edge is removed in layer1
-
-
-SAME EDGE REMOVAL 8-Methylnonanoic acid-4-Oxohexanoic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL Butanedioic acid-4-Oxohexanoic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL N-Acetyl-L-alanine-4-Oxohexanoic acid edge is removed in layer1
+SAME EDGE REMOVAL N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine-2,5-Dimethoxybenzonitrile edge is removed in layer1
 
 
 SAME EDGE REMOVAL Suberic acid-4-Oxohexanoic acid edge is removed in layer1
 
 
-SAME EDGE REMOVAL 2,5-Dimethoxybenzhydrazide-Hymexazole, tert-butyldimethylsilyl ether edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2,5-Dimethoxybenzonitrile-Hymexazole, tert-butyldimethylsilyl ether edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2',5'-Dimethoxypropiophenone-Hymexazole, tert-butyldimethylsilyl ether edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2-Amino-4-methylbenzophenone-Hymexazole, tert-butyldimethylsilyl ether edge is removed in layer1
-
-
-SAME EDGE REMOVAL 3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-Hymexazole, tert-butyldimethylsilyl ether edge is removed in layer1
-
-
-SAME EDGE REMOVAL 3,4-Methylenedioxyamphetamine-Hymexazole, tert-butyldimethylsilyl ether edge is removed in layer1
-
-
-SAME EDGE REMOVAL Cholesterol-Hymexazole, tert-butyldimethylsilyl ether edge is removed in layer1
-
-
-SAME EDGE REMOVAL Cyclohexanone, 3,3,5-trimethyl-Hymexazole, tert-butyldimethylsilyl ether edge is removed in layer1
-
-
-SAME EDGE REMOVAL Cyclooctylamine-Hymexazole, tert-butyldimethylsilyl ether edge is removed in layer1
-
-
-SAME EDGE REMOVAL Diethylamine-Hymexazole, tert-butyldimethylsilyl ether edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2,5-Dimethoxybenzonitrile-N,N-Dimethyl-2-aminoethanol edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2',5'-Dimethoxypropiophenone-N,N-Dimethyl-2-aminoethanol edge is removed in layer1
-
-
-SAME EDGE REMOVAL 3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-N,N-Dimethyl-2-aminoethanol edge is removed in layer1
-
-
-SAME EDGE REMOVAL Cholesterol-N,N-Dimethyl-2-aminoethanol edge is removed in layer1
-
-
-SAME EDGE REMOVAL Cyclooctylamine-N,N-Dimethyl-2-aminoethanol edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2-Methylcyclohexanol, (Z)-Myristic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL 3,4-Methylenedioxyamphetamine-Myristic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL Benzophenone-Myristic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL Uracil-Cyclooctylamine edge is removed in layer1
-
-
-SAME EDGE REMOVAL Butachlor ESA-2,2'-Bipyridine edge is removed in layer1
-
-
-SAME EDGE REMOVAL Glycine-2,2'-Bipyridine edge is removed in layer1
-
-
-SAME EDGE REMOVAL Suberic acid-2,2'-Bipyridine edge is removed in layer1
-
-
-SAME EDGE REMOVAL Uracil-2,5-Dimethoxybenzhydrazide edge is removed in layer1
-
-
-SAME EDGE REMOVAL 1,2-Cyclohexanediol, (Z)-N-Acetyl-L-alanine edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2-Furoic acid-N-Acetyl-L-alanine edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2-Methylcyclohexanol, (Z)-N-Acetyl-L-alanine edge is removed in layer1
-
-
-SAME EDGE REMOVAL Benzophenone-N-Acetyl-L-alanine edge is removed in layer1
-
-
-SAME EDGE REMOVAL Isopropylamine-N-Acetyl-L-alanine edge is removed in layer1
-
-
-SAME EDGE REMOVAL Glycerol-2,3-Dihydroxybutanoic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL Benzophenone-(2,5-Dimethoxyphenyl)acetone edge is removed in layer1
-
-
-SAME EDGE REMOVAL N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine-(2,5-Dimethoxyphenyl)acetone edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl)-5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether edge is removed in layer1
-
-
-SAME EDGE REMOVAL Butachlor ESA-2-Methylcyclohexanol, (Z) edge is removed in layer1
-
-
-SAME EDGE REMOVAL Lignoceric acid-2-Methylcyclohexanol, (Z) edge is removed in layer1
-
-
-SAME EDGE REMOVAL Pipecolic acid-2-Methylcyclohexanol, (Z) edge is removed in layer1
-
-
-SAME EDGE REMOVAL Suberic acid-2-Methylcyclohexanol, (Z) edge is removed in layer1
+SAME EDGE REMOVAL Uracil-4-Oxohexanoic acid edge is removed in layer1
 
 
 SAME EDGE REMOVAL 2-Naphthol-2-Furoic acid edge is removed in layer1
 
 
-SAME EDGE REMOVAL Butachlor ESA-2-Furoic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL Lignoceric acid-2-Furoic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL Suberic acid-2-Furoic acid edge is removed in layer1
-
-
-SAME EDGE REMOVAL Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl--L-Tyrosine edge is removed in layer1
-
-
-SAME EDGE REMOVAL Uracil-Mevalonolactone edge is removed in layer1
-
-
-SAME EDGE REMOVAL Uracil-3,4-Methylenedioxyamphetamine edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2-Amino-4-methylbenzophenone-Oleamide edge is removed in layer1
-
-
-SAME EDGE REMOVAL 2-Naphthol-1,2-Cyclohexanediol, (Z) edge is removed in layer1
-
-
-SAME EDGE REMOVAL Butachlor ESA-1,2-Cyclohexanediol, (Z) edge is removed in layer1
-
-
-SAME EDGE REMOVAL Suberic acid-1,2-Cyclohexanediol, (Z) edge is removed in layer1
+SAME EDGE REMOVAL (2,5-Dimethoxyphenyl)acetone-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine edge is removed in layer1
 
 
 SAME EDGE REMOVAL 2-Naphthol-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine edge is removed in layer1
@@ -991,88 +753,161 @@ SAME EDGE REMOVAL 2-Naphthol-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsi
 SAME EDGE REMOVAL Benzene, 1,4-dimethoxy-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine edge is removed in layer1
 
 
-SAME EDGE REMOVAL Butachlor ESA-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine edge is removed in layer1
+SAME EDGE REMOVAL Heptylamine-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine edge is removed in layer1
 
 
-SAME EDGE REMOVAL Diethylamine-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine edge is removed in layer1
-
-
-SAME EDGE REMOVAL Suberic acid-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine edge is removed in layer1
+SAME EDGE REMOVAL Phenoxyethanol-Benzoic Acid edge is removed in layer1
 
 
 SAME EDGE REMOVAL Benzophenone-Glycerol edge is removed in layer1
 
 
-SAME EDGE REMOVAL Picolinic acid-Glycerol edge is removed in layer1
+SAME EDGE REMOVAL 2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl)-5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether edge is removed in layer1
 
 
-SAME EDGE REMOVAL 2,4-Di-tert-butylphenol-2-Amino-4-methylbenzophenone edge is removed in layer1
+SAME EDGE REMOVAL 2,2'-Bipyridine-Butachlor ESA edge is removed in layer1
 
 
-SAME EDGE REMOVAL 2-Naphthol-Picolinic acid edge is removed in layer1
+SAME EDGE REMOVAL Hymexazole, tert-butyldimethylsilyl ether-2',5'-Dimethoxypropiophenone edge is removed in layer1
 
 
-SAME EDGE REMOVAL m-Toluic acid-4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol edge is removed in layer1
-
-
-SAME EDGE REMOVAL Phenoxyethanol-4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol edge is removed in layer1
-
-
-SAME EDGE REMOVAL Isopropylamine-Butachlor ESA edge is removed in layer1
-
-
-SAME EDGE REMOVAL 8-Methylnonanoic acid-Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl- edge is removed in layer1
-
-
-SAME EDGE REMOVAL Uracil-Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl- edge is removed in layer1
+SAME EDGE REMOVAL Glycine, tert.-butyldimethylsilyl ester-Acetic acid edge is removed in layer1
 
 
 SAME EDGE REMOVAL Cholesterol-Uracil edge is removed in layer1
 
 
+SAME EDGE REMOVAL Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl--Uracil edge is removed in layer1
+
+
+SAME EDGE REMOVAL 2,2'-Bipyridine-Suberic acid edge is removed in layer1
+
+
+SAME EDGE REMOVAL Glycine, tert.-butyldimethylsilyl ester-Suberic acid edge is removed in layer1
+
+
 SAME EDGE REMOVAL Cholesterol-Phenoxyethanol edge is removed in layer1
 
 
-SAME EDGE REMOVAL Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester -Lignoceric acid edge is removed in layer1
+SAME EDGE REMOVAL 2,2'-Bipyridine-6-Methyluracil edge is removed in layer1
 
 
-SAME EDGE REMOVAL m-Toluic acid-Isopropylamine edge is removed in layer1
+SAME EDGE REMOVAL 2,5-Dimethoxybenzhydrazide-6-Methyluracil edge is removed in layer1
 
 
-SAME EDGE REMOVAL Oxalic acid-Isopropylamine edge is removed in layer1
+SAME EDGE REMOVAL Cholesterol-6-Methyluracil edge is removed in layer1
 
 
-SAME EDGE REMOVAL Suberic acid-Isopropylamine edge is removed in layer1
+SAME EDGE REMOVAL 2,2'-Bipyridine-Hymexazole, tert-butyldimethylsilyl ether edge is removed in layer1
 
 
-SAME EDGE REMOVAL 2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl)-Cyclobutylamine edge is removed in layer1
+SAME EDGE REMOVAL 2,5-Dimethoxybenzhydrazide-Hymexazole, tert-butyldimethylsilyl ether edge is removed in layer1
 
 
-SAME EDGE REMOVAL Benzophenone-Suberic acid edge is removed in layer1
+SAME EDGE REMOVAL Cholesterol-Hymexazole, tert-butyldimethylsilyl ether edge is removed in layer1
+
+
+SAME EDGE REMOVAL N,N-Dimethyl-2-aminoethanol-Cholesterol edge is removed in layer1
+
+
+SAME EDGE REMOVAL 2,2'-Bipyridine-Glycine edge is removed in layer1
+
+
+SAME EDGE REMOVAL Glycine, tert.-butyldimethylsilyl ester-Glycine edge is removed in layer1
+
+
+SAME EDGE REMOVAL Xylazine-2,2'-Bipyridine edge is removed in layer1
+
+
+SAME EDGE REMOVAL Phytanic acid-L-Lysine edge is removed in layer1
+
+
+SAME EDGE REMOVAL Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl--L-Tyrosine edge is removed in layer1
+
+
+2,5-Dimethoxybenzhydrazide votes - 
+2,5-Dimethoxybenzonitrile votes - 
+3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes - 
+Cholesterol votes - 
+Cyclohexanone, 3,3,5-trimethyl votes - 
+Cyclooctylamine votes - 
+Diethylamine votes - 
+Hymexazole, tert-butyldimethylsilyl ether votes + 
+N,N-Dimethyl-2-aminoethanol votes + 
+Uracil votes + 
+NODE- (2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 7
+(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester node is removed
+
+
+6-Methyluracil votes - 
+Cholesterol votes + 
+Hymexazole, tert-butyldimethylsilyl ether votes - 
+N,N-Dimethyl-2-aminoethanol votes - 
+Phenoxyethanol votes - 
+NODE- Monocaproin,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 4
+Cholesterol Monocaproin edge is removed MINORITY CASE
+
+
+2,4-Di-tert-butylphenol votes - 
+2-Methylcyclohexanol, (Z) votes + 
+L-Tyrosine votes - 
+N-Acetyl-L-alanine votes - 
+Pipecolic acid votes - 
+Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl- votes + 
+Suberic acid votes - 
+Xylazine votes - 
+NODE- Myristic acid,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 6
+Myristic acid node is removed
+
+
+1-Octanol, 2-butyl- votes - 
+2-Naphthol votes - 
+3-Heptanol votes - 
+Benzoic acid, methyl ester votes - 
+Phenoxyethanol votes - 
+NODE- Propylene glycol,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 5
 
 
 2-Amino-4-methylbenzophenone votes + 
+6-Methyluracil votes - 
+Hymexazole, tert-butyldimethylsilyl ether votes - 
 m-Toluic acid votes - 
-NODE- 1-(Cyclohexylmethyl)-4-piperidinylamine,
+NODE- 4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol,
 LAYER-2,
 POS_VOTES- 1,
-NEG_VOTES- 1
-1-(Cyclohexylmethyl)-4-piperidinylamine node is removed
+NEG_VOTES- 3
+4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol node is removed
 
 
-1,2-Cyclohexanediol, (Z) votes + 
-2,2'-Bipyridine votes + 
-Azelaic acid votes - 
-Benzophenone votes + 
-Butachlor ESA votes - 
-Glycerol votes - 
-Heptylamine votes - 
-Suberic acid votes - 
-NODE- Norketamine,
+2,5-Dimethoxybenzhydrazide votes + 
+2,5-Dimethoxybenzonitrile votes + 
+2',5'-Dimethoxypropiophenone votes + 
+2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl) votes - 
+3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes + 
+6-Methyluracil votes - 
+Butanedioic acid votes + 
+Cyclohexanone, 3,3,5-trimethyl votes + 
+Cyclooctylamine votes + 
+Hydracrylic acid votes + 
+Hymexazole, tert-butyldimethylsilyl ether votes - 
+Isopropylamine votes - 
+NODE- 2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole,
 LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 5
-Norketamine node is removed
+POS_VOTES- 8,
+NEG_VOTES- 4
+2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole node is removed
 
 
 2,5-Dimethoxybenzhydrazide votes - 
@@ -1080,720 +915,125 @@ Norketamine node is removed
 2',5'-Dimethoxypropiophenone votes - 
 3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes - 
 3,4-Methylenedioxyamphetamine votes - 
-3-Heptanol votes - 
-Cholesterol votes - 
+5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether votes - 
+Benzene, 1,4-dimethoxy votes - 
+Benzoic acid, methyl ester votes - 
 Cyclohexanone, 3,3,5-trimethyl votes - 
 Cyclooctylamine votes - 
 Diethylamine votes - 
-Hymexazole, tert-butyldimethylsilyl ether votes + 
 Mevalonolactone votes - 
-N,N-Dimethyl-2-aminoethanol votes + 
-Uracil votes + 
 NODE- 2,5-Dimethoxyphenol,
 LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 11
-2,5-Dimethoxyphenol node is removed
+POS_VOTES- 0,
+NEG_VOTES- 12
 
 
-2,2'-Bipyridine votes + 
-2-Amino-4-methylbenzophenone votes + 
-2-Methylcyclohexanol, (Z) votes + 
-2-Naphthol votes - 
-4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol votes + 
-6-Methyluracil votes - 
-Azelaic acid votes - 
-Butachlor ESA votes - 
-Glycine votes - 
-Heptylamine votes - 
-Hymexazole, tert-butyldimethylsilyl ether votes - 
-Lignoceric acid votes - 
-L-Tryptophan votes - 
-m-Toluic acid votes - 
-Xylazine votes - 
-NODE- 2-Decanol,
+1,2-Cyclohexanediol, (Z) votes - 
+1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans- votes - 
+2-Methylcyclohexanol, (Z) votes - 
+Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester  votes - 
+Cyclobutylamine votes - 
+Mevalonolactone votes - 
+NODE- Butylmethylamine,
 LAYER-2,
-POS_VOTES- 4,
-NEG_VOTES- 11
-2-Decanol node is removed
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
-3,4,5-Trimethoxyamphetamine votes - 
-2-Pyrrolidone-5-carboxylic acid votes + 
-Azelaic acid votes - 
-Glycerol votes - 
-Heptylamine votes - 
-L-Tryptophan votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-Picolinic acid votes + 
-NODE- Curcumin,
-LAYER-2,
-POS_VOTES- 3,
+POS_VOTES- 0,
 NEG_VOTES- 6
-Curcumin node is removed
-
-
-1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine votes + 
-2,3-Butanediol, O-(trimethylsilyl)-, monoacetate votes - 
-2-Pyrrolidone-5-carboxylic acid votes - 
-4-Oxohexanoic acid votes + 
-Benzoic Acid votes + 
-Hydracrylic acid votes - 
-Isopropylamine votes + 
-Oxalic acid votes - 
-Picolinic acid votes - 
-NODE- Glycolic acid,
-LAYER-2,
-POS_VOTES- 4,
-NEG_VOTES- 5
-Glycolic acid node is removed
 
 
 (2,5-Dimethoxyphenyl)acetone votes - 
-1,2-Cyclohexanediol, (Z) votes + 
-2-Naphthol votes - 
-Benzophenone votes + 
+2,5-Dimethoxybenzonitrile votes - 
+2',5'-Dimethoxypropiophenone votes - 
+2-Cyclohexen-1-one, 3-methyl- votes - 
+3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes - 
+Benzene, 1,4-dimethoxy votes - 
+Benzoic acid, methyl ester votes - 
 Butachlor ESA votes - 
-Glycerol votes - 
-Glycine votes - 
-L-Tryptophan votes - 
+Cyclohexanone, 3,3,5-trimethyl votes - 
+Cyclooctylamine votes - 
+Diethylamine votes - 
+Hydracrylic acid votes - 
+L-Histidine, N,1-bis(tert-butyldimethylsilyl)- votes - 
+N-Acetyl-L-alanine votes - 
 N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
 Suberic acid votes - 
-NODE- 2'-Hydroxy-2,4,4',5-tetramethoxychalcone,
+NODE- 2-Methyl-3-pentanol,
 LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 7
-2'-Hydroxy-2,4,4',5-tetramethoxychalcone node is removed
+POS_VOTES- 1,
+NEG_VOTES- 15
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine 2-Methyl-3-pentanol edge is removed MINORITY CASE
 
 
-1,2-Cyclohexanediol, (Z) votes + 
+2,3-Butanediol, O-(trimethylsilyl)-, monoacetate votes - 
+m-Toluic acid votes + 
+NODE- Benzenepropanoic acid,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Benzenepropanoic acid node is removed
+
+
+6-Methyluracil votes - 
+L-Lysine votes + 
+Phenoxyethanol votes - 
+Xylazine votes - 
+NODE- N-Ethyldiethanolamine,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 3
+N-Ethyldiethanolamine node is removed
+
+
+2,5-Dimethoxybenzhydrazide votes - 
+3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes - 
+NODE- N-Acetylaminoethanol,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+
 2,2'-Bipyridine votes + 
 Benzophenone votes + 
 Butachlor ESA votes - 
 Glycerol votes - 
 Heptylamine votes - 
+Leucylglycine votes - 
 L-Tryptophan votes - 
-Suberic acid votes - 
 NODE- Isopropyl palmitate,
 LAYER-2,
-POS_VOTES- 3,
+POS_VOTES- 2,
 NEG_VOTES- 5
 Isopropyl palmitate node is removed
 
 
+2,4-Di-tert-butylphenol votes - 
+2-Cyclohexen-1-one, 3-methyl- votes - 
+4-Oxohexanoic acid votes + 
+Butachlor ESA votes - 
+Butanedioic acid votes - 
+Hydracrylic acid votes - 
+L-Histidine, N,1-bis(tert-butyldimethylsilyl)- votes - 
 L-Tyrosine votes - 
 N-Acetyl-L-alanine votes - 
-Phenoxyethanol votes - 
-Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
-NODE- Aniline,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 4
-
-
-1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine votes + 
-Benzoic Acid votes + 
-Salsoline votes + 
-NODE- Nonanoic acid,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 0
-
-
-6-Methyluracil votes - 
-Hymexazole, tert-butyldimethylsilyl ether votes - 
-N,N-Dimethyl-2-aminoethanol votes - 
-NODE- Monocaproin,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 3
-
-
-1,2-Cyclohexanediol, (Z) votes + 
-2,2'-Bipyridine votes + 
-4-Oxohexanoic acid votes + 
-Benzophenone votes + 
-Butachlor ESA votes - 
-Glycerol votes - 
-Heptylamine votes - 
-Mevalonolactone votes + 
+Pipecolic acid votes - 
+Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl- votes + 
 Suberic acid votes - 
-NODE- L-Alanine,
-LAYER-2,
-POS_VOTES- 5,
-NEG_VOTES- 4
-L-Alanine node is removed
-
-
-Benzene, 1,4-dimethoxy votes - 
-Butachlor ESA votes - 
-Diethylamine votes - 
-Lactic acid votes + 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-NODE- 5-Azacytosine,
+NODE- 8-Methylnonanoic acid,
 LAYER-2,
 POS_VOTES- 2,
-NEG_VOTES- 3
-5-Azacytosine node is removed
+NEG_VOTES- 10
+4-Oxohexanoic acid 8-Methylnonanoic acid edge is removed MINORITY CASE
+Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl- 8-Methylnonanoic acid edge is removed MINORITY CASE
 
 
+1-Octanol, 2-butyl- votes - 
 2,2'-Bipyridine votes + 
 Butachlor ESA votes - 
-Heptylamine votes - 
 L-Tryptophan votes - 
 NODE- L-Leucine,
 LAYER-2,
 POS_VOTES- 1,
 NEG_VOTES- 3
 L-Leucine node is removed
-
-
-Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester  votes + 
-Benzoic Acid votes - 
-Cyclohexanone, 3,3,5-trimethyl votes + 
-L-Histidine, N,1-bis(tert-butyldimethylsilyl)- votes + 
-NODE- L-Threonine,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 1
-L-Threonine node is removed
-
-
-2,5-Dimethoxybenzhydrazide votes + 
-2',5'-Dimethoxypropiophenone votes + 
-2-Amino-4-methylbenzophenone votes + 
-3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes + 
-3,4-Methylenedioxyamphetamine votes + 
-6-Methyluracil votes - 
-Cholesterol votes + 
-Cyclohexanone, 3,3,5-trimethyl votes + 
-Cyclooctylamine votes + 
-Hymexazole, tert-butyldimethylsilyl ether votes - 
-Mevalonolactone votes + 
-Phenoxyethanol votes - 
-Uracil votes - 
-Xylazine votes - 
-NODE- Malic acid,
-LAYER-2,
-POS_VOTES- 9,
-NEG_VOTES- 5
-Malic acid node is removed
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
-1,2-Cyclohexanediol, (Z) votes + 
-2,2'-Bipyridine votes + 
-2-Methylcyclohexanol, (Z) votes + 
-2-Naphthol votes - 
-Benzophenone votes + 
-Glycerol votes - 
-L-Tryptophan votes - 
-Mevalonolactone votes + 
-N-Acetyl-L-alanine votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-NODE- Triethyl citrate,
-LAYER-2,
-POS_VOTES- 6,
-NEG_VOTES- 5
-Triethyl citrate node is removed
-
-
-Myristic acid votes + 
-Pipecolic acid votes + 
-NODE- Butylmethylamine,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 0
-
-
-1-Octanol, 2-butyl- votes - 
-Benzoic acid, methyl ester votes - 
-Heptylamine votes - 
-Leucylglycine votes - 
-NODE- 3-Amino-5-methylisoxazole,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 4
-
-
-2,5-Dimethoxybenzhydrazide votes + 
-2',5'-Dimethoxypropiophenone votes + 
-2-Naphthol votes - 
-3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes + 
-6-Methyluracil votes - 
-Cholesterol votes + 
-Cyclohexanone, 3,3,5-trimethyl votes + 
-Cyclooctylamine votes + 
-Hymexazole, tert-butyldimethylsilyl ether votes - 
-L-Tryptophan votes - 
-Phenoxyethanol votes - 
-Xylazine votes - 
-NODE- Durapan,
-LAYER-2,
-POS_VOTES- 6,
-NEG_VOTES- 6
-Durapan node is removed
-
-
-2,5-Dimethoxybenzhydrazide votes - 
-2,5-Dimethoxybenzonitrile votes - 
-2',5'-Dimethoxypropiophenone votes - 
-2-Cyclohexen-1-one, 3-methyl- votes - 
-3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes - 
-Benzene, 1,4-dimethoxy votes - 
-Cyclohexanone, 3,3,5-trimethyl votes - 
-Cyclooctylamine votes - 
-Diethylamine votes - 
-L-Histidine, N,1-bis(tert-butyldimethylsilyl)- votes - 
-NODE- Trimethylolpropane,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 10
-
-
-2,3-Butanediol, O-(trimethylsilyl)-, monoacetate votes - 
-NODE- Benzenepropanoic acid,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-2-Pyrrolidone-5-carboxylic acid votes + 
-Picolinic acid votes + 
-NODE- Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 0
-
-
-Glycerol votes - 
-Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl- votes + 
-NODE- 2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 1
-2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether node is removed
-
-
-Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl- votes - 
-NODE- Benzaldehyde, 2,5-dimethoxy,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
-1,2-Cyclohexanediol, (Z) votes + 
-2,2'-Bipyridine votes + 
-Benzophenone votes + 
-Butachlor ESA votes - 
-Glycerol votes - 
-L-Tryptophan votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-Suberic acid votes - 
-NODE- Frangulin,
-LAYER-2,
-POS_VOTES- 4,
-NEG_VOTES- 5
-Frangulin node is removed
-
-
-2-Cyclohexen-1-one, 3-methyl- votes - 
-NODE- N-Acetylaspartic acid,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-2-Methylcyclohexanol, (Z) votes + 
-Lignoceric acid votes - 
-Methyl lactate votes + 
-Myristic acid votes - 
-Pipecolic acid votes - 
-NODE- Supraene,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 3
-Supraene node is removed
-
-
-Heptylamine votes - 
-NODE- 1-(2,4-Dimethoxyphenyl)-propan-2-one,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-2,5-Dimethoxybenzhydrazide votes + 
-2',5'-Dimethoxypropiophenone votes + 
-2-Amino-4-methylbenzophenone votes + 
-6-Methyluracil votes - 
-Cholesterol votes + 
-Cyclooctylamine votes + 
-Heptylamine votes - 
-Hymexazole, tert-butyldimethylsilyl ether votes - 
-Phenoxyethanol votes - 
-Xylazine votes - 
-NODE- 2,4-Imidazolidinedione, 5,5-dimethyl,
-LAYER-2,
-POS_VOTES- 5,
-NEG_VOTES- 5
-2,4-Imidazolidinedione, 5,5-dimethyl node is removed
-
-
-1,2-Cyclohexanediol, (Z) votes + 
-2,2'-Bipyridine votes + 
-3,4-Methylenedioxyamphetamine votes + 
-8-Methylnonanoic acid votes - 
-Benzophenone votes + 
-Butachlor ESA votes - 
-Glycerol votes - 
-L-Tyrosine votes - 
-Suberic acid votes - 
-NODE- 2-Butoxyethanol,
-LAYER-2,
-POS_VOTES- 4,
-NEG_VOTES- 5
-2-Butoxyethanol node is removed
-
-
-1,2-Cyclohexanediol, (Z) votes + 
-2,2'-Bipyridine votes + 
-Azelaic acid votes - 
-Butachlor ESA votes - 
-Glycine votes - 
-Heptylamine votes - 
-L-Tryptophan votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-NODE- 1-(tert-Butyldimethylsilyl)-4-methyl-1H-pyrazole,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 5
-1-(tert-Butyldimethylsilyl)-4-methyl-1H-pyrazole node is removed
-
-
-1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine votes + 
-2-Furoic acid votes + 
-4-Oxohexanoic acid votes + 
-8-Methylnonanoic acid votes - 
-Butachlor ESA votes - 
-Isopropylamine votes + 
-Oxalic acid votes - 
-Palmitic Acid votes + 
-Salsoline votes + 
-NODE- Heptanoic acid,
-LAYER-2,
-POS_VOTES- 6,
-NEG_VOTES- 3
-Heptanoic acid node is removed
-
-
-1-Octanol, 2-butyl- votes - 
-2,2'-Bipyridine votes + 
-2-Methylcyclohexanol, (Z) votes + 
-Glycine votes - 
-m-Toluic acid votes - 
-Myristic acid votes - 
-Pipecolic acid votes - 
-Suberic acid votes - 
-NODE- Octanoic acid,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 6
-Octanoic acid node is removed
-
-
-2,4-Di-tert-butylphenol votes - 
-2,5-Dimethoxybenzhydrazide votes + 
-2-Amino-4-methylbenzophenone votes + 
-3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes + 
-3,4-Methylenedioxyamphetamine votes + 
-4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol votes + 
-Hymexazole, tert-butyldimethylsilyl ether votes - 
-Lignoceric acid votes - 
-Phenoxyethanol votes - 
-NODE- Benzyl alcohol,
-LAYER-2,
-POS_VOTES- 5,
-NEG_VOTES- 4
-Benzyl alcohol node is removed
-
-
-1,2-Cyclohexanediol, (Z) votes + 
-2,2'-Bipyridine votes + 
-Azelaic acid votes - 
-Benzophenone votes + 
-Butachlor ESA votes - 
-Glycerol votes - 
-Glycine votes - 
-Heptylamine votes - 
-L-Tryptophan votes - 
-Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
-Suberic acid votes - 
-NODE- 2-Pentadecanone,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 8
-2-Pentadecanone node is removed
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
-2-Naphthol votes - 
-Heptylamine votes - 
-m-Toluic acid votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-NODE- 2-Propyl-1-pentanol,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 4
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine 2-Propyl-1-pentanol edge is removed MINORITY CASE
-
-
-Benzene, 1,4-dimethoxy votes - 
-NODE- 2-(Methylamino)ethanol,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
-1,2-Cyclohexanediol, (Z) votes + 
-2,2'-Bipyridine votes + 
-Azelaic acid votes - 
-Benzophenone votes + 
-Butachlor ESA votes - 
-Diethylamine votes - 
-Glycerol votes - 
-Glycine votes - 
-L-Tryptophan votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-Suberic acid votes - 
-NODE- L-Glutamine,
-LAYER-2,
-POS_VOTES- 4,
-NEG_VOTES- 8
-L-Glutamine node is removed
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
-2-Naphthol votes - 
-Glycerol votes - 
-Heptylamine votes - 
-L-Tryptophan votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-NODE- Tetrahydro-solasodine triacetate,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 5
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine Tetrahydro-solasodine triacetate edge is removed MINORITY CASE
-
-
-2,5-Dimethoxybenzhydrazide votes - 
-2-Cyclohexen-1-one, 3-methyl- votes - 
-3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes - 
-Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester  votes - 
-Benzoic acid, methyl ester votes - 
-Mevalonolactone votes - 
-Picolinic acid votes - 
-NODE- 1-(1-Hydroxybutyl)-2,5-dimethoxybenzene ,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 7
-
-
-2,2'-Bipyridine votes - 
-2-Furoic acid votes - 
-2-Methylcyclohexanol, (Z) votes - 
-2-Naphthol votes + 
-Glycerol votes + 
-Lignoceric acid votes + 
-L-Tryptophan votes + 
-Mevalonolactone votes - 
-Myristic acid votes + 
-Picolinic acid votes - 
-Xylazine votes + 
-NODE- l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester,
-LAYER-2,
-POS_VOTES- 6,
-NEG_VOTES- 5
-l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester node is removed
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
-1,2-Cyclohexanediol, (Z) votes + 
-2,2'-Bipyridine votes + 
-Benzene, 1,4-dimethoxy votes - 
-Benzophenone votes + 
-Butachlor ESA votes - 
-Diethylamine votes - 
-Glycerol votes - 
-L-Tryptophan votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
-Suberic acid votes - 
-NODE- D-Streptamine, O-6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4)-O-(3-deoxy-4-C-methyl-3-(methylamino)-beta-L-arabinopyranosyl-(1-6))-2-deoxy-,
-LAYER-2,
-POS_VOTES- 4,
-NEG_VOTES- 8
-D-Streptamine, O-6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4)-O-(3-deoxy-4-C-methyl-3-(methylamino)-beta-L-arabinopyranosyl-(1-6))-2-deoxy- node is removed
-
-
-2,5-Dimethoxybenzhydrazide votes + 
-3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes + 
-3,4-Methylenedioxyamphetamine votes + 
-5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether votes + 
-6-Methyluracil votes - 
-Cyclohexanone, 3,3,5-trimethyl votes + 
-Cyclooctylamine votes + 
-Hymexazole, tert-butyldimethylsilyl ether votes - 
-Mevalonolactone votes + 
-Phenoxyethanol votes - 
-Uracil votes - 
-Xylazine votes - 
-NODE- Ketamine,
-LAYER-2,
-POS_VOTES- 7,
-NEG_VOTES- 5
-Ketamine node is removed
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
-2-Methylcyclohexanol, (Z) votes + 
-2-Naphthol votes - 
-Butachlor ESA votes - 
-Heptylamine votes - 
-N-Acetyl-L-alanine votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
-NODE- Propylene glycol,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 6
-Propylene glycol node is removed
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
-1,2-Cyclohexanediol, (Z) votes + 
-2,2'-Bipyridine votes + 
-Benzophenone votes + 
-Butachlor ESA votes - 
-Glycerol votes - 
-Glycine votes - 
-L-Tryptophan votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-Suberic acid votes - 
-NODE- Dodecanoic acid, 1-methylethyl ester,
-LAYER-2,
-POS_VOTES- 4,
-NEG_VOTES- 6
-Dodecanoic acid, 1-methylethyl ester node is removed
-
-
-1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine votes + 
-4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol votes + 
-Phenoxyethanol votes - 
-NODE- Isonicotinic Acid,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 1
-Isonicotinic Acid node is removed
-
-
-2,3-Dihydroxybutanoic acid votes - 
-2-Naphthol votes + 
-3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes - 
-NODE- N-Acetylaminoethanol,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 2
-N-Acetylaminoethanol node is removed
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
-1,2-Cyclohexanediol, (Z) votes + 
-2-Naphthol votes - 
-Benzophenone votes + 
-Butachlor ESA votes - 
-Glycerol votes - 
-L-Tryptophan votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-Suberic acid votes - 
-NODE- Cytosine, N-(tert-butyldimethylsilyl)-,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 6
-Cytosine, N-(tert-butyldimethylsilyl)- node is removed
-
-
-1,2-Cyclohexanediol, (Z) votes + 
-2,4-Di-tert-butylphenol votes - 
-4-Oxohexanoic acid votes + 
-8-Methylnonanoic acid votes - 
-Benzophenone votes + 
-Butachlor ESA votes - 
-L-Tyrosine votes - 
-Myristic acid votes - 
-N-Acetyl-L-alanine votes - 
-Pipecolic acid votes - 
-Suberic acid votes - 
-NODE- Pentanedioic acid,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 8
-Pentanedioic acid node is removed
-
-
-4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol votes + 
-Phenoxyethanol votes - 
-NODE- Butyric Acid,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Butyric Acid node is removed
-
-
-2-Amino-4-methylbenzophenone votes + 
-4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol votes + 
-Lignoceric acid votes - 
-Oxalic acid votes - 
-NODE- Formamide,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 2
-Formamide node is removed
-
-
-L-Lysine votes + 
-Methyl lactate votes - 
-NODE- Adipoyl-L-carnitine,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 1
-Adipoyl-L-carnitine node is removed
-
-
-1,2-Cyclohexanediol, (Z) votes + 
-2,2'-Bipyridine votes + 
-2-Furoic acid votes + 
-2-Methyl-1,3-butanediol votes - 
-2-Methylcyclohexanol, (Z) votes + 
-4-Oxohexanoic acid votes + 
-8-Methylnonanoic acid votes - 
-Benzophenone votes + 
-Butachlor ESA votes - 
-Lignoceric acid votes - 
-L-Tryptophan votes - 
-L-Tyrosine votes - 
-Myristic acid votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-Pipecolic acid votes - 
-Suberic acid votes - 
-NODE- 2-Hydroxy-3-methylbutyric acid,
-LAYER-2,
-POS_VOTES- 7,
-NEG_VOTES- 9
-2-Hydroxy-3-methylbutyric acid node is removed
 
 
 Leucylglycine votes + 
@@ -1804,100 +1044,339 @@ POS_VOTES- 2,
 NEG_VOTES- 0
 
 
-2,2'-Bipyridine votes + 
-3,4-Methylenedioxyamphetamine votes + 
-Glycerol votes - 
+1-Octanol, 2-butyl- votes - 
+2-Naphthol votes - 
 L-Lysine votes + 
-Phytanic acid votes - 
-NODE- 6-Oxoheptanoic acid,
+NODE- Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 2
+Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester node is removed
+
+
+Cholesterol votes + 
+L-Tyrosine votes - 
+Phenoxyethanol votes - 
+Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl- votes + 
+Uracil votes - 
+NODE- Aniline,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 3
+Aniline node is removed
+
+
+2,2'-Bipyridine votes + 
+Benzene, 1,4-dimethoxy votes - 
+Butachlor ESA votes - 
+Glycerol votes - 
+Leucylglycine votes - 
+L-Tryptophan votes - 
+NODE- 2-Pentadecanone,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 5
+2,2'-Bipyridine 2-Pentadecanone edge is removed MINORITY CASE
+
+
+2-Methyl-1,3-butanediol votes - 
+NODE- 2,6-di-tert-Butyl-4-(dimethylaminomethyl)phenol,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+2,2'-Bipyridine votes + 
+Hymexazole, tert-butyldimethylsilyl ether votes - 
+L-Histidine, N,1-bis(tert-butyldimethylsilyl)- votes - 
+Phenoxyethanol votes - 
+Picolinic acid votes - 
+Uracil votes - 
+Xylazine votes - 
+NODE- Pentanoic acid,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 6
+2,2'-Bipyridine Pentanoic acid edge is removed MINORITY CASE
+
+
+1-Octanol, 2-butyl- votes - 
+2,2'-Bipyridine votes + 
+2-Methylcyclohexanol, (Z) votes + 
+Glycine votes - 
+Glycine, tert.-butyldimethylsilyl ester votes + 
+Pipecolic acid votes - 
+Suberic acid votes - 
+NODE- Octanoic acid,
 LAYER-2,
 POS_VOTES- 3,
-NEG_VOTES- 2
-6-Oxoheptanoic acid node is removed
+NEG_VOTES- 4
+Octanoic acid node is removed
+
+
+1-Octanol, 2-butyl- votes - 
+2,2'-Bipyridine votes + 
+Azelaic acid votes - 
+Glycerol votes - 
+Leucylglycine votes - 
+L-Tryptophan votes - 
+NODE- 1-(tert-Butyldimethylsilyl)-4-methyl-1H-pyrazole,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 5
+2,2'-Bipyridine 1-(tert-Butyldimethylsilyl)-4-methyl-1H-pyrazole edge is removed MINORITY CASE
+
+
+(2,5-Dimethoxyphenyl)acetone votes - 
+2,2'-Bipyridine votes + 
+Benzophenone votes + 
+Butachlor ESA votes - 
+Glycerol votes - 
+Leucylglycine votes - 
+L-Tryptophan votes - 
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
+NODE- Dodecanoic acid, 1-methylethyl ester,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 5
+Dodecanoic acid, 1-methylethyl ester node is removed
 
 
 1,2-Cyclohexanediol, (Z) votes + 
 2,2'-Bipyridine votes + 
-2-Furoic acid votes + 
 2-Methyl-1,3-butanediol votes - 
 2-Methylcyclohexanol, (Z) votes + 
-Butachlor ESA votes - 
-Glycine votes - 
-Lignoceric acid votes - 
+Glycine, tert.-butyldimethylsilyl ester votes + 
 L-Tryptophan votes - 
-Myristic acid votes - 
+Phenoxyethanol votes - 
 Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
+Uracil votes - 
 NODE- Vanillylmandelic acid,
 LAYER-2,
 POS_VOTES- 4,
-NEG_VOTES- 7
+NEG_VOTES- 5
 Vanillylmandelic acid node is removed
 
 
-2,5-Dimethoxybenzhydrazide votes - 
-2,5-Dimethoxybenzonitrile votes - 
-6-Methyluracil votes + 
 Cholesterol votes - 
-Cyclooctylamine votes - 
-Diethylamine votes - 
-Hymexazole, tert-butyldimethylsilyl ether votes + 
-Suberic acid votes - 
-NODE- 2(5H)-Furanone, 4-(hydroxymethyl),
+Phenoxyethanol votes + 
+Uracil votes + 
+NODE- Octacosanol,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 1
+Octacosanol node is removed
+
+
+4-Oxohexanoic acid votes + 
+Benzophenone votes + 
+Heptylamine votes - 
+Leucylglycine votes - 
+L-Tyrosine votes - 
+Xylazine votes - 
+NODE- Benzenesulfonamide, N-butyl,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 4
+Benzenesulfonamide, N-butyl node is removed
+
+
+2,2'-Bipyridine votes + 
+6-Methyluracil votes - 
+Cholesterol votes + 
+Heptylamine votes - 
+Hymexazole, tert-butyldimethylsilyl ether votes - 
+Phenoxyethanol votes - 
+Uracil votes - 
+Xylazine votes - 
+NODE- Kojic acid, bis(tert-butyldimethylsilyl) ether,
 LAYER-2,
 POS_VOTES- 2,
 NEG_VOTES- 6
-2(5H)-Furanone, 4-(hydroxymethyl) node is removed
+Kojic acid, bis(tert-butyldimethylsilyl) ether node is removed
 
 
 2,5-Dimethoxybenzhydrazide votes - 
 2,5-Dimethoxybenzonitrile votes - 
+2',5'-Dimethoxypropiophenone votes - 
+2-Amino-4-methylbenzophenone votes - 
 3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes - 
 6-Methyluracil votes + 
 Cholesterol votes - 
+Cyclohexanone, 3,3,5-trimethyl votes - 
 Cyclooctylamine votes - 
-Diethylamine votes - 
+Hydracrylic acid votes - 
 Hymexazole, tert-butyldimethylsilyl ether votes + 
-N,N-Dimethyl-2-aminoethanol votes + 
-Phenoxyethanol votes + 
-NODE- (2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester,
+NODE- 1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 9
+6-Methyluracil 1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone edge is removed MINORITY CASE
+Hymexazole, tert-butyldimethylsilyl ether 1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone edge is removed MINORITY CASE
+
+
+Benzophenone votes + 
+Glycerol votes - 
+L-Lysine votes + 
+NODE- 5-Oxohexanoic Acid,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 1
+5-Oxohexanoic Acid node is removed
+
+
+2,5-Dimethoxybenzhydrazide votes + 
+6-Methyluracil votes - 
+Cyclohexanone, 3,3,5-trimethyl votes + 
+Hymexazole, tert-butyldimethylsilyl ether votes - 
+Phenoxyethanol votes - 
+Uracil votes - 
+Xylazine votes - 
+NODE- Ketamine,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 5
+Ketamine node is removed
+
+
+1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans- votes - 
+1-Octanol, 2-butyl- votes - 
+Glycerol votes - 
+NODE- Curcumin,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+
+2,5-Dimethoxybenzhydrazide votes + 
+2',5'-Dimethoxypropiophenone votes + 
+2-Naphthol votes - 
+6-Methyluracil votes - 
+Cholesterol votes + 
+Cyclohexanone, 3,3,5-trimethyl votes + 
+Cyclooctylamine votes + 
+Hymexazole, tert-butyldimethylsilyl ether votes - 
+N,N-Dimethyl-2-aminoethanol votes - 
+Phenoxyethanol votes - 
+Uracil votes - 
+Xylazine votes - 
+NODE- Methylthiouracil,
+LAYER-2,
+POS_VOTES- 5,
+NEG_VOTES- 7
+Methylthiouracil node is removed
+
+
+2,4-Di-tert-butylphenol votes - 
+2-Methylcyclohexanol, (Z) votes + 
+3,4-Methylenedioxyamphetamine votes + 
+N-Acetyl-L-alanine votes - 
+Pipecolic acid votes - 
+Suberic acid votes - 
+NODE- Lignoceric acid,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 4
+Lignoceric acid node is removed
+
+
+2,2'-Bipyridine votes + 
+2-Amino-4-methylbenzophenone votes + 
+2-Methyl-1,3-butanediol votes - 
+6-Methyluracil votes - 
+Glycine, tert.-butyldimethylsilyl ester votes + 
+Hymexazole, tert-butyldimethylsilyl ether votes - 
+L-Lysine votes + 
+NODE- Biphenyl,
 LAYER-2,
 POS_VOTES- 4,
+NEG_VOTES- 3
+Biphenyl node is removed
+
+
+2,5-Dimethoxybenzonitrile votes - 
+2',5'-Dimethoxypropiophenone votes - 
+2-Cyclohexen-1-one, 3-methyl- votes - 
+Azelaic acid votes - 
+Cyclooctylamine votes - 
+Diethylamine votes - 
+Pipecolic acid votes - 
+Suberic acid votes - 
+NODE- alpha-Hydroxyisobutyric acid,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 8
+
+
+(2,5-Dimethoxyphenyl)acetone votes - 
+2-Naphthol votes - 
+Glycerol votes - 
+Heptylamine votes - 
+L-Tryptophan votes - 
+L-Tyrosine votes - 
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
+NODE- Triethyl citrate,
+LAYER-2,
+POS_VOTES- 1,
 NEG_VOTES- 6
-(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester node is removed
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine Triethyl citrate edge is removed MINORITY CASE
+
+
+Benzene, 1,4-dimethoxy votes - 
+Butachlor ESA votes - 
+Diethylamine votes - 
+Glycine, tert.-butyldimethylsilyl ester votes + 
+Lactic acid votes + 
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
+NODE- 5-Azacytosine,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 3
+5-Azacytosine node is removed
 
 
 1,2-Cyclohexanediol, (Z) votes + 
 2-Furoic acid votes + 
 4-Oxohexanoic acid votes + 
-8-Methylnonanoic acid votes - 
+Benzophenone votes + 
 Butachlor ESA votes - 
-Butanedioic acid votes - 
-Hydracrylic acid votes - 
-Isopropylamine votes + 
+Glycerol votes - 
+L-Tryptophan votes - 
 L-Tyrosine votes - 
-N-Acetyl-L-alanine votes - 
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
+Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl- votes + 
 Suberic acid votes - 
-NODE- DL-p-Hydroxyphenyllactic acid,
+NODE- 2-Hydroxy-3-methylbutyric acid,
 LAYER-2,
-POS_VOTES- 4,
-NEG_VOTES- 7
-DL-p-Hydroxyphenyllactic acid node is removed
+POS_VOTES- 6,
+NEG_VOTES- 5
+2-Hydroxy-3-methylbutyric acid node is removed
 
 
-4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol votes + 
+2,2'-Bipyridine votes + 
+2,4-Di-tert-butylphenol votes - 
+4-Oxohexanoic acid votes + 
+6-Methyluracil votes - 
 Butachlor ESA votes - 
-Isopropylamine votes + 
-m-Toluic acid votes - 
-Oxalic acid votes - 
-NODE- 5-Chlorovaleric acid, nonyl ester,
+Hymexazole, tert-butyldimethylsilyl ether votes - 
+Leucylglycine votes - 
+L-Tyrosine votes - 
+Phenoxyethanol votes - 
+Pipecolic acid votes - 
+Suberic acid votes - 
+Uracil votes - 
+Xylazine votes - 
+NODE- 5-Nonanol, tert-butyldimethylsilyl ether,
 LAYER-2,
 POS_VOTES- 2,
-NEG_VOTES- 3
-5-Chlorovaleric acid, nonyl ester node is removed
+NEG_VOTES- 11
+2,2'-Bipyridine 5-Nonanol, tert-butyldimethylsilyl ether edge is removed MINORITY CASE
+4-Oxohexanoic acid 5-Nonanol, tert-butyldimethylsilyl ether edge is removed MINORITY CASE
 
 
 2,5-Dimethoxybenzhydrazide votes + 
 2',5'-Dimethoxypropiophenone votes + 
+2-Naphthol votes - 
 3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes + 
 6-Methyluracil votes - 
 Cholesterol votes + 
@@ -1906,54 +1385,267 @@ Cyclooctylamine votes +
 Hymexazole, tert-butyldimethylsilyl ether votes - 
 L-Tryptophan votes - 
 Phenoxyethanol votes - 
-Xylazine votes - 
-NODE- Pinosylvin,
+NODE- Durapan,
 LAYER-2,
 POS_VOTES- 6,
 NEG_VOTES- 5
-Pinosylvin node is removed
-
-
-Cyclooctylamine votes + 
-Heptylamine votes - 
-L-Tyrosine votes - 
-Palmitic Acid votes + 
-Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
-Uracil votes - 
-NODE- Thymol,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 4
-Thymol node is removed
-
-
-4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol votes + 
-Isopropylamine votes + 
-Lignoceric acid votes - 
-m-Toluic acid votes - 
-Myristic acid votes - 
-Suberic acid votes - 
-NODE- Levulinic acid,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 4
-Levulinic acid node is removed
+Durapan node is removed
 
 
 6-Methyluracil votes - 
+Hymexazole, tert-butyldimethylsilyl ether votes - 
+L-Histidine, N,1-bis(tert-butyldimethylsilyl)- votes - 
+Phenoxyethanol votes - 
+Uracil votes - 
+NODE- Butyric Acid,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 5
+
+
+Phenoxyethanol votes - 
+NODE- 2-(Ethylamino)ethanol, N-acetyl,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine votes + 
+2-Pyrrolidone-5-carboxylic acid votes - 
+Benzoic Acid votes + 
+Oxalic acid votes - 
+NODE- Nonanoic acid,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 2
+Nonanoic acid node is removed
+
+
+2,2'-Bipyridine votes + 
+3,4-Methylenedioxyamphetamine votes + 
+Butachlor ESA votes - 
 Leucylglycine votes - 
+L-Lysine votes + 
 L-Tyrosine votes - 
+Uracil votes - 
+Xylazine votes - 
+NODE- 6-Oxoheptanoic acid,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 5
+6-Oxoheptanoic acid node is removed
+
+
+Butachlor ESA votes - 
+L-Tyrosine votes - 
+Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
+Suberic acid votes - 
+NODE- Iminodiacetic acid,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 4
+
+
+1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine votes + 
+1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans- votes - 
+4-Oxohexanoic acid votes + 
+Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester  votes - 
+L-Histidine, N,1-bis(tert-butyldimethylsilyl)- votes - 
+NODE- Propanoic acid,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 3
+Propanoic acid node is removed
+
+
+2-Furoic acid votes + 
+4-Oxohexanoic acid votes + 
+Hydracrylic acid votes - 
+L-Tyrosine votes - 
+Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl- votes + 
+NODE- DL-p-Hydroxyphenyllactic acid,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 2
+DL-p-Hydroxyphenyllactic acid node is removed
+
+
+1,2-Cyclohexanediol, (Z) votes - 
+2-Amino-4-methylbenzophenone votes - 
+2-Furoic acid votes - 
+Acetic acid votes + 
+Glycine, tert.-butyldimethylsilyl ester votes - 
+NODE- 5-Hydroxy-7-methoxy-2-methyl-3-phenyl-4-chromenone,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 4
+Acetic acid 5-Hydroxy-7-methoxy-2-methyl-3-phenyl-4-chromenone edge is removed MINORITY CASE
+
+
+2-Cyclohexen-1-one, 3-methyl- votes - 
+Phenoxyethanol votes - 
+NODE- Norephedrine,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+
+(2,5-Dimethoxyphenyl)acetone votes - 
+2,5-Dimethoxybenzhydrazide votes - 
+2,5-Dimethoxybenzonitrile votes - 
+2',5'-Dimethoxypropiophenone votes - 
+2-Cyclohexen-1-one, 3-methyl- votes - 
+3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes - 
+Benzene, 1,4-dimethoxy votes - 
+Cyclohexanone, 3,3,5-trimethyl votes - 
+Cyclooctylamine votes - 
+Diethylamine votes - 
+L-Histidine, N,1-bis(tert-butyldimethylsilyl)- votes - 
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
+NODE- Trimethylolpropane,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 11
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine Trimethylolpropane edge is removed MINORITY CASE
+
+
+Cholesterol votes + 
+L-Histidine, N,1-bis(tert-butyldimethylsilyl)- votes - 
+L-Lysine votes + 
+Palmitic Acid votes + 
+Phenoxyethanol votes - 
+Phytanic acid votes - 
+Picolinic acid votes - 
+Uracil votes - 
+NODE- 2-Ethylhexanoic acid,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 5
+2-Ethylhexanoic acid node is removed
+
+
+(2,5-Dimethoxyphenyl)acetone votes - 
+2-Naphthol votes - 
+Benzophenone votes + 
+Glycerol votes - 
+Heptylamine votes - 
+Leucylglycine votes - 
+L-Tryptophan votes - 
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
+NODE- Hexacosanoic acid,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 6
+Hexacosanoic acid node is removed
+
+
+4-Oxohexanoic acid votes + 
+Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
+NODE- Citramalic acid,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 1
+Citramalic acid node is removed
+
+
+2,5-Dimethoxybenzhydrazide votes - 
+Butanedioic acid votes - 
+Picolinic acid votes - 
+NODE- 2-Butenoic acid, 3-[(tert-butyldimethylsilyl)oxy],
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+
+2,2'-Bipyridine votes + 
+6-Methyluracil votes - 
+Glycerol votes - 
+Heptylamine votes - 
+Hymexazole, tert-butyldimethylsilyl ether votes - 
+Leucylglycine votes - 
 Xylazine votes - 
 NODE- 2,4,4'-Trihydroxybenzophenone,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 6
+2,2'-Bipyridine 2,4,4'-Trihydroxybenzophenone edge is removed MINORITY CASE
+
+
+2-Pyrrolidone-5-carboxylic acid votes - 
+Benzoic Acid votes + 
+Oxalic acid votes - 
+Uracil votes - 
+NODE- 3,4,5-Trimethoxyamphetamine,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 3
+3,4,5-Trimethoxyamphetamine node is removed
+
+
+2,2'-Bipyridine votes + 
+2-Methyl-1,3-butanediol votes - 
+6-Methyluracil votes - 
+Cholesterol votes + 
+Hymexazole, tert-butyldimethylsilyl ether votes - 
+Phenoxyethanol votes - 
+Uracil votes - 
+Xylazine votes - 
+NODE- 2,4-Imidazolidinedione, 5,5-dimethyl,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 6
+2,4-Imidazolidinedione, 5,5-dimethyl node is removed
+
+
+Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester  votes + 
+Benzoic Acid votes - 
+Cyclohexanone, 3,3,5-trimethyl votes + 
+NODE- L-Threonine,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 1
+L-Threonine node is removed
+
+
+2,4-Di-tert-butylphenol votes - 
+6-Methyluracil votes - 
+Hymexazole, tert-butyldimethylsilyl ether votes - 
+Phenoxyethanol votes - 
+Uracil votes - 
+Xylazine votes - 
+NODE- Benzyl alcohol,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 6
+
+
+1,2-Cyclohexanediol, (Z) votes + 
+2,2'-Bipyridine votes + 
+4-Oxohexanoic acid votes + 
+Benzophenone votes + 
+Butachlor ESA votes - 
+Glycerol votes - 
+L-Tyrosine votes - 
+Uracil votes - 
+NODE- L-Alanine,
+LAYER-2,
+POS_VOTES- 4,
+NEG_VOTES- 4
+L-Alanine node is removed
+
+
+m-Toluic acid votes - 
+Phenoxyethanol votes - 
+Pipecolic acid votes - 
+Suberic acid votes - 
+NODE- Levulinic acid,
 LAYER-2,
 POS_VOTES- 0,
 NEG_VOTES- 4
 
 
 (2,5-Dimethoxyphenyl)acetone votes - 
-1,2-Cyclohexanediol, (Z) votes + 
-2,2'-Bipyridine votes + 
-2-Methylcyclohexanol, (Z) votes + 
+2-Furoic acid votes + 
 2-Naphthol votes - 
 Butachlor ESA votes - 
 Glycerol votes - 
@@ -1963,12 +1655,503 @@ L-Tryptophan votes -
 L-Tyrosine votes - 
 N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
 Phenoxyethanol votes - 
+Uracil votes - 
 Xylazine votes - 
 NODE- Adenine,
 LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 11
+2-Furoic acid Adenine edge is removed MINORITY CASE
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine Adenine edge is removed MINORITY CASE
+
+
+1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine votes + 
+1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans- votes - 
+Cyclobutylamine votes - 
+Phenoxyethanol votes - 
+NODE- Isonicotinic Acid,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 3
+Isonicotinic Acid node is removed
+
+
+L-Lysine votes + 
+NODE- Adipoyl-L-carnitine,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+
+(2,5-Dimethoxyphenyl)acetone votes - 
+1,2-Cyclohexanediol, (Z) votes + 
+2-Naphthol votes - 
+Glycerol votes - 
+Leucylglycine votes - 
+L-Tryptophan votes - 
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
+NODE- Cytosine, N-(tert-butyldimethylsilyl)-,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 5
+Cytosine, N-(tert-butyldimethylsilyl)- node is removed
+
+
+2,2'-Bipyridine votes - 
+2-Methylcyclohexanol, (Z) votes - 
+Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester  votes - 
+Mevalonolactone votes - 
+Picolinic acid votes - 
+Suberic acid votes + 
+NODE- l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 5
+Suberic acid l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester edge is removed MINORITY CASE
+
+
+(2,5-Dimethoxyphenyl)acetone votes - 
+1-Octanol, 2-butyl- votes - 
+2-Naphthol votes - 
+Glycerol votes - 
+Heptylamine votes - 
+Leucylglycine votes - 
+L-Tryptophan votes - 
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
+NODE- 6-Aminocaproic acid, N-(tert.-butyldimethylsilyl),
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 7
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine 6-Aminocaproic acid, N-(tert.-butyldimethylsilyl) edge is removed MINORITY CASE
+
+
+2,2'-Bipyridine votes + 
+2,5-Dimethoxybenzhydrazide votes + 
+2',5'-Dimethoxypropiophenone votes + 
+2-Naphthol votes - 
+6-Methyluracil votes - 
+Cholesterol votes + 
+Heptylamine votes - 
+Hymexazole, tert-butyldimethylsilyl ether votes - 
+L-Tryptophan votes - 
+Phenoxyethanol votes - 
+Uracil votes - 
+Xylazine votes - 
+NODE- Methanesulfonic acid,
+LAYER-2,
 POS_VOTES- 4,
-NEG_VOTES- 10
-Adenine node is removed
+NEG_VOTES- 8
+Methanesulfonic acid node is removed
+
+
+1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans- votes - 
+Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester  votes - 
+Ethanolamine votes + 
+L-Histidine, N,1-bis(tert-butyldimethylsilyl)- votes - 
+Phytanic acid votes - 
+NODE- Methyl lactate,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 4
+Ethanolamine Methyl lactate edge is removed MINORITY CASE
+
+
+2,5-Dimethoxybenzhydrazide votes - 
+2-Amino-4-methylbenzophenone votes - 
+2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl) votes + 
+6-Methyluracil votes + 
+Hymexazole, tert-butyldimethylsilyl ether votes + 
+Phenoxyethanol votes + 
+NODE- Isobutanol,
+LAYER-2,
+POS_VOTES- 4,
+NEG_VOTES- 2
+Isobutanol node is removed
+
+
+L-Lysine votes + 
+Phytanic acid votes - 
+NODE- 4-Methylvaleric acid,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 1
+4-Methylvaleric acid node is removed
+
+
+1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine votes + 
+2-Furoic acid votes + 
+2-Methylcyclohexanol, (Z) votes + 
+4-Oxohexanoic acid votes + 
+L-Tyrosine votes - 
+NODE- 3,5-Dimethylphenol,
+LAYER-2,
+POS_VOTES- 4,
+NEG_VOTES- 1
+L-Tyrosine 3,5-Dimethylphenol edge is removed MINORITY CASE
+
+
+2,2'-Bipyridine votes + 
+6-Methyluracil votes - 
+Hymexazole, tert-butyldimethylsilyl ether votes - 
+Phenoxyethanol votes - 
+Suberic acid votes - 
+Xylazine votes - 
+NODE- Crotonic acid,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 5
+2,2'-Bipyridine Crotonic acid edge is removed MINORITY CASE
+
+
+1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine votes + 
+2-Cyclohexen-1-one, 3-methyl- votes - 
+2-Pyrrolidone-5-carboxylic acid votes - 
+Benzoic Acid votes + 
+Hydracrylic acid votes - 
+Oxalic acid votes - 
+Picolinic acid votes - 
+NODE- Glycolic acid,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 5
+Glycolic acid node is removed
+
+
+2-Pyrrolidone-5-carboxylic acid votes - 
+Oxalic acid votes - 
+Picolinic acid votes - 
+NODE- 2,3-Dihydroxybutanoic acid,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+
+Mevalonolactone votes - 
+NODE- DL-Glyceraldehyde,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+2,3-Butanediol, O-(trimethylsilyl)-, monoacetate votes - 
+2-Cyclohexen-1-one, 3-methyl- votes - 
+2-Pyrrolidone-5-carboxylic acid votes - 
+Butachlor ESA votes - 
+Hydracrylic acid votes - 
+Picolinic acid votes - 
+NODE- N-Acetylaspartic acid,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 6
+
+
+2-Naphthol votes - 
+Phenoxyethanol votes - 
+NODE- Diacetyl monoxime,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+
+(2,5-Dimethoxyphenyl)acetone votes - 
+Benzene, 1,4-dimethoxy votes - 
+Butachlor ESA votes - 
+Lactic acid votes + 
+L-Tryptophan votes - 
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
+NODE- D-Streptamine, O-6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4)-O-(3-deoxy-4-C-methyl-3-(methylamino)-beta-L-arabinopyranosyl-(1-6))-2-deoxy-,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 4
+D-Streptamine, O-6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4)-O-(3-deoxy-4-C-methyl-3-(methylamino)-beta-L-arabinopyranosyl-(1-6))-2-deoxy- node is removed
+
+
+2-Naphthol votes - 
+Phenoxyethanol votes - 
+NODE- Oxymorphone, bis(trimethylsilyl) ether,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+
+2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl) votes - 
+NODE- 2,4,6-Cycloheptatrien-1-one,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine votes + 
+4-Oxohexanoic acid votes + 
+Oxalic acid votes - 
+Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl- votes + 
+NODE- Heptanoic acid,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 1
+Heptanoic acid node is removed
+
+
+1,2-Cyclohexanediol, (Z) votes - 
+2-Butenedioic acid votes - 
+2-Furoic acid votes - 
+2-Naphthol votes + 
+Heptylamine votes + 
+L-Tryptophan votes + 
+Picolinic acid votes - 
+NODE- 2-Hexanol,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 4
+2-Hexanol node is removed
+
+
+Benzophenone votes + 
+Glycerol votes - 
+Leucylglycine votes - 
+L-Tryptophan votes - 
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
+NODE- Frangulin,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 3
+Frangulin node is removed
+
+
+1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine votes + 
+NODE- Aconitic acid,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+
+2,4-Di-tert-butylphenol votes - 
+2-Amino-4-methylbenzophenone votes + 
+6-Methyluracil votes - 
+NODE- Formamide,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 2
+Formamide node is removed
+
+
+Benzophenone votes + 
+Glycerol votes - 
+Lactic acid votes + 
+Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl- votes + 
+NODE- 2-Ethyl-1-butanol,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 1
+2-Ethyl-1-butanol node is removed
+
+
+2,5-Dimethoxybenzhydrazide votes - 
+2,5-Dimethoxybenzonitrile votes - 
+2-Amino-4-methylbenzophenone votes - 
+2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl) votes + 
+3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes - 
+6-Methyluracil votes + 
+Cyclohexanone, 3,3,5-trimethyl votes - 
+Cyclooctylamine votes - 
+Diethylamine votes - 
+Hymexazole, tert-butyldimethylsilyl ether votes + 
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
+NODE- 2(5H)-Furanone, 4-(hydroxymethyl),
+LAYER-2,
+POS_VOTES- 4,
+NEG_VOTES- 7
+2(5H)-Furanone, 4-(hydroxymethyl) node is removed
+
+
+2,5-Dimethoxybenzhydrazide votes + 
+2',5'-Dimethoxypropiophenone votes + 
+2-Naphthol votes - 
+6-Methyluracil votes - 
+Cholesterol votes + 
+Hymexazole, tert-butyldimethylsilyl ether votes - 
+L-Tryptophan votes - 
+N,N-Dimethyl-2-aminoethanol votes - 
+Phenoxyethanol votes - 
+NODE- Pinosylvin,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 6
+Pinosylvin node is removed
+
+
+2,5-Dimethoxybenzhydrazide votes - 
+2',5'-Dimethoxypropiophenone votes - 
+2-Cyclohexen-1-one, 3-methyl- votes - 
+3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes - 
+Cyclohexanone, 3,3,5-trimethyl votes - 
+Cyclooctylamine votes - 
+Hymexazole, tert-butyldimethylsilyl ether votes + 
+Mevalonolactone votes - 
+NODE- 6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 7
+Hymexazole, tert-butyldimethylsilyl ether 6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol  edge is removed MINORITY CASE
+
+
+1-Octanol, 2-butyl- votes - 
+2,2'-Bipyridine votes + 
+2-Amino-4-methylbenzophenone votes + 
+2-Naphthol votes - 
+6-Methyluracil votes - 
+Hymexazole, tert-butyldimethylsilyl ether votes - 
+Phenoxyethanol votes - 
+Uracil votes - 
+Xylazine votes - 
+NODE- 2-Decanol,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 7
+2-Decanol node is removed
+
+
+1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans- votes - 
+1-Octanol, 2-butyl- votes - 
+6-Methyluracil votes - 
+Azelaic acid votes - 
+Benzoic acid, methyl ester votes - 
+Leucylglycine votes - 
+Phenoxyethanol votes - 
+NODE- 3-Amino-5-methylisoxazole,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 7
+
+
+Cholesterol votes + 
+L-Lysine votes + 
+Palmitic Acid votes + 
+Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
+Uracil votes - 
+NODE- Thymol,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 2
+Thymol node is removed
+
+
+2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl) votes - 
+3,4-Methylenedioxyamphetamine votes + 
+6-Methyluracil votes - 
+Cholesterol votes + 
+Cyclohexanone, 3,3,5-trimethyl votes + 
+Hymexazole, tert-butyldimethylsilyl ether votes - 
+L-Lysine votes + 
+Phenoxyethanol votes - 
+Uracil votes - 
+Xylazine votes - 
+NODE- Malic acid,
+LAYER-2,
+POS_VOTES- 4,
+NEG_VOTES- 6
+Malic acid node is removed
+
+
+(2,5-Dimethoxyphenyl)acetone votes - 
+2,2'-Bipyridine votes + 
+Benzophenone votes + 
+Glycerol votes - 
+L-Lysine votes + 
+L-Tryptophan votes - 
+Phenoxyethanol votes - 
+Uracil votes - 
+Xylazine votes - 
+NODE- 1-Octadecanol,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 6
+1-Octadecanol node is removed
+
+
+Aceturic acid votes - 
+L-Histidine, N,1-bis(tert-butyldimethylsilyl)- votes - 
+NODE- N-Methylacetamide,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+
+Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
+NODE- Niacin,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+(2,5-Dimethoxyphenyl)acetone votes - 
+1,2-Cyclohexanediol, (Z) votes + 
+2-Naphthol votes - 
+Benzophenone votes + 
+Glycerol votes - 
+Leucylglycine votes - 
+L-Tryptophan votes - 
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
+NODE- 2'-Hydroxy-2,4,4',5-tetramethoxychalcone,
+LAYER-2,
+POS_VOTES- 3,
+NEG_VOTES- 5
+2'-Hydroxy-2,4,4',5-tetramethoxychalcone node is removed
+
+
+1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine votes + 
+4-Oxohexanoic acid votes + 
+Hymexazole, tert-butyldimethylsilyl ether votes - 
+Phenoxyethanol votes - 
+Uracil votes - 
+Xylazine votes - 
+NODE- Dodecanoic acid,
+LAYER-2,
+POS_VOTES- 2,
+NEG_VOTES- 4
+Dodecanoic acid node is removed
+
+
+(2,5-Dimethoxyphenyl)acetone votes - 
+2-Naphthol votes - 
+Leucylglycine votes - 
+L-Tyrosine votes - 
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
+NODE- N-Caffeoyl-O-methyltyramine,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 4
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine N-Caffeoyl-O-methyltyramine edge is removed MINORITY CASE
+
+
+(2,5-Dimethoxyphenyl)acetone votes - 
+Benzoic acid, methyl ester votes - 
+NODE- 2-Propyl-1-pentanol,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
+
+
+m-Toluic acid votes - 
+NODE- 5-Chlorovaleric acid, nonyl ester,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+2,4-Di-tert-butylphenol votes + 
+NODE- Benzaldehyde, 2,5-dimethoxy,
+LAYER-2,
+POS_VOTES- 1,
+NEG_VOTES- 0
+
+
+2-Naphthol votes - 
+Heptylamine votes - 
+NODE- 2-Methylcyclohexylamine, tert.-butyldimethylsilyl ether,
+LAYER-2,
+POS_VOTES- 0,
+NEG_VOTES- 2
 
 
 2-Butenedioic acid votes + 
@@ -1978,333 +2161,96 @@ POS_VOTES- 1,
 NEG_VOTES- 0
 
 
-2,2'-Bipyridine votes - 
-2,5-Dimethoxybenzhydrazide votes - 
-2',5'-Dimethoxypropiophenone votes - 
-3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes - 
-4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol votes - 
-Cyclooctylamine votes - 
-Heptylamine votes + 
-Hymexazole, tert-butyldimethylsilyl ether votes + 
-Mevalonolactone votes - 
-Phenoxyethanol votes + 
-NODE- 6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol ,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 7
-6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol  node is removed
-
-
-8-Methylnonanoic acid votes - 
-Myristic acid votes - 
-Phenoxyethanol votes - 
-Uracil votes - 
-NODE- Dodecanoic acid,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 4
-
-
 (2,5-Dimethoxyphenyl)acetone votes - 
-2,5-Dimethoxybenzonitrile votes - 
-2',5'-Dimethoxypropiophenone votes - 
-2-Cyclohexen-1-one, 3-methyl- votes - 
-8-Methylnonanoic acid votes - 
-Benzene, 1,4-dimethoxy votes - 
-Benzoic acid, methyl ester votes - 
-Cyclohexanone, 3,3,5-trimethyl votes - 
-Cyclooctylamine votes - 
-Diethylamine votes - 
-N-Acetyl-L-alanine votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-Suberic acid votes - 
-NODE- 2-Methyl-3-pentanol,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 12
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine 2-Methyl-3-pentanol edge is removed MINORITY CASE
-
-
-4-Oxohexanoic acid votes + 
-8-Methylnonanoic acid votes - 
-Benzophenone votes + 
+2,2'-Bipyridine votes + 
 Butachlor ESA votes - 
-N-Acetyl-L-alanine votes - 
-Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
-Suberic acid votes - 
-NODE- Citramalic acid,
+Glycerol votes - 
+Leucylglycine votes - 
+L-Tryptophan votes - 
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
+NODE- L-Glutamine,
 LAYER-2,
 POS_VOTES- 2,
 NEG_VOTES- 5
-Citramalic acid node is removed
+L-Glutamine node is removed
 
 
-(2,5-Dimethoxyphenyl)acetone votes - 
-1,2-Cyclohexanediol, (Z) votes + 
-2,2'-Bipyridine votes + 
-2-Furoic acid votes + 
-2-Methylcyclohexanol, (Z) votes + 
-Benzophenone votes + 
-Glycerol votes - 
-Lignoceric acid votes - 
-L-Tryptophan votes - 
-Myristic acid votes - 
-Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl- votes + 
-Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
-Suberic acid votes - 
-Uracil votes - 
-NODE- 1-Octadecanol,
-LAYER-2,
-POS_VOTES- 6,
-NEG_VOTES- 8
-1-Octadecanol node is removed
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
-2,5-Dimethoxybenzhydrazide votes - 
-2-Amino-4-methylbenzophenone votes - 
-6-Methyluracil votes + 
-Hymexazole, tert-butyldimethylsilyl ether votes + 
-Phenoxyethanol votes + 
-NODE- Isobutanol,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 3
-Isobutanol node is removed
-
-
-1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine votes + 
-Benzene, 1,4-dimethoxy votes - 
+1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans- votes - 
+1-Octanol, 2-butyl- votes - 
 Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester  votes - 
-Cyclobutylamine votes - 
-L-Histidine, N,1-bis(tert-butyldimethylsilyl)- votes - 
-NODE- Propanoic acid,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 4
-1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine Propanoic acid edge is removed MINORITY CASE
-
-
-4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol votes + 
-Lignoceric acid votes - 
-Phenoxyethanol votes - 
-NODE- 2-(Ethylamino)ethanol, N-acetyl,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 2
-2-(Ethylamino)ethanol, N-acetyl node is removed
-
-
-2,2'-Bipyridine votes + 
-2-Methylcyclohexanol, (Z) votes + 
-Azelaic acid votes - 
-Benzophenone votes + 
-Butachlor ESA votes - 
-Heptylamine votes - 
-Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
-NODE- Niacin,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 4
-Niacin node is removed
-
-
-2,3-Butanediol, O-(trimethylsilyl)-, monoacetate votes - 
-2,5-Dimethoxybenzhydrazide votes - 
-2,5-Dimethoxybenzonitrile votes - 
-2',5'-Dimethoxypropiophenone votes - 
-2-Amino-4-methylbenzophenone votes - 
-2-Cyclohexen-1-one, 3-methyl- votes - 
-3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes - 
-6-Methyluracil votes + 
-Cholesterol votes - 
-Cyclohexanone, 3,3,5-trimethyl votes - 
-Cyclooctylamine votes - 
-Heptylamine votes + 
-Hydracrylic acid votes - 
-Hymexazole, tert-butyldimethylsilyl ether votes + 
-N,N-Dimethyl-2-aminoethanol votes + 
-NODE- 1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone,
-LAYER-2,
-POS_VOTES- 4,
-NEG_VOTES- 11
-1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone node is removed
-
-
-1,2-Cyclohexanediol, (Z) votes + 
-2,2'-Bipyridine votes + 
-2-Methylcyclohexanol, (Z) votes + 
-4-Oxohexanoic acid votes + 
-Benzophenone votes + 
-Butachlor ESA votes - 
-Lignoceric acid votes - 
-Mevalonolactone votes + 
-Myristic acid votes - 
-N-Acetyl-L-alanine votes - 
-Suberic acid votes - 
-NODE- Benzenesulfonamide, N-butyl,
-LAYER-2,
-POS_VOTES- 6,
-NEG_VOTES- 5
-Benzenesulfonamide, N-butyl node is removed
-
-
-3,4,5-Trimethoxyamphetamine votes + 
-8-Methylnonanoic acid votes - 
 Glycerol votes - 
-Hydracrylic acid votes - 
-Lactic acid votes + 
-Methyl lactate votes - 
-Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl- votes + 
-NODE- 2-Ethyl-1-butanol,
+Heptylamine votes - 
+L-Tryptophan votes - 
+NODE- Synephrine,
 LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 4
-2-Ethyl-1-butanol node is removed
+POS_VOTES- 0,
+NEG_VOTES- 6
 
 
-2,3-Dihydroxybutanoic acid votes + 
-2,5-Dimethoxybenzhydrazide votes + 
-2,5-Dimethoxybenzonitrile votes + 
-2',5'-Dimethoxypropiophenone votes + 
-2-Cyclohexen-1-one, 3-methyl- votes + 
-3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes + 
-6-Methyluracil votes - 
-Benzene, 1,4-dimethoxy votes + 
-Cyclohexanone, 3,3,5-trimethyl votes + 
-Cyclooctylamine votes + 
-Diethylamine votes + 
-Hymexazole, tert-butyldimethylsilyl ether votes - 
-NODE- 2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole,
-LAYER-2,
-POS_VOTES- 10,
-NEG_VOTES- 2
-6-Methyluracil 2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole edge is removed MINORITY CASE
-Hymexazole, tert-butyldimethylsilyl ether 2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole edge is removed MINORITY CASE
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
-1,2-Cyclohexanediol, (Z) votes + 
-2,2'-Bipyridine votes + 
-Azelaic acid votes - 
-Butachlor ESA votes - 
+1-Octanol, 2-butyl- votes - 
+Benzene, 1,4-dimethoxy votes - 
+Benzoic acid, methyl ester votes - 
+Glycerol votes - 
 Heptylamine votes - 
 Leucylglycine votes - 
 L-Tryptophan votes - 
 N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
 NODE- Yangonin,
 LAYER-2,
-POS_VOTES- 3,
+POS_VOTES- 1,
+NEG_VOTES- 7
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine Yangonin edge is removed MINORITY CASE
+
+
+1,2-Cyclohexanediol, (Z) votes + 
+2,4-Di-tert-butylphenol votes - 
+4-Oxohexanoic acid votes + 
+Butachlor ESA votes - 
+Butanedioic acid votes - 
+N-Acetyl-L-alanine votes - 
+Pipecolic acid votes - 
+Suberic acid votes - 
+NODE- Pentanedioic acid,
+LAYER-2,
+POS_VOTES- 2,
 NEG_VOTES- 6
-Yangonin node is removed
+Pentanedioic acid node is removed
 
 
-Acetic acid votes + 
-NODE- 4-Methylvaleric acid,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 0
-
-
-2,5-Dimethoxybenzhydrazide votes + 
-2',5'-Dimethoxypropiophenone votes + 
-2-Amino-4-methylbenzophenone votes + 
-6-Methyluracil votes - 
-Cholesterol votes + 
-Cyclooctylamine votes + 
-Heptylamine votes - 
-Hymexazole, tert-butyldimethylsilyl ether votes - 
-Phenoxyethanol votes - 
-Xylazine votes - 
-NODE- Kojic acid, bis(tert-butyldimethylsilyl) ether,
-LAYER-2,
-POS_VOTES- 5,
-NEG_VOTES- 5
-Kojic acid, bis(tert-butyldimethylsilyl) ether node is removed
-
-
-2-Methyl-1,3-butanediol votes - 
-L-Lysine votes + 
-NODE- 2,6-di-tert-Butyl-4-(dimethylaminomethyl)phenol,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 1
-2,6-di-tert-Butyl-4-(dimethylaminomethyl)phenol node is removed
-
-
-Phenoxyethanol votes - 
-NODE- Oxymorphone, bis(trimethylsilyl) ether,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-2,5-Dimethoxybenzhydrazide votes - 
-2-Naphthol votes + 
 Heptylamine votes + 
-L-Tryptophan votes + 
-Picolinic acid votes - 
-NODE- 2-Butenoic acid, 3-[(tert-butyldimethylsilyl)oxy],
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 2
-2-Butenoic acid, 3-[(tert-butyldimethylsilyl)oxy] node is removed
-
-
-1,2-Cyclohexanediol, (Z) votes - 
-2-Furoic acid votes - 
-Acetic acid votes + 
-NODE- 5-Hydroxy-7-methoxy-2-methyl-3-phenyl-4-chromenone,
+Pipecolic acid votes - 
+NODE- Supraene,
 LAYER-2,
 POS_VOTES- 1,
-NEG_VOTES- 2
-5-Hydroxy-7-methoxy-2-methyl-3-phenyl-4-chromenone node is removed
+NEG_VOTES- 1
+Supraene node is removed
 
 
 2,5-Dimethoxybenzhydrazide votes - 
 2',5'-Dimethoxypropiophenone votes - 
-8-Methylnonanoic acid votes - 
+2-Cyclohexen-1-one, 3-methyl- votes - 
 Butanedioic acid votes - 
 Hydracrylic acid votes - 
-Oleamide votes + 
 Oxalic acid votes - 
 Picolinic acid votes - 
 NODE- Erythrono-1,4-lactone,
 LAYER-2,
-POS_VOTES- 1,
+POS_VOTES- 0,
 NEG_VOTES- 7
-Oleamide Erythrono-1,4-lactone edge is removed MINORITY CASE
 
 
-Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester  votes - 
-NODE- Synephrine,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-8-Methylnonanoic acid votes - 
-L-Histidine, N,1-bis(tert-butyldimethylsilyl)- votes - 
-Phenoxyethanol votes - 
-Uracil votes - 
-NODE- Pentanoic acid,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 4
-
-
-1,2-Cyclohexanediol, (Z) votes + 
-8-Methylnonanoic acid votes - 
-Azelaic acid votes - 
-Benzophenone votes + 
+2,2'-Bipyridine votes + 
 Butachlor ESA votes - 
-Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
-Suberic acid votes - 
-NODE- Iminodiacetic acid,
+Glycerol votes - 
+Heptylamine votes - 
+Leucylglycine votes - 
+L-Tyrosine votes - 
+Xylazine votes - 
+NODE- Norketamine,
 LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 5
-Iminodiacetic acid node is removed
+POS_VOTES- 1,
+NEG_VOTES- 6
+2,2'-Bipyridine Norketamine edge is removed MINORITY CASE
 
 
 2-Methyl-1,3-butanediol votes - 
@@ -2314,531 +2260,72 @@ POS_VOTES- 0,
 NEG_VOTES- 1
 
 
-1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine votes + 
-1,2-Cyclohexanediol, (Z) votes + 
-2-Furoic acid votes + 
-2-Methylcyclohexanol, (Z) votes + 
-4-Oxohexanoic acid votes + 
-8-Methylnonanoic acid votes - 
-Benzophenone votes + 
-Butachlor ESA votes - 
-Isopropylamine votes + 
-Lignoceric acid votes - 
-Mevalonolactone votes + 
-Myristic acid votes - 
-N-Acetyl-L-alanine votes - 
-Suberic acid votes - 
-NODE- 3,5-Dimethylphenol,
-LAYER-2,
-POS_VOTES- 8,
-NEG_VOTES- 6
-3,5-Dimethylphenol node is removed
-
-
-1,2-Cyclohexanediol, (Z) votes + 
-2,2'-Bipyridine votes + 
-2-Methylcyclohexanol, (Z) votes + 
-3,4-Methylenedioxyamphetamine votes + 
-4-Oxohexanoic acid votes + 
-8-Methylnonanoic acid votes - 
-Benzophenone votes + 
-Butachlor ESA votes - 
-Lignoceric acid votes - 
-Myristic acid votes - 
-N-Acetyl-L-alanine votes - 
-Suberic acid votes - 
-NODE- 5-Nonanol, tert-butyldimethylsilyl ether,
-LAYER-2,
-POS_VOTES- 6,
-NEG_VOTES- 6
-5-Nonanol, tert-butyldimethylsilyl ether node is removed
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
-2-Naphthol votes - 
-L-Tryptophan votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
-NODE- 6-Aminocaproic acid, N-(tert.-butyldimethylsilyl),
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 4
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine 6-Aminocaproic acid, N-(tert.-butyldimethylsilyl) edge is removed MINORITY CASE
-
-
-Mevalonolactone votes - 
-NODE- DL-Glyceraldehyde,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
-2,2'-Bipyridine votes + 
-2-Methylcyclohexanol, (Z) votes + 
-2-Naphthol votes - 
-Benzophenone votes + 
-Glycerol votes - 
-Heptylamine votes - 
-L-Tryptophan votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
-NODE- Hexacosanoic acid,
-LAYER-2,
-POS_VOTES- 4,
-NEG_VOTES- 6
-Hexacosanoic acid node is removed
-
-
-Palmitic Acid votes - 
-NODE- 4-Methoxyphenol,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl) votes - 
-NODE- 2,4,6-Cycloheptatrien-1-one,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether votes + 
-6-Methyluracil votes + 
-Azelaic acid votes + 
-NODE- Aconitic acid,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 0
-
-
-2,3-Butanediol, O-(trimethylsilyl)-, monoacetate votes - 
-Ethanolamine votes - 
-NODE- (9H-fluoren-9-yl)methanol, O-methoxycarbonyl-,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-
-2,5-Dimethoxybenzhydrazide votes + 
-2-Amino-4-methylbenzophenone votes + 
-2-Methyl-1,3-butanediol votes - 
-NODE- Biphenyl,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 1
-Biphenyl node is removed
-
-
-2-Pyrrolidone-5-carboxylic acid votes + 
-Benzoic Acid votes - 
-Benzophenone votes + 
-Glycerol votes - 
-L-Lysine votes + 
-NODE- 5-Oxohexanoic Acid,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 2
-5-Oxohexanoic Acid node is removed
-
-
-2,5-Dimethoxybenzhydrazide votes + 
-2',5'-Dimethoxypropiophenone votes + 
-2-Naphthol votes - 
-3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes + 
-6-Methyluracil votes - 
-Cholesterol votes + 
-Cyclohexanone, 3,3,5-trimethyl votes + 
-Cyclooctylamine votes + 
-Heptylamine votes - 
-Hymexazole, tert-butyldimethylsilyl ether votes - 
-L-Tryptophan votes - 
-Phenoxyethanol votes - 
-Xylazine votes - 
-NODE- Methanesulfonic acid,
-LAYER-2,
-POS_VOTES- 6,
-NEG_VOTES- 7
-Methanesulfonic acid node is removed
-
-
-6-Methyluracil votes - 
-Hymexazole, tert-butyldimethylsilyl ether votes - 
-L-Histidine, N,1-bis(tert-butyldimethylsilyl)- votes - 
-Phenoxyethanol votes - 
-Xylazine votes - 
-NODE- Crotonic acid,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 5
-
-
-2-Methylcyclohexanol, (Z) votes + 
-2-Naphthol votes - 
-4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol votes + 
-Butachlor ESA votes - 
-Heptylamine votes - 
-Phenoxyethanol votes - 
-Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
-NODE- Diacetyl monoxime,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 5
-Diacetyl monoxime node is removed
-
-
-Diethylamine votes - 
-Ethanolamine votes - 
-Phenoxyethanol votes + 
-NODE- Octacosanol,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 2
-Octacosanol node is removed
-
-
-2,5-Dimethoxybenzonitrile votes - 
+1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans- votes - 
+2,5-Dimethoxybenzhydrazide votes - 
 2-Cyclohexen-1-one, 3-methyl- votes - 
-2-Methylcyclohexanol, (Z) votes + 
-Azelaic acid votes - 
-Diethylamine votes - 
-Lignoceric acid votes - 
-Myristic acid votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-Pipecolic acid votes - 
-Suberic acid votes - 
-NODE- alpha-Hydroxyisobutyric acid,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 8
-2-Methylcyclohexanol, (Z) alpha-Hydroxyisobutyric acid edge is removed MINORITY CASE
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine alpha-Hydroxyisobutyric acid edge is removed MINORITY CASE
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
-1,2-Cyclohexanediol, (Z) votes + 
-2-Methylcyclohexanol, (Z) votes + 
-2-Naphthol votes - 
-Azelaic acid votes - 
-Benzophenone votes + 
-Diethylamine votes - 
-m-Toluic acid votes - 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      8-Methylnonanoic acid votes - 
-Benzophenone votes + 
-Butachlor ESA votes - 
-Lignoceric acid votes - 
-Myristic acid votes - 
-N-Acetyl-L-alanine votes - 
-Suberic acid votes - 
-NODE- 5-Nonanol, tert-butyldimethylsilyl ether,
-LAYER-2,
-POS_VOTES- 6,
-NEG_VOTES- 6
-5-Nonanol, tert-butyldimethylsilyl ether node is removed
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
-2-Naphthol votes - 
-L-Tryptophan votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
-NODE- 6-Aminocaproic acid, N-(tert.-butyldimethylsilyl),
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 4
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine 6-Aminocaproic acid, N-(tert.-butyldimethylsilyl) edge is removed MINORITY CASE
-
-
-Mevalonolactone votes - 
-NODE- DL-Glyceraldehyde,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
-2,2'-Bipyridine votes + 
-2-Methylcyclohexanol, (Z) votes + 
-2-Naphthol votes - 
-Benzophenone votes + 
-Glycerol votes - 
-Heptylamine votes - 
-L-Tryptophan votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
-NODE- Hexacosanoic acid,
-LAYER-2,
-POS_VOTES- 4,
-NEG_VOTES- 6
-Hexacosanoic acid node is removed
-
-
-Palmitic Acid votes - 
-NODE- 4-Methoxyphenol,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
+3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes - 
+Aceturic acid votes - 
+Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester  votes - 
 Butanedioic acid votes - 
-L-Tyrosine votes - 
-N-Acetyl-L-alanine votes - 
-Pipecolic acid votes - 
-NODE- Naringenin 4',7-dimethylether,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 5
-
-
-2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl) votes - 
-NODE- 2,4,6-Cycloheptatrien-1-one,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 1
-
-
-5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether votes + 
-6-Methyluracil votes + 
-Azelaic acid votes + 
-NODE- Aconitic acid,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 0
-
-
-2-Pyrrolidone-5-carboxylic acid votes - 
-4-Oxohexanoic acid votes + 
-8-Methylnonanoic acid votes - 
-Isopropylamine votes + 
-Lignoceric acid votes - 
-Myristic acid votes - 
-Oxalic acid votes - 
-Picolinic acid votes - 
-Suberic acid votes - 
-NODE- Hexanoic acid,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 7
-Hexanoic acid node is removed
-
-
-2,3-Butanediol, O-(trimethylsilyl)-, monoacetate votes - 
-Ethanolamine votes - 
-NODE- (9H-fluoren-9-yl)methanol, O-methoxycarbonyl-,
-LAYER-2,
-POS_VOTES- 0,
-NEG_VOTES- 2
-
-
-2,5-Dimethoxybenzhydrazide votes + 
-2-Amino-4-methylbenzophenone votes + 
-2-Methyl-1,3-butanediol votes - 
-NODE- Biphenyl,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 1
-Biphenyl node is removed
-
-
-2-Pyrrolidone-5-carboxylic acid votes + 
-Benzoic Acid votes - 
-Benzophenone votes + 
-Glycerol votes - 
-L-Lysine votes + 
-NODE- 5-Oxohexanoic Acid,
-LAYER-2,
-POS_VOTES- 3,
-NEG_VOTES- 2
-5-Oxohexanoic Acid node is removed
-
-
-2,5-Dimethoxybenzhydrazide votes + 
-2',5'-Dimethoxypropiophenone votes + 
-2-Naphthol votes - 
-3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes + 
-6-Methyluracil votes - 
-Cholesterol votes + 
-Cyclohexanone, 3,3,5-trimethyl votes + 
-Cyclooctylamine votes + 
-Heptylamine votes - 
-Hymexazole, tert-butyldimethylsilyl ether votes - 
-L-Tryptophan votes - 
-Phenoxyethanol votes - 
-Xylazine votes - 
-NODE- Methanesulfonic acid,
-LAYER-2,
-POS_VOTES- 6,
-NEG_VOTES- 7
-Methanesulfonic acid node is removed
-
-
-6-Methyluracil votes - 
-Hymexazole, tert-butyldimethylsilyl ether votes - 
+Cyclooctylamine votes - 
+Diethylamine votes - 
+Hydracrylic acid votes - 
 L-Histidine, N,1-bis(tert-butyldimethylsilyl)- votes - 
-Phenoxyethanol votes - 
-Xylazine votes - 
-NODE- Crotonic acid,
+Mevalonolactone votes - 
+Phytanic acid votes - 
+Picolinic acid votes - 
+NODE- 1-(1-Hydroxybutyl)-2,5-dimethoxybenzene ,
 LAYER-2,
 POS_VOTES- 0,
-NEG_VOTES- 5
+NEG_VOTES- 14
 
 
-2,3-Butanediol, O-(trimethylsilyl)-, monoacetate votes + 
-2,5-Dimethoxybenzonitrile votes + 
-2',5'-Dimethoxypropiophenone votes + 
-Cyclooctylamine votes + 
-N-Acetyl-L-alanine votes + 
-NODE- Guanosine,
-LAYER-2,
-POS_VOTES- 5,
-NEG_VOTES- 0
-
-
-2-Methylcyclohexanol, (Z) votes + 
+1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans- votes - 
+1-Octanol, 2-butyl- votes - 
 2-Naphthol votes - 
-4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol votes + 
-Butachlor ESA votes - 
-Heptylamine votes - 
-Phenoxyethanol votes - 
-Propanoic acid, dimethyl(isopropyl)silyl ester votes - 
-NODE- Diacetyl monoxime,
+Glycerol votes - 
+NODE- Tetrahydro-solasodine triacetate,
 LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 5
-Diacetyl monoxime node is removed
-
-
-Diethylamine votes - 
-Ethanolamine votes - 
-Phenoxyethanol votes + 
-NODE- Octacosanol,
-LAYER-2,
-POS_VOTES- 1,
-NEG_VOTES- 2
-Octacosanol node is removed
-
-
-2,5-Dimethoxybenzonitrile votes - 
-2-Cyclohexen-1-one, 3-methyl- votes - 
-2-Methylcyclohexanol, (Z) votes + 
-Azelaic acid votes - 
-Diethylamine votes - 
-Lignoceric acid votes - 
-Myristic acid votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-Pipecolic acid votes - 
-Suberic acid votes - 
-NODE- alpha-Hydroxyisobutyric acid,
-LAYER-2,
-POS_VOTES- 2,
-NEG_VOTES- 8
-2-Methylcyclohexanol, (Z) alpha-Hydroxyisobutyric acid edge is removed MINORITY CASE
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine alpha-Hydroxyisobutyric acid edge is removed MINORITY CASE
-
-
-(2,5-Dimethoxyphenyl)acetone votes - 
-1,2-Cyclohexanediol, (Z) votes + 
-2-Methylcyclohexanol, (Z) votes + 
-2-Naphthol votes - 
-Azelaic acid votes - 
-Benzophenone votes + 
-Diethylamine votes - 
-m-Toluic acid votes - 
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine votes + 
-Suberic acid votes - 
-NODE- N-Caffeoyl-O-methyltyramine,
-LAYER-2,
-POS_VOTES- 4,
-NEG_VOTES- 6
-N-Caffeoyl-O-methyltyramine node is removed
-
-
-2,5-Dimethoxybenzhydrazide votes + 
-2,5-Dimethoxybenzonitrile votes + 
-2',5'-Dimethoxypropiophenone votes + 
-2-Amino-4-methylbenzophenone votes + 
-3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal votes + 
-6-Methyluracil votes - 
-Butanedioic acid votes + 
-Cholesterol votes + 
-Cyclohexanone, 3,3,5-trimethyl votes + 
-Cyclooctylamine votes + 
-Diethylamine votes + 
-Hymexazole, tert-butyldimethylsilyl ether votes - 
-Phenoxyethanol votes - 
-Xylazine votes - 
-NODE- Methylthiouracil,
-LAYER-2,
-POS_VOTES- 10,
+POS_VOTES- 0,
 NEG_VOTES- 4
-Methylthiouracil node is removed
 
 
-SAME EDGE REMOVAL Stearic acid-6,7,4'-Trihydroxyisoflavone edge is removed in layer2
-
-
-SAME EDGE REMOVAL Aniline-Stearic acid edge is removed in layer2
-
-
-SAME EDGE REMOVAL Cycloheptanol-Stearic acid edge is removed in layer2
-
-
-SAME EDGE REMOVAL Dodecanoic acid-Stearic acid edge is removed in layer2
-
-
-SAME EDGE REMOVAL 2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole-3-Aminobenzoic acid edge is removed in layer2
-
-
-SAME EDGE REMOVAL 4-Methoxyphenol-Benzenepropanoic acid edge is removed in layer2
-
-
-SAME EDGE REMOVAL 4-Methoxyphenol-N-Acetylaspartic acid edge is removed in layer2
-
-
-SAME EDGE REMOVAL 4-Methoxyphenol-4-Aminobutanoic acid edge is removed in layer2
-
-
-DL-Glyceraldehyde votes - 
-Oxymorphone, bis(trimethylsilyl) ether votes - 
-NODE- Norephedrine,
-LAYER-3,
+Butachlor ESA votes - 
+Glycerol votes - 
+Leucylglycine votes - 
+L-Tyrosine votes - 
+Suberic acid votes - 
+NODE- 2-Butoxyethanol,
+LAYER-2,
 POS_VOTES- 0,
-NEG_VOTES- 2
-
-
-3-Aminobenzoic acid votes + 
-Benzenepropanoic acid votes - 
-NODE- 2-Hexanol,
-LAYER-3,
-POS_VOTES- 1,
-NEG_VOTES- 1
-2-Hexanol node is removed
-
-
-1-(2,4-Dimethoxyphenyl)-propan-2-one votes - 
-4-Aminobutanoic acid votes - 
-4-Methoxyphenol votes + 
-Hypoxanthine votes - 
-N-Acetylaspartic acid votes - 
-Pentanoic acid votes - 
-NODE- 2-Ethylhexanoic acid,
-LAYER-3,
-POS_VOTES- 1,
 NEG_VOTES- 5
-4-Methoxyphenol 2-Ethylhexanoic acid edge is removed MINORITY CASE
 
 
-2-Methyl-3-pentanol votes - 
-3-Amino-5-methylisoxazole votes - 
-NODE- N-Methylacetamide,
-LAYER-3,
-POS_VOTES- 0,
-NEG_VOTES- 2
+SAME EDGE REMOVAL 2-Butoxyethanol-l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester edge is removed in layer2
 
 
-1-(2,4-Dimethoxyphenyl)-propan-2-one votes - 
+SAME EDGE REMOVAL 2-Pentadecanone-l-Norvaline, n-propargyloxycarbonyl-, isohexyl ester edge is removed in layer2
+
+
+SAME EDGE REMOVAL Adenine-3,5-Dimethylphenol edge is removed in layer2
+
+
+SAME EDGE REMOVAL Triethyl citrate-3,5-Dimethylphenol edge is removed in layer2
+
+
+SAME EDGE REMOVAL N-Caffeoyl-O-methyltyramine-2,4,6-Cycloheptatrien-1-one edge is removed in layer2
+
+
+SAME EDGE REMOVAL 1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone-Aconitic acid edge is removed in layer2
+
+
+SAME EDGE REMOVAL Butyric Acid-6-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol  edge is removed in layer2
+
+
+SAME EDGE REMOVAL 5-Hydroxy-7-methoxy-2-methyl-3-phenyl-4-chromenone-5-Chlorovaleric acid, nonyl ester edge is removed in layer2
+
+
+Butyric Acid votes - 
 Pentanoic acid votes - 
 NODE- Urea,
 LAYER-3,
@@ -2846,20 +2333,49 @@ POS_VOTES- 0,
 NEG_VOTES- 2
 
 
-Crotonic acid votes + 
-Monocaproin votes + 
-NODE- Allylescaline,
+1-(4-Methoxyphenyl)-4,6-dimethyl-2(1H)-pyrimidinone votes + 
+NODE- 1-(Cyclohexylmethyl)-4-piperidinylamine,
 LAYER-3,
-POS_VOTES- 2,
+POS_VOTES- 1,
 NEG_VOTES- 0
 
 
 3-Amino-5-methylisoxazole votes - 
-4-Methylvaleric acid votes + 
-NODE- N-Ethyldiethanolamine,
+Butyric Acid votes - 
+Pentanoic acid votes - 
+NODE- 1-(2,4-Dimethoxyphenyl)-propan-2-one,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+
+N-Acetylaspartic acid votes - 
+NODE- (9H-fluoren-9-yl)methanol, O-methoxycarbonyl-,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 1
+
+
+1-(tert-Butyldimethylsilyl)-4-methyl-1H-pyrazole votes - 
+Propylene glycol votes - 
+Synephrine votes - 
+NODE- 2-(Methylamino)ethanol,
+LAYER-3,
+POS_VOTES- 0,
+NEG_VOTES- 3
+
+
+L-Glutamic acid votes + 
+NODE- Allylescaline,
 LAYER-3,
 POS_VOTES- 1,
+NEG_VOTES- 0
+
+
+Synephrine votes - 
+NODE- 4-Methoxyphenol,
+LAYER-3,
+POS_VOTES- 0,
 NEG_VOTES- 1
-N-Ethyldiethanolamine node is removed
 
 
