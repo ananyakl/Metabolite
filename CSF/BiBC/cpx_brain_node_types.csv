@@ -1,5 +1,4 @@
 "(2,5-Dimethoxyphenyl)acetone-F",CSF
-"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester-F",CSF
 "(9H-fluoren-9-yl)methanol, O-methoxycarbonyl--F",CSF
 0610040J01Rik-C,CPX
 "1,2-Cyclohexanediol, (Z)-F",CSF
@@ -18,22 +17,19 @@
 1700047K16Rik-T,CTX
 1700125H03Rik-C,CPX
 1810021B22Rik-T,CTX
+1810044D09Rik-S,STM
 "2',5'-Dimethoxypropiophenone-F",CSF
-"2(5H)-Furanone, 4-(hydroxymethyl)-F",CSF
 "2,2'-Bipyridine-F",CSF
 "2,3-Butanediol, O-(trimethylsilyl)-, monoacetate-F",CSF
 "2,3-Dihydroxybutanoic acid-F",CSF
 "2,4,4'-Trihydroxybenzophenone-F",CSF
 "2,4,6-Cycloheptatrien-1-one-F",CSF
 "2,4-Di-tert-butylphenol-F",CSF
-"2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole-F",CSF
 "2,5-Dimethoxybenzhydrazide-F",CSF
 "2,5-Dimethoxybenzonitrile-F",CSF
-"2-(Ethylamino)ethanol, N-acetyl-F",CSF
 2-(Methylamino)ethanol-F,CSF
 2-Amino-4-methylbenzophenone-F,CSF
 2-Butenedioic acid-F,CSF
-"2-Butenoic acid, 3-[(tert-butyldimethylsilyl)oxy]-F",CSF
 "2-Cyclohexen-1-one, 3-methyl--F",CSF
 "2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl)-F",CSF
 2-Ethylhexanoic acid-F,CSF
@@ -43,7 +39,6 @@
 2-Methyl-3-pentanol-F,CSF
 "2-Methylcyclohexanol, (Z)-F",CSF
 2-Naphthol-F,CSF
-2-Pentadecanone-F,CSF
 2-Propyl-1-pentanol-F,CSF
 2-Pyrrolidone-5-carboxylic acid-F,CSF
 2310014F06Rik-C,CPX
@@ -60,7 +55,6 @@
 2810021J22Rik-T,CTX
 "3,4,5-Trimethoxyamphetamine-F",CSF
 "3,4-Methylenedioxyamphetamine-F",CSF
-"3,5-Dimethylphenol-F",CSF
 "3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-F",CSF
 3-Amino-5-methylisoxazole-F,CSF
 3-Heptanol-F,CSF
@@ -76,11 +70,11 @@
 4921539H07Rik-S,STM
 4930412C18Rik-C,CPX
 4930444P10Rik-S,STM
+4930447M23Rik-S,STM
 4930513N10Rik-T,CTX
 4930556M19Rik-C,CPX
 4933439C10Rik-T,CTX
 4933439K11Rik-C,CPX
-"5-Chlorovaleric acid, nonyl ester-F",CSF
 "5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether-F",CSF
 5330413P13Rik-T,CTX
 5730408A14Rik-T,CTX
@@ -99,7 +93,6 @@
 9530026P05Rik-C,CPX
 A230083G16Rik-B,RBN
 A330040F15Rik-T,CTX
-A330094K24Rik-B,RBN
 A430018G15Rik-T,CTX
 A430108G06Rik-C,CPX
 A530041M06Rik-T,CTX
@@ -118,12 +111,12 @@ Abhd2-S,STM
 Abi2-S,STM
 Abitram-C,CPX
 Abraxas1-B,RBN
-Abtb2-C,CPX
 Acacb-C,CPX
 Acad9-C,CPX
 Acadm-S,STM
 Acadvl-S,STM
 Acbd4-C,CPX
+Acbd5-S,STM
 Accs-S,STM
 Acetic acid-F,CSF
 Aceturic acid-F,CSF
@@ -137,19 +130,15 @@ Actr3-C,CPX
 Acvrl1-S,STM
 Adam10-T,CTX
 Adam15-C,CPX
-Adamts15-C,CPX
 Adck1-B,RBN
 Adck2-C,CPX
 Adcy2-S,STM
 Adcy5-S,STM
-Adcy7-B,RBN
 Adcy9-C,CPX
-Adenine-F,CSF
 Adgra1-S,STM
 Adora2a-S,STM
 Adprh-C,CPX
 Adra2a-S,STM
-Adrb3-C,CPX
 Adsl-T,CTX
 Afg3l1-C,CPX
 Agbl3-C,CPX
@@ -158,7 +147,6 @@ Agk-T,CTX
 Ago2-S,STM
 Agrn-C,CPX
 Ahcyl2-C,CPX
-Ajuba-S,STM
 Akr1b1-S,STM
 Alas1-S,STM
 Aldh1l1-C,CPX
@@ -270,16 +258,13 @@ Bean1-T,CTX
 Bend3-T,CTX
 Bend5-B,RBN
 Bend5-S,STM
-Bend7-S,STM
 "Benzaldehyde, 2,5-dimethoxy-F",CSF
 "Benzene, 1,4-dimethoxy-F",CSF
 Benzenepropanoic acid-F,CSF
-"Benzenesulfonamide, N-butyl-F",CSF
 Benzoic Acid-F,CSF
 "Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester-F",CSF
 "Benzoic acid, methyl ester-F",CSF
 Benzophenone-F,CSF
-Benzyl alcohol-F,CSF
 Bet1-S,STM
 Bhlhb9-B,RBN
 Bhlhe41-C,CPX
@@ -301,13 +286,12 @@ Btg3-B,RBN
 Btk-B,RBN
 Butachlor ESA-F,CSF
 Butanedioic acid-F,CSF
-Butylmethylamine-F,CSF
-Bvht-C,CPX
 C030013C21Rik-T,CTX
 C030034I22Rik-T,CTX
 C130021I20Rik-B,RBN
 C130021I20Rik-C,CPX
 C130023A14Rik-T,CTX
+C130026L21Rik-S,STM
 C130075A20Rik-S,STM
 C130089K02Rik-C,CPX
 C230014O12Rik-S,STM
@@ -328,7 +312,6 @@ Capn2-C,CPX
 Car8-S,STM
 Carf-T,CTX
 Carmil3-T,CTX
-Casc3-S,STM
 Casp8-C,CPX
 Casp8-S,STM
 Casq2-S,STM
@@ -394,7 +377,6 @@ Celrr-T,CTX
 Cemip-T,CTX
 Cenpj-B,RBN
 Cenpq-S,STM
-Cenps-T,CTX
 Cep15-T,CTX
 Cep290-C,CPX
 Cep350-T,CTX
@@ -413,7 +395,6 @@ Cfap92-S,STM
 Cfdp1-T,CTX
 Cfh-T,CTX
 Cfp-T,CTX
-Chi3l1-C,CPX
 Chia1-S,STM
 Chic1-T,CTX
 Chmp1b2-S,STM
@@ -435,7 +416,6 @@ Clip4-T,CTX
 Clpp-C,CPX
 Cltb-C,CPX
 Cmas-S,STM
-Cmc4-C,CPX
 Cmtm7-T,CTX
 Cmtm8-C,CPX
 Cmya5-T,CTX
@@ -460,13 +440,11 @@ Col5a3-C,CPX
 Col6a3-S,STM
 Col8a1-C,CPX
 Col8a1-T,CTX
-Col9a2-C,CPX
 Cope-C,CPX
 Copg1-C,CPX
 Copg1-S,STM
 Cops8-T,CTX
 Coq5-B,RBN
-Coro1c-S,STM
 Cox6b2-S,STM
 Cox7b2-B,RBN
 Cpped1-S,STM
@@ -506,7 +484,6 @@ Cxcl16-S,STM
 Cxxc4-C,CPX
 Cyb5d2-T,CTX
 Cyclobutylamine-F,CSF
-Cycloheptanol-F,CSF
 "Cyclohexanone, 3,3,5-trimethyl-F",CSF
 Cyclooctylamine-F,CSF
 "Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester-F",CSF
@@ -515,14 +492,13 @@ Cyp4f15-S,STM
 Cyria-S,STM
 Cyria-T,CTX
 Cyyr1-C,CPX
-"D-Streptamine, O-6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4)-O-(3-deoxy-4-C-methyl-3-(methylamino)-beta-L-arabinopyranosyl-(1-6))-2-deoxy--F",CSF
 D030028A08Rik-T,CTX
 D16Ertd472e-S,STM
+D17H6S53E-S,STM
 D430036J16Rik-S,STM
 D630023F18Rik-T,CTX
 D630036H23Rik-C,CPX
 DL-Glyceraldehyde-F,CSF
-DL-p-Hydroxyphenyllactic acid-F,CSF
 Dach1-B,RBN
 Dalrd3-T,CTX
 Dap3-C,CPX
@@ -542,12 +518,10 @@ Dcun1d4-S,STM
 Dcxr-C,CPX
 Ddb1-C,CPX
 Ddb2-S,STM
-Ddhd1-S,STM
 Ddhd1-T,CTX
 Ddias-S,STM
 Ddit4-C,CPX
 Ddt-T,CTX
-Ddx19b-S,STM
 Ddx20-S,STM
 Ddx31-S,STM
 Ddx6-T,CTX
@@ -571,6 +545,7 @@ Dlg3-T,CTX
 Dlg4-C,CPX
 Dlgap4-C,CPX
 Dll3-S,STM
+Dlx1-S,STM
 Dlx5-S,STM
 Dmtf1-T,CTX
 Dmxl1-T,CTX
@@ -588,6 +563,7 @@ Dock10-C,CPX
 Dock10-T,CTX
 Dock3-S,STM
 Dock6-T,CTX
+Dock8-S,STM
 Dodecanoic acid-F,CSF
 Dok1-C,CPX
 Dph5-B,RBN
@@ -611,7 +587,6 @@ Dync1li1-S,STM
 Dync2i2-S,STM
 Dync2li1-C,CPX
 Dynll1-C,CPX
-Dynlrb2-T,CTX
 Dynlt1a-T,CTX
 Dynlt2b-C,CPX
 Dzip1l-T,CTX
@@ -681,7 +656,6 @@ Ethanolamine-F,CSF
 Etv1-T,CTX
 Etv3-T,CTX
 Evi5-C,CPX
-Exoc4-S,STM
 Exoc5-T,CTX
 Exph5-C,CPX
 Extl1-T,CTX
@@ -747,7 +721,6 @@ Foxa2-B,RBN
 Foxk2-C,CPX
 Fpgt-T,CTX
 Fra10ac1-T,CTX
-Frangulin-F,CSF
 Frg1-C,CPX
 Fry-T,CTX
 Fsbp-C,CPX
@@ -764,7 +737,6 @@ Fzd10-B,RBN
 Fzd5-T,CTX
 Fzr1-C,CPX
 G2e3-C,CPX
-G530011O06Rikx-T,CTX
 Gaa-T,CTX
 Gab2-T,CTX
 Gabra4-S,STM
@@ -786,7 +758,6 @@ Gdf9-T,CTX
 Gdpd1-S,STM
 Gdpd3-C,CPX
 Gem-B,RBN
-Gemin6-S,STM
 Gemin7-S,STM
 Gfra2-S,STM
 Ggct-S,STM
@@ -797,12 +768,10 @@ Gimap9-T,CTX
 Gin1-C,CPX
 Gjc1-B,RBN
 Glmn-T,CTX
-Glod4-C,CPX
 Gls-T,CTX
 Glul-B,RBN
 Glycerol-F,CSF
 Glycine-F,CSF
-Glycolic acid-F,CSF
 Gm10221-T,CTX
 Gm10516-T,CTX
 Gm10643-B,RBN
@@ -839,11 +808,9 @@ Gm19817-C,CPX
 Gm19967-S,STM
 Gm20045-S,STM
 Gm20052-C,CPX
-Gm20632-T,CTX
 Gm20712-S,STM
 Gm23751-T,CTX
 Gm2445-C,CPX
-Gm2445-S,STM
 Gm25517-C,CPX
 Gm26225-T,CTX
 Gm26592-T,CTX
@@ -881,7 +848,6 @@ Gm3764-T,CTX
 Gm37678-T,CTX
 Gm37735-S,STM
 Gm37777-T,CTX
-Gm37805-B,RBN
 Gm37834-T,CTX
 Gm37941-T,CTX
 Gm37968-T,CTX
@@ -933,7 +899,6 @@ Gm5475-T,CTX
 Gm5845-T,CTX
 Gm6548-C,CPX
 Gm6556-S,STM
-Gm6654-S,STM
 Gm7467-S,STM
 Gm8186-S,STM
 Gm8186-T,CTX
@@ -950,7 +915,6 @@ Gnl3l-S,STM
 Golm2-C,CPX
 Gpaa1-C,CPX
 Gpank1-B,RBN
-Gpatch2l-C,CPX
 Gpbp1l1-T,CTX
 Gphn-T,CTX
 Gpr12-B,RBN
@@ -959,17 +923,14 @@ Gpr162-C,CPX
 Gpr180-S,STM
 Gpr19-C,CPX
 Gpr4-C,CPX
-Gpr65-C,CPX
 Gpr88-S,STM
 Gprc5c-C,CPX
-Gpsm3-C,CPX
 Grb2-S,STM
 Greb1l-S,STM
 Grhpr-T,CTX
 Gria4-T,CTX
 Grin2c-T,CTX
 Grk3-T,CTX
-Grk6-S,STM
 Grpel1-C,CPX
 Gsk3b-C,CPX
 Gsta3-C,CPX
@@ -1019,7 +980,6 @@ Hmcn1-S,STM
 Hmgb2-T,CTX
 Hmgcs1-T,CTX
 Hmox2-T,CTX
-Hook2-C,CPX
 Hopx-T,CTX
 Hps6-B,RBN
 Hs1bp3-B,RBN
@@ -1046,7 +1006,6 @@ Ibtk-C,CPX
 Icam2-B,RBN
 Icam4-C,CPX
 Ice2-B,RBN
-Icosl-S,STM
 Id1-C,CPX
 Id4-S,STM
 Ide-C,CPX
@@ -1065,7 +1024,6 @@ Igfbp2-C,CPX
 Igfbp6-C,CPX
 Igsf11-B,RBN
 Igsf8-S,STM
-Ikbke-C,CPX
 Ikzf5-C,CPX
 Il15ra-S,STM
 Ildr2-C,CPX
@@ -1076,7 +1034,6 @@ Immp1l-T,CTX
 Imp3-C,CPX
 Impact-T,CTX
 Impdh1-S,STM
-Impdh2-S,STM
 Ing2-B,RBN
 Inha-S,STM
 Ino80-S,STM
@@ -1088,7 +1045,6 @@ Insl5-S,STM
 Insyn2a-S,STM
 Ints10-C,CPX
 Ints11-C,CPX
-Ints5-C,CPX
 Ints6l-S,STM
 Ip6k1-S,STM
 Ip6k2-S,STM
@@ -1108,7 +1064,6 @@ Irx3-B,RBN
 Iscu-B,RBN
 Isg15-C,CPX
 Isl1-S,STM
-Isopropyl palmitate-F,CSF
 Isopropylamine-F,CSF
 Itch-C,CPX
 Itga11-B,RBN
@@ -1129,7 +1084,6 @@ Jup-S,STM
 Kank3-T,CTX
 Kansl1-S,STM
 Katnal1-S,STM
-Kcmf1-B,RBN
 Kcmf1-C,CPX
 Kcnab1-S,STM
 Kcnh2-T,CTX
@@ -1147,7 +1101,6 @@ Kctd12b-T,CTX
 Kdelr1-T,CTX
 Kdm3b-S,STM
 Kdm3b-T,CTX
-Ketamine-F,CSF
 Kif1b-B,RBN
 Kif21a-C,CPX
 Kif22-C,CPX
@@ -1169,10 +1122,8 @@ Klhl26-T,CTX
 Kmt2b-T,CTX
 Kmt2c-T,CTX
 Kmt2d-T,CTX
-Kmt5b-C,CPX
 Kndc1-S,STM
 Knstrn-T,CTX
-"Kojic acid, bis(tert-butyldimethylsilyl) ether-F",CSF
 Kpna3-C,CPX
 Kpna4-B,RBN
 Kpna4-C,CPX
@@ -1185,12 +1136,10 @@ Krt80-S,STM
 Krtcap2-T,CTX
 Ktn1-B,RBN
 L-Glutamic acid-F,CSF
-L-Glutamine-F,CSF
 "L-Histidine, N,1-bis(tert-butyldimethylsilyl)--F",CSF
 L-Lysine-F,CSF
 L-Tryptophan-F,CSF
 L-Tyrosine-F,CSF
-L-Valine-F,CSF
 L3hypdh-T,CTX
 L3mbtl1-T,CTX
 Lactb2-S,STM
@@ -1201,12 +1150,9 @@ Laptm4b-S,STM
 Larp4-T,CTX
 Lca5-S,STM
 Lca5l-S,STM
-Ldlr-T,CTX
 Lepr-C,CPX
 Leprotl1-C,CPX
-Letmd1-B,RBN
 Leucylglycine-F,CSF
-Levulinic acid-F,CSF
 Lgals1-B,RBN
 Lgr4-C,CPX
 Lgr6-B,RBN
@@ -1225,7 +1171,6 @@ Lrba-T,CTX
 Lrch1-S,STM
 Lrch3-T,CTX
 Lrfn5-T,CTX
-Lrguk-C,CPX
 Lrp2bp-C,CPX
 Lrp4-T,CTX
 Lrp6-C,CPX
@@ -1241,7 +1186,6 @@ Lrtm2-S,STM
 Ltbp4-T,CTX
 Luc7l2-S,STM
 Lurap1-C,CPX
-Lurap1l-B,RBN
 Luzp1-C,CPX
 Luzp1-S,STM
 Ly6e-S,STM
@@ -1254,7 +1198,6 @@ Macroh2a1-S,STM
 Mad2l1bp-B,RBN
 Maf-T,CTX
 Mafa-S,STM
-Mafa-T,CTX
 Mafg-C,CPX
 Mageh1-B,RBN
 Magix-C,CPX
@@ -1265,7 +1208,6 @@ Mansc4-C,CPX
 Map1lc3b-S,STM
 Map2k6-S,STM
 Map3k13-T,CTX
-Map3k14-S,STM
 Map3k2-T,CTX
 Map3k20-T,CTX
 Map3k5-C,CPX
@@ -1327,14 +1269,12 @@ Mon1b-S,STM
 Monocaproin-F,CSF
 Morn4-C,CPX
 Mospd3-C,CPX
-Mpnd-C,CPX
 Mpp7-B,RBN
 Mpp7-C,CPX
 Mpp7-T,CTX
 Mpped2-S,STM
 Mpst-T,CTX
 Mrap-B,RBN
-Mrc1-S,STM
 Mrfap1-T,CTX
 Mrgbp-T,CTX
 Mrln-B,RBN
@@ -1369,7 +1309,6 @@ Mtap-C,CPX
 Mterf3-T,CTX
 Mterf4-C,CPX
 Mtf1-C,CPX
-Mthfd1l-C,CPX
 Mthfd2l-S,STM
 Mtif3-T,CTX
 Mtm1-T,CTX
@@ -1394,7 +1333,6 @@ Myzap-T,CTX
 "N,N-Dimethyl-2-aminoethanol-F",CSF
 N-Acetyl-L-alanine-F,CSF
 N-Acetylaspartic acid-F,CSF
-N-Ethylamphetamine-F,CSF
 N-Isobutyrylglycine-F,CSF
 N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine-F,CSF
 N-Methylacetamide-F,CSF
@@ -1419,7 +1357,6 @@ Ncs1-B,RBN
 Ndfip1-C,CPX
 Ndn-C,CPX
 Ndn-T,CTX
-Ndor1-S,STM
 Ndst2-T,CTX
 Ndufa13-S,STM
 Ndufa5-T,CTX
@@ -1462,10 +1399,10 @@ Nkain1-T,CTX
 Nkain2-T,CTX
 Nkapd1-C,CPX
 Nkiras2-B,RBN
+Nkrf-S,STM
 Nkx2-9-S,STM
 Nlgn2-T,CTX
 Nlrp3-B,RBN
-Nme1-S,STM
 Nmnat1-S,STM
 Nmnat3-S,STM
 Nol3-T,CTX
@@ -1474,7 +1411,6 @@ Nol9-B,RBN
 Nonanoic acid-F,CSF
 Nop56-S,STM
 Norephedrine-F,CSF
-Norketamine-F,CSF
 Nosip-T,CTX
 Notch3-T,CTX
 Noxred1-B,RBN
@@ -1505,7 +1441,6 @@ Oaz2-T,CTX
 Ofd1-C,CPX
 Ogdh-B,RBN
 Ogdhl-T,CTX
-Ogfod2-B,RBN
 Ogg1-B,RBN
 Ola1-C,CPX
 Oleamide-F,CSF
@@ -1537,6 +1472,7 @@ Palmitic Acid-F,CSF
 Pank2-B,RBN
 Pank3-B,RBN
 Pantr1-B,RBN
+Pantr2-S,STM
 Papss1-C,CPX
 Pard6a-C,CPX
 Pard6a-T,CTX
@@ -1564,7 +1500,6 @@ Pcx-T,CTX
 Pdap1-C,CPX
 Pdcd4-C,CPX
 Pdia5-S,STM
-Pdlim1-C,CPX
 Pdlim3-S,STM
 Pdlim5-C,CPX
 Pdpk1-S,STM
@@ -1574,20 +1509,17 @@ Pea15a-S,STM
 Pebp4-C,CPX
 Peg13-T,CTX
 Penk-S,STM
-Pentanedioic acid-F,CSF
 Pentanoic acid-F,CSF
 Pepd-T,CTX
 Perm1-C,CPX
 Pex3-T,CTX
 Pfas-C,CPX
-Pfdn1-S,STM
 Pfdn2-B,RBN
 Pfn1-C,CPX
 Pgam1-S,STM
 Pgap2-S,STM
 Pgap4-S,STM
 Phactr2-C,CPX
-Phenol-F,CSF
 Phenoxyethanol-F,CSF
 Phex-S,STM
 Phf1-C,CPX
@@ -1612,7 +1544,6 @@ Pkn2-C,CPX
 Pknox2-C,CPX
 Pla2g3-C,CPX
 Plcb4-C,CPX
-Plcg1-S,STM
 Plcg1-T,CTX
 Pld5-S,STM
 Plekha3-T,CTX
@@ -1622,9 +1553,7 @@ Plekhn1-C,CPX
 Plgrkt-C,CPX
 Plin2-T,CTX
 Pllp-B,RBN
-Plpbp-S,STM
 Plpp3-T,CTX
-Plscr2-C,CPX
 Pmm1-S,STM
 Pmm2-C,CPX
 Pmvk-S,STM
@@ -1655,11 +1584,9 @@ Ppp1r26-T,CTX
 Ppp1r3c-B,RBN
 Ppp1r3g-T,CTX
 Ppp2r2b-B,RBN
-Ppp4c-C,CPX
 Ppp5c-C,CPX
 Pqbp1-C,CPX
 Pramel1-T,CTX
-Prcc-T,CTX
 Prdm1-T,CTX
 Prdm10-T,CTX
 Prima1-T,CTX
@@ -1672,7 +1599,6 @@ Prnp-S,STM
 "Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl--F",CSF
 "Propanoic acid, dimethyl(isopropyl)silyl ester-F",CSF
 Propanoic acid-F,CSF
-Prpf3-C,CPX
 Prpf6-C,CPX
 Prps1-S,STM
 Prss22-S,STM
@@ -1682,6 +1608,7 @@ Psip1-C,CPX
 Psma4-C,CPX
 Psmc2-S,STM
 Psmc5-S,STM
+Psmd10-S,STM
 Psmd10-T,CTX
 Psmd12-S,STM
 Psmd2-T,CTX
@@ -1756,20 +1683,15 @@ Rgs2-S,STM
 Rgs20-S,STM
 Rgs5-T,CTX
 Rgs7-C,CPX
-Rhbdf2-S,STM
 Rhebl1-T,CTX
 Rhob-C,CPX
 Rhobtb2-S,STM
-Rhou-S,STM
 Ric3-C,CPX
 Ric8a-S,STM
 Rif1-C,CPX
 Rimklb-B,RBN
 Ripk4-B,RBN
-Ripply3-C,CPX
-Rit1-C,CPX
 Rit2-B,RBN
-Rlbp1-C,CPX
 Rmnd5b-C,CPX
 Rnasel-C,CPX
 Rnaset2b-T,CTX
@@ -1806,10 +1728,11 @@ Rps13-ps5-T,CTX
 Rps18-B,RBN
 Rps26-T,CTX
 Rps29-B,RBN
+Rps29-S,STM
+Rps3a3-S,STM
 Rps5-S,STM
 Rps6-ps1-S,STM
 Rps6ka3-S,STM
-Rps6ka6-S,STM
 Rps9-T,CTX
 Rsad1-T,CTX
 Rspo1-B,RBN
@@ -1843,7 +1766,6 @@ Scarf1-T,CTX
 Scg2-S,STM
 Scg5-C,CPX
 Scn4b-S,STM
-Sco2-S,STM
 Scp2-ps2-C,CPX
 Scrib-C,CPX
 Scrt2-T,CTX
@@ -1870,7 +1792,6 @@ Serp2-C,CPX
 Serpina3n-T,CTX
 Serpina9-S,STM
 Serpinb1b-T,CTX
-Serpinb8-B,RBN
 Serpinb8-C,CPX
 Sesn3-C,CPX
 Setbp1-C,CPX
@@ -1882,7 +1803,6 @@ Sfi1-C,CPX
 Sgf29-T,CTX
 Sgsm1-S,STM
 Sh2b1-T,CTX
-Sh2b3-C,CPX
 Sh3bgrl-C,CPX
 Sh3bgrl2-C,CPX
 Sh3d19-S,STM
@@ -1908,7 +1828,6 @@ Slc17a5-C,CPX
 Slc18a1-T,CTX
 Slc1a2-T,CTX
 Slc1a3-B,RBN
-Slc1a3-S,STM
 Slc1a4-S,STM
 Slc1a5-B,RBN
 Slc22a17-C,CPX
@@ -1928,7 +1847,6 @@ Slc2a4rg-ps-T,CTX
 Slc35a3-C,CPX
 Slc35d3-S,STM
 Slc35e2-S,STM
-Slc35f1-S,STM
 Slc36a1-S,STM
 Slc38a9-T,CTX
 Slc39a12-S,STM
@@ -1936,7 +1854,6 @@ Slc44a1-C,CPX
 Slc5a5-S,STM
 Slc7a11-T,CTX
 Slc7a14-T,CTX
-Slc9a7-B,RBN
 Slf2-T,CTX
 Slfn8-S,STM
 Slk-C,CPX
@@ -1964,7 +1881,6 @@ Snai3-S,STM
 Snap47-S,STM
 Sncg-C,CPX
 Sncg-T,CTX
-Snhg12-S,STM
 Snip1-T,CTX
 Snora35-C,CPX
 Snrnp48-C,CPX
@@ -1978,7 +1894,6 @@ Snx7-S,STM
 Soat1-T,CTX
 Socs5-T,CTX
 Sox13-C,CPX
-Sox1ot-S,STM
 Sox30-T,CTX
 Sp3-T,CTX
 Sp4-C,CPX
@@ -1987,7 +1902,6 @@ Spaca6-S,STM
 Spata13-C,CPX
 Spata24-T,CTX
 Spata7-T,CTX
-Spef1l-B,RBN
 Spink8-B,RBN
 Spns1-T,CTX
 Spns2-S,STM
@@ -2008,7 +1922,6 @@ Ss18-T,CTX
 Ss18l1-B,RBN
 Ss18l2-B,RBN
 Ssc4d-B,RBN
-St18-B,RBN
 St3gal5-S,STM
 St6gal2-B,RBN
 St6galnac4-C,CPX
@@ -2020,7 +1933,6 @@ Stard4-T,CTX
 Stat3-C,CPX
 Stau1-B,RBN
 Steap3-T,CTX
-Stearic acid-F,CSF
 Sting1-S,STM
 Sting1-T,CTX
 Stip1-S,STM
@@ -2054,6 +1966,7 @@ Synpo2-T,CTX
 Sypl2-T,CTX
 Syt17-C,CPX
 Sytl2-C,CPX
+Szt2-S,STM
 Taco1os-T,CTX
 Tada1-C,CPX
 Taf1b-B,RBN
@@ -2062,7 +1975,6 @@ Tagln2-C,CPX
 Tarbp1-T,CTX
 Tatdn2-C,CPX
 Tax1bp3-C,CPX
-Tbc1d15-B,RBN
 Tbc1d2-C,CPX
 Tbc1d22b-S,STM
 Tbc1d30-T,CTX
@@ -2089,7 +2001,6 @@ Tetrahydro-solasodine triacetate-F,CSF
 Tex10-S,STM
 Tfip11-T,CTX
 Tgfa-S,STM
-Tgfbr1-C,CPX
 Thap11-T,CTX
 Thoc3-T,CTX
 Thop1-S,STM
@@ -2133,7 +2044,6 @@ Tmem250-T,CTX
 Tmem259-C,CPX
 Tmem42-S,STM
 Tmem62-C,CPX
-Tmem62-S,STM
 Tmem80-C,CPX
 Tmem82-T,CTX
 Tmem87a-C,CPX
@@ -2169,14 +2079,12 @@ Trappc3-S,STM
 Trappc5-S,STM
 Trdmt1-T,CTX
 Trib1-T,CTX
-Triethyl citrate-F,CSF
 Trim68-S,STM
 Trimethylolpropane-F,CSF
 Trip11-T,CTX
 Trnt1-S,STM
 Trp53bp1-S,STM
 Trp53bp2-T,CTX
-Trpc3-S,STM
 Trpc4ap-B,RBN
 Trpc4ap-C,CPX
 Trpc5-S,STM
@@ -2203,12 +2111,10 @@ Tubb3-B,RBN
 Tubg2-T,CTX
 Tulp3-T,CTX
 Tulp4-C,CPX
-Twsg1-C,CPX
 Txlng-B,RBN
 Txnl1-S,STM
 Txnrd2-C,CPX
 Tyro3-S,STM
-UNKNOWN-T,CTX
 UNKNOWN_1345-T,CTX
 UNKNOWN_1454-T,CTX
 UNKNOWN_158-C,CPX
@@ -2236,7 +2142,6 @@ Urm1-T,CTX
 Uros-C,CPX
 Usf3-C,CPX
 Usp13-B,RBN
-Usp22-C,CPX
 Usp43-B,RBN
 Usp9x-C,CPX
 Utp20-T,CTX
@@ -2253,7 +2158,6 @@ Vmp1-C,CPX
 Vps13a-T,CTX
 Vps13b-C,CPX
 Vps13c-T,CTX
-Vps13d-S,STM
 Vps13d-T,CTX
 Vps35l-S,STM
 Vps36-C,CPX
@@ -2266,7 +2170,6 @@ Vstm4-B,RBN
 Vti1b-S,STM
 Vwa3a-B,RBN
 Vwa5a-B,RBN
-Vwa5b2-S,STM
 Wapl-C,CPX
 Wars1-S,STM
 Wasl-C,CPX
@@ -2279,9 +2182,7 @@ Wdr47-T,CTX
 Wdr89-S,STM
 Wdsub1-S,STM
 Wif1-S,STM
-Wif1-T,CTX
 Wrn-C,CPX
-Wscd1-S,STM
 Wwc2-T,CTX
 Wwp1-T,CTX
 Xaf1-C,CPX
@@ -2293,6 +2194,7 @@ Xylazine-F,CSF
 Yars1-T,CTX
 Ybx1-T,CTX
 Ybx3-B,RBN
+Yif1a-S,STM
 Yipf6-T,CTX
 Ylpm1-C,CPX
 Ywhag-S,STM
@@ -2302,7 +2204,6 @@ Zbtb3-B,RBN
 Zbtb3-S,STM
 Zbtb37-C,CPX
 Zbtb37-T,CTX
-Zbtb39-C,CPX
 Zbtb40-S,STM
 Zbtb44-T,CTX
 Zbtb45-T,CTX
@@ -2313,7 +2214,6 @@ Zc3h12c-T,CTX
 Zc3hc1-T,CTX
 Zcchc12-T,CTX
 Zcchc24-T,CTX
-Zcchc3-S,STM
 Zdhhc15-B,RBN
 Zdhhc18-S,STM
 Zdhhc9-T,CTX
@@ -2323,7 +2223,6 @@ Zfp142-S,STM
 Zfp217-C,CPX
 Zfp219-C,CPX
 Zfp27-C,CPX
-Zfp287-S,STM
 Zfp300-C,CPX
 Zfp322a-C,CPX
 Zfp346-S,STM
@@ -2331,7 +2230,6 @@ Zfp358-C,CPX
 Zfp36l2-C,CPX
 Zfp382-T,CTX
 Zfp383-C,CPX
-Zfp386-S,STM
 Zfp389-S,STM
 Zfp469-T,CTX
 Zfp512-S,STM
@@ -2350,13 +2248,13 @@ Zfp738-T,CTX
 Zfp74-T,CTX
 Zfp768-C,CPX
 Zfp78-C,CPX
-Zfp784-B,RBN
 Zfp799-T,CTX
 Zfp804b-B,RBN
 Zfp811-S,STM
 Zfp866-B,RBN
 Zfp867-B,RBN
 Zfp869-T,CTX
+Zfp87-S,STM
 Zfp874a-T,CTX
 Zfp879-C,CPX
 Zfp946-S,STM
@@ -2383,3 +2281,5 @@ mt-Cytb-S,STM
 mt-Nd1-S,STM
 mt-Nd2-C,CPX
 mt-Nd4-B,RBN
+nan-C,CPX
+nan-F,CSF

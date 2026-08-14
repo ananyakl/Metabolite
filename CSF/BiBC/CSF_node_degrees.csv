@@ -1,149 +1,121 @@
 CSF_node,Total_degree,STM_degree,RBN_degree,CPX_degree,CTX_degree,CSF_degree
-"(2,5-Dimethoxyphenyl)acetone-F",14,0,1,1,2,10
-"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester-F",1,0,0,1,0,0
-"(9H-fluoren-9-yl)methanol, O-methoxycarbonyl--F",7,1,2,0,1,3
-"1,2-Cyclohexanediol, (Z)-F",18,3,5,1,3,6
-"1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans--F",10,0,2,2,2,4
-"1-(1-Hydroxybutyl)-2,5-dimethoxybenzene-F",22,6,0,0,7,9
-"1-(2,4-Dimethoxyphenyl)-propan-2-one-F",17,4,5,1,3,4
-"1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine-F",17,3,2,3,4,5
-"1-Octanol, 2-butyl--F",15,5,0,3,3,4
-"2',5'-Dimethoxypropiophenone-F",24,6,1,1,1,15
-"2(5H)-Furanone, 4-(hydroxymethyl)-F",1,0,0,1,0,0
-"2,2'-Bipyridine-F",8,2,0,1,1,4
-"2,3-Butanediol, O-(trimethylsilyl)-, monoacetate-F",18,6,2,1,6,3
-"2,3-Dihydroxybutanoic acid-F",11,8,1,0,0,2
-"2,4,4'-Trihydroxybenzophenone-F",18,7,4,0,0,7
-"2,4,6-Cycloheptatrien-1-one-F",17,7,0,0,9,1
-"2,4-Di-tert-butylphenol-F",30,12,1,0,11,6
-"2,5-Bis((tert-butyldimethylsilyl)oxy)-4,4-dimethyl-4H-imidazole-F",13,0,0,0,0,13
-"2,5-Dimethoxybenzhydrazide-F",21,0,0,0,5,16
-"2,5-Dimethoxybenzonitrile-F",16,2,1,0,1,12
-"2-(Ethylamino)ethanol, N-acetyl-F",1,0,0,1,0,0
-2-(Methylamino)ethanol-F,5,3,0,0,0,2
-2-Amino-4-methylbenzophenone-F,8,2,1,0,1,4
-2-Butenedioic acid-F,11,3,3,1,2,2
-"2-Butenoic acid, 3-[(tert-butyldimethylsilyl)oxy]-F",1,0,0,1,0,0
-"2-Cyclohexen-1-one, 3-methyl--F",19,2,2,3,1,11
-"2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl)-F",7,1,1,0,4,1
-2-Ethylhexanoic acid-F,26,6,3,0,12,5
-2-Furoic acid-F,17,5,1,2,2,7
-2-Hexanol-F,10,2,2,0,5,1
-"2-Methyl-1,3-butanediol-F",5,1,1,0,0,3
-2-Methyl-3-pentanol-F,22,3,1,0,1,17
-"2-Methylcyclohexanol, (Z)-F",11,4,3,0,1,3
-2-Naphthol-F,15,1,5,0,3,6
-2-Pentadecanone-F,1,0,0,1,0,0
-2-Propyl-1-pentanol-F,12,3,2,0,2,5
-2-Pyrrolidone-5-carboxylic acid-F,13,0,1,0,6,6
-"3,4,5-Trimethoxyamphetamine-F",8,2,0,1,4,1
-"3,4-Methylenedioxyamphetamine-F",10,3,1,1,0,5
-"3,5-Dimethylphenol-F",3,0,0,3,0,0
-"3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-F",23,0,4,1,7,11
-3-Amino-5-methylisoxazole-F,17,5,3,0,3,6
-3-Heptanol-F,8,0,2,3,1,2
-4-Aminobutanoic acid-F,12,3,0,0,6,3
-4-Methoxyphenol-F,20,7,4,2,6,1
-4-Methylvaleric acid-F,7,3,2,0,1,1
-4-Oxohexanoic acid-F,4,1,0,0,1,2
+"(2,5-Dimethoxyphenyl)acetone-F",3,0,1,0,2,0
+"(9H-fluoren-9-yl)methanol, O-methoxycarbonyl--F",4,1,2,0,1,0
+"1,2-Cyclohexanediol, (Z)-F",11,2,5,1,3,0
+"1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans--F",6,2,2,0,2,0
+"1-(1-Hydroxybutyl)-2,5-dimethoxybenzene-F",13,6,0,0,7,0
+"1-(2,4-Dimethoxyphenyl)-propan-2-one-F",11,4,4,0,3,0
+"1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine-F",10,5,2,0,3,0
+"1-Octanol, 2-butyl--F",10,5,0,1,3,1
+"2',5'-Dimethoxypropiophenone-F",11,5,1,1,1,3
+"2,2'-Bipyridine-F",2,1,0,0,1,0
+"2,3-Butanediol, O-(trimethylsilyl)-, monoacetate-F",15,7,2,0,6,0
+"2,3-Dihydroxybutanoic acid-F",2,2,0,0,0,0
+"2,4,4'-Trihydroxybenzophenone-F",14,10,4,0,0,0
+"2,4,6-Cycloheptatrien-1-one-F",15,7,0,0,8,0
+"2,4-Di-tert-butylphenol-F",24,12,1,0,11,0
+"2,5-Dimethoxybenzhydrazide-F",7,1,0,0,5,1
+"2,5-Dimethoxybenzonitrile-F",6,2,1,0,1,2
+2-(Methylamino)ethanol-F,2,2,0,0,0,0
+2-Amino-4-methylbenzophenone-F,5,1,1,0,1,2
+2-Butenedioic acid-F,7,2,3,0,2,0
+"2-Cyclohexen-1-one, 3-methyl--F",8,2,2,1,1,2
+"2-Cyclohexen-1-one, 3-methyl-6-(1-methylethyl)-F",13,8,1,0,3,1
+2-Ethylhexanoic acid-F,23,7,3,0,12,1
+2-Furoic acid-F,4,1,1,0,2,0
+2-Hexanol-F,8,1,2,0,5,0
+"2-Methyl-1,3-butanediol-F",4,3,1,0,0,0
+2-Methyl-3-pentanol-F,6,3,1,0,1,1
+"2-Methylcyclohexanol, (Z)-F",10,4,3,0,1,2
+2-Naphthol-F,17,9,5,0,3,0
+2-Propyl-1-pentanol-F,6,2,1,0,2,1
+2-Pyrrolidone-5-carboxylic acid-F,8,1,1,0,6,0
+"3,4,5-Trimethoxyamphetamine-F",6,2,0,1,3,0
+"3,4-Methylenedioxyamphetamine-F",5,3,1,1,0,0
+"3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-F",17,2,4,1,7,3
+3-Amino-5-methylisoxazole-F,12,5,3,0,3,1
+3-Heptanol-F,6,0,2,2,1,1
+4-Aminobutanoic acid-F,12,4,0,0,6,2
+4-Methoxyphenol-F,18,9,4,0,5,0
+4-Methylvaleric acid-F,5,2,2,0,1,0
+4-Oxohexanoic acid-F,4,3,0,0,1,0
 "4-[2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethenyl]-2-methoxyphenol-F",3,1,1,0,1,0
-"5-Chlorovaleric acid, nonyl ester-F",1,0,0,1,0,0
-"5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether-F",14,9,0,3,1,1
-"6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)-F",14,4,4,0,1,5
-6-Methyluracil-F,16,2,0,2,2,10
-8-Methylnonanoic acid-F,19,1,3,1,5,9
-Acetic acid-F,10,2,1,0,6,1
-Aceturic acid-F,24,12,1,4,5,2
-Aconitic acid-F,18,2,2,2,9,3
-Adenine-F,1,0,0,1,0,0
-Allylescaline-F,7,3,0,2,0,2
-Aniline-F,13,3,3,1,1,5
-Azelaic acid-F,55,20,3,15,13,4
-"Benzaldehyde, 2,5-dimethoxy-F",4,1,1,0,1,1
-"Benzene, 1,4-dimethoxy-F",13,1,0,0,0,12
-Benzenepropanoic acid-F,15,5,0,1,7,2
-"Benzenesulfonamide, N-butyl-F",1,0,0,1,0,0
-Benzoic Acid-F,12,0,5,4,1,2
-"Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester-F",19,4,4,2,3,6
-"Benzoic acid, methyl ester-F",21,3,2,5,5,6
-Benzophenone-F,8,0,1,0,5,2
-Benzyl alcohol-F,2,0,0,2,0,0
-Butachlor ESA-F,9,0,1,0,1,7
-Butanedioic acid-F,27,13,2,0,5,7
-Butylmethylamine-F,4,1,0,0,1,2
-Cholesterol-F,13,1,0,0,8,4
-Crotonic acid-F,13,4,0,0,0,9
-Cyclobutylamine-F,15,0,7,0,5,3
-Cycloheptanol-F,1,0,0,1,0,0
-"Cyclohexanone, 3,3,5-trimethyl-F",19,0,1,4,4,10
-Cyclooctylamine-F,24,5,0,1,4,14
-"Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester-F",12,5,5,0,0,2
-"D-Streptamine, O-6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4)-O-(3-deoxy-4-C-methyl-3-(methylamino)-beta-L-arabinopyranosyl-(1-6))-2-deoxy--F",1,0,0,1,0,0
-DL-Glyceraldehyde-F,28,5,10,0,9,4
-DL-p-Hydroxyphenyllactic acid-F,1,0,0,1,0,0
-Diethylamine-F,21,1,0,3,3,14
-Dodecanoic acid-F,14,4,3,0,1,6
-"Erythrono-1,4-lactone-F",20,4,1,0,7,8
-Ethanolamine-F,35,15,2,1,16,1
-Frangulin-F,1,0,0,1,0,0
-Glycerol-F,17,3,8,0,4,2
-Glycine-F,9,1,2,0,5,1
-Glycolic acid-F,4,0,0,4,0,0
-Heptylamine-F,13,3,0,0,1,9
-Hydracrylic acid-F,22,2,2,0,10,8
-"Hymexazole, tert-butyldimethylsilyl ether-F",14,2,0,2,2,8
-Isopropyl palmitate-F,2,0,0,2,0,0
-Isopropylamine-F,19,4,1,3,7,4
-Ketamine-F,1,0,0,1,0,0
-"Kojic acid, bis(tert-butyldimethylsilyl) ether-F",1,0,0,1,0,0
-L-Glutamic acid-F,63,26,4,0,32,1
-L-Glutamine-F,1,0,0,1,0,0
-"L-Histidine, N,1-bis(tert-butyldimethylsilyl)--F",23,4,5,1,7,6
-L-Lysine-F,3,1,2,0,0,0
-L-Tryptophan-F,9,0,1,0,0,8
-L-Tyrosine-F,16,3,2,2,2,7
-L-Valine-F,1,0,0,1,0,0
-Lactic acid-F,8,6,0,0,1,1
-Leucylglycine-F,10,2,0,2,0,6
-Levulinic acid-F,1,0,0,1,0,0
-Lignoceric acid-F,20,9,1,0,5,5
-Methyl lactate-F,30,15,8,0,6,1
-Mevalonolactone-F,21,2,3,1,5,10
-Monocaproin-F,21,2,4,1,10,4
-Myristic acid-F,19,6,4,0,1,8
-"N,N-Dimethyl-2-aminoethanol-F",23,1,10,0,9,3
-N-Acetyl-L-alanine-F,11,2,1,0,5,3
-N-Acetylaspartic acid-F,12,5,0,0,2,5
-N-Ethylamphetamine-F,4,0,0,4,0,0
-N-Isobutyrylglycine-F,6,0,0,1,1,4
-N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine-F,4,0,0,0,2,2
-N-Methylacetamide-F,5,0,0,0,3,2
-Nonanoic acid-F,11,0,0,4,4,3
-Norephedrine-F,38,12,13,0,11,2
-Norketamine-F,1,0,0,1,0,0
-Oleamide-F,9,1,0,5,1,2
-Oxalic acid-F,8,0,2,3,0,3
-"Oxymorphone, bis(trimethylsilyl) ether-F",20,11,5,0,2,2
-Palmitic Acid-F,32,24,3,2,0,3
-Pentanedioic acid-F,1,0,0,1,0,0
-Pentanoic acid-F,20,8,0,1,1,10
-Phenol-F,1,0,0,1,0,0
-Phenoxyethanol-F,13,0,1,0,2,10
-Phytanic acid-F,13,3,4,0,6,0
-Picolinic acid-F,22,1,3,0,13,5
-Pipecolic acid-F,17,5,3,1,1,7
-"Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl--F",11,3,1,1,4,2
-"Propanoic acid, dimethyl(isopropyl)silyl ester-F",16,7,2,1,2,4
-Propanoic acid-F,10,4,0,0,0,6
-Salsoline-F,20,1,2,6,6,5
-Stearic acid-F,4,0,0,4,0,0
-Suberic acid-F,15,3,0,0,1,11
-Synephrine-F,26,7,9,1,7,2
-Tetrahydro-solasodine triacetate-F,12,2,1,0,2,7
-Triethyl citrate-F,1,0,0,1,0,0
-Trimethylolpropane-F,41,3,1,0,25,12
-Uracil-F,28,15,1,0,4,8
-Urea-F,15,2,3,1,6,3
-Xylazine-F,45,31,2,1,3,8
-alpha-Hydroxyisobutyric acid-F,31,9,1,0,13,8
-m-Toluic acid-F,13,4,1,4,2,2
+"5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether-F",18,16,0,1,1,0
+"6-Aminocaproic acid, N-(tert.-butyldimethylsilyl)-F",9,4,2,0,1,2
+6-Methyluracil-F,6,3,0,1,2,0
+8-Methylnonanoic acid-F,10,1,3,0,5,1
+Acetic acid-F,15,8,1,0,6,0
+Aceturic acid-F,14,3,1,4,5,1
+Aconitic acid-F,11,1,1,0,9,0
+Allylescaline-F,3,3,0,0,0,0
+Aniline-F,24,19,3,0,1,1
+Azelaic acid-F,33,14,2,3,13,1
+"Benzaldehyde, 2,5-dimethoxy-F",2,1,1,0,0,0
+"Benzene, 1,4-dimethoxy-F",5,2,0,0,0,3
+Benzenepropanoic acid-F,11,3,0,0,7,1
+Benzoic Acid-F,10,3,5,0,1,1
+"Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester-F",13,5,3,1,3,1
+"Benzoic acid, methyl ester-F",15,3,2,4,5,1
+Benzophenone-F,7,1,1,0,5,0
+Butachlor ESA-F,10,8,1,0,1,0
+Butanedioic acid-F,20,11,2,0,5,2
+Cholesterol-F,8,0,0,0,7,1
+Crotonic acid-F,6,4,0,0,0,2
+Cyclobutylamine-F,12,1,5,0,5,1
+"Cyclohexanone, 3,3,5-trimethyl-F",11,0,1,0,4,6
+Cyclooctylamine-F,13,3,0,1,4,5
+"Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester-F",4,0,4,0,0,0
+DL-Glyceraldehyde-F,24,6,8,0,9,1
+Diethylamine-F,8,4,0,0,3,1
+Dodecanoic acid-F,8,4,3,0,1,0
+"Erythrono-1,4-lactone-F",13,3,1,0,7,2
+Ethanolamine-F,24,5,2,1,16,0
+Glycerol-F,44,32,8,0,4,0
+Glycine-F,12,5,2,0,5,0
+Heptylamine-F,4,2,0,0,1,1
+Hydracrylic acid-F,20,2,2,0,10,6
+"Hymexazole, tert-butyldimethylsilyl ether-F",7,2,0,2,2,1
+Isopropylamine-F,13,4,1,2,6,0
+L-Glutamic acid-F,61,25,4,0,31,1
+"L-Histidine, N,1-bis(tert-butyldimethylsilyl)--F",16,3,4,1,7,1
+L-Lysine-F,2,0,2,0,0,0
+L-Tryptophan-F,8,5,1,0,0,2
+L-Tyrosine-F,12,6,1,2,2,1
+Lactic acid-F,3,3,0,0,0,0
+Leucylglycine-F,6,2,0,2,0,2
+Lignoceric acid-F,10,4,1,0,5,0
+Methyl lactate-F,30,16,8,0,6,0
+Mevalonolactone-F,16,2,3,1,5,5
+Monocaproin-F,18,2,4,0,10,2
+Myristic acid-F,13,6,4,0,0,3
+"N,N-Dimethyl-2-aminoethanol-F",21,2,9,0,9,1
+N-Acetyl-L-alanine-F,9,2,1,0,5,1
+N-Acetylaspartic acid-F,8,5,0,0,2,1
+N-Isobutyrylglycine-F,2,0,0,0,1,1
+N-Methyl-1-[(trimethylsilyl)oxy]-1-{4-[(trimethylsilyl)oxy]phenyl}propan-2-amine-F,2,0,0,0,2,0
+N-Methylacetamide-F,6,1,0,0,3,2
+Nonanoic acid-F,9,3,0,0,4,2
+Norephedrine-F,37,12,13,0,11,1
+Oleamide-F,6,3,0,0,1,2
+Oxalic acid-F,6,2,2,0,0,2
+"Oxymorphone, bis(trimethylsilyl) ether-F",19,12,5,0,2,0
+Palmitic Acid-F,19,18,1,0,0,0
+Pentanoic acid-F,7,3,0,0,1,3
+Phenoxyethanol-F,15,10,1,0,2,2
+Phytanic acid-F,16,6,4,0,6,0
+Picolinic acid-F,19,1,2,0,13,3
+Pipecolic acid-F,14,5,3,1,1,4
+"Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl--F",9,3,1,1,4,0
+"Propanoic acid, dimethyl(isopropyl)silyl ester-F",9,4,2,1,2,0
+Propanoic acid-F,4,3,0,0,0,1
+Salsoline-F,16,4,1,2,6,3
+Suberic acid-F,8,3,0,0,1,4
+Synephrine-F,27,9,9,0,7,2
+Tetrahydro-solasodine triacetate-F,8,3,1,0,2,2
+Trimethylolpropane-F,43,7,1,0,24,11
+Uracil-F,23,12,1,0,4,6
+Urea-F,12,2,2,0,6,2
+Xylazine-F,41,28,2,0,3,8
+alpha-Hydroxyisobutyric acid-F,24,9,1,0,13,1
+m-Toluic acid-F,6,3,1,0,2,0
+nan-F,148,0,0,0,0,148

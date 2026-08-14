@@ -1,164 +1,41 @@
 node1,node2
-Mrps5-C,Pentanedioic acid-F
-Dnajc21-C,"3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-F"
-Dnajc21-C,Aceturic acid-F
-Plgrkt-C,Glycolic acid-F
-Serbp1-C,2-Furoic acid-F
-Serbp1-C,"3,5-Dimethylphenol-F"
-Serbp1-C,Isopropylamine-F
-Serbp1-C,Oxalic acid-F
-Ankrd12-C,Benzoic Acid-F
-Ddit4-C,"2-Cyclohexen-1-one, 3-methyl--F"
-Ddit4-C,L-Tyrosine-F
-Gm15408-C,N-Ethylamphetamine-F
-Smyd2-C,m-Toluic acid-F
-Atf6b-C,Azelaic acid-F
-Msh2-C,N-Isobutyrylglycine-F
-Ibtk-C,"1-Octanol, 2-butyl--F"
-Cast-C,Nonanoic acid-F
-Lrguk-C,"5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether-F"
-Emd-C,"3,4-Methylenedioxyamphetamine-F"
-Emd-C,3-Heptanol-F
-Birc2-C,"1-Octanol, 2-butyl--F"
-Birc2-C,N-Ethylamphetamine-F
-Abtb2-C,"2(5H)-Furanone, 4-(hydroxymethyl)-F"
-Sptan1-C,Azelaic acid-F
-Psma4-C,Salsoline-F
-Gm15675-C,m-Toluic acid-F
-Ro60-C,Oleamide-F
-Telo2-C,8-Methylnonanoic acid-F
-Copg1-C,Nonanoic acid-F
-Slc29a4-C,"3,4,5-Trimethoxyamphetamine-F"
-Arhgap5-C,Nonanoic acid-F
-Tmem259-C,Azelaic acid-F
-Stat3-C,Triethyl citrate-F
-Krt23-C,"(2,5-Dimethoxyphenyl)acetone-F"
-Krt23-C,L-Glutamine-F
-Nek8-C,Aconitic acid-F
-Ccdc59-C,Aceturic acid-F
-Amfr-C,Azelaic acid-F
-Suz12-C,"Benzoic acid, methyl ester-F"
-Nup214-C,6-Methyluracil-F
-Acacb-C,Azelaic acid-F
-Zfp358-C,Azelaic acid-F
-Btg1-C,"2-Butenoic acid, 3-[(tert-butyldimethylsilyl)oxy]-F"
-Igfbp2-C,Azelaic acid-F
-Uros-C,"2-Cyclohexen-1-one, 3-methyl--F"
-Ripply3-C,Salsoline-F
-Gm20052-C,"2-(Ethylamino)ethanol, N-acetyl-F"
-Pdlim1-C,"Cyclohexanone, 3,3,5-trimethyl-F"
-Pdlim1-C,Diethylamine-F
-Plscr2-C,"Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester-F"
-Gpatch2l-C,L-Valine-F
-Mrps24-C,2-Butenedioic acid-F
-Gpaa1-C,Azelaic acid-F
-Npepps-C,Benzoic Acid-F
-Rmnd5b-C,Aconitic acid-F
-Gpr65-C,"1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine-F"
-Gpr65-C,Glycolic acid-F
-Mfge8-C,Azelaic acid-F
-Ikbke-C,"Hymexazole, tert-butyldimethylsilyl ether-F"
-Hk1-C,Azelaic acid-F
-Plcb4-C,Benzoic Acid-F
-Tceanc-C,Leucylglycine-F
-Nol8-C,Oleamide-F
-Adprh-C,"5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether-F"
-Hook2-C,"3,5-Dimethylphenol-F"
-Hook2-C,Isopropylamine-F
-Psmd3-C,Azelaic acid-F
-Recql5-C,"5-Chlorovaleric acid, nonyl ester-F"
-Lrrc8a-C,Monocaproin-F
-Armcx2-C,Phenol-F
-Afg3l1-C,m-Toluic acid-F
-Cmc4-C,m-Toluic acid-F
-Samd14-C,"1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans--F"
-Samd14-C,N-Ethylamphetamine-F
-Gpsm3-C,L-Tyrosine-F
-Pi4ka-C,"1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine-F"
-Pi4ka-C,Nonanoic acid-F
-Adamts15-C,"Cyclohexanone, 3,3,5-trimethyl-F"
-Asb8-C,3-Heptanol-F
-Asb8-C,"Cyclohexanone, 3,3,5-trimethyl-F"
-Cltb-C,Benzenepropanoic acid-F
-Itch-C,"1-(2,5-Dimethoxyphenyl)-1-[(trimethylsilyl)oxy]propan-2-amine-F"
-Ppp4c-C,Synephrine-F
-Emc3-C,Azelaic acid-F
-Wbp4-C,Stearic acid-F
-Adrb3-C,Adenine-F
-Adrb3-C,Aniline-F
-Adrb3-C,Cycloheptanol-F
-Setx-C,"Benzoic acid, methyl ester-F"
-Tgfbr1-C,Palmitic Acid-F
-Ahcyl2-C,Mevalonolactone-F
-Evi5-C,"Benzoic acid, methyl ester-F"
-Chi3l1-C,Salsoline-F
-Col9a2-C,Salsoline-F
-Uqcc5-C,Frangulin-F
-Rlbp1-C,"L-Histidine, N,1-bis(tert-butyldimethylsilyl)--F"
-Clpp-C,Glycolic acid-F
-Myof-C,Benzyl alcohol-F
-Myof-C,Ketamine-F
-Lrrc8c-C,Oxalic acid-F
-Cep57-C,Oleamide-F
-Zfp654-C,Aceturic acid-F
-Imp3-C,DL-p-Hydroxyphenyllactic acid-F
-Bcl7a-C,Salsoline-F
-G2e3-C,6-Methyluracil-F
-G2e3-C,"Kojic acid, bis(tert-butyldimethylsilyl) ether-F"
-Slc22a17-C,"2,2'-Bipyridine-F"
-Slc22a17-C,"2,3-Butanediol, O-(trimethylsilyl)-, monoacetate-F"
-Cxxc4-C,"2',5'-Dimethoxypropiophenone-F"
-Cxxc4-C,Aceturic acid-F
-Cxxc4-C,Cyclooctylamine-F
-Strada-C,Leucylglycine-F
-Hip1-C,Stearic acid-F
-Irak3-C,"1,3-Oxazolidine, 2,5-diphenyl-4-methyl-, trans--F"
-Ofd1-C,2-Furoic acid-F
-Zic2-C,Allylescaline-F
-Baz1b-C,Oleamide-F
-Smc4-C,3-Heptanol-F
-Tnfsf13os-C,Urea-F
-Icam4-C,Xylazine-F
-Glod4-C,"2-Cyclohexen-1-one, 3-methyl--F"
-Glod4-C,Pipecolic acid-F
-Pcmtd1-C,Stearic acid-F
-Bvht-C,Stearic acid-F
-Mafg-C,"5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether-F"
-Mafg-C,N-Ethylamphetamine-F
-Ilvbl-C,Azelaic acid-F
-Prpf3-C,2-Pentadecanone-F
-2610020C07Rik-C,Benzoic Acid-F
-Isg15-C,Palmitic Acid-F
-Rif1-C,Oleamide-F
-Ubc-C,Azelaic acid-F
-Twsg1-C,"Propanoic acid, dimethyl(isopropyl)silyl ester-F"
-Mthfd1l-C,Pentanoic acid-F
-Ppfibp1-C,"1-Octanol, 2-butyl--F"
-Ppfibp1-C,"Benzoic acid, methyl ester-F"
-Rit1-C,"Cyclohexanone, 3,3,5-trimethyl-F"
-Rit1-C,Diethylamine-F
-Sfi1-C,"D-Streptamine, O-6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4)-O-(3-deoxy-4-C-methyl-3-(methylamino)-beta-L-arabinopyranosyl-(1-6))-2-deoxy--F"
-Setbp1-C,Glycolic acid-F
-Sytl2-C,"Benzoic acid, methyl ester-F"
-Stag2-C,Allylescaline-F
-Tmem203-C,Isopropylamine-F
-Usp22-C,Levulinic acid-F
-Pfn1-C,"(2R)-Pyrrolidine-1,2-dicarboxylic acid, bis(tert-butyldimethylsilyl) ester-F"
-2310014F06Rik-C,"Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester-F"
-Pard6a-C,"Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl--F"
-Sh2b3-C,"Hymexazole, tert-butyldimethylsilyl ether-F"
-Ints5-C,"1,2-Cyclohexanediol, (Z)-F"
-Gm38380-C,Diethylamine-F
-Smurf1-C,4-Methoxyphenol-F
-Inpp4a-C,"1-(2,4-Dimethoxyphenyl)-propan-2-one-F"
-Ccar1-C,Salsoline-F
-Mpnd-C,Isopropyl palmitate-F
-Kmt5b-C,"3,5-Dimethylphenol-F"
-Acbd4-C,4-Methoxyphenol-F
-Slain2-C,Benzyl alcohol-F
-Slain2-C,Oxalic acid-F
-Tbc1d2-C,Azelaic acid-F
-Tbc1d2-C,Ethanolamine-F
-Zbtb39-C,"Benzenesulfonamide, N-butyl-F"
-Zbtb39-C,Isopropyl palmitate-F
-Zbtb39-C,Norketamine-F
+nan-C,"3-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)-2-methylprop-2-enal-F"
+nan-C,Aceturic acid-F
+nan-C,Isopropylamine-F
+nan-C,"2-Cyclohexen-1-one, 3-methyl--F"
+nan-C,L-Tyrosine-F
+nan-C,"1-Octanol, 2-butyl--F"
+nan-C,"5-Ethyl-1,3-dioxane-5-methanol, tert-butyldimethylsilyl ether-F"
+nan-C,"3,4-Methylenedioxyamphetamine-F"
+nan-C,3-Heptanol-F
+nan-C,"3,4,5-Trimethoxyamphetamine-F"
+nan-C,Azelaic acid-F
+nan-C,Aceturic acid-F
+nan-C,"Benzoic acid, methyl ester-F"
+nan-C,6-Methyluracil-F
+nan-C,Azelaic acid-F
+nan-C,Azelaic acid-F
+nan-C,"Hymexazole, tert-butyldimethylsilyl ether-F"
+nan-C,Leucylglycine-F
+nan-C,L-Tyrosine-F
+nan-C,Mevalonolactone-F
+nan-C,"Benzoic acid, methyl ester-F"
+nan-C,"L-Histidine, N,1-bis(tert-butyldimethylsilyl)--F"
+nan-C,Aceturic acid-F
+nan-C,Salsoline-F
+nan-C,"2',5'-Dimethoxypropiophenone-F"
+nan-C,Aceturic acid-F
+nan-C,Cyclooctylamine-F
+nan-C,Leucylglycine-F
+nan-C,3-Heptanol-F
+nan-C,Pipecolic acid-F
+nan-C,"Propanoic acid, dimethyl(isopropyl)silyl ester-F"
+nan-C,"Benzoic acid, methyl ester-F"
+nan-C,"Benzoic acid, methyl ester-F"
+nan-C,Isopropylamine-F
+nan-C,"Benzoic acid, 2-hydroxy-3-[(2-hydroxy-4-methoxy-6-propylbenzoyl)oxy]-4-methoxy-6-propyl-, methyl ester-F"
+nan-C,"Propanoic acid, 3-[(tert-butyldimethylsilyl)oxy]-2-methyl--F"
+nan-C,"Hymexazole, tert-butyldimethylsilyl ether-F"
+nan-C,"1,2-Cyclohexanediol, (Z)-F"
+nan-C,Salsoline-F
+nan-C,Ethanolamine-F
